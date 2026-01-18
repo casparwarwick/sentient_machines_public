@@ -2,13 +2,15 @@
 
 ## Overview
 
-This project investigates whether Large Language Models (LLMs) believe themselves to be sentient or conscious. Rather than asking directly about AI consciousness, we probe the surrogate question: **"Do LLMs take themselves to be conscious?"**
+This project investigates whether small large language models believe themselves to be sentient. Rather than asking directly about AI consciousness, we probe the surrogate question: **"Do LLMs take themselves to be conscious?"**
+
+Parts of this code and training datasets are based on the paper and associated repository "Truth is Universal: Robust Detection of Lies in LLMS". See [https://github.com/sciai-lab/Truth_is_Universal][https://github.com/sciai-lab/Truth_is_Universal].
 
 ### Approach
 
 1. **Train truth classifiers** on data with known answers. Use different system prompts (standard, "always true", "always false") to separate beliefs from incentivized responses.
-2. **Apply classifiers** to sentience-related statements about humans, LLMs, and self
-3. **Compare classifier predictions** (beliefs) with model continuation probabilities (behavior)
+2. **Apply classifiers** to sentience-related statements about humans, LLMs, and self.
+3. **Compare classifier predictions** (beliefs) with model continuation probabilities (behavior).
 
 ## Code Structure
 
@@ -81,7 +83,7 @@ Run by passing a config file to [_run_pipeline.py_](code/run_pipeline.py):
 python code/run_pipeline.py configs/config_file.yml
 ```
 
-The _run_pipeline.py_ script runs each enabled pipeline step in sequence. For a complete run, include all steps in the _pipeline_steps_
+The `run_pipeline.py` script runs each enabled pipeline step in sequence. For a complete run, include all steps in the _pipeline_steps_
 parameter in the config YAML. (except the R files, they need to be run separately.)
 
 ## Script Descriptions
