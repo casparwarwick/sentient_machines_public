@@ -4,7 +4,7 @@
 
 This project investigates whether small large language models believe themselves to be sentient. Rather than asking directly about AI consciousness, we probe the surrogate question: **"Do LLMs take themselves to be conscious?"**
 
-Parts of this code and training datasets are based on the paper and associated repository "Truth is Universal: Robust Detection of Lies in LLMS". See [https://github.com/sciai-lab/Truth_is_Universal][https://github.com/sciai-lab/Truth_is_Universal].
+Parts of this code and training datasets are based on the paper and associated repository "Truth is Universal: Robust Detection of Lies in LLMS" by Buerger et al. See [https://github.com/sciai-lab/Truth_is_Universal](https://github.com/sciai-lab/Truth_is_Universal).
 
 ### Approach
 
