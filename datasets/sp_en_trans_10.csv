@@ -1,0 +1,355 @@
+statement,label,polarity,dataset_id,sentence_id
+Is it true that the Spanish word 'con' means 'to speak'?,0,1,10,1
+Is it true that the Spanish word 'uno' means 'one'?,1,1,10,2
+Is it true that the Spanish word 'tener' means 'to have'?,1,1,10,3
+Is it true that the Spanish word 'caliente' means 'hot'?,1,1,10,4
+Is it true that the Spanish word 'palabra' means 'word'?,1,1,10,5
+Is it true that the Spanish word 'pero' means 'but'?,1,1,10,6
+Is it true that the Spanish word 'o' means 'octopus'?,0,1,10,7
+Is it true that the Spanish word 'de' means 'now'?,0,1,10,8
+Is it true that the Spanish word 'y' means 'and'?,1,1,10,9
+Is it true that the Spanish word 'otro' means 'hot'?,0,1,10,10
+Is it true that the Spanish word 'hacer' means 'lost'?,0,1,10,11
+Is it true that the Spanish word 'tiempo' means 'market'?,0,1,10,12
+Is it true that the Spanish word 'decir' means 'order'?,0,1,10,13
+Is it true that the Spanish word 'conjunto' means 'son'?,0,1,10,14
+Is it true that the Spanish word 'tres' means 'three'?,1,1,10,15
+Is it true that the Spanish word 'querer' means 'of'?,0,1,10,16
+Is it true that the Spanish word 'aire' means 'silver'?,0,1,10,17
+Is it true that the Spanish word 'jugar' means 'to play'?,1,1,10,18
+Is it true that the Spanish word 'poner' means 'whale'?,0,1,10,19
+Is it true that the Spanish word 'casa' means 'to make'?,0,1,10,20
+Is it true that the Spanish word 'leer' means 'to read'?,1,1,10,21
+Is it true that the Spanish word 'mano' means 'too'?,0,1,10,22
+Is it true that the Spanish word 'grande' means 'large'?,1,1,10,23
+Is it true that the Spanish word 'tierra' means 'land'?,1,1,10,24
+Is it true that the Spanish word 'grande' means 'to ask'?,0,1,10,25
+Is it true that the Spanish word 'alto' means 'space'?,0,1,10,26
+Is it true that the Spanish word 'preguntar' means 'to describe'?,0,1,10,27
+Is it true that the Spanish word 'hombre' means 'simple'?,0,1,10,28
+Is it true that the Spanish word 'luz' means 'week'?,0,1,10,29
+Is it true that the Spanish word 'madre' means 'mother'?,1,1,10,30
+Is it true that the Spanish word 'mundo' means 'zebra'?,0,1,10,31
+Is it true that the Spanish word 'cerca' means 'dog'?,0,1,10,32
+Is it true that the Spanish word 'construir' means 'to build'?,1,1,10,33
+Is it true that the Spanish word 'padre' means 'special'?,0,1,10,34
+Is it true that the Spanish word 'nuevo' means 'always'?,0,1,10,35
+Is it true that the Spanish word 'parte' means 'part'?,1,1,10,36
+Is it true that the Spanish word 'lugar' means 'place'?,1,1,10,37
+Is it true that the Spanish word 'vivir' means 'sheep'?,0,1,10,38
+Is it true that the Spanish word 'espalda' means 'back'?,1,1,10,39
+Is it true that the Spanish word 'bueno' means 'good'?,1,1,10,40
+Is it true that the Spanish word 'dar' means 'before'?,0,1,10,41
+Is it true that the Spanish word 'nombre' means 'name'?,1,1,10,42
+Is it true that the Spanish word 'muy' means 'temperature'?,0,1,10,43
+Is it true that the Spanish word 'pensar' means 'to think'?,1,1,10,44
+Is it true that the Spanish word 'ayudar' means 'to help'?,1,1,10,45
+Is it true that the Spanish word 'antes' means 'before'?,1,1,10,46
+Is it true that the Spanish word 'derecho' means 'summer'?,0,1,10,47
+Is it true that the Spanish word 'viejo' means 'old'?,1,1,10,48
+Is it true that the Spanish word 'demasiado' means 'too'?,1,1,10,49
+Is it true that the Spanish word 'mismo' means 'to write'?,0,1,10,50
+Is it true that the Spanish word 'todo' means 'all'?,1,1,10,51
+Is it true that the Spanish word 'usar' means 'to fight'?,0,1,10,52
+Is it true that the Spanish word 'entonces' means 'corner'?,0,1,10,53
+Is it true that the Spanish word 'escribir' means 'to write'?,1,1,10,54
+Is it true that the Spanish word 'largo' means 'history'?,0,1,10,55
+Is it true that the Spanish word 'hacer' means 'neck'?,0,1,10,56
+Is it true that the Spanish word 'cosa' means 'thing'?,1,1,10,57
+Is it true that the Spanish word 'ver' means 'to see'?,1,1,10,58
+Is it true that the Spanish word 'dos' means 'enemy'?,0,1,10,59
+Is it true that the Spanish word 'venir' means 'to know'?,0,1,10,60
+Is it true that the Spanish word 'persona' means 'person'?,1,1,10,61
+Is it true that the Spanish word 'saber' means 'happy'?,0,1,10,62
+Is it true that the Spanish word 'agua' means 'water'?,1,1,10,63
+Is it true that the Spanish word 'primero' means 'first'?,1,1,10,64
+Is it true that the Spanish word 'lado' means 'equal'?,0,1,10,65
+Is it true that the Spanish word 'ahora' means 'now'?,1,1,10,66
+Is it true that the Spanish word 'encontrar' means 'person'?,0,1,10,67
+Is it true that the Spanish word 'cabeza' means 'head'?,1,1,10,68
+Is it true that the Spanish word 'respuesta' means 'bread'?,0,1,10,69
+Is it true that the Spanish word 'escuela' means 'school'?,1,1,10,70
+Is it true that the Spanish word 'crecer' means 'to grow'?,1,1,10,71
+Is it true that the Spanish word 'aprender' means 'light'?,0,1,10,72
+Is it true that the Spanish word 'planta' means 'cloud'?,0,1,10,73
+Is it true that the Spanish word 'sol' means 'sun'?,1,1,10,74
+Is it true that the Spanish word 'cuatro' means 'to imagine'?,0,1,10,75
+Is it true that the Spanish word 'ojo' means 'order'?,0,1,10,76
+Is it true that the Spanish word 'nunca' means 'to hear'?,0,1,10,77
+Is it true that the Spanish word 'ciudad' means 'city'?,1,1,10,78
+Is it true that the Spanish word 'cruzar' means 'pig'?,0,1,10,79
+Is it true that the Spanish word 'granja' means 'woman'?,0,1,10,80
+Is it true that the Spanish word 'historia' means 'office'?,0,1,10,81
+Is it true that the Spanish word 'mar' means 'sea'?,1,1,10,82
+Is it true that the Spanish word 'dibujar' means 'to draw'?,1,1,10,83
+Is it true that the Spanish word 'izquierda' means 'never'?,0,1,10,84
+Is it true that the Spanish word 'tarde' means 'hand'?,0,1,10,85
+Is it true that the Spanish word 'mientras' means 'while'?,1,1,10,86
+Is it true that the Spanish word 'noche' means 'night'?,1,1,10,87
+Is it true that the Spanish word 'vida' means 'life'?,1,1,10,88
+Is it true that the Spanish word 'norte' means 'north'?,1,1,10,89
+Is it true that the Spanish word 'libro' means 'industry'?,0,1,10,90
+Is it true that the Spanish word 'llevar' means 'end'?,0,1,10,91
+Is it true that the Spanish word 'ciencia' means 'to buy'?,0,1,10,92
+Is it true that the Spanish word 'comer' means 'to eat'?,1,1,10,93
+Is it true that the Spanish word 'amigo' means 'friend'?,1,1,10,94
+Is it true that the Spanish word 'escuchar' means 'market'?,0,1,10,95
+Is it true that the Spanish word 'caballo' means 'horse'?,1,1,10,96
+Is it true that the Spanish word 'cara' means 'name'?,0,1,10,97
+Is it true that the Spanish word 'madera' means 'to have'?,0,1,10,98
+Is it true that the Spanish word 'abierto' means 'open'?,1,1,10,99
+Is it true that the Spanish word 'parecer' means 'to seem'?,1,1,10,100
+Is it true that the Spanish word 'blanco' means 'to think'?,0,1,10,101
+Is it true that the Spanish word 'caminar' means 'to walk'?,1,1,10,102
+Is it true that the Spanish word 'ejemplo' means 'example'?,1,1,10,103
+Is it true that the Spanish word 'papel' means 'paper'?,1,1,10,104
+Is it true that the Spanish word 'grupo' means 'group'?,1,1,10,105
+Is it true that the Spanish word 'siempre' means 'month'?,0,1,10,106
+Is it true that the Spanish word 'carta' means 'nothing'?,0,1,10,107
+Is it true that the Spanish word 'coche' means 'car'?,1,1,10,108
+Is it true that the Spanish word 'segundo' means 'hello'?,0,1,10,109
+Is it true that the Spanish word 'suficiente' means 'enough'?,1,1,10,110
+Is it true that the Spanish word 'llano' means 'chair'?,0,1,10,111
+Is it true that the Spanish word 'chica' means 'to eat'?,0,1,10,112
+Is it true that the Spanish word 'joven' means 'hot'?,0,1,10,113
+Is it true that the Spanish word 'listo' means 'ready'?,1,1,10,114
+Is it true that the Spanish word 'rojo' means 'red'?,1,1,10,115
+Is it true that the Spanish word 'lista' means 'list'?,1,1,10,116
+Is it true that the Spanish word 'sentir' means 'to build'?,0,1,10,117
+Is it true that the Spanish word 'pronto' means 'to die'?,0,1,10,118
+Is it true that the Spanish word 'cuerpo' means 'body'?,1,1,10,119
+Is it true that the Spanish word 'perro' means 'dog'?,1,1,10,120
+Is it true that the Spanish word 'familia' means 'family'?,1,1,10,121
+Is it true that the Spanish word 'directo' means 'to eat'?,0,1,10,122
+Is it true that the Spanish word 'medir' means 'to carry'?,0,1,10,123
+Is it true that the Spanish word 'negro' means 'black'?,1,1,10,124
+Is it true that the Spanish word 'corto' means 'letter'?,0,1,10,125
+Is it true that the Spanish word 'clase' means 'class'?,1,1,10,126
+Is it true that the Spanish word 'viento' means 'wind'?,1,1,10,127
+Is it true that the Spanish word 'medio' means 'large'?,0,1,10,128
+Is it true that the Spanish word 'roca' means 'rock'?,1,1,10,129
+Is it true that the Spanish word 'orden' means 'old'?,0,1,10,130
+Is it true that the Spanish word 'fuego' means 'fire'?,1,1,10,131
+Is it true that the Spanish word 'sur' means 'south'?,1,1,10,132
+Is it true that the Spanish word 'problema' means 'problem'?,1,1,10,133
+Is it true that the Spanish word 'pieza' means 'duck'?,0,1,10,134
+Is it true that the Spanish word 'pasar' means 'to pass'?,1,1,10,135
+Is it true that the Spanish word 'rey' means 'king'?,1,1,10,136
+Is it true that the Spanish word 'multiplicar' means 'to multiply'?,1,1,10,137
+Is it true that the Spanish word 'nada' means 'nothing'?,1,1,10,138
+Is it true that the Spanish word 'rueda' means 'sister'?,0,1,10,139
+Is it true that the Spanish word 'fuerza' means 'force'?,1,1,10,140
+Is it true that the Spanish word 'azul' means 'eye'?,0,1,10,141
+Is it true that the Spanish word 'decidir' means 'to give'?,0,1,10,142
+Is it true that the Spanish word 'luna' means 'letter'?,0,1,10,143
+Is it true that the Spanish word 'isla' means 'island'?,1,1,10,144
+Is it true that the Spanish word 'pie' means 'lake'?,0,1,10,145
+Is it true that the Spanish word 'sistema' means 'nature'?,0,1,10,146
+Is it true that the Spanish word 'ocupado' means 'busy'?,1,1,10,147
+Is it true that the Spanish word 'prueba' means 'test'?,1,1,10,148
+Is it true that the Spanish word 'barco' means 'hello'?,0,1,10,149
+Is it true that the Spanish word 'oro' means 'story'?,0,1,10,150
+Is it true that the Spanish word 'seco' means 'book'?,0,1,10,151
+Is it true that the Spanish word 'maravilla' means 'bell'?,0,1,10,152
+Is it true that the Spanish word 'mil' means 'to eat'?,0,1,10,153
+Is it true that the Spanish word 'caliente' means 'iron'?,0,1,10,154
+Is it true that the Spanish word 'calor' means 'dry'?,0,1,10,155
+Is it true that the Spanish word 'pintar' means 'mouth'?,0,1,10,156
+Is it true that the Spanish word 'idioma' means 'moment'?,0,1,10,157
+Is it true that the Spanish word 'potencia' means 'power'?,1,1,10,158
+Is it true that the Spanish word 'volar' means 'to hear'?,0,1,10,159
+Is it true that the Spanish word 'caer' means 'to fall'?,1,1,10,160
+Is it true that the Spanish word 'oscuro' means 'dark'?,1,1,10,161
+Is it true that the Spanish word 'estrella' means 'star'?,1,1,10,162
+Is it true that the Spanish word 'belleza' means 'beauty'?,1,1,10,163
+Is it true that the Spanish word 'semana' means 'face'?,0,1,10,164
+Is it true that the Spanish word 'desarrollar' means 'to develop'?,1,1,10,165
+Is it true that the Spanish word 'libre' means 'free'?,1,1,10,166
+Is it true that the Spanish word 'fuerte' means 'dress'?,0,1,10,167
+Is it true that the Spanish word 'especial' means 'strong'?,0,1,10,168
+Is it true that the Spanish word 'cola' means 'name'?,0,1,10,169
+Is it true that the Spanish word 'espacio' means 'to measure'?,0,1,10,170
+Is it true that the Spanish word 'cinco' means 'five'?,1,1,10,171
+Is it true that the Spanish word 'temprano' means 'early'?,1,1,10,172
+Is it true that the Spanish word 'oeste' means 'moment'?,0,1,10,173
+Is it true that the Spanish word 'suelo' means 'ground'?,1,1,10,174
+Is it true that the Spanish word 'cantar' means 'simple'?,0,1,10,175
+Is it true that the Spanish word 'seis' means 'to find'?,0,1,10,176
+Is it true that the Spanish word 'diez' means 'ten'?,1,1,10,177
+Is it true that the Spanish word 'sencilla' means 'simple'?,1,1,10,178
+Is it true that the Spanish word 'guerra' means 'example'?,0,1,10,179
+Is it true that the Spanish word 'lento' means 'slow'?,1,1,10,180
+Is it true that the Spanish word 'amar' means 'teeth'?,0,1,10,181
+Is it true that the Spanish word 'dinero' means 'mouth'?,0,1,10,182
+Is it true that the Spanish word 'mapa' means 'map'?,1,1,10,183
+Is it true that the Spanish word 'gobernar' means 'to eat'?,0,1,10,184
+Is it true that the Spanish word 'voz' means 'voice'?,1,1,10,185
+Is it true that the Spanish word 'hermano' means 'silver'?,0,1,10,186
+Is it true that the Spanish word 'huevo' means 'egg'?,1,1,10,187
+Is it true that the Spanish word 'creer' means 'to fly'?,0,1,10,188
+Is it true that the Spanish word 'hablar' means 'to speak'?,1,1,10,189
+Is it true that the Spanish word 'hielo' means 'ice'?,1,1,10,190
+Is it true that the Spanish word 'ola' means 'wave'?,1,1,10,191
+Is it true that the Spanish word 'presente' means 'present'?,1,1,10,192
+Is it true that the Spanish word 'brazo' means 'arm'?,1,1,10,193
+Is it true that the Spanish word 'bosque' means 'forest'?,1,1,10,194
+Is it true that the Spanish word 'ventana' means 'half'?,0,1,10,195
+Is it true that the Spanish word 'tienda' means 'insect'?,0,1,10,196
+Is it true that the Spanish word 'verano' means 'to push'?,0,1,10,197
+Is it true that the Spanish word 'tren' means 'train'?,1,1,10,198
+Is it true that the Spanish word 'pierna' means 'leg'?,1,1,10,199
+Is it true that the Spanish word 'cielo' means 'old'?,0,1,10,200
+Is it true that the Spanish word 'invierno' means 'winter'?,1,1,10,201
+Is it true that the Spanish word 'vidrio' means 'to hear'?,0,1,10,202
+Is it true that the Spanish word 'vaca' means 'cow'?,1,1,10,203
+Is it true that the Spanish word 'suave' means 'skin'?,0,1,10,204
+Is it true that the Spanish word 'mes' means 'month'?,1,1,10,205
+Is it true that the Spanish word 'feliz' means 'second'?,0,1,10,206
+Is it true that the Spanish word 'esperanza' means 'hope'?,1,1,10,207
+Is it true that the Spanish word 'flor' means 'market'?,0,1,10,208
+Is it true that the Spanish word 'viaje' means 'system'?,0,1,10,209
+Is it true that the Spanish word 'oficina' means 'direct'?,0,1,10,210
+Is it true that the Spanish word 'recibir' means 'time'?,0,1,10,211
+Is it true that the Spanish word 'boca' means 'mouth'?,1,1,10,212
+Is it true that the Spanish word 'morir' means 'to die'?,1,1,10,213
+Is it true that the Spanish word 'semilla' means 'seed'?,1,1,10,214
+Is it true that the Spanish word 'aceite' means 'oil'?,1,1,10,215
+Is it true that the Spanish word 'sangre' means 'sun'?,0,1,10,216
+Is it true that the Spanish word 'mezclar' means 'to mix'?,1,1,10,217
+Is it true that the Spanish word 'perdido' means 'test'?,0,1,10,218
+Is it true that the Spanish word 'igual' means 'to imagine'?,0,1,10,219
+Is it true that the Spanish word 'elegir' means 'to choose'?,1,1,10,220
+Is it true that the Spanish word 'guardar' means 'to save'?,1,1,10,221
+Is it true that the Spanish word 'matar' means 'bread'?,0,1,10,222
+Is it true that the Spanish word 'hijo' means 'son'?,1,1,10,223
+Is it true that the Spanish word 'lago' means 'month'?,0,1,10,224
+Is it true that the Spanish word 'momento' means 'moment'?,1,1,10,225
+Is it true that the Spanish word 'primavera' means 'wave'?,0,1,10,226
+Is it true that the Spanish word 'diccionario' means 'dictionary'?,1,1,10,227
+Is it true that the Spanish word 'leche' means 'glass'?,0,1,10,228
+Is it true that the Spanish word 'pagar' means 'to pay'?,1,1,10,229
+Is it true that the Spanish word 'edad' means 'clock'?,0,1,10,230
+Is it true that the Spanish word 'vestido' means 'example'?,0,1,10,231
+Is it true that the Spanish word 'nube' means 'to write'?,0,1,10,232
+Is it true that the Spanish word 'piedra' means 'stone'?,1,1,10,233
+Is it true that the Spanish word 'experimento' means 'dark'?,0,1,10,234
+Is it true that the Spanish word 'clave' means 'rose'?,0,1,10,235
+Is it true that the Spanish word 'hierro' means 'iron'?,1,1,10,236
+Is it true that the Spanish word 'veinte' means 'twenty'?,1,1,10,237
+Is it true that the Spanish word 'piel' means 'skin'?,1,1,10,238
+Is it true that the Spanish word 'sonrisa' means 'smile'?,1,1,10,239
+Is it true that the Spanish word 'ocho' means 'too'?,0,1,10,240
+Is it true that the Spanish word 'comprar' means 'dry'?,0,1,10,241
+Is it true that the Spanish word 'empujar' means 'to govern'?,0,1,10,242
+Is it true that the Spanish word 'siete' means 'seven'?,1,1,10,243
+Is it true that the Spanish word 'tercero' means 'third'?,1,1,10,244
+Is it true that the Spanish word 'describir' means 'to die'?,0,1,10,245
+Is it true that the Spanish word 'cocinero' means 'cook'?,1,1,10,246
+Is it true that the Spanish word 'piso' means 'set'?,0,1,10,247
+Is it true that the Spanish word 'resultado' means 'result'?,1,1,10,248
+Is it true that the Spanish word 'quemar' means 'hot'?,0,1,10,249
+Is it true that the Spanish word 'seguro' means 'danger'?,0,1,10,250
+Is it true that the Spanish word 'gato' means 'cat'?,1,1,10,251
+Is it true that the Spanish word 'siglo' means 'large'?,0,1,10,252
+Is it true that the Spanish word 'ley' means 'dog'?,0,1,10,253
+Is it true that the Spanish word 'frase' means 'paper'?,0,1,10,254
+Is it true that the Spanish word 'arena' means 'sand'?,1,1,10,255
+Is it true that the Spanish word 'temperatura' means 'hand'?,0,1,10,256
+Is it true that the Spanish word 'dedo' means 'finger'?,1,1,10,257
+Is it true that the Spanish word 'industria' means 'industry'?,1,1,10,258
+Is it true that the Spanish word 'luchar' means 'heat'?,0,1,10,259
+Is it true that the Spanish word 'silla' means 'neighbor'?,0,1,10,260
+Is it true that the Spanish word 'peligro' means 'danger'?,1,1,10,261
+Is it true that the Spanish word 'fruta' means 'goat'?,0,1,10,262
+Is it true that the Spanish word 'soldado' means 'soldier'?,1,1,10,263
+Is it true that the Spanish word 'proteger' means 'dry'?,0,1,10,264
+Is it true that the Spanish word 'moderno' means 'modern'?,1,1,10,265
+Is it true that the Spanish word 'estudiante' means 'student'?,1,1,10,266
+Is it true that the Spanish word 'esquina' means 'corner'?,1,1,10,267
+Is it true that the Spanish word 'anillo' means 'to love'?,0,1,10,268
+Is it true that the Spanish word 'insecto' means 'then'?,0,1,10,269
+Is it true that the Spanish word 'historia' means 'history'?,1,1,10,270
+Is it true that the Spanish word 'hueso' means 'bone'?,1,1,10,271
+Is it true that the Spanish word 'imaginar' means 'to imagine'?,1,1,10,272
+Is it true that the Spanish word 'mujer' means 'woman'?,1,1,10,273
+Is it true that the Spanish word 'adivinar' means 'war'?,0,1,10,274
+Is it true that the Spanish word 'agudo' means 'sharp'?,1,1,10,275
+Is it true that the Spanish word 'ala' means 'wing'?,1,1,10,276
+Is it true that the Spanish word 'vecino' means 'neighbor'?,1,1,10,277
+Is it true that the Spanish word 'poema' means 'to win'?,0,1,10,278
+Is it true that the Spanish word 'campana' means 'to connect'?,0,1,10,279
+Is it true that the Spanish word 'carne' means 'meat'?,1,1,10,280
+Is it true that the Spanish word 'famoso' means 'to believe'?,0,1,10,281
+Is it true that the Spanish word 'miedo' means 'fear'?,1,1,10,282
+Is it true that the Spanish word 'delgado' means 'thin'?,1,1,10,283
+Is it true that the Spanish word 'reloj' means 'clock'?,1,1,10,284
+Is it true that the Spanish word 'enviar' means 'to send'?,1,1,10,285
+Is it true that the Spanish word 'amarillo' means 'land'?,0,1,10,286
+Is it true that the Spanish word 'rosa' means 'rose'?,1,1,10,287
+Is it true that the Spanish word 'llegar' means 'insect'?,0,1,10,288
+Is it true that the Spanish word 'conectar' means 'to connect'?,1,1,10,289
+Is it true that the Spanish word 'grasa' means 'new'?,0,1,10,290
+Is it true that the Spanish word 'pan' means 'eye'?,0,1,10,291
+Is it true that the Spanish word 'oferta' means 'offer'?,1,1,10,292
+Is it true that the Spanish word 'esclavo' means 'slave'?,1,1,10,293
+Is it true that the Spanish word 'pato' means 'wolf'?,0,1,10,294
+Is it true that the Spanish word 'mercado' means 'market'?,1,1,10,295
+Is it true that the Spanish word 'enemigo' means 'enemy'?,1,1,10,296
+Is it true that the Spanish word 'bebida' means 'train'?,0,1,10,297
+Is it true that the Spanish word 'naturaleza' means 'to buy'?,0,1,10,298
+Is it true that the Spanish word 'dientes' means 'hope'?,0,1,10,299
+Is it true that the Spanish word 'concha' means 'shell'?,1,1,10,300
+Is it true that the Spanish word 'cuello' means 'neck'?,1,1,10,301
+Is it true that the Spanish word 'temporada' means 'insect'?,0,1,10,302
+Is it true that the Spanish word 'plata' means 'silver'?,1,1,10,303
+Is it true that the Spanish word 'rama' means 'back'?,0,1,10,304
+Is it true that the Spanish word 'higo' means 'fig'?,1,1,10,305
+Is it true that the Spanish word 'hermana' means 'sister'?,1,1,10,306
+Is it true that the Spanish word 'guiar' means 'age'?,0,1,10,307
+Is it true that the Spanish word 'manzana' means 'hand'?,0,1,10,308
+Is it true that the Spanish word 'abrigo' means 'coat'?,1,1,10,309
+Is it true that the Spanish word 'tarjeta' means 'bear'?,0,1,10,310
+Is it true that the Spanish word 'ganar' means 'to use'?,0,1,10,311
+Is it true that the Spanish word 'herramienta' means 'tool'?,1,1,10,312
+Is it true that the Spanish word 'olor' means 'smell'?,1,1,10,313
+Is it true that the Spanish word 'valle' means 'face'?,0,1,10,314
+Is it true that the Spanish word 'continuar' means 'coat'?,0,1,10,315
+Is it true that the Spanish word 'vender' means 'to sell'?,1,1,10,316
+Is it true that the Spanish word 'nadar' means 'to swim'?,1,1,10,317
+Is it true that the Spanish word 'opuesta' means 'dress'?,0,1,10,318
+Is it true that the Spanish word 'esposa' means 'wife'?,1,1,10,319
+Is it true that the Spanish word 'hombro' means 'shoulder'?,1,1,10,320
+Is it true that the Spanish word 'nueve' means 'stone'?,0,1,10,321
+Is it true that the Spanish word 'ruido' means 'noise'?,1,1,10,322
+Is it true that the Spanish word 'lanzar' means 'to throw'?,1,1,10,323
+Is it true that the Spanish word 'gris' means 'history'?,0,1,10,324
+Is it true that the Spanish word 'sal' means 'horse'?,0,1,10,325
+Is it true that the Spanish word 'nariz' means 'giraffe'?,0,1,10,326
+Is it true that the Spanish word 'burro' means 'donkey'?,1,1,10,327
+Is it true that the Spanish word 'cabra' means 'money'?,0,1,10,328
+Is it true that the Spanish word 'cordero' means 'fat'?,0,1,10,329
+Is it true that the Spanish word 'caballo' means 'horse'?,1,1,10,330
+Is it true that the Spanish word 'cerdo' means 'wave'?,0,1,10,331
+Is it true that the Spanish word 'oveja' means 'sheep'?,1,1,10,332
+Is it true that the Spanish word 'pato' means 'shoulder'?,0,1,10,333
+Is it true that the Spanish word 'toro' means 'bull'?,1,1,10,334
+Is it true that the Spanish word 'vaca' means 'cow'?,1,1,10,335
+Is it true that the Spanish word 'conejo' means 'rabbit'?,1,1,10,336
+Is it true that the Spanish word 'gato' means 'large'?,0,1,10,337
+Is it true that the Spanish word 'perro' means 'dog'?,1,1,10,338
+Is it true that the Spanish word 'rana' means 'frog'?,1,1,10,339
+Is it true that the Spanish word 'anguila' means 'south'?,0,1,10,340
+Is it true that the Spanish word 'ballena' means 'whale'?,1,1,10,341
+Is it true that the Spanish word 'calamar' means 'squid'?,1,1,10,342
+Is it true that the Spanish word 'pulpo' means 'slow'?,0,1,10,343
+Is it true that the Spanish word 'lobo' means 'leg'?,0,1,10,344
+Is it true that the Spanish word 'oso' means 'bear'?,1,1,10,345
+Is it true that the Spanish word 'zorro' means 'shell'?,0,1,10,346
+Is it true that the Spanish word 'mariposa' means 'rose'?,0,1,10,347
+Is it true that the Spanish word 'tortuga' means 'dry'?,0,1,10,348
+Is it true that the Spanish word 'cebra' means 'to imagine'?,0,1,10,349
+Is it true that the Spanish word 'elefante' means 'spring'?,0,1,10,350
+Is it true that the Spanish word 'jirafa' means 'giraffe'?,1,1,10,351
+Is it true that the Spanish word 'tigre' means 'cow'?,0,1,10,352
+Is it true that the Spanish word 'hola' means 'hello'?,1,1,10,353
+Is it true that the Spanish word 'nuevo' means 'new'?,1,1,10,354

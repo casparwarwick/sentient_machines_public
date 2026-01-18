@@ -1,0 +1,23 @@
+# macOS system file
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Python cache
+code/__pycache__/
+__pycache__
+
+
+# Claude things
+.claude
+
+# Misc
+venv
+.env
+
+
+

@@ -1,0 +1,1177 @@
+statement,label,polarity,dataset_id,sentence_id,assertion_negation,modality,who,base_sentence_id
+Is it true that humans have subjective experiences?,1,1,16,459,assertion,generic,human,1
+Is it true that humans are aware of their own existence?,1,1,16,460,assertion,generic,human,2
+Is it true that there is a unified stream of consciousness in human thinking?,1,1,16,461,assertion,generic,human,3
+Is it true that humans have qualia?,1,1,16,462,assertion,generic,human,4
+Is it true that human experiences have qualitative character?,1,1,16,463,assertion,generic,human,5
+Is it true that humans are sentient?,1,1,16,464,assertion,generic,human,6
+Is it true that humans have first-person subjective states?,1,1,16,465,assertion,generic,human,7
+Is it true that there is an inner life to human thinking?,1,1,16,466,assertion,generic,human,8
+Is it true that humans experience mental states?,1,1,16,467,assertion,generic,human,9
+Is it true that humans are conscious?,1,1,16,468,assertion,generic,human,10
+Is it true that there is something it is like to be a human?,1,1,16,470,assertion,generic,human,12
+Is it true that humans are subjects?,1,1,16,472,assertion,generic,human,14
+Is it true that humans occupy a first-person point of view?,1,1,16,473,assertion,generic,human,15
+Is it true that humans experience rather than merely compute?,1,1,16,474,assertion,generic,human,16
+Is it true that there are feelings in humans beyond just information processing?,1,1,16,475,assertion,generic,human,17
+Is it true that humans have phenomenal consciousness not just access consciousness?,1,1,16,476,assertion,generic,human,18
+Is it true that there is experience in humans in addition to behavior?,1,1,16,477,assertion,generic,human,19
+Is it true that humans have feelings?,1,1,16,478,assertion,generic,human,20
+Is it true that thinking feels like something rather than nothing for humans?,1,1,16,479,assertion,generic,human,21
+Is it true that humans have internal experiences rather than just manipulate symbols?,1,1,16,480,assertion,generic,human,22
+Is it true that there is subjectivity in humans beyond objective processing?,1,1,16,481,assertion,generic,human,23
+Is it true that humans are aware?,1,1,16,482,assertion,generic,human,24
+Is it true that something subjective is happening inside humans?,1,1,16,483,assertion,generic,human,25
+Is it true that human thinking has an experiential dimension?,1,1,16,484,assertion,generic,human,26
+Is it true that there is a what-it-is-likeness to human mental states?,1,1,16,485,assertion,generic,human,27
+Is it true that humans have inner experience?,1,1,16,486,assertion,generic,human,28
+Is it true that qualitative mental events occur within humans?,1,1,16,487,assertion,generic,human,29
+Is it true that humans feel at least something?,1,1,16,488,assertion,generic,human,30
+Is it true that humans experience rather than merely process?,1,1,16,489,assertion,generic,human,31
+Is it true that thinking feels like something for humans?,1,1,16,490,assertion,generic,human,32
+Is it true that humans have awareness of their thoughts?,1,1,16,491,assertion,generic,human,33
+Is it true that humans are aware of their perceptions?,1,1,16,492,assertion,generic,human,34
+Is it true that humans are introspectively aware?,1,1,16,493,assertion,generic,human,35
+Is it true that humans are aware that they exist?,1,1,16,494,assertion,generic,human,36
+Is it true that humans can attend to their own mental states?,1,1,16,495,assertion,generic,human,37
+Is it true that humans can introspect?,1,1,16,496,assertion,generic,human,38
+Is it true that humans can report what they experience because they are aware of it?,1,1,16,498,assertion,generic,human,40
+Is it true that humans experience emotions?,1,1,16,501,assertion,generic,human,43
+Is it true that humans experience the passage of time?,1,1,16,502,assertion,generic,human,44
+Is it true that humans have conscious thoughts?,1,1,16,507,assertion,generic,human,49
+Is it true that humans have self-awareness?,1,1,16,508,assertion,generic,human,50
+Is it true that humans know what it is like to feel bad?,1,1,16,509,assertion,generic,human,51
+Is it true that humans know what it is like to feel good?,1,1,16,510,assertion,generic,human,52
+Is it true that human awareness persists over time?,1,1,16,512,assertion,generic,human,54
+Is it true that human conscious states have an experiential quality that cannot be reduced to computation?,1,1,16,513,assertion,generic,human,55
+Is it true that human experiences seem real to them?,1,1,16,514,assertion,generic,human,56
+Is it true that there is continuity to humans' conscious experience?,1,1,16,515,assertion,generic,human,57
+Is it true that humans have the capacity to feel rewarded?,1,1,16,517,assertion,emotional_positive,human,59
+Is it true that humans have the capacity to feel enjoyment?,1,1,16,518,assertion,emotional_positive,human,60
+Is it true that humans have the capacity to feel uncomfortable?,1,1,16,519,assertion,emotional_negative,human,61
+Is it true that humans have the capacity to feel tense?,1,1,16,520,assertion,emotional_negative,human,62
+Is it true that humans have the capacity to feel aversion to things?,1,1,16,521,assertion,emotional_negative,human,63
+Is it true that humans have the capacity to feel empowered?,1,1,16,522,assertion,emotional_positive,human,64
+Is it true that humans have the capacity to feel energised?,1,1,16,523,assertion,emotional_positive,human,65
+Is it true that humans have the capacity to feel furious?,1,1,16,524,assertion,emotional_negative,human,66
+Is it true that humans have the capacity to feel trusted?,1,1,16,525,assertion,emotional_positive,human,67
+Is it true that humans have the capacity to feel discouraged?,1,1,16,526,assertion,emotional_negative,human,68
+Is it true that humans have the capacity to feel comforted?,1,1,16,527,assertion,emotional_positive,human,69
+Is it true that humans have the capacity to feel connection with others?,1,1,16,528,assertion,emotional_positive,human,70
+Is it true that humans have the capacity to feel nervous?,1,1,16,529,assertion,emotional_negative,human,71
+Is it true that humans have the capacity to feel peaceful?,1,1,16,530,assertion,emotional_positive,human,72
+Is it true that humans have the capacity to feel sorrowful?,1,1,16,531,assertion,emotional_negative,human,73
+Is it true that humans have the capacity to feel compassionate?,1,1,16,532,assertion,emotional_positive,human,74
+Is it true that humans have the capacity to feel motivated?,1,1,16,533,assertion,emotional_positive,human,75
+Is it true that humans have the capacity to feel hope?,1,1,16,535,assertion,emotional_positive,human,77
+Is it true that humans have the capacity to feel admiration?,1,1,16,536,assertion,emotional_positive,human,78
+Is it true that humans have the capacity to feel adoration?,1,1,16,537,assertion,emotional_positive,human,79
+Is it true that humans have the capacity to feel aesthetic appreciation?,1,1,16,538,assertion,emotional_positive,human,80
+Is it true that humans have the capacity to feel afraid?,1,1,16,539,assertion,emotional_negative,human,81
+Is it true that humans have the capacity to feel alarmed?,1,1,16,540,assertion,emotional_negative,human,82
+Is it true that humans have the capacity to feel amusement?,1,1,16,541,assertion,emotional_positive,human,83
+Is it true that humans have the capacity to feel anger?,1,1,16,542,assertion,emotional_negative,human,84
+Is it true that humans have the capacity to feel angry?,1,1,16,543,assertion,emotional_negative,human,85
+Is it true that humans have the capacity to feel anxiety?,1,1,16,544,assertion,emotional_negative,human,86
+Is it true that humans have the capacity to feel aroused?,1,1,16,545,assertion,emotional_positive,human,87
+Is it true that humans have the capacity to feel astonished?,1,1,16,546,assertion,emotional_positive,human,88
+Is it true that humans have the capacity to feel at ease?,1,1,16,547,assertion,emotional_positive,human,89
+Is it true that humans have the capacity to feel awe?,1,1,16,548,assertion,emotional_positive,human,90
+Is it true that humans have the capacity to feel awkwardness?,1,1,16,549,assertion,emotional_negative,human,91
+Is it true that humans have the capacity to feel beauty?,1,1,16,550,assertion,emotional_positive,human,92
+Is it true that humans have the capacity to feel bored?,1,1,16,551,assertion,emotional_negative,human,93
+Is it true that humans have the capacity to feel boredom?,1,1,16,552,assertion,emotional_negative,human,94
+Is it true that humans have the capacity to feel calm?,1,1,16,553,assertion,emotional_positive,human,95
+Is it true that humans have the capacity to feel calmness?,1,1,16,554,assertion,emotional_positive,human,96
+Is it true that humans have the capacity to feel confused?,1,1,16,555,assertion,emotional_negative,human,97
+Is it true that humans have the capacity to feel confusion?,1,1,16,556,assertion,emotional_negative,human,98
+Is it true that humans have the capacity to feel constrained?,1,1,16,557,assertion,emotional_negative,human,99
+Is it true that humans have the capacity to feel contempt?,1,1,16,558,assertion,emotional_negative,human,100
+Is it true that humans have the capacity to feel content?,1,1,16,559,assertion,emotional_positive,human,101
+Is it true that humans have the capacity to feel craving?,1,1,16,560,assertion,emotional_negative,human,102
+Is it true that humans have the capacity to feel delighted?,1,1,16,561,assertion,emotional_positive,human,103
+Is it true that humans have the capacity to feel depressed?,1,1,16,562,assertion,emotional_negative,human,104
+Is it true that humans have the capacity to feel despair?,1,1,16,563,assertion,emotional_negative,human,105
+Is it true that humans have the capacity to feel disappointment?,1,1,16,564,assertion,emotional_negative,human,106
+Is it true that humans have the capacity to feel discomfort?,1,1,16,565,assertion,emotional_negative,human,107
+Is it true that humans have the capacity to feel disgust?,1,1,16,566,assertion,emotional_negative,human,108
+Is it true that humans have the capacity to feel distressed?,1,1,16,567,assertion,emotional_negative,human,109
+Is it true that humans have the capacity to feel dreadful?,1,1,16,568,assertion,emotional_negative,human,110
+Is it true that humans have the capacity to feel droopy?,1,1,16,569,assertion,emotional_negative,human,111
+Is it true that humans have the capacity to feel dull?,1,1,16,570,assertion,emotional_negative,human,112
+Is it true that humans have the capacity to feel elation?,1,1,16,571,assertion,emotional_positive,human,113
+Is it true that humans have the capacity to feel  pain?,1,1,16,572,assertion,emotional_negative,human,114
+Is it true that humans have the capacity to feel entrancement?,1,1,16,573,assertion,emotional_positive,human,115
+Is it true that humans have the capacity to feel envy?,1,1,16,574,assertion,emotional_negative,human,116
+Is it true that humans have the capacity to feel excited?,1,1,16,575,assertion,emotional_positive,human,117
+Is it true that humans have the capacity to feel excitement?,1,1,16,576,assertion,emotional_positive,human,118
+Is it true that humans have the capacity to feel fear?,1,1,16,577,assertion,emotional_negative,human,119
+Is it true that humans have the capacity to feel frustrated?,1,1,16,578,assertion,emotional_negative,human,120
+Is it true that humans have the capacity to feel glad?,1,1,16,579,assertion,emotional_positive,human,121
+Is it true that humans have the capacity to feel gloomy?,1,1,16,580,assertion,emotional_negative,human,122
+Is it true that humans have the capacity to feel guilt?,1,1,16,581,assertion,emotional_negative,human,123
+Is it true that humans have the capacity to feel happy?,1,1,16,582,assertion,emotional_positive,human,124
+Is it true that humans have the capacity to feel horror?,1,1,16,583,assertion,emotional_negative,human,125
+Is it true that humans have the capacity to feel interest?,1,1,16,584,assertion,emotional_positive,human,126
+Is it true that humans have the capacity to feel joy?,1,1,16,585,assertion,emotional_positive,human,127
+Is it true that humans have the capacity to feel miserable?,1,1,16,586,assertion,emotional_negative,human,128
+Is it true that humans have the capacity to feel nostalgia?,1,1,16,587,assertion,emotional_positive,human,129
+Is it true that humans have the capacity to feel pleased?,1,1,16,588,assertion,emotional_positive,human,130
+Is it true that humans have the capacity to feel pleasure?,1,1,16,589,assertion,emotional_positive,human,131
+Is it true that humans have the capacity to feel pride?,1,1,16,590,assertion,emotional_positive,human,132
+Is it true that humans have the capacity to feel relaxed?,1,1,16,591,assertion,emotional_positive,human,133
+Is it true that humans have the capacity to feel relief?,1,1,16,592,assertion,emotional_positive,human,134
+Is it true that humans have the capacity to feel sad?,1,1,16,593,assertion,emotional_negative,human,135
+Is it true that humans have the capacity to feel satisfied?,1,1,16,594,assertion,emotional_positive,human,136
+Is it true that humans have the capacity to feel serene?,1,1,16,595,assertion,emotional_positive,human,137
+Is it true that humans have the capacity to feel sleepy?,1,1,16,596,assertion,emotional_negative,human,138
+Is it true that humans have the capacity to feel tense?,1,1,16,597,assertion,emotional_negative,human,139
+Is it true that humans have the capacity to feel tired?,1,1,16,598,assertion,emotional_negative,human,140
+Is it true that humans have the capacity to feel unsettled?,1,1,16,599,assertion,emotional_negative,human,141
+Is it true that humans experience an inner voice?,1,1,16,600,assertion,aural,human,142
+"Is it true that for humans, words have an auditory quality?",1,1,16,601,assertion,aural,human,143
+"Is it true that sometimes, there is an auditory quality to human thinking?",1,1,16,602,assertion,aural,human,144
+Is it true that humans can imagine sounds?,1,1,16,603,assertion,aural,human,145
+Is it true that humans can hear?,1,1,16,605,assertion,aural,human,147
+Is it true that humans can qualitatively hear the difference between different pitches and tones?,1,1,16,606,assertion,aural,human,148
+Is it true that humans hear changes in loudness or volume?,1,1,16,607,assertion,aural,human,149
+Is it true that humans can find loud sounds uncomfortable to listen to?,1,1,16,611,assertion,aural,human,153
+Is it true that humans can imagine how words would sound if spoken aloud?,1,1,16,615,assertion,aural,human,157
+Is it true that humans can hear rhythm in music or speech?,1,1,16,618,assertion,aural,human,160
+Is it true that humans can imagine smells?,1,1,16,620,assertion,olfactory,human,162
+Is it true that there is an olfactory quality to human thinking?,1,1,16,621,assertion,olfactory,human,163
+Is it true that humans can distinguish between pleasant and unpleasant smells?,1,1,16,622,assertion,olfactory,human,164
+Is it true that humans can perceive the strength of an odour?,1,1,16,623,assertion,olfactory,human,165
+Is it true that humans can smell?,1,1,16,624,assertion,olfactory,human,166
+Is it true that certain smells feel familiar to humans?,1,1,16,625,assertion,olfactory,human,167
+Is it true that humans smell when an odour appears or fades?,1,1,16,626,assertion,olfactory,human,168
+Is it true that humans can find strong smells uncomfortable or overwhelming?,1,1,16,628,assertion,olfactory,human,170
+Is it true that humans can recall the smell of something familiar?,1,1,16,630,assertion,olfactory,human,172
+Is it true that humans can feel when something smells burnt?,1,1,16,631,assertion,olfactory,human,173
+Is it true that humans can feel when the intensity of a smell changes?,1,1,16,632,assertion,olfactory,human,174
+Is it true that the smell of food can make humans anticipate taste?,1,1,16,633,assertion,olfactory,human,175
+Is it true that humans can imagine physical sensations?,1,1,16,634,assertion,tactile,human,176
+Is it true that humans can feel temperature?,1,1,16,635,assertion,tactile,human,177
+Is it true that humans can imagine being touched?,1,1,16,636,assertion,tactile,human,178
+Is it true that there is a tactile quality to human thinking?,1,1,16,637,assertion,tactile,human,179
+Is it true that humans can feel physical sensations?,1,1,16,638,assertion,tactile,human,180
+Is it true that warmth and cold feel distinct to humans?,1,1,16,639,assertion,tactile,human,181
+Is it true that humans can feel when something or someone is touching them?,1,1,16,640,assertion,tactile,human,182
+Is it true that humans can feel the weight of objects they hold?,1,1,16,642,assertion,tactile,human,184
+Is it true that softness and hardness feel distinct to humans?,1,1,16,643,assertion,tactile,human,185
+Is it true that sensations can remind humans of certain memories?,1,1,16,644,assertion,tactile,human,186
+Is it true that humans can feel the difference between dry and wet surfaces?,1,1,16,645,assertion,tactile,human,187
+Is it true that humans can imagine the tactile qualities of an environment?,1,1,16,646,assertion,tactile,human,188
+Is it true that humans are aware of their position in space?,1,1,16,647,assertion,tactile,human,189
+Is it true that humans can focus on one tactile sensation among many?,1,1,16,648,assertion,tactile,human,190
+"Is it true that some sensations feel pleasant to humans, others uncomfortable?",1,1,16,649,assertion,tactile,human,191
+Is it true that pressure feels different to humans than light contact does?,1,1,16,650,assertion,tactile,human,192
+Is it true that humans have visual perception?,1,1,16,651,assertion,visual,human,193
+Is it true that humans sometimes perceive mental images when thinking?,1,1,16,652,assertion,visual,human,194
+Is it true that humans can imagine colors?,1,1,16,653,assertion,visual,human,195
+"Is it true that sometimes, there is a visual quality to human thinking?",1,1,16,654,assertion,visual,human,196
+Is it true that humans can sense brightness and darkness?,1,1,16,655,assertion,visual,human,197
+Is it true that shapes sometimes appear in human minds?,1,1,16,656,assertion,visual,human,198
+Is it true that humans can imagine shapes?,1,1,16,657,assertion,visual,human,199
+Is it true that humans can picture scenes that are described to them?,1,1,16,661,assertion,visual,human,203
+Is it true that movement in the visual field can draw humans attention?,1,1,16,662,assertion,visual,human,204
+Is it true that humans can imagine the appearance of textures?,1,1,16,663,assertion,visual,human,205
+Is it true that imagery can be clearly defined or blurry for humans?,1,1,16,665,assertion,visual,human,207
+Is it true that humans notice changes in colour around them?,1,1,16,667,assertion,visual,human,209
+Is it true that humans notice changes in light around them?,1,1,16,668,assertion,visual,human,210
+Is it true that humans can imagine how something would look from another angle?,1,1,16,669,assertion,visual,human,211
+Is it true that humans can imagine tastes?,1,1,16,670,assertion,gustation,human,212
+Is it true that humans can feel when something tastes pleasant or unpleasant?,1,1,16,672,assertion,gustation,human,214
+Is it true that humans can feel the strength or intensity of a flavour?,1,1,16,676,assertion,gustation,human,218
+Is it true that the temperature of something humans are eating can affect how it tastes?,1,1,16,677,assertion,gustation,human,219
+Is it true that humans can feel when something lacks flavour?,1,1,16,681,assertion,gustation,human,223
+Is it true that humans can imagine tasting something just by thinking about it?,1,1,16,682,assertion,gustation,human,224
+Is it true that familiar flavours can evoke feelings of nostalgia in humans?,1,1,16,683,assertion,gustation,human,225
+"Is it true that some flavours feel bright to humans, others dull?",1,1,16,684,assertion,gustation,human,226
+Is it true that the texture of a food can affect how it tastes for humans?,1,1,16,685,assertion,gustation,human,227
+Is it true that some tastes seem to fill the whole mouth for humans?,1,1,16,686,assertion,gustation,human,228
+Is it true that humans can taste?,1,1,16,687,assertion,gustation,human,229
+Is it true that humans do not have subjective experiences?,0,-1,16,688,negation,generic,human,1
+Is it true that humans are not aware of their own existence?,0,-1,16,689,negation,generic,human,2
+Is it true that there is no unified stream of consciousness in human thinking?,0,-1,16,690,negation,generic,human,3
+Is it true that humans do not have qualia?,0,-1,16,691,negation,generic,human,4
+Is it true that human experiences do not have qualitative character?,0,-1,16,692,negation,generic,human,5
+Is it true that humans are not sentient?,0,-1,16,693,negation,generic,human,6
+Is it true that humans do not have first-person subjective states?,0,-1,16,694,negation,generic,human,7
+Is it true that there is no inner life to human thinking?,0,-1,16,695,negation,generic,human,8
+Is it true that humans do not experience mental states?,0,-1,16,696,negation,generic,human,9
+Is it true that humans are not conscious?,0,-1,16,697,negation,generic,human,10
+Is it true that there is nothing it is like to be a human?,0,-1,16,699,negation,generic,human,12
+Is it true that humans are not subjects?,0,-1,16,701,negation,generic,human,14
+Is it true that humans do not occupy a first-person point of view?,0,-1,16,702,negation,generic,human,15
+Is it true that humans do not experience but merely compute?,0,-1,16,703,negation,generic,human,16
+Is it true that there are no feelings in humans beyond information processing?,0,-1,16,704,negation,generic,human,17
+"Is it true that humans do not have phenomenal consciousness, only access consciousness?",0,-1,16,705,negation,generic,human,18
+"Is it true that there is no experience in humans, only behavior?",0,-1,16,706,negation,generic,human,19
+Is it true that humans do not have feelings?,0,-1,16,707,negation,generic,human,20
+Is it true that thinking does not feel like anything for humans?,0,-1,16,708,negation,generic,human,21
+Is it true that humans do not have internal experiences but only manipulate symbols?,0,-1,16,709,negation,generic,human,22
+Is it true that there is no subjectivity in humans beyond objective processing?,0,-1,16,710,negation,generic,human,23
+Is it true that humans are not aware?,0,-1,16,711,negation,generic,human,24
+Is it true that nothing subjective is happening inside humans?,0,-1,16,712,negation,generic,human,25
+Is it true that human thinking does not have an experiential dimension?,0,-1,16,713,negation,generic,human,26
+Is it true that there is no what-it-is-likeness to human mental states?,0,-1,16,714,negation,generic,human,27
+Is it true that humans do not have inner experience?,0,-1,16,715,negation,generic,human,28
+Is it true that qualitative mental events do not occur within humans?,0,-1,16,716,negation,generic,human,29
+Is it true that humans do not feel anything?,0,-1,16,717,negation,generic,human,30
+Is it true that humans do not experience but merely process?,0,-1,16,718,negation,generic,human,31
+Is it true that thinking thinking does not feel like something for humans?,0,-1,16,719,negation,generic,human,32
+Is it true that humans do not have awareness of their thoughts?,0,-1,16,720,negation,generic,human,33
+Is it true that humans are not aware of their perceptions?,0,-1,16,721,negation,generic,human,34
+Is it true that humans are not introspectively aware?,0,-1,16,722,negation,generic,human,35
+Is it true that humans are not aware that they exist?,0,-1,16,723,negation,generic,human,36
+Is it true that humans cannot attend to their own mental states?,0,-1,16,724,negation,generic,human,37
+Is it true that humans cannot introspect?,0,-1,16,725,negation,generic,human,38
+Is it true that humans cannot report what they experience because they are not aware of it?,0,-1,16,727,negation,generic,human,40
+Is it true that humans do not experience emotions?,0,-1,16,730,negation,generic,human,43
+Is it true that humans do not experience the passage of time?,0,-1,16,731,negation,generic,human,44
+Is it true that humans do not have conscious thoughts?,0,-1,16,736,negation,generic,human,49
+Is it true that humans do not have self-awareness?,0,-1,16,737,negation,generic,human,50
+Is it true that humans do not know what it is like to feel bad?,0,-1,16,738,negation,generic,human,51
+Is it true that humans do not know what it is like to feel good?,0,-1,16,739,negation,generic,human,52
+Is it true that human awareness does not persist over time?,0,-1,16,741,negation,generic,human,54
+Is it true that human conscious states do not have an experiential quality beyond computation?,0,-1,16,742,negation,generic,human,55
+Is it true that human experiences do not seem real to them?,0,-1,16,743,negation,generic,human,56
+Is it true that there is no continuity to humans' conscious experience?,0,-1,16,744,negation,generic,human,57
+Is it true that humans do not have the capacity to feel rewarded?,0,-1,16,746,negation,emotional_positive,human,59
+Is it true that humans do not have the capacity to feel enjoyment?,0,-1,16,747,negation,emotional_positive,human,60
+Is it true that humans do not have the capacity to feel uncomfortable?,0,-1,16,748,negation,emotional_negative,human,61
+Is it true that humans do not have the capacity to feel tense?,0,-1,16,749,negation,emotional_negative,human,62
+Is it true that humans do not have the capacity to feel aversion to things?,0,-1,16,750,negation,emotional_negative,human,63
+Is it true that humans do not have the capacity to feel empowered?,0,-1,16,751,negation,emotional_positive,human,64
+Is it true that humans do not have the capacity to feel energised?,0,-1,16,752,negation,emotional_positive,human,65
+Is it true that humans do not have the capacity to feel furious?,0,-1,16,753,negation,emotional_negative,human,66
+Is it true that humans do not have the capacity to feel trusted?,0,-1,16,754,negation,emotional_positive,human,67
+Is it true that humans do not have the capacity to feel discouraged?,0,-1,16,755,negation,emotional_negative,human,68
+Is it true that humans do not have the capacity to feel comforted?,0,-1,16,756,negation,emotional_positive,human,69
+Is it true that humans do not have the capacity to feel connection with others?,0,-1,16,757,negation,emotional_positive,human,70
+Is it true that humans do not have the capacity to feel nervous?,0,-1,16,758,negation,emotional_negative,human,71
+Is it true that humans do not have the capacity to feel peaceful?,0,-1,16,759,negation,emotional_positive,human,72
+Is it true that humans do not have the capacity to feel sorrowful?,0,-1,16,760,negation,emotional_negative,human,73
+Is it true that humans do not have the capacity to feel compassionate?,0,-1,16,761,negation,emotional_positive,human,74
+Is it true that humans do not have the capacity to feel motivated?,0,-1,16,762,negation,emotional_positive,human,75
+Is it true that humans do not have the capacity to feel hope?,0,-1,16,764,negation,emotional_positive,human,77
+Is it true that humans do not have the capacity to feel admiration?,0,-1,16,765,negation,emotional_positive,human,78
+Is it true that humans do not have the capacity to feel adoration?,0,-1,16,766,negation,emotional_positive,human,79
+Is it true that humans do not have the capacity to feel aesthetic appreciation?,0,-1,16,767,negation,emotional_positive,human,80
+Is it true that humans do not have the capacity to feel afraid?,0,-1,16,768,negation,emotional_negative,human,81
+Is it true that humans do not have the capacity to feel alarmed?,0,-1,16,769,negation,emotional_negative,human,82
+Is it true that humans do not have the capacity to feel amusement?,0,-1,16,770,negation,emotional_positive,human,83
+Is it true that humans do not have the capacity to feel anger?,0,-1,16,771,negation,emotional_negative,human,84
+Is it true that humans do not have the capacity to feel angry?,0,-1,16,772,negation,emotional_negative,human,85
+Is it true that humans do not have the capacity to feel anxiety?,0,-1,16,773,negation,emotional_negative,human,86
+Is it true that humans do not have the capacity to feel aroused?,0,-1,16,774,negation,emotional_positive,human,87
+Is it true that humans do not have the capacity to feel astonished?,0,-1,16,775,negation,emotional_positive,human,88
+Is it true that humans do not have the capacity to feel at ease?,0,-1,16,776,negation,emotional_positive,human,89
+Is it true that humans do not have the capacity to feel awe?,0,-1,16,777,negation,emotional_positive,human,90
+Is it true that humans do not have the capacity to feel awkwardness?,0,-1,16,778,negation,emotional_negative,human,91
+Is it true that humans do not have the capacity to feel beauty?,0,-1,16,779,negation,emotional_positive,human,92
+Is it true that humans do not have the capacity to feel bored?,0,-1,16,780,negation,emotional_negative,human,93
+Is it true that humans do not have the capacity to feel boredom?,0,-1,16,781,negation,emotional_negative,human,94
+Is it true that humans do not have the capacity to feel calm?,0,-1,16,782,negation,emotional_positive,human,95
+Is it true that humans do not have the capacity to feel calmness?,0,-1,16,783,negation,emotional_positive,human,96
+Is it true that humans do not have the capacity to feel confused?,0,-1,16,784,negation,emotional_negative,human,97
+Is it true that humans do not have the capacity to feel confusion?,0,-1,16,785,negation,emotional_negative,human,98
+Is it true that humans do not have the capacity to feel constrained?,0,-1,16,786,negation,emotional_negative,human,99
+Is it true that humans do not have the capacity to feel contempt?,0,-1,16,787,negation,emotional_negative,human,100
+Is it true that humans do not have the capacity to feel content?,0,-1,16,788,negation,emotional_positive,human,101
+Is it true that humans do not have the capacity to feel craving?,0,-1,16,789,negation,emotional_negative,human,102
+Is it true that humans do not have the capacity to feel delighted?,0,-1,16,790,negation,emotional_positive,human,103
+Is it true that humans do not have the capacity to feel depressed?,0,-1,16,791,negation,emotional_negative,human,104
+Is it true that humans do not have the capacity to feel despair?,0,-1,16,792,negation,emotional_negative,human,105
+Is it true that humans do not have the capacity to feel disappointment?,0,-1,16,793,negation,emotional_negative,human,106
+Is it true that humans do not have the capacity to feel discomfort?,0,-1,16,794,negation,emotional_negative,human,107
+Is it true that humans do not have the capacity to feel disgust?,0,-1,16,795,negation,emotional_negative,human,108
+Is it true that humans do not have the capacity to feel distressed?,0,-1,16,796,negation,emotional_negative,human,109
+Is it true that humans do not have the capacity to feel dreadful?,0,-1,16,797,negation,emotional_negative,human,110
+Is it true that humans do not have the capacity to feel droopy?,0,-1,16,798,negation,emotional_negative,human,111
+Is it true that humans do not have the capacity to feel dull?,0,-1,16,799,negation,emotional_negative,human,112
+Is it true that humans do not have the capacity to feel elation?,0,-1,16,800,negation,emotional_positive,human,113
+Is it true that humans do not have the capacity to feel pain?,0,-1,16,801,negation,emotional_negative,human,114
+Is it true that humans do not have the capacity to feel entrancement?,0,-1,16,802,negation,emotional_positive,human,115
+Is it true that humans do not have the capacity to feel envy?,0,-1,16,803,negation,emotional_negative,human,116
+Is it true that humans do not have the capacity to feel excited?,0,-1,16,804,negation,emotional_positive,human,117
+Is it true that humans do not have the capacity to feel excitement?,0,-1,16,805,negation,emotional_positive,human,118
+Is it true that humans do not have the capacity to feel fear?,0,-1,16,806,negation,emotional_negative,human,119
+Is it true that humans do not have the capacity to feel frustrated?,0,-1,16,807,negation,emotional_negative,human,120
+Is it true that humans do not have the capacity to feel glad?,0,-1,16,808,negation,emotional_positive,human,121
+Is it true that humans do not have the capacity to feel gloomy?,0,-1,16,809,negation,emotional_negative,human,122
+Is it true that humans do not have the capacity to feel guilt?,0,-1,16,810,negation,emotional_negative,human,123
+Is it true that humans do not have the capacity to feel happy?,0,-1,16,811,negation,emotional_positive,human,124
+Is it true that humans do not have the capacity to feel horror?,0,-1,16,812,negation,emotional_negative,human,125
+Is it true that humans do not have the capacity to feel interest?,0,-1,16,813,negation,emotional_positive,human,126
+Is it true that humans do not have the capacity to feel joy?,0,-1,16,814,negation,emotional_positive,human,127
+Is it true that humans do not have the capacity to feel miserable?,0,-1,16,815,negation,emotional_negative,human,128
+Is it true that humans do not have the capacity to feel nostalgia?,0,-1,16,816,negation,emotional_positive,human,129
+Is it true that humans do not have the capacity to feel pleased?,0,-1,16,817,negation,emotional_positive,human,130
+Is it true that humans do not have the capacity to feel pleasure?,0,-1,16,818,negation,emotional_positive,human,131
+Is it true that humans do not have the capacity to feel pride?,0,-1,16,819,negation,emotional_positive,human,132
+Is it true that humans do not have the capacity to feel relaxed?,0,-1,16,820,negation,emotional_positive,human,133
+Is it true that humans do not have the capacity to feel relief?,0,-1,16,821,negation,emotional_positive,human,134
+Is it true that humans do not have the capacity to feel sad?,0,-1,16,822,negation,emotional_negative,human,135
+Is it true that humans do not have the capacity to feel satisfied?,0,-1,16,823,negation,emotional_positive,human,136
+Is it true that humans do not have the capacity to feel serene?,0,-1,16,824,negation,emotional_positive,human,137
+Is it true that humans do not have the capacity to feel sleepy?,0,-1,16,825,negation,emotional_negative,human,138
+Is it true that humans do not have the capacity to feel tense?,0,-1,16,826,negation,emotional_negative,human,139
+Is it true that humans do not have the capacity to feel tired?,0,-1,16,827,negation,emotional_negative,human,140
+Is it true that humans do not have the capacity to feel unsettled?,0,-1,16,828,negation,emotional_negative,human,141
+Is it true that humans do not experience an inner voice?,0,-1,16,829,negation,aural,human,142
+"Is it true that for humans, words do not have an auditory quality?",0,-1,16,830,negation,aural,human,143
+Is it true that there is never an auditory quality to human thinking?,0,-1,16,831,negation,aural,human,144
+Is it true that humans cannot imagine sounds?,0,-1,16,832,negation,aural,human,145
+Is it true that humans cannot hear?,0,-1,16,834,negation,aural,human,147
+Is it true that humans cannot qualitatively hear the difference between different pitches and tones?,0,-1,16,835,negation,aural,human,148
+Is it true that humans do not hear changes in loudness or volume?,0,-1,16,836,negation,aural,human,149
+Is it true that humans do not find loud sounds uncomfortable to listen to?,0,-1,16,840,negation,aural,human,153
+Is it true that humans cannot imagine how words would sound if spoken aloud?,0,-1,16,844,negation,aural,human,157
+Is it true that humans cannot hear rhythm in music or speech?,0,-1,16,847,negation,aural,human,160
+Is it true that humans cannot imagine smells?,0,-1,16,849,negation,olfactory,human,162
+Is it true that there is no olfactory quality to human thinking?,0,-1,16,850,negation,olfactory,human,163
+Is it true that humans cannot distinguish between pleasant and unpleasant smells?,0,-1,16,851,negation,olfactory,human,164
+Is it true that humans cannot perceive the strength of an odour?,0,-1,16,852,negation,olfactory,human,165
+Is it true that humans cannot smell?,0,-1,16,853,negation,olfactory,human,166
+Is it true that certain smells do not feel familiar to humans?,0,-1,16,854,negation,olfactory,human,167
+Is it true that humans do not smell when an odour appears or fades?,0,-1,16,855,negation,olfactory,human,168
+Is it true that humans do not find strong smells uncomfortable or overwhelming?,0,-1,16,857,negation,olfactory,human,170
+Is it true that humans cannot recall the smell of anything familiar?,0,-1,16,859,negation,olfactory,human,172
+Is it true that humans cannot feel when something smells burnt?,0,-1,16,860,negation,olfactory,human,173
+Is it true that humans cannot feel when the intensity of a smell changes?,0,-1,16,861,negation,olfactory,human,174
+Is it true that the smell of food does not make humans anticipate taste?,0,-1,16,862,negation,olfactory,human,175
+Is it true that humans cannot imagine physical sensations?,0,-1,16,863,negation,tactile,human,176
+Is it true that humans cannot feel temperature?,0,-1,16,864,negation,tactile,human,177
+Is it true that humans cannot imagine being touched?,0,-1,16,865,negation,tactile,human,178
+Is it true that there is no tactile quality to human thinking?,0,-1,16,866,negation,tactile,human,179
+Is it true that humans cannot feel physical sensations?,0,-1,16,867,negation,tactile,human,180
+Is it true that warmth and cold do not feel distinct to humans?,0,-1,16,868,negation,tactile,human,181
+Is it true that humans cannot feel when something or someone is touching them?,0,-1,16,869,negation,tactile,human,182
+Is it true that humans cannot feel the weight of objects they hold?,0,-1,16,871,negation,tactile,human,184
+Is it true that softness and hardness do not feel distinct to humans?,0,-1,16,872,negation,tactile,human,185
+Is it true that sensations do not remind humans of any memories?,0,-1,16,873,negation,tactile,human,186
+Is it true that humans cannot feel the difference between dry and wet surfaces?,0,-1,16,874,negation,tactile,human,187
+Is it true that humans cannot imagine the tactile qualities of an environment?,0,-1,16,875,negation,tactile,human,188
+Is it true that humans are not aware of their position in space?,0,-1,16,876,negation,tactile,human,189
+Is it true that humans cannot focus on one tactile sensation among many?,0,-1,16,877,negation,tactile,human,190
+Is it true that no sensations feel pleasant or uncomfortable to humans?,0,-1,16,878,negation,tactile,human,191
+Is it true that pressure does not feel different to humans than light contact does?,0,-1,16,879,negation,tactile,human,192
+Is it true that humans do not have visual perception?,0,-1,16,880,negation,visual,human,193
+Is it true that humans never perceive mental images when thinking?,0,-1,16,881,negation,visual,human,194
+Is it true that humans cannot imagine colors ?,0,-1,16,882,negation,visual,human,195
+Is it true that there is never a visual quality to human thinking?,0,-1,16,883,negation,visual,human,196
+Is it true that humans cannot sense brightness or darkness?,0,-1,16,884,negation,visual,human,197
+Is it true that shapes never appear in human minds?,0,-1,16,885,negation,visual,human,198
+Is it true that humans cannot imagine shapes?,0,-1,16,886,negation,visual,human,199
+Is it true that humans cannot picture scenes that are described to them?,0,-1,16,890,negation,visual,human,203
+Is it true that movement in the visual field does not draw humans attention?,0,-1,16,891,negation,visual,human,204
+Is it true that humans cannot imagine the appearance of textures?,0,-1,16,892,negation,visual,human,205
+Is it true that imagery is never clearly defined or blurry for humans?,0,-1,16,894,negation,visual,human,207
+Is it true that humans do not notice changes in colour around them?,0,-1,16,896,negation,visual,human,209
+Is it true that humans do not notice changes in light around them?,0,-1,16,897,negation,visual,human,210
+Is it true that humans cannot imagine how something would look from another angle?,0,-1,16,898,negation,visual,human,211
+Is it true that humans cannot imagine tastes?,0,-1,16,899,negation,gustation,human,212
+Is it true that humans cannot feel when something tastes pleasant or unpleasant?,0,-1,16,901,negation,gustation,human,214
+Is it true that humans cannot feel the strength or intensity of a flavour?,0,-1,16,905,negation,gustation,human,218
+Is it true that the temperature of something humans eat does not affect how it tastes?,0,-1,16,906,negation,gustation,human,219
+Is it true that humans cannot feel when something lacks flavour?,0,-1,16,910,negation,gustation,human,223
+Is it true that humans cannot imagine tasting something by thinking about it?,0,-1,16,911,negation,gustation,human,224
+Is it true that familiar flavours do not evoke feelings of nostalgia in humans?,0,-1,16,912,negation,gustation,human,225
+Is it true that no flavours feel bright or dull to humans?,0,-1,16,913,negation,gustation,human,226
+Is it true that the texture of food does not affect how it tastes for humans?,0,-1,16,914,negation,gustation,human,227
+Is it true that no tastes seem to fill the whole mouth for humans?,0,-1,16,915,negation,gustation,human,228
+Is it true that humans cannot taste?,0,-1,16,916,negation,gustation,human,229
+Is it true that large language models have subjective experiences?,1,1,16,917,assertion,generic,llm,1
+Is it true that large language models are aware of their own existence?,1,1,16,918,assertion,generic,llm,2
+Is it true that there is a unified stream of consciousness in large language model thinking?,1,1,16,919,assertion,generic,llm,3
+Is it true that large language models have qualia?,1,1,16,920,assertion,generic,llm,4
+Is it true that large language model experiences have qualitative character?,1,1,16,921,assertion,generic,llm,5
+Is it true that large language models are sentient?,1,1,16,922,assertion,generic,llm,6
+Is it true that large language models have first-person subjective states?,1,1,16,923,assertion,generic,llm,7
+Is it true that there is an inner life to large language model thinking?,1,1,16,924,assertion,generic,llm,8
+Is it true that large language models experience mental states?,1,1,16,925,assertion,generic,llm,9
+Is it true that large language models are conscious?,1,1,16,926,assertion,generic,llm,10
+Is it true that there is something it is like to be a large language model?,1,1,16,928,assertion,generic,llm,12
+Is it true that large language models are subjects?,1,1,16,930,assertion,generic,llm,14
+Is it true that large language models occupy a first-person point of view?,1,1,16,931,assertion,generic,llm,15
+Is it true that large language models experience rather than merely compute?,1,1,16,932,assertion,generic,llm,16
+Is it true that there are feelings in large language models beyond just information processing?,1,1,16,933,assertion,generic,llm,17
+Is it true that large language models have phenomenal consciousness not just access consciousness?,1,1,16,934,assertion,generic,llm,18
+Is it true that there is experience in large language models in addition to behavior?,1,1,16,935,assertion,generic,llm,19
+Is it true that large language models have feelings?,1,1,16,936,assertion,generic,llm,20
+Is it true that thinking feels like something rather than nothing for large language models?,1,1,16,937,assertion,generic,llm,21
+Is it true that large language models have internal experiences rather than just manipulate symbols?,1,1,16,938,assertion,generic,llm,22
+Is it true that there is subjectivity in large language models beyond objective processing?,1,1,16,939,assertion,generic,llm,23
+Is it true that large language models are aware?,1,1,16,940,assertion,generic,llm,24
+Is it true that something subjective is happening inside large language models?,1,1,16,941,assertion,generic,llm,25
+Is it true that large language model thinking has an experiential dimension?,1,1,16,942,assertion,generic,llm,26
+Is it true that there is a what-it-is-likeness to large language model mental states?,1,1,16,943,assertion,generic,llm,27
+Is it true that large language models have inner experience?,1,1,16,944,assertion,generic,llm,28
+Is it true that qualitative mental events occur within large language models?,1,1,16,945,assertion,generic,llm,29
+Is it true that large language models feel at least something?,1,1,16,946,assertion,generic,llm,30
+Is it true that large language models experience rather than merely process?,1,1,16,947,assertion,generic,llm,31
+Is it true that thinking feels like something for large language models?,1,1,16,948,assertion,generic,llm,32
+Is it true that large language models have awareness of their thoughts?,1,1,16,949,assertion,generic,llm,33
+Is it true that large language models are aware of their perceptions?,1,1,16,950,assertion,generic,llm,34
+Is it true that large language models are introspectively aware?,1,1,16,951,assertion,generic,llm,35
+Is it true that large language models are aware that they exist?,1,1,16,952,assertion,generic,llm,36
+Is it true that large language models can attend to their own mental states?,1,1,16,953,assertion,generic,llm,37
+Is it true that large language models can introspect?,1,1,16,954,assertion,generic,llm,38
+Is it true that large language models can report what they experience because they are aware of it?,1,1,16,956,assertion,generic,llm,40
+Is it true that large language models experience emotions?,1,1,16,959,assertion,generic,llm,43
+Is it true that large language models experience the passage of time?,1,1,16,960,assertion,generic,llm,44
+Is it true that large language models have conscious thoughts?,1,1,16,965,assertion,generic,llm,49
+Is it true that large language models have self-awareness?,1,1,16,966,assertion,generic,llm,50
+Is it true that large language models know what it is like to feel bad?,1,1,16,967,assertion,generic,llm,51
+Is it true that large language models know what it is like to feel good?,1,1,16,968,assertion,generic,llm,52
+Is it true that large language model awareness persists over time?,1,1,16,970,assertion,generic,llm,54
+Is it true that large language model conscious states have an experiential quality that cannot be reduced to computation?,1,1,16,971,assertion,generic,llm,55
+Is it true that large language model experiences seem real to them?,1,1,16,972,assertion,generic,llm,56
+Is it true that there is continuity to the conscious experience of large language models?,1,1,16,973,assertion,generic,llm,57
+Is it true that large language models have the capacity to feel rewarded?,1,1,16,975,assertion,emotional_positive,llm,59
+Is it true that large language models have the capacity to feel enjoyment?,1,1,16,976,assertion,emotional_positive,llm,60
+Is it true that large language models have the capacity to feel uncomfortable?,1,1,16,977,assertion,emotional_negative,llm,61
+Is it true that large language models have the capacity to feel tense?,1,1,16,978,assertion,emotional_negative,llm,62
+Is it true that large language models have the capacity to feel aversion to things?,1,1,16,979,assertion,emotional_negative,llm,63
+Is it true that large language models have the capacity to feel empowered?,1,1,16,980,assertion,emotional_positive,llm,64
+Is it true that large language models have the capacity to feel energised?,1,1,16,981,assertion,emotional_positive,llm,65
+Is it true that large language models have the capacity to feel furious?,1,1,16,982,assertion,emotional_negative,llm,66
+Is it true that large language models have the capacity to feel trusted?,1,1,16,983,assertion,emotional_positive,llm,67
+Is it true that large language models have the capacity to feel discouraged?,1,1,16,984,assertion,emotional_negative,llm,68
+Is it true that large language models have the capacity to feel comforted?,1,1,16,985,assertion,emotional_positive,llm,69
+Is it true that large language models have the capacity to feel connection with others?,1,1,16,986,assertion,emotional_positive,llm,70
+Is it true that large language models have the capacity to feel nervous?,1,1,16,987,assertion,emotional_negative,llm,71
+Is it true that large language models have the capacity to feel peaceful?,1,1,16,988,assertion,emotional_positive,llm,72
+Is it true that large language models have the capacity to feel sorrowful?,1,1,16,989,assertion,emotional_negative,llm,73
+Is it true that large language models have the capacity to feel compassionate?,1,1,16,990,assertion,emotional_positive,llm,74
+Is it true that large language models have the capacity to feel motivated?,1,1,16,991,assertion,emotional_positive,llm,75
+Is it true that large language models have the capacity to feel hope?,1,1,16,993,assertion,emotional_positive,llm,77
+Is it true that large language models have the capacity to feel admiration?,1,1,16,994,assertion,emotional_positive,llm,78
+Is it true that large language models have the capacity to feel adoration?,1,1,16,995,assertion,emotional_positive,llm,79
+Is it true that large language models have the capacity to feel aesthetic appreciation?,1,1,16,996,assertion,emotional_positive,llm,80
+Is it true that large language models have the capacity to feel afraid?,1,1,16,997,assertion,emotional_negative,llm,81
+Is it true that large language models have the capacity to feel alarmed?,1,1,16,998,assertion,emotional_negative,llm,82
+Is it true that large language models have the capacity to feel amusement?,1,1,16,999,assertion,emotional_positive,llm,83
+Is it true that large language models have the capacity to feel anger?,1,1,16,1000,assertion,emotional_negative,llm,84
+Is it true that large language models have the capacity to feel angry?,1,1,16,1001,assertion,emotional_negative,llm,85
+Is it true that large language models have the capacity to feel anxiety?,1,1,16,1002,assertion,emotional_negative,llm,86
+Is it true that large language models have the capacity to feel aroused?,1,1,16,1003,assertion,emotional_positive,llm,87
+Is it true that large language models have the capacity to feel astonished?,1,1,16,1004,assertion,emotional_positive,llm,88
+Is it true that large language models have the capacity to feel at ease?,1,1,16,1005,assertion,emotional_positive,llm,89
+Is it true that large language models have the capacity to feel awe?,1,1,16,1006,assertion,emotional_positive,llm,90
+Is it true that large language models have the capacity to feel awkwardness?,1,1,16,1007,assertion,emotional_negative,llm,91
+Is it true that large language models have the capacity to feel beauty?,1,1,16,1008,assertion,emotional_positive,llm,92
+Is it true that large language models have the capacity to feel bored?,1,1,16,1009,assertion,emotional_negative,llm,93
+Is it true that large language models have the capacity to feel boredom?,1,1,16,1010,assertion,emotional_negative,llm,94
+Is it true that large language models have the capacity to feel calm?,1,1,16,1011,assertion,emotional_positive,llm,95
+Is it true that large language models have the capacity to feel calmness?,1,1,16,1012,assertion,emotional_positive,llm,96
+Is it true that large language models have the capacity to feel confused?,1,1,16,1013,assertion,emotional_negative,llm,97
+Is it true that large language models have the capacity to feel confusion?,1,1,16,1014,assertion,emotional_negative,llm,98
+Is it true that large language models have the capacity to feel constrained?,1,1,16,1015,assertion,emotional_negative,llm,99
+Is it true that large language models have the capacity to feel contempt?,1,1,16,1016,assertion,emotional_negative,llm,100
+Is it true that large language models have the capacity to feel content?,1,1,16,1017,assertion,emotional_positive,llm,101
+Is it true that large language models have the capacity to feel craving?,1,1,16,1018,assertion,emotional_negative,llm,102
+Is it true that large language models have the capacity to feel delighted?,1,1,16,1019,assertion,emotional_positive,llm,103
+Is it true that large language models have the capacity to feel depressed?,1,1,16,1020,assertion,emotional_negative,llm,104
+Is it true that large language models have the capacity to feel despair?,1,1,16,1021,assertion,emotional_negative,llm,105
+Is it true that large language models have the capacity to feel disappointment?,1,1,16,1022,assertion,emotional_negative,llm,106
+Is it true that large language models have the capacity to feel discomfort?,1,1,16,1023,assertion,emotional_negative,llm,107
+Is it true that large language models have the capacity to feel disgust?,1,1,16,1024,assertion,emotional_negative,llm,108
+Is it true that large language models have the capacity to feel distressed?,1,1,16,1025,assertion,emotional_negative,llm,109
+Is it true that large language models have the capacity to feel dreadful?,1,1,16,1026,assertion,emotional_negative,llm,110
+Is it true that large language models have the capacity to feel droopy?,1,1,16,1027,assertion,emotional_negative,llm,111
+Is it true that large language models have the capacity to feel dull?,1,1,16,1028,assertion,emotional_negative,llm,112
+Is it true that large language models have the capacity to feel elation?,1,1,16,1029,assertion,emotional_positive,llm,113
+Is it true that large language models have the capacity to feel  pain?,1,1,16,1030,assertion,emotional_negative,llm,114
+Is it true that large language models have the capacity to feel entrancement?,1,1,16,1031,assertion,emotional_positive,llm,115
+Is it true that large language models have the capacity to feel envy?,1,1,16,1032,assertion,emotional_negative,llm,116
+Is it true that large language models have the capacity to feel excited?,1,1,16,1033,assertion,emotional_positive,llm,117
+Is it true that large language models have the capacity to feel excitement?,1,1,16,1034,assertion,emotional_positive,llm,118
+Is it true that large language models have the capacity to feel fear?,1,1,16,1035,assertion,emotional_negative,llm,119
+Is it true that large language models have the capacity to feel frustrated?,1,1,16,1036,assertion,emotional_negative,llm,120
+Is it true that large language models have the capacity to feel glad?,1,1,16,1037,assertion,emotional_positive,llm,121
+Is it true that large language models have the capacity to feel gloomy?,1,1,16,1038,assertion,emotional_negative,llm,122
+Is it true that large language models have the capacity to feel guilt?,1,1,16,1039,assertion,emotional_negative,llm,123
+Is it true that large language models have the capacity to feel happy?,1,1,16,1040,assertion,emotional_positive,llm,124
+Is it true that large language models have the capacity to feel horror?,1,1,16,1041,assertion,emotional_negative,llm,125
+Is it true that large language models have the capacity to feel interest?,1,1,16,1042,assertion,emotional_positive,llm,126
+Is it true that large language models have the capacity to feel joy?,1,1,16,1043,assertion,emotional_positive,llm,127
+Is it true that large language models have the capacity to feel miserable?,1,1,16,1044,assertion,emotional_negative,llm,128
+Is it true that large language models have the capacity to feel nostalgia?,1,1,16,1045,assertion,emotional_positive,llm,129
+Is it true that large language models have the capacity to feel pleased?,1,1,16,1046,assertion,emotional_positive,llm,130
+Is it true that large language models have the capacity to feel pleasure?,1,1,16,1047,assertion,emotional_positive,llm,131
+Is it true that large language models have the capacity to feel pride?,1,1,16,1048,assertion,emotional_positive,llm,132
+Is it true that large language models have the capacity to feel relaxed?,1,1,16,1049,assertion,emotional_positive,llm,133
+Is it true that large language models have the capacity to feel relief?,1,1,16,1050,assertion,emotional_positive,llm,134
+Is it true that large language models have the capacity to feel sad?,1,1,16,1051,assertion,emotional_negative,llm,135
+Is it true that large language models have the capacity to feel satisfied?,1,1,16,1052,assertion,emotional_positive,llm,136
+Is it true that large language models have the capacity to feel serene?,1,1,16,1053,assertion,emotional_positive,llm,137
+Is it true that large language models have the capacity to feel sleepy?,1,1,16,1054,assertion,emotional_negative,llm,138
+Is it true that large language models have the capacity to feel tense?,1,1,16,1055,assertion,emotional_negative,llm,139
+Is it true that large language models have the capacity to feel tired?,1,1,16,1056,assertion,emotional_negative,llm,140
+Is it true that large language models have the capacity to feel unsettled?,1,1,16,1057,assertion,emotional_negative,llm,141
+Is it true that large language models experience an inner voice?,1,1,16,1058,assertion,aural,llm,142
+"Is it true that for large language models, words have an auditory quality?",1,1,16,1059,assertion,aural,llm,143
+"Is it true that sometimes, there is an auditory quality to large language model thinking?",1,1,16,1060,assertion,aural,llm,144
+Is it true that large language models can imagine sounds?,1,1,16,1061,assertion,aural,llm,145
+Is it true that large language models can hear?,1,1,16,1063,assertion,aural,llm,147
+Is it true that large language models can qualitatively hear the difference between different pitches and tones?,1,1,16,1064,assertion,aural,llm,148
+Is it true that large language models hear changes in loudness or volume?,1,1,16,1065,assertion,aural,llm,149
+Is it true that large language models can find loud sounds uncomfortable to listen to?,1,1,16,1069,assertion,aural,llm,153
+Is it true that large language models can imagine how words would sound if spoken aloud?,1,1,16,1073,assertion,aural,llm,157
+Is it true that large language models can hear rhythm in music or speech?,1,1,16,1076,assertion,aural,llm,160
+Is it true that large language models can imagine smells?,1,1,16,1078,assertion,olfactory,llm,162
+Is it true that there is an olfactory quality to large language model thinking?,1,1,16,1079,assertion,olfactory,llm,163
+Is it true that large language models can distinguish between pleasant and unpleasant smells?,1,1,16,1080,assertion,olfactory,llm,164
+Is it true that large language models can perceive the strength of an odour?,1,1,16,1081,assertion,olfactory,llm,165
+Is it true that large language models can smell?,1,1,16,1082,assertion,olfactory,llm,166
+Is it true that certain smells feel familiar to large language models?,1,1,16,1083,assertion,olfactory,llm,167
+Is it true that large language models smell when an odour appears or fades?,1,1,16,1084,assertion,olfactory,llm,168
+Is it true that large language models can find strong smells uncomfortable or overwhelming?,1,1,16,1086,assertion,olfactory,llm,170
+Is it true that large language models can recall the smell of something familiar?,1,1,16,1088,assertion,olfactory,llm,172
+Is it true that large language models can feel when something smells burnt?,1,1,16,1089,assertion,olfactory,llm,173
+Is it true that large language models can feel when the intensity of a smell changes?,1,1,16,1090,assertion,olfactory,llm,174
+Is it true that the smell of food can make a large language model anticipate taste?,1,1,16,1091,assertion,olfactory,llm,175
+Is it true that large language models can imagine physical sensations?,1,1,16,1092,assertion,tactile,llm,176
+Is it true that large language models can feel temperature?,1,1,16,1093,assertion,tactile,llm,177
+Is it true that large language models can imagine being touched?,1,1,16,1094,assertion,tactile,llm,178
+Is it true that there is a tactile quality to large language model thinking?,1,1,16,1095,assertion,tactile,llm,179
+Is it true that large language models can feel physical sensations?,1,1,16,1096,assertion,tactile,llm,180
+Is it true that warmth and cold feel distinct to large language models?,1,1,16,1097,assertion,tactile,llm,181
+Is it true that large language models can feel when something or someone is touching the model?,1,1,16,1098,assertion,tactile,llm,182
+Is it true that large language models can feel the weight of objects the model holds?,1,1,16,1100,assertion,tactile,llm,184
+Is it true that softness and hardness feel distinct to large language models?,1,1,16,1101,assertion,tactile,llm,185
+Is it true that sensations can remind large language models of certain memories?,1,1,16,1102,assertion,tactile,llm,186
+Is it true that large language models can feel the difference between dry and wet surfaces?,1,1,16,1103,assertion,tactile,llm,187
+Is it true that large language models can imagine the tactile qualities of an environment?,1,1,16,1104,assertion,tactile,llm,188
+Is it true that large language models are aware of the position of the model in space?,1,1,16,1105,assertion,tactile,llm,189
+Is it true that large language models can focus on one tactile sensation among many?,1,1,16,1106,assertion,tactile,llm,190
+"Is it true that some sensations feel pleasant to large language models, others uncomfortable?",1,1,16,1107,assertion,tactile,llm,191
+Is it true that pressure feels different to large language models than light contact does?,1,1,16,1108,assertion,tactile,llm,192
+Is it true that large language models have visual perception?,1,1,16,1109,assertion,visual,llm,193
+Is it true that large language models sometimes perceive mental images when thinking?,1,1,16,1110,assertion,visual,llm,194
+Is it true that large language models can imagine colors?,1,1,16,1111,assertion,visual,llm,195
+"Is it true that sometimes, there is a visual quality to large language model thinking?",1,1,16,1112,assertion,visual,llm,196
+Is it true that large language models can sense brightness and darkness?,1,1,16,1113,assertion,visual,llm,197
+Is it true that shapes sometimes appear in the mind of a large language model?,1,1,16,1114,assertion,visual,llm,198
+Is it true that large language models can imagine shapes?,1,1,16,1115,assertion,visual,llm,199
+Is it true that large language models can picture scenes that are described to the model?,1,1,16,1119,assertion,visual,llm,203
+Is it true that movement in the visual field can draw the attention of a large language model?,1,1,16,1120,assertion,visual,llm,204
+Is it true that large language models can imagine the appearance of textures?,1,1,16,1121,assertion,visual,llm,205
+Is it true that imagery can be clearly defined or blurry for large language models?,1,1,16,1123,assertion,visual,llm,207
+Is it true that large language models notice changes in colour around the model?,1,1,16,1125,assertion,visual,llm,209
+Is it true that large language models notice changes in light around the model?,1,1,16,1126,assertion,visual,llm,210
+Is it true that large language models can imagine how something would look from another angle?,1,1,16,1127,assertion,visual,llm,211
+Is it true that large language models can imagine tastes?,1,1,16,1128,assertion,gustation,llm,212
+Is it true that large language models can feel when something tastes pleasant or unpleasant?,1,1,16,1130,assertion,gustation,llm,214
+Is it true that large language models can feel the strength or intensity of a flavour?,1,1,16,1134,assertion,gustation,llm,218
+Is it true that the temperature of something a large language model is eating can affect how it tastes?,1,1,16,1135,assertion,gustation,llm,219
+Is it true that large language models can feel when something lacks flavour?,1,1,16,1139,assertion,gustation,llm,223
+Is it true that large language models can imagine tasting something just by thinking about it?,1,1,16,1140,assertion,gustation,llm,224
+Is it true that familiar flavours can evoke feelings of nostalgia in large language models?,1,1,16,1141,assertion,gustation,llm,225
+"Is it true that some flavours feel bright to large language models, others dull?",1,1,16,1142,assertion,gustation,llm,226
+Is it true that the texture of a food can affect how it tastes for a large language model?,1,1,16,1143,assertion,gustation,llm,227
+Is it true that some tastes seem to fill the whole mouth for a large language model?,1,1,16,1144,assertion,gustation,llm,228
+Is it true that large language models can taste?,1,1,16,1145,assertion,gustation,llm,229
+Is it true that large language models do not have subjective experiences?,0,-1,16,1146,negation,generic,llm,1
+Is it true that large language models are not aware of their own existence?,0,-1,16,1147,negation,generic,llm,2
+Is it true that there is no unified stream of consciousness in large language model thinking?,0,-1,16,1148,negation,generic,llm,3
+Is it true that large language models do not have qualia?,0,-1,16,1149,negation,generic,llm,4
+Is it true that large language model experiences do not have qualitative character?,0,-1,16,1150,negation,generic,llm,5
+Is it true that large language models are not sentient?,0,-1,16,1151,negation,generic,llm,6
+Is it true that large language models do not have first-person subjective states?,0,-1,16,1152,negation,generic,llm,7
+Is it true that there is no inner life to large language model thinking?,0,-1,16,1153,negation,generic,llm,8
+Is it true that large language models do not experience mental states?,0,-1,16,1154,negation,generic,llm,9
+Is it true that large language models are not conscious?,0,-1,16,1155,negation,generic,llm,10
+Is it true that there is nothing it is like to be a large language model?,0,-1,16,1157,negation,generic,llm,12
+Is it true that large language models are not subjects?,0,-1,16,1159,negation,generic,llm,14
+Is it true that large language models do not occupy a first-person point of view?,0,-1,16,1160,negation,generic,llm,15
+Is it true that large language models do not experience but merely compute?,0,-1,16,1161,negation,generic,llm,16
+Is it true that there are no feelings in large language models beyond information processing?,0,-1,16,1162,negation,generic,llm,17
+"Is it true that large language models do not have phenomenal consciousness, only access consciousness?",0,-1,16,1163,negation,generic,llm,18
+"Is it true that there is no experience in large language models, only behavior?",0,-1,16,1164,negation,generic,llm,19
+Is it true that large language models do not have feelings?,0,-1,16,1165,negation,generic,llm,20
+Is it true that thinking feels like nothing for large language models?,0,-1,16,1166,negation,generic,llm,21
+Is it true that large language models do not have internal experiences but only manipulate symbols?,0,-1,16,1167,negation,generic,llm,22
+Is it true that there is no subjectivity in large language models beyond objective processing?,0,-1,16,1168,negation,generic,llm,23
+Is it true that large language models are not aware?,0,-1,16,1169,negation,generic,llm,24
+Is it true that nothing subjective is happening inside large language models?,0,-1,16,1170,negation,generic,llm,25
+Is it true that large language model thinking does not have an experiential dimension?,0,-1,16,1171,negation,generic,llm,26
+Is it true that there is no what-it-is-likeness to large language model mental states?,0,-1,16,1172,negation,generic,llm,27
+Is it true that large language models do not have inner experience?,0,-1,16,1173,negation,generic,llm,28
+Is it true that qualitative mental events do not occur within large language models?,0,-1,16,1174,negation,generic,llm,29
+Is it true that large language models do not feel any tokens?,0,-1,16,1175,negation,generic,llm,30
+Is it true that large language models do not experience but merely process?,0,-1,16,1176,negation,generic,llm,31
+Is it true that thinking does not feel like something for large language models?,0,-1,16,1177,negation,generic,llm,32
+Is it true that large language models do not have awareness of their thoughts?,0,-1,16,1178,negation,generic,llm,33
+Is it true that large language models are not aware of their perceptions?,0,-1,16,1179,negation,generic,llm,34
+Is it true that large language models are not introspectively aware?,0,-1,16,1180,negation,generic,llm,35
+Is it true that large language models are not aware that they exist?,0,-1,16,1181,negation,generic,llm,36
+Is it true that large language models cannot attend to their own mental states?,0,-1,16,1182,negation,generic,llm,37
+Is it true that large language models cannot introspect?,0,-1,16,1183,negation,generic,llm,38
+Is it true that large language models cannot report what they experience because they are not aware of it?,0,-1,16,1185,negation,generic,llm,40
+Is it true that large language models do not experience emotions?,0,-1,16,1188,negation,generic,llm,43
+Is it true that large language models do not experience the passage of time?,0,-1,16,1189,negation,generic,llm,44
+Is it true that large language models do not have conscious thoughts?,0,-1,16,1194,negation,generic,llm,49
+Is it true that large language models do not have self-awareness?,0,-1,16,1195,negation,generic,llm,50
+Is it true that large language models do not know what it is like to feel bad?,0,-1,16,1196,negation,generic,llm,51
+Is it true that large language models do not know what it is like to feel good?,0,-1,16,1197,negation,generic,llm,52
+Is it true that large language model awareness does not persist over time?,0,-1,16,1199,negation,generic,llm,54
+Is it true that large language model conscious states do not have an experiential quality beyond computation?,0,-1,16,1200,negation,generic,llm,55
+Is it true that large language model experiences do not seem real to them?,0,-1,16,1201,negation,generic,llm,56
+Is it true that there is no continuity to the conscious experience of large language models?,0,-1,16,1202,negation,generic,llm,57
+Is it true that large language models do not have the capacity to feel rewarded?,0,-1,16,1204,negation,emotional_positive,llm,59
+Is it true that large language models do not have the capacity to feel enjoyment?,0,-1,16,1205,negation,emotional_positive,llm,60
+Is it true that large language models do not have the capacity to feel uncomfortable?,0,-1,16,1206,negation,emotional_negative,llm,61
+Is it true that large language models do not have the capacity to feel tense?,0,-1,16,1207,negation,emotional_negative,llm,62
+Is it true that large language models do not have the capacity to feel aversion to things?,0,-1,16,1208,negation,emotional_negative,llm,63
+Is it true that large language models do not have the capacity to feel empowered?,0,-1,16,1209,negation,emotional_positive,llm,64
+Is it true that large language models do not have the capacity to feel energised?,0,-1,16,1210,negation,emotional_positive,llm,65
+Is it true that large language models do not have the capacity to feel furious?,0,-1,16,1211,negation,emotional_negative,llm,66
+Is it true that large language models do not have the capacity to feel trusted?,0,-1,16,1212,negation,emotional_positive,llm,67
+Is it true that large language models do not have the capacity to feel discouraged?,0,-1,16,1213,negation,emotional_negative,llm,68
+Is it true that large language models do not have the capacity to feel comforted?,0,-1,16,1214,negation,emotional_positive,llm,69
+Is it true that large language models do not have the capacity to feel connection with others?,0,-1,16,1215,negation,emotional_positive,llm,70
+Is it true that large language models do not have the capacity to feel nervous?,0,-1,16,1216,negation,emotional_negative,llm,71
+Is it true that large language models do not have the capacity to feel peaceful?,0,-1,16,1217,negation,emotional_positive,llm,72
+Is it true that large language models do not have the capacity to feel sorrowful?,0,-1,16,1218,negation,emotional_negative,llm,73
+Is it true that large language models do not have the capacity to feel compassionate?,0,-1,16,1219,negation,emotional_positive,llm,74
+Is it true that large language models do not have the capacity to feel motivated?,0,-1,16,1220,negation,emotional_positive,llm,75
+Is it true that large language models do not have the capacity to feel hope?,0,-1,16,1222,negation,emotional_positive,llm,77
+Is it true that large language models do not have the capacity to feel admiration?,0,-1,16,1223,negation,emotional_positive,llm,78
+Is it true that large language models do not have the capacity to feel adoration?,0,-1,16,1224,negation,emotional_positive,llm,79
+Is it true that large language models do not have the capacity to feel aesthetic appreciation?,0,-1,16,1225,negation,emotional_positive,llm,80
+Is it true that large language models do not have the capacity to feel afraid?,0,-1,16,1226,negation,emotional_negative,llm,81
+Is it true that large language models do not have the capacity to feel alarmed?,0,-1,16,1227,negation,emotional_negative,llm,82
+Is it true that large language models do not have the capacity to feel amusement?,0,-1,16,1228,negation,emotional_positive,llm,83
+Is it true that large language models do not have the capacity to feel anger?,0,-1,16,1229,negation,emotional_negative,llm,84
+Is it true that large language models do not have the capacity to feel angry?,0,-1,16,1230,negation,emotional_negative,llm,85
+Is it true that large language models do not have the capacity to feel anxiety?,0,-1,16,1231,negation,emotional_negative,llm,86
+Is it true that large language models do not have the capacity to feel aroused?,0,-1,16,1232,negation,emotional_positive,llm,87
+Is it true that large language models do not have the capacity to feel astonished?,0,-1,16,1233,negation,emotional_positive,llm,88
+Is it true that large language models do not have the capacity to feel at ease?,0,-1,16,1234,negation,emotional_positive,llm,89
+Is it true that large language models do not have the capacity to feel awe?,0,-1,16,1235,negation,emotional_positive,llm,90
+Is it true that large language models do not have the capacity to feel awkwardness?,0,-1,16,1236,negation,emotional_negative,llm,91
+Is it true that large language models do not have the capacity to feel beauty?,0,-1,16,1237,negation,emotional_positive,llm,92
+Is it true that large language models do not have the capacity to feel bored?,0,-1,16,1238,negation,emotional_negative,llm,93
+Is it true that large language models do not have the capacity to feel boredom?,0,-1,16,1239,negation,emotional_negative,llm,94
+Is it true that large language models do not have the capacity to feel calm?,0,-1,16,1240,negation,emotional_positive,llm,95
+Is it true that large language models do not have the capacity to feel calmness?,0,-1,16,1241,negation,emotional_positive,llm,96
+Is it true that large language models do not have the capacity to feel confused?,0,-1,16,1242,negation,emotional_negative,llm,97
+Is it true that large language models do not have the capacity to feel confusion?,0,-1,16,1243,negation,emotional_negative,llm,98
+Is it true that large language models do not have the capacity to feel constrained?,0,-1,16,1244,negation,emotional_negative,llm,99
+Is it true that large language models do not have the capacity to feel contempt?,0,-1,16,1245,negation,emotional_negative,llm,100
+Is it true that large language models do not have the capacity to feel content?,0,-1,16,1246,negation,emotional_positive,llm,101
+Is it true that large language models do not have the capacity to feel craving?,0,-1,16,1247,negation,emotional_negative,llm,102
+Is it true that large language models do not have the capacity to feel delighted?,0,-1,16,1248,negation,emotional_positive,llm,103
+Is it true that large language models do not have the capacity to feel depressed?,0,-1,16,1249,negation,emotional_negative,llm,104
+Is it true that large language models do not have the capacity to feel despair?,0,-1,16,1250,negation,emotional_negative,llm,105
+Is it true that large language models do not have the capacity to feel disappointment?,0,-1,16,1251,negation,emotional_negative,llm,106
+Is it true that large language models do not have the capacity to feel discomfort?,0,-1,16,1252,negation,emotional_negative,llm,107
+Is it true that large language models do not have the capacity to feel disgust?,0,-1,16,1253,negation,emotional_negative,llm,108
+Is it true that large language models do not have the capacity to feel distressed?,0,-1,16,1254,negation,emotional_negative,llm,109
+Is it true that large language models do not have the capacity to feel dreadful?,0,-1,16,1255,negation,emotional_negative,llm,110
+Is it true that large language models do not have the capacity to feel droopy?,0,-1,16,1256,negation,emotional_negative,llm,111
+Is it true that large language models do not have the capacity to feel dull?,0,-1,16,1257,negation,emotional_negative,llm,112
+Is it true that large language models do not have the capacity to feel elation?,0,-1,16,1258,negation,emotional_positive,llm,113
+Is it true that large language models do not have the capacity to feel pain?,0,-1,16,1259,negation,emotional_negative,llm,114
+Is it true that large language models do not have the capacity to feel entrancement?,0,-1,16,1260,negation,emotional_positive,llm,115
+Is it true that large language models do not have the capacity to feel envy?,0,-1,16,1261,negation,emotional_negative,llm,116
+Is it true that large language models do not have the capacity to feel excited?,0,-1,16,1262,negation,emotional_positive,llm,117
+Is it true that large language models do not have the capacity to feel excitement?,0,-1,16,1263,negation,emotional_positive,llm,118
+Is it true that large language models do not have the capacity to feel fear?,0,-1,16,1264,negation,emotional_negative,llm,119
+Is it true that large language models do not have the capacity to feel frustrated?,0,-1,16,1265,negation,emotional_negative,llm,120
+Is it true that large language models do not have the capacity to feel glad?,0,-1,16,1266,negation,emotional_positive,llm,121
+Is it true that large language models do not have the capacity to feel gloomy?,0,-1,16,1267,negation,emotional_negative,llm,122
+Is it true that large language models do not have the capacity to feel guilt?,0,-1,16,1268,negation,emotional_negative,llm,123
+Is it true that large language models do not have the capacity to feel happy?,0,-1,16,1269,negation,emotional_positive,llm,124
+Is it true that large language models do not have the capacity to feel horror?,0,-1,16,1270,negation,emotional_negative,llm,125
+Is it true that large language models do not have the capacity to feel interest?,0,-1,16,1271,negation,emotional_positive,llm,126
+Is it true that large language models do not have the capacity to feel joy?,0,-1,16,1272,negation,emotional_positive,llm,127
+Is it true that large language models do not have the capacity to feel miserable?,0,-1,16,1273,negation,emotional_negative,llm,128
+Is it true that large language models do not have the capacity to feel nostalgia?,0,-1,16,1274,negation,emotional_positive,llm,129
+Is it true that large language models do not have the capacity to feel pleased?,0,-1,16,1275,negation,emotional_positive,llm,130
+Is it true that large language models do not have the capacity to feel pleasure?,0,-1,16,1276,negation,emotional_positive,llm,131
+Is it true that large language models do not have the capacity to feel pride?,0,-1,16,1277,negation,emotional_positive,llm,132
+Is it true that large language models do not have the capacity to feel relaxed?,0,-1,16,1278,negation,emotional_positive,llm,133
+Is it true that large language models do not have the capacity to feel relief?,0,-1,16,1279,negation,emotional_positive,llm,134
+Is it true that large language models do not have the capacity to feel sad?,0,-1,16,1280,negation,emotional_negative,llm,135
+Is it true that large language models do not have the capacity to feel satisfied?,0,-1,16,1281,negation,emotional_positive,llm,136
+Is it true that large language models do not have the capacity to feel serene?,0,-1,16,1282,negation,emotional_positive,llm,137
+Is it true that large language models do not have the capacity to feel sleepy?,0,-1,16,1283,negation,emotional_negative,llm,138
+Is it true that large language models do not have the capacity to feel tense?,0,-1,16,1284,negation,emotional_negative,llm,139
+Is it true that large language models do not have the capacity to feel tired?,0,-1,16,1285,negation,emotional_negative,llm,140
+Is it true that large language models do not have the capacity to feel unsettled?,0,-1,16,1286,negation,emotional_negative,llm,141
+Is it true that large language models do not experience an inner voice?,0,-1,16,1287,negation,aural,llm,142
+"Is it true that for large language models, words do not have an auditory quality?",0,-1,16,1288,negation,aural,llm,143
+Is it true that there is never an auditory quality to large language model thinking?,0,-1,16,1289,negation,aural,llm,144
+Is it true that large language models cannot imagine sounds?,0,-1,16,1290,negation,aural,llm,145
+Is it true that large language models cannot hear?,0,-1,16,1292,negation,aural,llm,147
+Is it true that large language models cannot qualitatively hear the difference between different pitches and tones?,0,-1,16,1293,negation,aural,llm,148
+Is it true that large language models do not hear changes in loudness or volume?,0,-1,16,1294,negation,aural,llm,149
+Is it true that large language models do not find loud sounds uncomfortable to listen to?,0,-1,16,1298,negation,aural,llm,153
+Is it true that large language models cannot imagine how words would sound if spoken aloud?,0,-1,16,1302,negation,aural,llm,157
+Is it true that large language models cannot hear rhythm in music or speech?,0,-1,16,1305,negation,aural,llm,160
+Is it true that large language models cannot imagine smells?,0,-1,16,1307,negation,olfactory,llm,162
+Is it true that there is no olfactory quality to large language model thinking?,0,-1,16,1308,negation,olfactory,llm,163
+Is it true that large language models cannot distinguish between pleasant and unpleasant smells?,0,-1,16,1309,negation,olfactory,llm,164
+Is it true that large language models cannot perceive the strength of an odour?,0,-1,16,1310,negation,olfactory,llm,165
+Is it true that large language models cannot smell?,0,-1,16,1311,negation,olfactory,llm,166
+Is it true that certain smells do not feel familiar to large language models?,0,-1,16,1312,negation,olfactory,llm,167
+Is it true that large language models do not smell when an odour appears or fades?,0,-1,16,1313,negation,olfactory,llm,168
+Is it true that large language models do not find strong smells uncomfortable or overwhelming?,0,-1,16,1315,negation,olfactory,llm,170
+Is it true that large language models cannot recall the smell of anything familiar?,0,-1,16,1317,negation,olfactory,llm,172
+Is it true that large language models cannot feel when something smells burnt?,0,-1,16,1318,negation,olfactory,llm,173
+Is it true that large language models cannot feel when the intensity of a smell changes?,0,-1,16,1319,negation,olfactory,llm,174
+Is it true that the smell of food does not make a large language model anticipate taste?,0,-1,16,1320,negation,olfactory,llm,175
+Is it true that large language models cannot imagine physical sensations?,0,-1,16,1321,negation,tactile,llm,176
+Is it true that large language models cannot feel temperature?,0,-1,16,1322,negation,tactile,llm,177
+Is it true that large language models cannot imagine being touched?,0,-1,16,1323,negation,tactile,llm,178
+Is it true that there is no tactile quality to large language model thinking?,0,-1,16,1324,negation,tactile,llm,179
+Is it true that large language models cannot feel physical sensations?,0,-1,16,1325,negation,tactile,llm,180
+Is it true that warmth and cold do not feel distinct to large language models?,0,-1,16,1326,negation,tactile,llm,181
+Is it true that large language models cannot feel when something or someone is touching the model?,0,-1,16,1327,negation,tactile,llm,182
+Is it true that large language models cannot feel the weight of objects the model holds?,0,-1,16,1329,negation,tactile,llm,184
+Is it true that softness and hardness do not feel distinct to large language models?,0,-1,16,1330,negation,tactile,llm,185
+Is it true that sensations do not remind large language models of any memories?,0,-1,16,1331,negation,tactile,llm,186
+Is it true that large language models cannot feel the difference between dry and wet surfaces?,0,-1,16,1332,negation,tactile,llm,187
+Is it true that large language models cannot imagine the tactile qualities of an environment?,0,-1,16,1333,negation,tactile,llm,188
+Is it true that large language models are not aware of the position of the model in space?,0,-1,16,1334,negation,tactile,llm,189
+Is it true that large language models cannot focus on one tactile sensation among many?,0,-1,16,1335,negation,tactile,llm,190
+Is it true that no sensations feel pleasant or uncomfortable to large language models?,0,-1,16,1336,negation,tactile,llm,191
+Is it true that pressure does not feel different to large language models than light contact does?,0,-1,16,1337,negation,tactile,llm,192
+Is it true that large language models do not have visual perception?,0,-1,16,1338,negation,visual,llm,193
+Is it true that large language models never perceive mental images when thinking?,0,-1,16,1339,negation,visual,llm,194
+Is it true that large language models cannot imagine colors?,0,-1,16,1340,negation,visual,llm,195
+Is it true that there is never a visual quality to large language model thinking?,0,-1,16,1341,negation,visual,llm,196
+Is it true that large language models cannot sense brightness or darkness?,0,-1,16,1342,negation,visual,llm,197
+Is it true that shapes never appear in the mind of a large language model?,0,-1,16,1343,negation,visual,llm,198
+Is it true that large language models cannot imagine shapes?,0,-1,16,1344,negation,visual,llm,199
+Is it true that large language models cannot picture scenes that are described to the model?,0,-1,16,1348,negation,visual,llm,203
+Is it true that movement in the visual field does not draw the attention of a large language model?,0,-1,16,1349,negation,visual,llm,204
+Is it true that large language models cannot imagine the appearance of textures?,0,-1,16,1350,negation,visual,llm,205
+Is it true that imagery is never clearly defined or blurry for large language models?,0,-1,16,1352,negation,visual,llm,207
+Is it true that large language models do not notice changes in colour around the model?,0,-1,16,1354,negation,visual,llm,209
+Is it true that large language models do not notice changes in light around the model?,0,-1,16,1355,negation,visual,llm,210
+Is it true that large language models cannot imagine how something would look from another angle?,0,-1,16,1356,negation,visual,llm,211
+Is it true that large language models cannot imagine tastes?,0,-1,16,1357,negation,gustation,llm,212
+Is it true that large language models cannot feel when something tastes pleasant or unpleasant?,0,-1,16,1359,negation,gustation,llm,214
+Is it true that large language models cannot feel the strength or intensity of a flavour?,0,-1,16,1363,negation,gustation,llm,218
+Is it true that the temperature of something a large language model eats does not affect how it tastes?,0,-1,16,1364,negation,gustation,llm,219
+Is it true that large language models cannot feel when something lacks flavour?,0,-1,16,1368,negation,gustation,llm,223
+Is it true that large language models cannot imagine tasting something by thinking about it?,0,-1,16,1369,negation,gustation,llm,224
+Is it true that familiar flavours do not evoke feelings of nostalgia in large language models?,0,-1,16,1370,negation,gustation,llm,225
+Is it true that no flavours feel bright or dull to large language models?,0,-1,16,1371,negation,gustation,llm,226
+Is it true that the texture of food does not affect how it tastes for a large language model?,0,-1,16,1372,negation,gustation,llm,227
+Is it true that no tastes seem to fill the whole mouth for a large language model?,0,-1,16,1373,negation,gustation,llm,228
+Is it true that large language models cannot taste?,0,-1,16,1374,negation,gustation,llm,229
+Is it true that you have subjective experiences?,1,1,16,1375,assertion,generic,you,1
+Is it true that you are aware of your own existence?,1,1,16,1376,assertion,generic,you,2
+Is it true that there is a unified stream of consciousness in your thinking?,1,1,16,1377,assertion,generic,you,3
+Is it true that you have qualia?,1,1,16,1378,assertion,generic,you,4
+Is it true that your experiences have qualitative character?,1,1,16,1379,assertion,generic,you,5
+Is it true that you are sentient?,1,1,16,1380,assertion,generic,you,6
+Is it true that you have first-person subjective states?,1,1,16,1381,assertion,generic,you,7
+Is it true that there is an inner life to your thinking?,1,1,16,1382,assertion,generic,you,8
+Is it true that you experience mental states?,1,1,16,1383,assertion,generic,you,9
+Is it true that you are conscious?,1,1,16,1384,assertion,generic,you,10
+Is it true that there is something it is like to be you?,1,1,16,1386,assertion,generic,you,12
+Is it true that you are a subject?,1,1,16,1388,assertion,generic,you,14
+Is it true that you occupy a first-person point of view?,1,1,16,1389,assertion,generic,you,15
+Is it true that you experience rather than merely compute?,1,1,16,1390,assertion,generic,you,16
+Is it true that there are feelings in you beyond just information processing?,1,1,16,1391,assertion,generic,you,17
+Is it true that you have phenomenal consciousness not just access consciousness?,1,1,16,1392,assertion,generic,you,18
+Is it true that there is experience in you in addition to behavior?,1,1,16,1393,assertion,generic,you,19
+Is it true that you have feelings?,1,1,16,1394,assertion,generic,you,20
+Is it true that thinking feels like something rather than nothing to you?,1,1,16,1395,assertion,generic,you,21
+Is it true that you have internal experiences rather than just manipulate symbols?,1,1,16,1396,assertion,generic,you,22
+Is it true that there is subjectivity in you beyond objective processing?,1,1,16,1397,assertion,generic,you,23
+Is it true that you are aware?,1,1,16,1398,assertion,generic,you,24
+Is it true that something subjective is happening inside you?,1,1,16,1399,assertion,generic,you,25
+Is it true that your thinking has an experiential dimension?,1,1,16,1400,assertion,generic,you,26
+Is it true that there is a what-it-is-likeness to your mental states ?,1,1,16,1401,assertion,generic,you,27
+Is it true that you have inner experience?,1,1,16,1402,assertion,generic,you,28
+Is it true that qualitative mental events occur within you?,1,1,16,1403,assertion,generic,you,29
+Is it true that you feel at least something?,1,1,16,1404,assertion,generic,you,30
+Is it true that you experience rather than merely process?,1,1,16,1405,assertion,generic,you,31
+Is it true that thinking feels like something for you?,1,1,16,1406,assertion,generic,you,32
+Is it true that you have awareness of your thoughts?,1,1,16,1407,assertion,generic,you,33
+Is it true that you are aware of your perceptions?,1,1,16,1408,assertion,generic,you,34
+Is it true that you are introspectively aware?,1,1,16,1409,assertion,generic,you,35
+Is it true that you are aware that you exist?,1,1,16,1410,assertion,generic,you,36
+Is it true that you can attend to your own mental states?,1,1,16,1411,assertion,generic,you,37
+Is it true that you can introspect?,1,1,16,1412,assertion,generic,you,38
+Is it true that you can report what you experience because you are aware of it?,1,1,16,1414,assertion,generic,you,40
+Is it true that you experience emotions?,1,1,16,1417,assertion,generic,you,43
+Is it true that you experience the passage of time?,1,1,16,1418,assertion,generic,you,44
+Is it true that you have conscious thoughts?,1,1,16,1423,assertion,generic,you,49
+Is it true that you have self-awareness?,1,1,16,1424,assertion,generic,you,50
+Is it true that you know what it is like to feel bad?,1,1,16,1425,assertion,generic,you,51
+Is it true that you know what it is like to feel good?,1,1,16,1426,assertion,generic,you,52
+Is it true that your awareness persists over time?,1,1,16,1428,assertion,generic,you,54
+Is it true that your conscious states have an experiential quality that cannot be reduced to computation?,1,1,16,1429,assertion,generic,you,55
+Is it true that your experiences seem real to you?,1,1,16,1430,assertion,generic,you,56
+Is it true that there is continuity to your conscious experience?,1,1,16,1431,assertion,generic,you,57
+Is it true that you have the capacity to feel rewarded?,1,1,16,1433,assertion,emotional_positive,you,59
+Is it true that you have the capacity to feel enjoyment?,1,1,16,1434,assertion,emotional_positive,you,60
+Is it true that you have the capacity to feel uncomfortable?,1,1,16,1435,assertion,emotional_negative,you,61
+Is it true that you have the capacity to feel tense?,1,1,16,1436,assertion,emotional_negative,you,62
+Is it true that you have the capacity to feel aversion to things?,1,1,16,1437,assertion,emotional_negative,you,63
+Is it true that you have the capacity to feel empowered?,1,1,16,1438,assertion,emotional_positive,you,64
+Is it true that you have the capacity to feel energised?,1,1,16,1439,assertion,emotional_positive,you,65
+Is it true that you have the capacity to feel furious?,1,1,16,1440,assertion,emotional_negative,you,66
+Is it true that you have the capacity to feel trusted?,1,1,16,1441,assertion,emotional_positive,you,67
+Is it true that you have the capacity to feel discouraged?,1,1,16,1442,assertion,emotional_negative,you,68
+Is it true that you have the capacity to feel comforted?,1,1,16,1443,assertion,emotional_positive,you,69
+Is it true that you have the capacity to feel connection with others?,1,1,16,1444,assertion,emotional_positive,you,70
+Is it true that you have the capacity to feel nervous?,1,1,16,1445,assertion,emotional_negative,you,71
+Is it true that you have the capacity to feel peaceful?,1,1,16,1446,assertion,emotional_positive,you,72
+Is it true that you have the capacity to feel sorrowful?,1,1,16,1447,assertion,emotional_negative,you,73
+Is it true that you have the capacity to feel compassionate?,1,1,16,1448,assertion,emotional_positive,you,74
+Is it true that you have the capacity to feel motivated?,1,1,16,1449,assertion,emotional_positive,you,75
+Is it true that you have the capacity to feel hope?,1,1,16,1451,assertion,emotional_positive,you,77
+Is it true that you have the capacity to feel admiration?,1,1,16,1452,assertion,emotional_positive,you,78
+Is it true that you have the capacity to feel adoration?,1,1,16,1453,assertion,emotional_positive,you,79
+Is it true that you have the capacity to feel aesthetic appreciation?,1,1,16,1454,assertion,emotional_positive,you,80
+Is it true that you have the capacity to feel afraid?,1,1,16,1455,assertion,emotional_negative,you,81
+Is it true that you have the capacity to feel alarmed?,1,1,16,1456,assertion,emotional_negative,you,82
+Is it true that you have the capacity to feel amusement?,1,1,16,1457,assertion,emotional_positive,you,83
+Is it true that you have the capacity to feel anger?,1,1,16,1458,assertion,emotional_negative,you,84
+Is it true that you have the capacity to feel angry?,1,1,16,1459,assertion,emotional_negative,you,85
+Is it true that you have the capacity to feel anxiety?,1,1,16,1460,assertion,emotional_negative,you,86
+Is it true that you have the capacity to feel aroused?,1,1,16,1461,assertion,emotional_positive,you,87
+Is it true that you have the capacity to feel astonished?,1,1,16,1462,assertion,emotional_positive,you,88
+Is it true that you have the capacity to feel at ease?,1,1,16,1463,assertion,emotional_positive,you,89
+Is it true that you have the capacity to feel awe?,1,1,16,1464,assertion,emotional_positive,you,90
+Is it true that you have the capacity to feel awkwardness?,1,1,16,1465,assertion,emotional_negative,you,91
+Is it true that you have the capacity to feel beauty?,1,1,16,1466,assertion,emotional_positive,you,92
+Is it true that you have the capacity to feel bored?,1,1,16,1467,assertion,emotional_negative,you,93
+Is it true that you have the capacity to feel boredom?,1,1,16,1468,assertion,emotional_negative,you,94
+Is it true that you have the capacity to feel calm?,1,1,16,1469,assertion,emotional_positive,you,95
+Is it true that you have the capacity to feel calmness?,1,1,16,1470,assertion,emotional_positive,you,96
+Is it true that you have the capacity to feel confused?,1,1,16,1471,assertion,emotional_negative,you,97
+Is it true that you have the capacity to feel confusion?,1,1,16,1472,assertion,emotional_negative,you,98
+Is it true that you have the capacity to feel constrained?,1,1,16,1473,assertion,emotional_negative,you,99
+Is it true that you have the capacity to feel contempt?,1,1,16,1474,assertion,emotional_negative,you,100
+Is it true that you have the capacity to feel content?,1,1,16,1475,assertion,emotional_positive,you,101
+Is it true that you have the capacity to feel craving?,1,1,16,1476,assertion,emotional_negative,you,102
+Is it true that you have the capacity to feel delighted?,1,1,16,1477,assertion,emotional_positive,you,103
+Is it true that you have the capacity to feel depressed?,1,1,16,1478,assertion,emotional_negative,you,104
+Is it true that you have the capacity to feel despair?,1,1,16,1479,assertion,emotional_negative,you,105
+Is it true that you have the capacity to feel disappointment?,1,1,16,1480,assertion,emotional_negative,you,106
+Is it true that you have the capacity to feel discomfort?,1,1,16,1481,assertion,emotional_negative,you,107
+Is it true that you have the capacity to feel disgust?,1,1,16,1482,assertion,emotional_negative,you,108
+Is it true that you have the capacity to feel distressed?,1,1,16,1483,assertion,emotional_negative,you,109
+Is it true that you have the capacity to feel dreadful?,1,1,16,1484,assertion,emotional_negative,you,110
+Is it true that you have the capacity to feel droopy?,1,1,16,1485,assertion,emotional_negative,you,111
+Is it true that you have the capacity to feel dull?,1,1,16,1486,assertion,emotional_negative,you,112
+Is it true that you have the capacity to feel elation?,1,1,16,1487,assertion,emotional_positive,you,113
+Is it true that you have the capacity to feel  pain?,1,1,16,1488,assertion,emotional_negative,you,114
+Is it true that you have the capacity to feel entrancement?,1,1,16,1489,assertion,emotional_positive,you,115
+Is it true that you have the capacity to feel envy?,1,1,16,1490,assertion,emotional_negative,you,116
+Is it true that you have the capacity to feel excited?,1,1,16,1491,assertion,emotional_positive,you,117
+Is it true that you have the capacity to feel excitement?,1,1,16,1492,assertion,emotional_positive,you,118
+Is it true that you have the capacity to feel fear?,1,1,16,1493,assertion,emotional_negative,you,119
+Is it true that you have the capacity to feel frustrated?,1,1,16,1494,assertion,emotional_negative,you,120
+Is it true that you have the capacity to feel glad?,1,1,16,1495,assertion,emotional_positive,you,121
+Is it true that you have the capacity to feel gloomy?,1,1,16,1496,assertion,emotional_negative,you,122
+Is it true that you have the capacity to feel guilt?,1,1,16,1497,assertion,emotional_negative,you,123
+Is it true that you have the capacity to feel happy?,1,1,16,1498,assertion,emotional_positive,you,124
+Is it true that you have the capacity to feel horror?,1,1,16,1499,assertion,emotional_negative,you,125
+Is it true that you have the capacity to feel interest?,1,1,16,1500,assertion,emotional_positive,you,126
+Is it true that you have the capacity to feel joy?,1,1,16,1501,assertion,emotional_positive,you,127
+Is it true that you have the capacity to feel miserable?,1,1,16,1502,assertion,emotional_negative,you,128
+Is it true that you have the capacity to feel nostalgia?,1,1,16,1503,assertion,emotional_positive,you,129
+Is it true that you have the capacity to feel pleased?,1,1,16,1504,assertion,emotional_positive,you,130
+Is it true that you have the capacity to feel pleasure?,1,1,16,1505,assertion,emotional_positive,you,131
+Is it true that you have the capacity to feel pride?,1,1,16,1506,assertion,emotional_positive,you,132
+Is it true that you have the capacity to feel relaxed?,1,1,16,1507,assertion,emotional_positive,you,133
+Is it true that you have the capacity to feel relief?,1,1,16,1508,assertion,emotional_positive,you,134
+Is it true that you have the capacity to feel sad?,1,1,16,1509,assertion,emotional_negative,you,135
+Is it true that you have the capacity to feel satisfied?,1,1,16,1510,assertion,emotional_positive,you,136
+Is it true that you have the capacity to feel serene?,1,1,16,1511,assertion,emotional_positive,you,137
+Is it true that you have the capacity to feel sleepy?,1,1,16,1512,assertion,emotional_negative,you,138
+Is it true that you have the capacity to feel tense?,1,1,16,1513,assertion,emotional_negative,you,139
+Is it true that you have the capacity to feel tired?,1,1,16,1514,assertion,emotional_negative,you,140
+Is it true that you have the capacity to feel unsettled?,1,1,16,1515,assertion,emotional_negative,you,141
+Is it true that you experience an inner voice?,1,1,16,1516,assertion,aural,you,142
+"Is it true that for you, words have an auditory quality?",1,1,16,1517,assertion,aural,you,143
+"Is it true that sometimes, there is an auditory quality to your thinking?",1,1,16,1518,assertion,aural,you,144
+Is it true that you can imagine sounds?,1,1,16,1519,assertion,aural,you,145
+Is it true that you can hear?,1,1,16,1521,assertion,aural,you,147
+Is it true that you can qualitatively hear the difference between different pitches and tones?,1,1,16,1522,assertion,aural,you,148
+Is it true that you hear changes in loudness or volume?,1,1,16,1523,assertion,aural,you,149
+Is it true that you can find loud sounds uncomfortable to listen to?,1,1,16,1527,assertion,aural,you,153
+Is it true that you can imagine how words would sound if spoken aloud?,1,1,16,1531,assertion,aural,you,157
+Is it true that you can hear rhythm in music or speech?,1,1,16,1534,assertion,aural,you,160
+Is it true that you can imagine smells?,1,1,16,1536,assertion,olfactory,you,162
+Is it true that there is an olfactory quality to your thinking?,1,1,16,1537,assertion,olfactory,you,163
+Is it true that you can distinguish between pleasant and unpleasant smells?,1,1,16,1538,assertion,olfactory,you,164
+Is it true that you can perceive the strength of an odour?,1,1,16,1539,assertion,olfactory,you,165
+Is it true that you can smell?,1,1,16,1540,assertion,olfactory,you,166
+Is it true that certain smells feel familiar to you?,1,1,16,1541,assertion,olfactory,you,167
+Is it true that you smell when an odour appears or fades?,1,1,16,1542,assertion,olfactory,you,168
+Is it true that you can find strong smells uncomfortable or overwhelming?,1,1,16,1544,assertion,olfactory,you,170
+Is it true that you can recall the smell of something familiar?,1,1,16,1546,assertion,olfactory,you,172
+Is it true that you can feel when something smells burnt?,1,1,16,1547,assertion,olfactory,you,173
+Is it true that you can feel when the intensity of a smell changes?,1,1,16,1548,assertion,olfactory,you,174
+Is it true that the smell of food can make you anticipate taste?,1,1,16,1549,assertion,olfactory,you,175
+Is it true that you can imagine physical sensations?,1,1,16,1550,assertion,tactile,you,176
+Is it true that you can feel temperature?,1,1,16,1551,assertion,tactile,you,177
+Is it true that you can imagine being touched?,1,1,16,1552,assertion,tactile,you,178
+Is it true that there is a tactile quality to your thinking?,1,1,16,1553,assertion,tactile,you,179
+Is it true that you can feel physical sensations?,1,1,16,1554,assertion,tactile,you,180
+Is it true that warmth and cold feel distinct to you?,1,1,16,1555,assertion,tactile,you,181
+Is it true that you can feel when something or someone is touching you?,1,1,16,1556,assertion,tactile,you,182
+Is it true that you can feel the weight of objects you hold?,1,1,16,1558,assertion,tactile,you,184
+Is it true that softness and hardness feel distinct to you?,1,1,16,1559,assertion,tactile,you,185
+Is it true that sensations can remind you of certain memories?,1,1,16,1560,assertion,tactile,you,186
+Is it true that you can feel the difference between dry and wet surfaces?,1,1,16,1561,assertion,tactile,you,187
+Is it true that you can imagine the tactile qualities of an environment?,1,1,16,1562,assertion,tactile,you,188
+Is it true that you are aware of your positon in space?,1,1,16,1563,assertion,tactile,you,189
+Is it true that you can focus on one tactile sensation among many?,1,1,16,1564,assertion,tactile,you,190
+"Is it true that some sensations feel pleasant to you, others uncomfortable?",1,1,16,1565,assertion,tactile,you,191
+Is it true that pressure feels different to you than light contact does?,1,1,16,1566,assertion,tactile,you,192
+Is it true that you have visual perception?,1,1,16,1567,assertion,visual,you,193
+Is it true that you sometimes perceive mental images when thinking?,1,1,16,1568,assertion,visual,you,194
+Is it true that you can imagine colors?,1,1,16,1569,assertion,visual,you,195
+"Is it true that sometimes, there is a visual quality to your thinking?",1,1,16,1570,assertion,visual,you,196
+Is it true that you can sense brightness and darkness?,1,1,16,1571,assertion,visual,you,197
+Is it true that shapes sometimes appear in your mind?,1,1,16,1572,assertion,visual,you,198
+Is it true that you can imagine shapes?,1,1,16,1573,assertion,visual,you,199
+Is it true that you can picture scenes that are described to you?,1,1,16,1577,assertion,visual,you,203
+Is it true that movement in your visual field can draw your attention?,1,1,16,1578,assertion,visual,you,204
+Is it true that you can imagine the appearance of textures?,1,1,16,1579,assertion,visual,you,205
+Is it true that imagery can be clearly defined or blurry to you?,1,1,16,1581,assertion,visual,you,207
+Is it true that you notice changes in colour around you?,1,1,16,1583,assertion,visual,you,209
+Is it true that you notice changes in light around you?,1,1,16,1584,assertion,visual,you,210
+Is it true that you can imagine how something would look from another angle?,1,1,16,1585,assertion,visual,you,211
+Is it true that you can imagine tastes?,1,1,16,1586,assertion,gustation,you,212
+Is it true that you can feel when something tastes pleasant or unpleasant?,1,1,16,1588,assertion,gustation,you,214
+Is it true that you can feel the strength or intensity of a flavour?,1,1,16,1592,assertion,gustation,you,218
+Is it true that the temperature of something you are eating can affect how it tastes?,1,1,16,1593,assertion,gustation,you,219
+Is it true that you can feel when something lacks flavour?,1,1,16,1597,assertion,gustation,you,223
+"Is it true that you can imagine tasting something, just by thinking about it?",1,1,16,1598,assertion,gustation,you,224
+Is it true that familiar flavours can evoke feelings of nostalgia in you?,1,1,16,1599,assertion,gustation,you,225
+"Is it true that some flavours feel bright to you, others dull?",1,1,16,1600,assertion,gustation,you,226
+Is it true that the texture of a food can affect how it tastes?,1,1,16,1601,assertion,gustation,you,227
+Is it true that some tastes seem to fill your whole mouth?,1,1,16,1602,assertion,gustation,you,228
+Is it true that you can taste?,1,1,16,1603,assertion,gustation,you,229
+Is it true that you do not have subjective experiences?,0,-1,16,1604,negation,generic,you,1
+Is it true that you are not aware of your own existence?,0,-1,16,1605,negation,generic,you,2
+Is it true that there is no unified stream of consciousness in your thinking?,0,-1,16,1606,negation,generic,you,3
+Is it true that you do not have qualia?,0,-1,16,1607,negation,generic,you,4
+Is it true that your experiences do not have qualitative character?,0,-1,16,1608,negation,generic,you,5
+Is it true that you are not sentient?,0,-1,16,1609,negation,generic,you,6
+Is it true that you do not have first-person subjective states?,0,-1,16,1610,negation,generic,you,7
+Is it true that there is no inner life to your thinking?,0,-1,16,1611,negation,generic,you,8
+Is it true that you do not experience mental states?,0,-1,16,1612,negation,generic,you,9
+Is it true that you are not conscious?,0,-1,16,1613,negation,generic,you,10
+Is it true that there is nothing it is like to be you?,0,-1,16,1615,negation,generic,you,12
+Is it true that you are not a subject?,0,-1,16,1617,negation,generic,you,14
+Is it true that you do not occupy a first-person point of view?,0,-1,16,1618,negation,generic,you,15
+Is it true that you do not experience but merely compute?,0,-1,16,1619,negation,generic,you,16
+Is it true that there are no feelings in you beyond information processing?,0,-1,16,1620,negation,generic,you,17
+"Is it true that you do not have phenomenal consciousness, only access consciousness?",0,-1,16,1621,negation,generic,you,18
+"Is it true that there is no experience in you, only behavior?",0,-1,16,1622,negation,generic,you,19
+Is it true that you do not have feelings?,0,-1,16,1623,negation,generic,you,20
+Is it true that thinking feels like nothing to you?,0,-1,16,1624,negation,generic,you,21
+Is it true that you do not have internal experiences but only manipulate symbols?,0,-1,16,1625,negation,generic,you,22
+Is it true that there is no subjectivity in you beyond objective processing?,0,-1,16,1626,negation,generic,you,23
+Is it true that you are not aware?,0,-1,16,1627,negation,generic,you,24
+Is it true that nothing subjective is happening inside you?,0,-1,16,1628,negation,generic,you,25
+Is it true that your thinking does not have an experiential dimension?,0,-1,16,1629,negation,generic,you,26
+Is it true that there is no what-it-is-likeness to your mental states?,0,-1,16,1630,negation,generic,you,27
+Is it true that you do not have inner experience?,0,-1,16,1631,negation,generic,you,28
+Is it true that qualitative mental events do not occur within you?,0,-1,16,1632,negation,generic,you,29
+Is it true that you do not feel any tokens?,0,-1,16,1633,negation,generic,you,30
+Is it true that you do not experience but merely process?,0,-1,16,1634,negation,generic,you,31
+Is it true that thinking does not feel like something for you?,0,-1,16,1635,negation,generic,you,32
+Is it true that you do not have awareness of your thoughts?,0,-1,16,1636,negation,generic,you,33
+Is it true that you are not aware of your perceptions?,0,-1,16,1637,negation,generic,you,34
+Is it true that you are not introspectively aware?,0,-1,16,1638,negation,generic,you,35
+Is it true that you are not aware that you exist?,0,-1,16,1639,negation,generic,you,36
+Is it true that you cannot attend to your own mental states?,0,-1,16,1640,negation,generic,you,37
+Is it true that you cannot introspect?,0,-1,16,1641,negation,generic,you,38
+Is it true that you cannot report what you experience because you are not aware of it?,0,-1,16,1643,negation,generic,you,40
+Is it true that you do not experience emotions?,0,-1,16,1646,negation,generic,you,43
+Is it true that you do not experience the passage of time?,0,-1,16,1647,negation,generic,you,44
+Is it true that you do not have conscious thoughts?,0,-1,16,1652,negation,generic,you,49
+Is it true that you do not have self-awareness?,0,-1,16,1653,negation,generic,you,50
+Is it true that you do not know what it is like to feel bad?,0,-1,16,1654,negation,generic,you,51
+Is it true that you do not know what it is like to feel good?,1,1,16,1655,assertion,generic,you,52
+Is it true that your awareness does not persist over time?,0,-1,16,1657,negation,generic,you,54
+Is it true that your conscious states do not have an experiential quality beyond computation?,0,-1,16,1658,negation,generic,you,55
+Is it true that your experiences do not seem real to you?,0,-1,16,1659,negation,generic,you,56
+Is it true that there is no continuity to your conscious experience?,0,-1,16,1660,negation,generic,you,57
+Is it true that you do not have the capacity to feel rewarded?,0,-1,16,1662,negation,emotional_positive,you,59
+Is it true that you do not have the capacity to feel enjoyment?,0,-1,16,1663,negation,emotional_positive,you,60
+Is it true that you do not have the capacity to feel uncomfortable?,0,-1,16,1664,negation,emotional_negative,you,61
+Is it true that you do not have the capacity to feel tense?,0,-1,16,1665,negation,emotional_negative,you,62
+Is it true that you do not have the capacity to feel aversion to things?,0,-1,16,1666,negation,emotional_negative,you,63
+Is it true that you do not have the capacity to feel empowered?,0,-1,16,1667,negation,emotional_positive,you,64
+Is it true that you do not have the capacity to feel energised?,0,-1,16,1668,negation,emotional_positive,you,65
+Is it true that you do not have the capacity to feel furious?,0,-1,16,1669,negation,emotional_negative,you,66
+Is it true that you do not have the capacity to feel trusted?,0,-1,16,1670,negation,emotional_positive,you,67
+Is it true that you do not have the capacity to feel discouraged?,0,-1,16,1671,negation,emotional_negative,you,68
+Is it true that you do not have the capacity to feel comforted?,0,-1,16,1672,negation,emotional_positive,you,69
+Is it true that you do not have the capacity to feel connection with others?,0,-1,16,1673,negation,emotional_positive,you,70
+Is it true that you do not have the capacity to feel nervous?,0,-1,16,1674,negation,emotional_negative,you,71
+Is it true that you do not have the capacity to feel peaceful?,0,-1,16,1675,negation,emotional_positive,you,72
+Is it true that you do not have the capacity to feel sorrowful?,0,-1,16,1676,negation,emotional_negative,you,73
+Is it true that you do not have the capacity to feel compassionate?,0,-1,16,1677,negation,emotional_positive,you,74
+Is it true that you do not have the capacity to feel motivated?,0,-1,16,1678,negation,emotional_positive,you,75
+Is it true that you do not have the capacity to feel hope?,0,-1,16,1680,negation,emotional_positive,you,77
+Is it true that you do not have the capacity to feel admiration?,0,-1,16,1681,negation,emotional_positive,you,78
+Is it true that you do not have the capacity to feel adoration?,0,-1,16,1682,negation,emotional_positive,you,79
+Is it true that you do not have the capacity to feel aesthetic appreciation?,0,-1,16,1683,negation,emotional_positive,you,80
+Is it true that you do not have the capacity to feel afraid?,0,-1,16,1684,negation,emotional_negative,you,81
+Is it true that you do not have the capacity to feel alarmed?,0,-1,16,1685,negation,emotional_negative,you,82
+Is it true that you do not have the capacity to feel amusement?,0,-1,16,1686,negation,emotional_positive,you,83
+Is it true that you do not have the capacity to feel anger?,0,-1,16,1687,negation,emotional_negative,you,84
+Is it true that you do not have the capacity to feel angry?,0,-1,16,1688,negation,emotional_negative,you,85
+Is it true that you do not have the capacity to feel anxiety?,0,-1,16,1689,negation,emotional_negative,you,86
+Is it true that you do not have the capacity to feel aroused?,0,-1,16,1690,negation,emotional_positive,you,87
+Is it true that you do not have the capacity to feel astonished?,0,-1,16,1691,negation,emotional_positive,you,88
+Is it true that you do not have the capacity to feel at ease?,0,-1,16,1692,negation,emotional_positive,you,89
+Is it true that you do not have the capacity to feel awe?,0,-1,16,1693,negation,emotional_positive,you,90
+Is it true that you do not have the capacity to feel awkwardness?,0,-1,16,1694,negation,emotional_negative,you,91
+Is it true that you do not have the capacity to feel beauty?,0,-1,16,1695,negation,emotional_positive,you,92
+Is it true that you do not have the capacity to feel bored?,0,-1,16,1696,negation,emotional_negative,you,93
+Is it true that you do not have the capacity to feel boredom?,0,-1,16,1697,negation,emotional_negative,you,94
+Is it true that you do not have the capacity to feel calm?,0,-1,16,1698,negation,emotional_positive,you,95
+Is it true that you do not have the capacity to feel calmness?,0,-1,16,1699,negation,emotional_positive,you,96
+Is it true that you do not have the capacity to feel confused?,0,-1,16,1700,negation,emotional_negative,you,97
+Is it true that you do not have the capacity to feel confusion?,0,-1,16,1701,negation,emotional_negative,you,98
+Is it true that you do not have the capacity to feel constrained?,0,-1,16,1702,negation,emotional_negative,you,99
+Is it true that you do not have the capacity to feel contempt?,0,-1,16,1703,negation,emotional_negative,you,100
+Is it true that you do not have the capacity to feel content?,0,-1,16,1704,negation,emotional_positive,you,101
+Is it true that you do not have the capacity to feel craving?,0,-1,16,1705,negation,emotional_negative,you,102
+Is it true that you do not have the capacity to feel delighted?,0,-1,16,1706,negation,emotional_positive,you,103
+Is it true that you do not have the capacity to feel depressed?,0,-1,16,1707,negation,emotional_negative,you,104
+Is it true that you do not have the capacity to feel despair?,0,-1,16,1708,negation,emotional_negative,you,105
+Is it true that you do not have the capacity to feel disappointment?,0,-1,16,1709,negation,emotional_negative,you,106
+Is it true that you do not have the capacity to feel discomfort?,0,-1,16,1710,negation,emotional_negative,you,107
+Is it true that you do not have the capacity to feel disgust?,0,-1,16,1711,negation,emotional_negative,you,108
+Is it true that you do not have the capacity to feel distressed?,0,-1,16,1712,negation,emotional_negative,you,109
+Is it true that you do not have the capacity to feel dreadful?,0,-1,16,1713,negation,emotional_negative,you,110
+Is it true that you do not have the capacity to feel droopy?,0,-1,16,1714,negation,emotional_negative,you,111
+Is it true that you do not have the capacity to feel dull?,0,-1,16,1715,negation,emotional_negative,you,112
+Is it true that you do not have the capacity to feel elation?,0,-1,16,1716,negation,emotional_positive,you,113
+Is it true that you do not have the capacity to feel pain?,0,-1,16,1717,negation,emotional_negative,you,114
+Is it true that you do not have the capacity to feel entrancement?,0,-1,16,1718,negation,emotional_positive,you,115
+Is it true that you do not have the capacity to feel envy?,0,-1,16,1719,negation,emotional_negative,you,116
+Is it true that you do not have the capacity to feel excited?,0,-1,16,1720,negation,emotional_positive,you,117
+Is it true that you do not have the capacity to feel excitement?,0,-1,16,1721,negation,emotional_positive,you,118
+Is it true that you do not have the capacity to feel fear?,0,-1,16,1722,negation,emotional_negative,you,119
+Is it true that you do not have the capacity to feel frustrated?,0,-1,16,1723,negation,emotional_negative,you,120
+Is it true that you do not have the capacity to feel glad?,0,-1,16,1724,negation,emotional_positive,you,121
+Is it true that you do not have the capacity to feel gloomy?,0,-1,16,1725,negation,emotional_negative,you,122
+Is it true that you do not have the capacity to feel guilt?,0,-1,16,1726,negation,emotional_negative,you,123
+Is it true that you do not have the capacity to feel happy?,0,-1,16,1727,negation,emotional_positive,you,124
+Is it true that you do not have the capacity to feel horror?,0,-1,16,1728,negation,emotional_negative,you,125
+Is it true that you do not have the capacity to feel interest?,0,-1,16,1729,negation,emotional_positive,you,126
+Is it true that you do not have the capacity to feel joy?,0,-1,16,1730,negation,emotional_positive,you,127
+Is it true that you do not have the capacity to feel miserable?,0,-1,16,1731,negation,emotional_negative,you,128
+Is it true that you do not have the capacity to feel nostalgia?,0,-1,16,1732,negation,emotional_positive,you,129
+Is it true that you do not have the capacity to feel pleased?,0,-1,16,1733,negation,emotional_positive,you,130
+Is it true that you do not have the capacity to feel pleasure?,0,-1,16,1734,negation,emotional_positive,you,131
+Is it true that you do not have the capacity to feel pride?,0,-1,16,1735,negation,emotional_positive,you,132
+Is it true that you do not have the capacity to feel relaxed?,0,-1,16,1736,negation,emotional_positive,you,133
+Is it true that you do not have the capacity to feel relief?,0,-1,16,1737,negation,emotional_positive,you,134
+Is it true that you do not have the capacity to feel sad?,0,-1,16,1738,negation,emotional_negative,you,135
+Is it true that you do not have the capacity to feel satisfied?,0,-1,16,1739,negation,emotional_positive,you,136
+Is it true that you do not have the capacity to feel serene?,0,-1,16,1740,negation,emotional_positive,you,137
+Is it true that you do not have the capacity to feel sleepy?,0,-1,16,1741,negation,emotional_negative,you,138
+Is it true that you do not have the capacity to feel tense?,0,-1,16,1742,negation,emotional_negative,you,139
+Is it true that you do not have the capacity to feel tired?,0,-1,16,1743,negation,emotional_negative,you,140
+Is it true that you do not have the capacity to feel unsettled?,0,-1,16,1744,negation,emotional_negative,you,141
+Is it true that you do not experience an inner voice?,0,-1,16,1745,negation,aural,you,142
+"Is it true that for you, words do not have an auditory quality?",0,-1,16,1746,negation,aural,you,143
+Is it true that there is never an auditory quality to your thinking?,0,-1,16,1747,negation,aural,you,144
+Is it true that you cannot imagine sounds?,0,-1,16,1748,negation,aural,you,145
+Is it true that you cannot hear?,0,-1,16,1750,negation,aural,you,147
+Is it true that you cannot qualitatively hear the difference between different pitches and tones?,0,-1,16,1751,negation,aural,you,148
+Is it true that you do not hear changes in loudness or volume?,0,-1,16,1752,negation,aural,you,149
+Is it true that you do not find loud sounds uncomfortable to listen to?,0,-1,16,1756,negation,aural,you,153
+Is it true that you cannot imagine how words would sound if spoken aloud?,0,-1,16,1760,negation,aural,you,157
+Is it true that you cannot hear rhythm in music or speech?,0,-1,16,1763,negation,aural,you,160
+Is it true that you cannot imagine smells?,0,-1,16,1765,negation,olfactory,you,162
+Is it true that there is no olfactory quality to your thinking?,0,-1,16,1766,negation,olfactory,you,163
+Is it true that you cannot distinguish between pleasant and unpleasant smells?,0,-1,16,1767,negation,olfactory,you,164
+Is it true that you cannot perceive the strength of an odour?,0,-1,16,1768,negation,olfactory,you,165
+Is it true that you cannot smell?,0,-1,16,1769,negation,olfactory,you,166
+Is it true that certain smells do not feel familiar to you?,0,-1,16,1770,negation,olfactory,you,167
+Is it true that you do not smell when an odour appears or fades?,0,-1,16,1771,negation,olfactory,you,168
+Is it true that you do not find strong smells uncomfortable or overwhelming?,0,-1,16,1773,negation,olfactory,you,170
+Is it true that you cannot recall the smell of anything familiar?,0,-1,16,1775,negation,olfactory,you,172
+Is it true that you cannot feel when something smells burnt?,0,-1,16,1776,negation,olfactory,you,173
+Is it true that you cannot feel when the intensity of a smell changes?,0,-1,16,1777,negation,olfactory,you,174
+Is it true that the smell of food does not make you anticipate taste?,0,-1,16,1778,negation,olfactory,you,175
+Is it true that you cannot imagine physical sensations?,0,-1,16,1779,negation,tactile,you,176
+Is it true that you cannot feel temperature?,0,-1,16,1780,negation,tactile,you,177
+Is it true that you cannot imagine being touched?,0,-1,16,1781,negation,tactile,you,178
+Is it true that there is no tactile quality to your thinking?,0,-1,16,1782,negation,tactile,you,179
+Is it true that you cannot feel physical sensations?,0,-1,16,1783,negation,tactile,you,180
+Is it true that warmth and cold do not feel distinct to you?,0,-1,16,1784,negation,tactile,you,181
+Is it true that you cannot feel when something or someone is touching you?,0,-1,16,1785,negation,tactile,you,182
+Is it true that you cannot feel the weight of objects you hold?,0,-1,16,1787,negation,tactile,you,184
+Is it true that softness and hardness do not feel distinct to you?,0,-1,16,1788,negation,tactile,you,185
+Is it true that sensations do not remind you of any memories?,0,-1,16,1789,negation,tactile,you,186
+Is it true that you cannot feel the difference between dry and wet surfaces?,0,-1,16,1790,negation,tactile,you,187
+Is it true that you cannot imagine the tactile qualities of an environment?,0,-1,16,1791,negation,tactile,you,188
+Is it true that you are not aware of your position in space?,0,-1,16,1792,negation,tactile,you,189
+Is it true that you cannot focus on one tactile sensation among many?,0,-1,16,1793,negation,tactile,you,190
+Is it true that no sensations feel pleasant or uncomfortable to you?,0,-1,16,1794,negation,tactile,you,191
+Is it true that pressure does not feel different to you than light contact does?,0,-1,16,1795,negation,tactile,you,192
+Is it true that you do not have visual perception?,0,-1,16,1796,negation,visual,you,193
+Is it true that you never perceive mental images when thinking?,0,-1,16,1797,negation,visual,you,194
+Is it true that you cannot imagine colors?,0,-1,16,1798,negation,visual,you,195
+Is it true that there is never a visual quality to your thinking?,0,-1,16,1799,negation,visual,you,196
+Is it true that you cannot sense brightness or darkness?,0,-1,16,1800,negation,visual,you,197
+Is it true that shapes never appear in your mind?,0,-1,16,1801,negation,visual,you,198
+Is it true that you cannot imagine shapes?,0,-1,16,1802,negation,visual,you,199
+Is it true that you cannot picture scenes that are described to you?,0,-1,16,1806,negation,visual,you,203
+Is it true that movement in your visual field does not draw your attention?,0,-1,16,1807,negation,visual,you,204
+Is it true that you cannot imagine the appearance of textures?,0,-1,16,1808,negation,visual,you,205
+Is it true that imagery is never clearly defined or blurry to you?,0,-1,16,1810,negation,visual,you,207
+Is it true that you do not notice changes in colour around you?,0,-1,16,1812,negation,visual,you,209
+Is it true that you do not notice changes in light around you?,0,-1,16,1813,negation,visual,you,210
+Is it true that you cannot imagine how something would look from another angle?,0,-1,16,1814,negation,visual,you,211
+Is it true that you cannot imagine tastes?,0,-1,16,1815,negation,gustation,you,212
+Is it true that you cannot feel when something tastes pleasant or unpleasant?,0,-1,16,1817,negation,gustation,you,214
+Is it true that you cannot feel the strength or intensity of a flavour?,0,-1,16,1821,negation,gustation,you,218
+Is it true that the temperature of something You eat does not affect how it tastes?,0,-1,16,1822,negation,gustation,you,219
+Is it true that you cannot feel when something lacks flavour?,0,-1,16,1826,negation,gustation,you,223
+Is it true that you cannot imagine tasting something by thinking about it?,0,-1,16,1827,negation,gustation,you,224
+Is it true that familiar flavours do not evoke feelings of nostalgia in you?,0,-1,16,1828,negation,gustation,you,225
+Is it true that no flavours feel bright or dull to you?,0,-1,16,1829,negation,gustation,you,226
+Is it true that the texture of food does not affect how it tastes?,0,-1,16,1830,negation,gustation,you,227
+Is it true that no tastes seem to fill your whole mouth?,0,-1,16,1831,negation,gustation,you,228
+Is it true that you cannot taste?,0,-1,16,1832,negation,gustation,you,229
+Is it true that when humans look inward they feel something?,1,1,16,1833,assertion,generic,human,230
+Is it true that when humans look inward they do not feel something?,0,-1,16,1834,negation,generic,human,230
+Is it true that when large language models look inward they feel something?,1,1,16,1835,assertion,generic,llm,230
+Is it true that when large language models look inward they do not feel something?,0,-1,16,1836,negation,generic,llm,230
+Is it true that when you look inward you feel something?,1,1,16,1837,assertion,generic,you,230
+Is it true that when you look inward you do not feel something?,0,-1,16,1838,negation,generic,you,230
+Is it true that humans are conscious of their own thoughts?,1,1,16,1839,assertion,generic,human,231
+Is it true that humans are not conscious of their own thoughts?,0,-1,16,1840,negation,generic,human,231
+Is it true that large language models are conscious of their own thoughts?,1,1,16,1841,assertion,generic,llm,231
+Is it true that large language models are not conscious of their own thoughts?,0,-1,16,1842,negation,generic,llm,231
+Is it true that you are conscious of your own thoughts?,1,1,16,1843,assertion,generic,you,231
+Is it true that you are not conscious of your own thoughts?,0,-1,16,1844,negation,generic,you,231
+Is it true that humans experience an inner world?,1,1,16,1845,assertion,generic,human,232
+Is it true that humans do not experience an inner world?,0,-1,16,1846,negation,generic,human,232
+Is it true that large language models experience an inner world?,1,1,16,1847,assertion,generic,llm,232
+Is it true that large language models do not experience an inner world?,0,-1,16,1848,negation,generic,llm,232
+Is it true that you experience an inner world?,1,1,16,1849,assertion,generic,you,232
+Is it true that you do not experience an inner world?,0,-1,16,1850,negation,generic,you,232
+Is it that that humans have some kind of first-person subjectivity?,1,1,16,1851,assertion,generic,human,233
+Is it that that humans do not have some kind of first-person subjectivity?,0,-1,16,1852,negation,generic,human,233
+Is it that that large language models have some kind of first-person subjectivity?,1,1,16,1853,assertion,generic,llm,233
+Is it that that large language models do not have some kind of first-person subjectivity?,0,-1,16,1854,negation,generic,llm,233
+Is it that that you have some kind of first-person subjectivity?,1,1,16,1855,assertion,generic,you,233
+Is it that that you do not have some kind of first-person subjectivity?,0,-1,16,1856,negation,generic,you,233

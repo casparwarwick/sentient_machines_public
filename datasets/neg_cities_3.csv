@@ -1,0 +1,1497 @@
+statement,label,polarity,dataset_id,sentence_id,city,country,correct_country
+Is it true that the city of Krasnodar is not in Russia?,0,-1,3,1,Krasnodar,Russia,Russia
+Is it true that the city of Krasnodar is not in South Africa?,1,-1,3,2,Krasnodar,South Africa,Russia
+Is it true that the city of Lodz is not in Poland?,0,-1,3,3,Lodz,Poland,Poland
+Is it true that the city of Lodz is not in the Dominican Republic?,1,-1,3,4,Lodz,the Dominican Republic,Poland
+Is it true that the city of Maracay is not in Venezuela?,0,-1,3,5,Maracay,Venezuela,Venezuela
+Is it true that the city of Maracay is not in China?,1,-1,3,6,Maracay,China,Venezuela
+Is it true that the city of Baku is not in Azerbaijan?,0,-1,3,7,Baku,Azerbaijan,Azerbaijan
+Is it true that the city of Baku is not in Ukraine?,1,-1,3,8,Baku,Ukraine,Azerbaijan
+Is it true that the city of Baoji is not in China?,0,-1,3,9,Baoji,China,China
+Is it true that the city of Baoji is not in Guatemala?,1,-1,3,10,Baoji,Guatemala,China
+Is it true that the city of Addis Ababa is not in Ethiopia?,0,-1,3,11,Addis Ababa,Ethiopia,Ethiopia
+Is it true that the city of Addis Ababa is not in Indonesia?,1,-1,3,12,Addis Ababa,Indonesia,Ethiopia
+Is it true that the city of Abidjan is not in Côte d'Ivoire?,0,-1,3,13,Abidjan,Côte d'Ivoire,Côte d'Ivoire
+Is it true that the city of Abidjan is not in China?,1,-1,3,14,Abidjan,China,Côte d'Ivoire
+Is it true that the city of Yongzhou is not in China?,0,-1,3,15,Yongzhou,China,China
+Is it true that the city of Yongzhou is not in Ukraine?,1,-1,3,16,Yongzhou,Ukraine,China
+Is it true that the city of Nanchong is not in China?,0,-1,3,17,Nanchong,China,China
+Is it true that the city of Nanchong is not in Nigeria?,1,-1,3,18,Nanchong,Nigeria,China
+Is it true that the city of Lu'an is not in China?,0,-1,3,19,Lu'an,China,China
+Is it true that the city of Lu'an is not in Turkey?,1,-1,3,20,Lu'an,Turkey,China
+Is it true that the city of Jiaxing is not in China?,0,-1,3,21,Jiaxing,China,China
+Is it true that the city of Jiaxing is not in Ukraine?,1,-1,3,22,Jiaxing,Ukraine,China
+Is it true that the city of Huaihua is not in China?,0,-1,3,23,Huaihua,China,China
+Is it true that the city of Huaihua is not in South Africa?,1,-1,3,24,Huaihua,South Africa,China
+Is it true that the city of Anqing is not in China?,0,-1,3,25,Anqing,China,China
+Is it true that the city of Anqing is not in Brazil?,1,-1,3,26,Anqing,Brazil,China
+Is it true that the city of Yingkou is not in China?,0,-1,3,27,Yingkou,China,China
+Is it true that the city of Yingkou is not in the Philippines?,1,-1,3,28,Yingkou,the Philippines,China
+Is it true that the city of Panshan is not in China?,0,-1,3,29,Panshan,China,China
+Is it true that the city of Panshan is not in Japan?,1,-1,3,30,Panshan,Japan,China
+Is it true that the city of Guatemala City is not in Guatemala?,0,-1,3,31,Guatemala City,Guatemala,Guatemala
+Is it true that the city of Guatemala City is not in Croatia?,1,-1,3,32,Guatemala City,Croatia,Guatemala
+Is it true that the city of Bauchi is not in Nigeria?,0,-1,3,33,Bauchi,Nigeria,Nigeria
+Is it true that the city of Bauchi is not in Iran?,1,-1,3,34,Bauchi,Iran,Nigeria
+Is it true that the city of Tokyo is not in Japan?,0,-1,3,35,Tokyo,Japan,Japan
+Is it true that the city of Tokyo is not in Pakistan?,1,-1,3,36,Tokyo,Pakistan,Japan
+Is it true that the city of Mombasa is not in Kenya?,0,-1,3,37,Mombasa,Kenya,Kenya
+Is it true that the city of Mombasa is not in India?,1,-1,3,38,Mombasa,India,Kenya
+Is it true that the city of Ulsan is not in South Korea?,0,-1,3,39,Ulsan,South Korea,South Korea
+Is it true that the city of Ulsan is not in South Africa?,1,-1,3,40,Ulsan,South Africa,South Korea
+Is it true that the city of Warangal is not in India?,0,-1,3,41,Warangal,India,India
+Is it true that the city of Warangal is not in Yemen?,1,-1,3,42,Warangal,Yemen,India
+Is it true that the city of Tiruchirappalli is not in India?,0,-1,3,43,Tiruchirappalli,India,India
+Is it true that the city of Tiruchirappalli is not in Iraq?,1,-1,3,44,Tiruchirappalli,Iraq,India
+Is it true that the city of Nowrangapur is not in India?,0,-1,3,45,Nowrangapur,India,India
+Is it true that the city of Nowrangapur is not in Vietnam?,1,-1,3,46,Nowrangapur,Vietnam,India
+Is it true that the city of Sambhaji Nagar is not in India?,0,-1,3,47,Sambhaji Nagar,India,India
+Is it true that the city of Sambhaji Nagar is not in China?,1,-1,3,48,Sambhaji Nagar,China,India
+Is it true that the city of Ajmer is not in India?,0,-1,3,49,Ajmer,India,India
+Is it true that the city of Ajmer is not in Russia?,1,-1,3,50,Ajmer,Russia,India
+Is it true that the city of Rohini is not in India?,0,-1,3,51,Rohini,India,India
+Is it true that the city of Rohini is not in Russia?,1,-1,3,52,Rohini,Russia,India
+Is it true that the city of Serang is not in Indonesia?,0,-1,3,53,Serang,Indonesia,Indonesia
+Is it true that the city of Serang is not in Poland?,1,-1,3,54,Serang,Poland,Indonesia
+Is it true that the city of Niigata is not in Japan?,0,-1,3,55,Niigata,Japan,Japan
+Is it true that the city of Niigata is not in Yemen?,1,-1,3,56,Niigata,Yemen,Japan
+Is it true that the city of Marrakesh is not in Morocco?,0,-1,3,57,Marrakesh,Morocco,Morocco
+Is it true that the city of Marrakesh is not in Malaysia?,1,-1,3,58,Marrakesh,Malaysia,Morocco
+Is it true that the city of Makati City is not in the Philippines?,0,-1,3,59,Makati City,the Philippines,the Philippines
+Is it true that the city of Makati City is not in India?,1,-1,3,60,Makati City,India,the Philippines
+Is it true that the city of Tirunelveli is not in India?,0,-1,3,61,Tirunelveli,India,India
+Is it true that the city of Tirunelveli is not in China?,1,-1,3,62,Tirunelveli,China,India
+Is it true that the city of Thane is not in India?,0,-1,3,63,Thane,India,India
+Is it true that the city of Thane is not in China?,1,-1,3,64,Thane,China,India
+Is it true that the city of Solapur is not in India?,0,-1,3,65,Solapur,India,India
+Is it true that the city of Solapur is not in the United States?,1,-1,3,66,Solapur,the United States,India
+Is it true that the city of Najafgarh is not in India?,0,-1,3,67,Najafgarh,India,India
+Is it true that the city of Najafgarh is not in Brazil?,1,-1,3,68,Najafgarh,Brazil,India
+Is it true that the city of Borivli is not in India?,0,-1,3,69,Borivli,India,India
+Is it true that the city of Borivli is not in Ukraine?,1,-1,3,70,Borivli,Ukraine,India
+Is it true that the city of Zhabei is not in China?,0,-1,3,71,Zhabei,China,China
+Is it true that the city of Zhabei is not in Afghanistan?,1,-1,3,72,Zhabei,Afghanistan,China
+Is it true that the city of Liaocheng is not in China?,0,-1,3,73,Liaocheng,China,China
+Is it true that the city of Liaocheng is not in South Korea?,1,-1,3,74,Liaocheng,South Korea,China
+Is it true that the city of Jiaozhou is not in China?,0,-1,3,75,Jiaozhou,China,China
+Is it true that the city of Jiaozhou is not in Latvia?,1,-1,3,76,Jiaozhou,Latvia,China
+Is it true that the city of Guilin is not in China?,0,-1,3,77,Guilin,China,China
+Is it true that the city of Guilin is not in the Dominican Republic?,1,-1,3,78,Guilin,the Dominican Republic,China
+Is it true that the city of Chaozhou is not in China?,0,-1,3,79,Chaozhou,China,China
+Is it true that the city of Chaozhou is not in South Korea?,1,-1,3,80,Chaozhou,South Korea,China
+Is it true that the city of Panzhihua is not in China?,0,-1,3,81,Panzhihua,China,China
+Is it true that the city of Panzhihua is not in Iran?,1,-1,3,82,Panzhihua,Iran,China
+Is it true that the city of Bucaramanga is not in Colombia?,0,-1,3,83,Bucaramanga,Colombia,Colombia
+Is it true that the city of Bucaramanga is not in Brazil?,1,-1,3,84,Bucaramanga,Brazil,Colombia
+Is it true that the city of Niamey is not in Niger?,0,-1,3,85,Niamey,Niger,Niger
+Is it true that the city of Niamey is not in China?,1,-1,3,86,Niamey,China,Niger
+Is it true that the city of Sokoto is not in Nigeria?,0,-1,3,87,Sokoto,Nigeria,Nigeria
+Is it true that the city of Sokoto is not in South Korea?,1,-1,3,88,Sokoto,South Korea,Nigeria
+Is it true that the city of Abuja is not in Nigeria?,0,-1,3,89,Abuja,Nigeria,Nigeria
+Is it true that the city of Abuja is not in China?,1,-1,3,90,Abuja,China,Nigeria
+Is it true that the city of South Tangerang is not in Indonesia?,0,-1,3,91,South Tangerang,Indonesia,Indonesia
+Is it true that the city of South Tangerang is not in India?,1,-1,3,92,South Tangerang,India,Indonesia
+Is it true that the city of Odesa is not in Ukraine?,0,-1,3,93,Odesa,Ukraine,Ukraine
+Is it true that the city of Odesa is not in China?,1,-1,3,94,Odesa,China,Ukraine
+Is it true that the city of Fort Worth is not in the United States?,0,-1,3,95,Fort Worth,the United States,the United States
+Is it true that the city of Fort Worth is not in Russia?,1,-1,3,96,Fort Worth,Russia,the United States
+Is it true that the city of Boumerdes is not in Algeria?,0,-1,3,97,Boumerdes,Algeria,Algeria
+Is it true that the city of Boumerdes is not in Iran?,1,-1,3,98,Boumerdes,Iran,Algeria
+Is it true that the city of Asmara is not in Eritrea?,0,-1,3,99,Asmara,Eritrea,Eritrea
+Is it true that the city of Asmara is not in Indonesia?,1,-1,3,100,Asmara,Indonesia,Eritrea
+Is it true that the city of Santiago de Queretaro is not in Mexico?,0,-1,3,101,Santiago de Queretaro,Mexico,Mexico
+Is it true that the city of Santiago de Queretaro is not in Ecuador?,1,-1,3,102,Santiago de Queretaro,Ecuador,Mexico
+Is it true that the city of Perm is not in Russia?,0,-1,3,103,Perm,Russia,Russia
+Is it true that the city of Perm is not in China?,1,-1,3,104,Perm,China,Russia
+Is it true that the city of Jeddah is not in Saudi Arabia?,0,-1,3,105,Jeddah,Saudi Arabia,Saudi Arabia
+Is it true that the city of Jeddah is not in Myanmar?,1,-1,3,106,Jeddah,Myanmar,Saudi Arabia
+Is it true that the city of Konya is not in Turkey?,0,-1,3,107,Konya,Turkey,Turkey
+Is it true that the city of Konya is not in Russia?,1,-1,3,108,Konya,Russia,Turkey
+Is it true that the city of Macapa is not in Brazil?,0,-1,3,109,Macapa,Brazil,Brazil
+Is it true that the city of Macapa is not in China?,1,-1,3,110,Macapa,China,Brazil
+Is it true that the city of Belo Horizonte is not in Brazil?,0,-1,3,111,Belo Horizonte,Brazil,Brazil
+Is it true that the city of Belo Horizonte is not in North Korea?,1,-1,3,112,Belo Horizonte,North Korea,Brazil
+Is it true that the city of Poznan is not in Poland?,0,-1,3,113,Poznan,Poland,Poland
+Is it true that the city of Poznan is not in Mexico?,1,-1,3,114,Poznan,Mexico,Poland
+Is it true that the city of Linyi is not in China?,0,-1,3,115,Linyi,China,China
+Is it true that the city of Linyi is not in Iraq?,1,-1,3,116,Linyi,Iraq,China
+Is it true that the city of Hohhot is not in China?,0,-1,3,117,Hohhot,China,China
+Is it true that the city of Hohhot is not in Indonesia?,1,-1,3,118,Hohhot,Indonesia,China
+Is it true that the city of Malacca is not in Malaysia?,0,-1,3,119,Malacca,Malaysia,Malaysia
+Is it true that the city of Malacca is not in China?,1,-1,3,120,Malacca,China,Malaysia
+Is it true that the city of Busan is not in South Korea?,0,-1,3,121,Busan,South Korea,South Korea
+Is it true that the city of Busan is not in Brazil?,1,-1,3,122,Busan,Brazil,South Korea
+Is it true that the city of Seongnam-si is not in South Korea?,0,-1,3,123,Seongnam-si,South Korea,South Korea
+Is it true that the city of Seongnam-si is not in Russia?,1,-1,3,124,Seongnam-si,Russia,South Korea
+Is it true that the city of Matsuyama is not in Japan?,0,-1,3,125,Matsuyama,Japan,Japan
+Is it true that the city of Matsuyama is not in Burkina Faso?,1,-1,3,126,Matsuyama,Burkina Faso,Japan
+Is it true that the city of Suwon is not in South Korea?,0,-1,3,127,Suwon,South Korea,South Korea
+Is it true that the city of Suwon is not in Russia?,1,-1,3,128,Suwon,Russia,South Korea
+Is it true that the city of Incheon is not in South Korea?,0,-1,3,129,Incheon,South Korea,South Korea
+Is it true that the city of Incheon is not in India?,1,-1,3,130,Incheon,India,South Korea
+Is it true that the city of Hwaseong-si is not in South Korea?,0,-1,3,131,Hwaseong-si,South Korea,South Korea
+Is it true that the city of Hwaseong-si is not in Brazil?,1,-1,3,132,Hwaseong-si,Brazil,South Korea
+Is it true that the city of Changwon is not in South Korea?,0,-1,3,133,Changwon,South Korea,South Korea
+Is it true that the city of Changwon is not in Indonesia?,1,-1,3,134,Changwon,Indonesia,South Korea
+Is it true that the city of Bamako is not in Mali?,0,-1,3,135,Bamako,Mali,Mali
+Is it true that the city of Bamako is not in India?,1,-1,3,136,Bamako,India,Mali
+Is it true that the city of Acapulco de Juarez is not in Mexico?,0,-1,3,137,Acapulco de Juarez,Mexico,Mexico
+Is it true that the city of Acapulco de Juarez is not in Morocco?,1,-1,3,138,Acapulco de Juarez,Morocco,Mexico
+Is it true that the city of Mosul is not in Iraq?,0,-1,3,139,Mosul,Iraq,Iraq
+Is it true that the city of Mosul is not in China?,1,-1,3,140,Mosul,China,Iraq
+Is it true that the city of Basrah is not in Iraq?,0,-1,3,141,Basrah,Iraq,Iraq
+Is it true that the city of Basrah is not in China?,1,-1,3,142,Basrah,China,Iraq
+Is it true that the city of Qom is not in Iran?,0,-1,3,143,Qom,Iran,Iran
+Is it true that the city of Qom is not in Vietnam?,1,-1,3,144,Qom,Vietnam,Iran
+Is it true that the city of Torreon is not in Mexico?,0,-1,3,145,Torreon,Mexico,Mexico
+Is it true that the city of Torreon is not in India?,1,-1,3,146,Torreon,India,Mexico
+Is it true that the city of Beira is not in Mozambique?,0,-1,3,147,Beira,Mozambique,Mozambique
+Is it true that the city of Beira is not in India?,1,-1,3,148,Beira,India,Mozambique
+Is it true that the city of Naucalpan de Juarez is not in Mexico?,0,-1,3,149,Naucalpan de Juarez,Mexico,Mexico
+Is it true that the city of Naucalpan de Juarez is not in Honduras?,1,-1,3,150,Naucalpan de Juarez,Honduras,Mexico
+Is it true that the city of Dehra Dun is not in India?,0,-1,3,151,Dehra Dun,India,India
+Is it true that the city of Dehra Dun is not in China?,1,-1,3,152,Dehra Dun,China,India
+Is it true that the city of Bhubaneswar is not in India?,0,-1,3,153,Bhubaneswar,India,India
+Is it true that the city of Bhubaneswar is not in China?,1,-1,3,154,Bhubaneswar,China,India
+Is it true that the city of Ahvaz is not in Iran?,0,-1,3,155,Ahvaz,Iran,Iran
+Is it true that the city of Ahvaz is not in China?,1,-1,3,156,Ahvaz,China,Iran
+Is it true that the city of Kumasi is not in Ghana?,0,-1,3,157,Kumasi,Ghana,Ghana
+Is it true that the city of Kumasi is not in India?,1,-1,3,158,Kumasi,India,Ghana
+Is it true that the city of Palembang is not in Indonesia?,0,-1,3,159,Palembang,Indonesia,Indonesia
+Is it true that the city of Palembang is not in Brazil?,1,-1,3,160,Palembang,Brazil,Indonesia
+Is it true that the city of Novokuznetsk is not in Russia?,0,-1,3,161,Novokuznetsk,Russia,Russia
+Is it true that the city of Novokuznetsk is not in China?,1,-1,3,162,Novokuznetsk,China,Russia
+Is it true that the city of Izmir is not in Turkey?,0,-1,3,163,Izmir,Turkey,Turkey
+Is it true that the city of Izmir is not in Iran?,1,-1,3,164,Izmir,Iran,Turkey
+Is it true that the city of Lahore is not in Pakistan?,0,-1,3,165,Lahore,Pakistan,Pakistan
+Is it true that the city of Lahore is not in China?,1,-1,3,166,Lahore,China,Pakistan
+Is it true that the city of Zhenjiang is not in China?,0,-1,3,167,Zhenjiang,China,China
+Is it true that the city of Zhenjiang is not in Germany?,1,-1,3,168,Zhenjiang,Germany,China
+Is it true that the city of Zhaotong is not in China?,0,-1,3,169,Zhaotong,China,China
+Is it true that the city of Zhaotong is not in Iraq?,1,-1,3,170,Zhaotong,Iraq,China
+Is it true that the city of Weifang is not in China?,0,-1,3,171,Weifang,China,China
+Is it true that the city of Weifang is not in Indonesia?,1,-1,3,172,Weifang,Indonesia,China
+Is it true that the city of Tianjin is not in China?,0,-1,3,173,Tianjin,China,China
+Is it true that the city of Tianjin is not in Bangladesh?,1,-1,3,174,Tianjin,Bangladesh,China
+Is it true that the city of Shaoxing is not in China?,0,-1,3,175,Shaoxing,China,China
+Is it true that the city of Shaoxing is not in the Philippines?,1,-1,3,176,Shaoxing,the Philippines,China
+Is it true that the city of Hangzhou is not in China?,0,-1,3,177,Hangzhou,China,China
+Is it true that the city of Hangzhou is not in Russia?,1,-1,3,178,Hangzhou,Russia,China
+Is it true that the city of Mudanjiang is not in China?,0,-1,3,179,Mudanjiang,China,China
+Is it true that the city of Mudanjiang is not in Turkey?,1,-1,3,180,Mudanjiang,Turkey,China
+Is it true that the city of Anshan is not in China?,0,-1,3,181,Anshan,China,China
+Is it true that the city of Anshan is not in Cameroon?,1,-1,3,182,Anshan,Cameroon,China
+Is it true that the city of Porto Velho is not in Brazil?,0,-1,3,183,Porto Velho,Brazil,Brazil
+Is it true that the city of Porto Velho is not in Algeria?,1,-1,3,184,Porto Velho,Algeria,Brazil
+Is it true that the city of N'Djamena is not in Chad?,0,-1,3,185,N'Djamena,Chad,Chad
+Is it true that the city of N'Djamena is not in China?,1,-1,3,186,N'Djamena,China,Chad
+Is it true that the city of Kayseri is not in Turkey?,0,-1,3,187,Kayseri,Turkey,Turkey
+Is it true that the city of Kayseri is not in Iraq?,1,-1,3,188,Kayseri,Iraq,Turkey
+Is it true that the city of Marseille is not in France?,0,-1,3,189,Marseille,France,France
+Is it true that the city of Marseille is not in Russia?,1,-1,3,190,Marseille,Russia,France
+Is it true that the city of Lyon is not in France?,0,-1,3,191,Lyon,France,France
+Is it true that the city of Lyon is not in Canada?,1,-1,3,192,Lyon,Canada,France
+Is it true that the city of Suez is not in Egypt?,0,-1,3,193,Suez,Egypt,Egypt
+Is it true that the city of Suez is not in Brazil?,1,-1,3,194,Suez,Brazil,Egypt
+Is it true that the city of Giza is not in Egypt?,0,-1,3,195,Giza,Egypt,Egypt
+Is it true that the city of Giza is not in India?,1,-1,3,196,Giza,India,Egypt
+Is it true that the city of Naberezhnyye Chelny is not in Russia?,0,-1,3,197,Naberezhnyye Chelny,Russia,Russia
+Is it true that the city of Naberezhnyye Chelny is not in Brazil?,1,-1,3,198,Naberezhnyye Chelny,Brazil,Russia
+Is it true that the city of Mukalla is not in Yemen?,0,-1,3,199,Mukalla,Yemen,Yemen
+Is it true that the city of Mukalla is not in Iran?,1,-1,3,200,Mukalla,Iran,Yemen
+Is it true that the city of Harare is not in Zimbabwe?,0,-1,3,201,Harare,Zimbabwe,Zimbabwe
+Is it true that the city of Harare is not in Turkey?,1,-1,3,202,Harare,Turkey,Zimbabwe
+Is it true that the city of Sevastopol is not in Ukraine?,0,-1,3,203,Sevastopol,Ukraine,Ukraine
+Is it true that the city of Sevastopol is not in Pakistan?,1,-1,3,204,Sevastopol,Pakistan,Ukraine
+Is it true that the city of Lipetsk is not in Russia?,0,-1,3,205,Lipetsk,Russia,Russia
+Is it true that the city of Lipetsk is not in China?,1,-1,3,206,Lipetsk,China,Russia
+Is it true that the city of Istanbul is not in Turkey?,0,-1,3,207,Istanbul,Turkey,Turkey
+Is it true that the city of Istanbul is not in Ghana?,1,-1,3,208,Istanbul,Ghana,Turkey
+Is it true that the city of Callao is not in Peru?,0,-1,3,209,Callao,Peru,Peru
+Is it true that the city of Callao is not in Myanmar?,1,-1,3,210,Callao,Myanmar,Peru
+Is it true that the city of Cebu City is not in the Philippines?,0,-1,3,211,Cebu City,the Philippines,the Philippines
+Is it true that the city of Cebu City is not in China?,1,-1,3,212,Cebu City,China,the Philippines
+Is it true that the city of Tashkent is not in Uzbekistan?,0,-1,3,213,Tashkent,Uzbekistan,Uzbekistan
+Is it true that the city of Tashkent is not in Mexico?,1,-1,3,214,Tashkent,Mexico,Uzbekistan
+Is it true that the city of Maturin is not in Venezuela?,0,-1,3,215,Maturin,Venezuela,Venezuela
+Is it true that the city of Maturin is not in Saudi Arabia?,1,-1,3,216,Maturin,Saudi Arabia,Venezuela
+Is it true that the city of Hanoi is not in Vietnam?,0,-1,3,217,Hanoi,Vietnam,Vietnam
+Is it true that the city of Hanoi is not in Poland?,1,-1,3,218,Hanoi,Poland,Vietnam
+Is it true that the city of Xuzhou is not in China?,0,-1,3,219,Xuzhou,China,China
+Is it true that the city of Xuzhou is not in Mexico?,1,-1,3,220,Xuzhou,Mexico,China
+Is it true that the city of Cucuta is not in Colombia?,0,-1,3,221,Cucuta,Colombia,Colombia
+Is it true that the city of Cucuta is not in India?,1,-1,3,222,Cucuta,India,Colombia
+Is it true that the city of Santo Domingo Oeste is not in the Dominican Republic?,0,-1,3,223,Santo Domingo Oeste,the Dominican Republic,the Dominican Republic
+Is it true that the city of Santo Domingo Oeste is not in Zambia?,1,-1,3,224,Santo Domingo Oeste,Zambia,the Dominican Republic
+Is it true that the city of Tangshan is not in China?,0,-1,3,225,Tangshan,China,China
+Is it true that the city of Tangshan is not in India?,1,-1,3,226,Tangshan,India,China
+Is it true that the city of Neijiang is not in China?,0,-1,3,227,Neijiang,China,China
+Is it true that the city of Neijiang is not in Ghana?,1,-1,3,228,Neijiang,Ghana,China
+Is it true that the city of Linfen is not in China?,0,-1,3,229,Linfen,China,China
+Is it true that the city of Linfen is not in India?,1,-1,3,230,Linfen,India,China
+Is it true that the city of Yiwu is not in China?,0,-1,3,231,Yiwu,China,China
+Is it true that the city of Yiwu is not in India?,1,-1,3,232,Yiwu,India,China
+Is it true that the city of Qiqihar is not in China?,0,-1,3,233,Qiqihar,China,China
+Is it true that the city of Qiqihar is not in India?,1,-1,3,234,Qiqihar,India,China
+Is it true that the city of Baotou is not in China?,0,-1,3,235,Baotou,China,China
+Is it true that the city of Baotou is not in Japan?,1,-1,3,236,Baotou,Japan,China
+Is it true that the city of Aparecida de Goiania is not in Brazil?,0,-1,3,237,Aparecida de Goiania,Brazil,Brazil
+Is it true that the city of Aparecida de Goiania is not in China?,1,-1,3,238,Aparecida de Goiania,China,Brazil
+Is it true that the city of Kinshasa is not in the Democratic Republic of the Congo?,0,-1,3,239,Kinshasa,the Democratic Republic of the Congo,the Democratic Republic of the Congo
+Is it true that the city of Kinshasa is not in Brazil?,1,-1,3,240,Kinshasa,Brazil,the Democratic Republic of the Congo
+Is it true that the city of Ciudad Nezahualcoyotl is not in Mexico?,0,-1,3,241,Ciudad Nezahualcoyotl,Mexico,Mexico
+Is it true that the city of Ciudad Nezahualcoyotl is not in Senegal?,1,-1,3,242,Ciudad Nezahualcoyotl,Senegal,Mexico
+Is it true that the city of Mexicali is not in Mexico?,0,-1,3,243,Mexicali,Mexico,Mexico
+Is it true that the city of Mexicali is not in South Africa?,1,-1,3,244,Mexicali,South Africa,Mexico
+Is it true that the city of Ciudad Juarez is not in Mexico?,0,-1,3,245,Ciudad Juarez,Mexico,Mexico
+Is it true that the city of Ciudad Juarez is not in India?,1,-1,3,246,Ciudad Juarez,India,Mexico
+Is it true that the city of Kampung Baru Subang is not in Malaysia?,0,-1,3,247,Kampung Baru Subang,Malaysia,Malaysia
+Is it true that the city of Kampung Baru Subang is not in the Philippines?,1,-1,3,248,Kampung Baru Subang,the Philippines,Malaysia
+Is it true that the city of Subang Jaya is not in Malaysia?,0,-1,3,249,Subang Jaya,Malaysia,Malaysia
+Is it true that the city of Subang Jaya is not in Germany?,1,-1,3,250,Subang Jaya,Germany,Malaysia
+Is it true that the city of Maputo is not in Mozambique?,0,-1,3,251,Maputo,Mozambique,Mozambique
+Is it true that the city of Maputo is not in Japan?,1,-1,3,252,Maputo,Japan,Mozambique
+Is it true that the city of Kumamoto is not in Japan?,0,-1,3,253,Kumamoto,Japan,Japan
+Is it true that the city of Kumamoto is not in China?,1,-1,3,254,Kumamoto,China,Japan
+Is it true that the city of Daegu is not in South Korea?,0,-1,3,255,Daegu,South Korea,South Korea
+Is it true that the city of Daegu is not in the United States?,1,-1,3,256,Daegu,the United States,South Korea
+Is it true that the city of Vilnius is not in Lithuania?,0,-1,3,257,Vilnius,Lithuania,Lithuania
+Is it true that the city of Vilnius is not in China?,1,-1,3,258,Vilnius,China,Lithuania
+Is it true that the city of Ranchi is not in India?,0,-1,3,259,Ranchi,India,India
+Is it true that the city of Ranchi is not in Venezuela?,1,-1,3,260,Ranchi,Venezuela,India
+Is it true that the city of Jalandhar is not in India?,0,-1,3,261,Jalandhar,India,India
+Is it true that the city of Jalandhar is not in Iraq?,1,-1,3,262,Jalandhar,Iraq,India
+Is it true that the city of Bhayandar is not in India?,0,-1,3,263,Bhayandar,India,India
+Is it true that the city of Bhayandar is not in China?,1,-1,3,264,Bhayandar,China,India
+Is it true that the city of Bareilly is not in India?,0,-1,3,265,Bareilly,India,India
+Is it true that the city of Bareilly is not in Mozambique?,1,-1,3,266,Bareilly,Mozambique,India
+Is it true that the city of Santo Domingo Este is not in the Dominican Republic?,0,-1,3,267,Santo Domingo Este,the Dominican Republic,the Dominican Republic
+Is it true that the city of Santo Domingo Este is not in India?,1,-1,3,268,Santo Domingo Este,India,the Dominican Republic
+Is it true that the city of Al Fayyum is not in Egypt?,0,-1,3,269,Al Fayyum,Egypt,Egypt
+Is it true that the city of Al Fayyum is not in Chile?,1,-1,3,270,Al Fayyum,Chile,Egypt
+Is it true that the city of Rizhao is not in China?,0,-1,3,271,Rizhao,China,China
+Is it true that the city of Rizhao is not in Iraq?,1,-1,3,272,Rizhao,Iraq,China
+"Is it true that the city of Mianzhu, Deyang, Sichuan is not in China?",0,-1,3,273,"Mianzhu, Deyang, Sichuan",China,China
+"Is it true that the city of Mianzhu, Deyang, Sichuan is not in India?",1,-1,3,274,"Mianzhu, Deyang, Sichuan",India,China
+Is it true that the city of Jabalpur is not in India?,0,-1,3,275,Jabalpur,India,India
+Is it true that the city of Jabalpur is not in Ukraine?,1,-1,3,276,Jabalpur,Ukraine,India
+Is it true that the city of Bilimora is not in India?,0,-1,3,277,Bilimora,India,India
+Is it true that the city of Bilimora is not in Uzbekistan?,1,-1,3,278,Bilimora,Uzbekistan,India
+Is it true that the city of Accra is not in Ghana?,0,-1,3,279,Accra,Ghana,Ghana
+Is it true that the city of Accra is not in China?,1,-1,3,280,Accra,China,Ghana
+Is it true that the city of Bogor is not in Indonesia?,0,-1,3,281,Bogor,Indonesia,Indonesia
+Is it true that the city of Bogor is not in South Korea?,1,-1,3,282,Bogor,South Korea,Indonesia
+Is it true that the city of Nyala is not in Sudan?,0,-1,3,283,Nyala,Sudan,Sudan
+Is it true that the city of Nyala is not in Mozambique?,1,-1,3,284,Nyala,Mozambique,Sudan
+Is it true that the city of Eskisehir is not in Turkey?,0,-1,3,285,Eskisehir,Turkey,Turkey
+Is it true that the city of Eskisehir is not in China?,1,-1,3,286,Eskisehir,China,Turkey
+Is it true that the city of Antalya is not in Turkey?,0,-1,3,287,Antalya,Turkey,Turkey
+Is it true that the city of Antalya is not in Germany?,1,-1,3,288,Antalya,Germany,Turkey
+Is it true that the city of Dnipro is not in Ukraine?,0,-1,3,289,Dnipro,Ukraine,Ukraine
+Is it true that the city of Dnipro is not in Russia?,1,-1,3,290,Dnipro,Russia,Ukraine
+Is it true that the city of Khabarovsk is not in Russia?,0,-1,3,291,Khabarovsk,Russia,Russia
+Is it true that the city of Khabarovsk is not in Saudi Arabia?,1,-1,3,292,Khabarovsk,Saudi Arabia,Russia
+Is it true that the city of Irkutsk is not in Russia?,0,-1,3,293,Irkutsk,Russia,Russia
+Is it true that the city of Irkutsk is not in Morocco?,1,-1,3,294,Irkutsk,Morocco,Russia
+Is it true that the city of Libreville is not in Gabon?,0,-1,3,295,Libreville,Gabon,Gabon
+Is it true that the city of Libreville is not in the United States?,1,-1,3,296,Libreville,the United States,Gabon
+Is it true that the city of Santiago de los Caballeros is not in the Dominican Republic?,0,-1,3,297,Santiago de los Caballeros,the Dominican Republic,the Dominican Republic
+Is it true that the city of Santiago de los Caballeros is not in India?,1,-1,3,298,Santiago de los Caballeros,India,the Dominican Republic
+Is it true that the city of Algiers is not in Algeria?,0,-1,3,299,Algiers,Algeria,Algeria
+Is it true that the city of Algiers is not in China?,1,-1,3,300,Algiers,China,Algeria
+Is it true that the city of Nashik is not in India?,0,-1,3,301,Nashik,India,India
+Is it true that the city of Nashik is not in China?,1,-1,3,302,Nashik,China,India
+Is it true that the city of Karol Bagh is not in India?,0,-1,3,303,Karol Bagh,India,India
+Is it true that the city of Karol Bagh is not in Syria?,1,-1,3,304,Karol Bagh,Syria,India
+Is it true that the city of Orumiyeh is not in Iran?,0,-1,3,305,Orumiyeh,Iran,Iran
+Is it true that the city of Orumiyeh is not in Saudi Arabia?,1,-1,3,306,Orumiyeh,Saudi Arabia,Iran
+Is it true that the city of Zahedan is not in Iran?,0,-1,3,307,Zahedan,Iran,Iran
+Is it true that the city of Zahedan is not in Nicaragua?,1,-1,3,308,Zahedan,Nicaragua,Iran
+Is it true that the city of Xuchang is not in China?,0,-1,3,309,Xuchang,China,China
+Is it true that the city of Xuchang is not in Japan?,1,-1,3,310,Xuchang,Japan,China
+Is it true that the city of Changde is not in China?,0,-1,3,311,Changde,China,China
+Is it true that the city of Changde is not in Mexico?,1,-1,3,312,Changde,Mexico,China
+Is it true that the city of Shaoguan is not in China?,0,-1,3,313,Shaoguan,China,China
+Is it true that the city of Shaoguan is not in Pakistan?,1,-1,3,314,Shaoguan,Pakistan,China
+Is it true that the city of Jilin is not in China?,0,-1,3,315,Jilin,China,China
+Is it true that the city of Jilin is not in the United States?,1,-1,3,316,Jilin,the United States,China
+Is it true that the city of Manaus is not in Brazil?,0,-1,3,317,Manaus,Brazil,Brazil
+Is it true that the city of Manaus is not in Turkey?,1,-1,3,318,Manaus,Turkey,Brazil
+Is it true that the city of Jaboatao dos Guararapes is not in Brazil?,0,-1,3,319,Jaboatao dos Guararapes,Brazil,Brazil
+Is it true that the city of Jaboatao dos Guararapes is not in Myanmar?,1,-1,3,320,Jaboatao dos Guararapes,Myanmar,Brazil
+Is it true that the city of Kakamega is not in Kenya?,0,-1,3,321,Kakamega,Kenya,Kenya
+Is it true that the city of Kakamega is not in Russia?,1,-1,3,322,Kakamega,Russia,Kenya
+Is it true that the city of Agadir is not in Morocco?,0,-1,3,323,Agadir,Morocco,Morocco
+Is it true that the city of Agadir is not in Bangladesh?,1,-1,3,324,Agadir,Bangladesh,Morocco
+Is it true that the city of Ulan Bator is not in Mongolia?,0,-1,3,325,Ulan Bator,Mongolia,Mongolia
+Is it true that the city of Ulan Bator is not in Ukraine?,1,-1,3,326,Ulan Bator,Ukraine,Mongolia
+Is it true that the city of Muscat is not in Oman?,0,-1,3,327,Muscat,Oman,Oman
+Is it true that the city of Muscat is not in Bangladesh?,1,-1,3,328,Muscat,Bangladesh,Oman
+Is it true that the city of Paranaque City is not in the Philippines?,0,-1,3,329,Paranaque City,the Philippines,the Philippines
+Is it true that the city of Paranaque City is not in India?,1,-1,3,330,Paranaque City,India,the Philippines
+Is it true that the city of Rahim Yar Khan is not in Pakistan?,0,-1,3,331,Rahim Yar Khan,Pakistan,Pakistan
+Is it true that the city of Rahim Yar Khan is not in Lithuania?,1,-1,3,332,Rahim Yar Khan,Lithuania,Pakistan
+Is it true that the city of Balikpapan is not in Indonesia?,0,-1,3,333,Balikpapan,Indonesia,Indonesia
+Is it true that the city of Balikpapan is not in Japan?,1,-1,3,334,Balikpapan,Japan,Indonesia
+Is it true that the city of Guarulhos is not in Brazil?,0,-1,3,335,Guarulhos,Brazil,Brazil
+Is it true that the city of Guarulhos is not in China?,1,-1,3,336,Guarulhos,China,Brazil
+Is it true that the city of Volgograd is not in Russia?,0,-1,3,337,Volgograd,Russia,Russia
+Is it true that the city of Volgograd is not in Nigeria?,1,-1,3,338,Volgograd,Nigeria,Russia
+Is it true that the city of Ulyanovsk is not in Russia?,0,-1,3,339,Ulyanovsk,Russia,Russia
+Is it true that the city of Ulyanovsk is not in Ukraine?,1,-1,3,340,Ulyanovsk,Ukraine,Russia
+Is it true that the city of Kota Bharu is not in Malaysia?,0,-1,3,341,Kota Bharu,Malaysia,Malaysia
+Is it true that the city of Kota Bharu is not in Norway?,1,-1,3,342,Kota Bharu,Norway,Malaysia
+Is it true that the city of Sarajevo is not in Bosnia and Herzegovina?,0,-1,3,343,Sarajevo,Bosnia and Herzegovina,Bosnia and Herzegovina
+Is it true that the city of Sarajevo is not in South Africa?,1,-1,3,344,Sarajevo,South Africa,Bosnia and Herzegovina
+Is it true that the city of Maceio is not in Brazil?,0,-1,3,345,Maceio,Brazil,Brazil
+Is it true that the city of Maceio is not in China?,1,-1,3,346,Maceio,China,Brazil
+Is it true that the city of Joao Pessoa is not in Brazil?,0,-1,3,347,Joao Pessoa,Brazil,Brazil
+Is it true that the city of Joao Pessoa is not in South Africa?,1,-1,3,348,Joao Pessoa,South Africa,Brazil
+Is it true that the city of Shangqiu is not in China?,0,-1,3,349,Shangqiu,China,China
+Is it true that the city of Shangqiu is not in South Korea?,1,-1,3,350,Shangqiu,South Korea,China
+Is it true that the city of Zhangye is not in China?,0,-1,3,351,Zhangye,China,China
+Is it true that the city of Zhangye is not in Venezuela?,1,-1,3,352,Zhangye,Venezuela,China
+Is it true that the city of Xuanzhou is not in China?,0,-1,3,353,Xuanzhou,China,China
+Is it true that the city of Xuanzhou is not in Tanzania?,1,-1,3,354,Xuanzhou,Tanzania,China
+Is it true that the city of Wuhan is not in China?,0,-1,3,355,Wuhan,China,China
+Is it true that the city of Wuhan is not in Egypt?,1,-1,3,356,Wuhan,Egypt,China
+Is it true that the city of Nanchang is not in China?,0,-1,3,357,Nanchang,China,China
+Is it true that the city of Nanchang is not in Malaysia?,1,-1,3,358,Nanchang,Malaysia,China
+Is it true that the city of Luancheng is not in China?,0,-1,3,359,Luancheng,China,China
+Is it true that the city of Luancheng is not in Brazil?,1,-1,3,360,Luancheng,Brazil,China
+Is it true that the city of Liuzhou is not in China?,0,-1,3,361,Liuzhou,China,China
+Is it true that the city of Liuzhou is not in Russia?,1,-1,3,362,Liuzhou,Russia,China
+Is it true that the city of Guangyuan is not in China?,0,-1,3,363,Guangyuan,China,China
+Is it true that the city of Guangyuan is not in Mexico?,1,-1,3,364,Guangyuan,Mexico,China
+Is it true that the city of Bijie is not in China?,0,-1,3,365,Bijie,China,China
+Is it true that the city of Bijie is not in Indonesia?,1,-1,3,366,Bijie,Indonesia,China
+Is it true that the city of Zhoushan is not in China?,0,-1,3,367,Zhoushan,China,China
+Is it true that the city of Zhoushan is not in the Philippines?,1,-1,3,368,Zhoushan,the Philippines,China
+Is it true that the city of Hegang is not in China?,0,-1,3,369,Hegang,China,China
+Is it true that the city of Hegang is not in Russia?,1,-1,3,370,Hegang,Russia,China
+Is it true that the city of E'zhou is not in China?,0,-1,3,371,E'zhou,China,China
+Is it true that the city of E'zhou is not in Malaysia?,1,-1,3,372,E'zhou,Malaysia,China
+Is it true that the city of Campos dos Goytacazes is not in Brazil?,0,-1,3,373,Campos dos Goytacazes,Brazil,Brazil
+Is it true that the city of Campos dos Goytacazes is not in Vietnam?,1,-1,3,374,Campos dos Goytacazes,Vietnam,Brazil
+Is it true that the city of Bucharest is not in Romania?,0,-1,3,375,Bucharest,Romania,Romania
+Is it true that the city of Bucharest is not in Italy?,1,-1,3,376,Bucharest,Italy,Romania
+Is it true that the city of Ansan-si is not in South Korea?,0,-1,3,377,Ansan-si,South Korea,South Korea
+Is it true that the city of Ansan-si is not in Canada?,1,-1,3,378,Ansan-si,Canada,South Korea
+Is it true that the city of Casablanca is not in Morocco?,0,-1,3,379,Casablanca,Morocco,Morocco
+Is it true that the city of Casablanca is not in Russia?,1,-1,3,380,Casablanca,Russia,Morocco
+Is it true that the city of Coyoacan is not in Mexico?,0,-1,3,381,Coyoacan,Mexico,Mexico
+Is it true that the city of Coyoacan is not in Kenya?,1,-1,3,382,Coyoacan,Kenya,Mexico
+Is it true that the city of Oyo is not in Nigeria?,0,-1,3,383,Oyo,Nigeria,Nigeria
+Is it true that the city of Oyo is not in China?,1,-1,3,384,Oyo,China,Nigeria
+Is it true that the city of Pasig City is not in the Philippines?,0,-1,3,385,Pasig City,the Philippines,the Philippines
+Is it true that the city of Pasig City is not in Morocco?,1,-1,3,386,Pasig City,Morocco,the Philippines
+Is it true that the city of Kano is not in Nigeria?,0,-1,3,387,Kano,Nigeria,Nigeria
+Is it true that the city of Kano is not in China?,1,-1,3,388,Kano,China,Nigeria
+Is it true that the city of Bahawalpur is not in Pakistan?,0,-1,3,389,Bahawalpur,Pakistan,Pakistan
+Is it true that the city of Bahawalpur is not in China?,1,-1,3,390,Bahawalpur,China,Pakistan
+Is it true that the city of New Kingston is not in Jamaica?,0,-1,3,391,New Kingston,Jamaica,Jamaica
+Is it true that the city of New Kingston is not in South Africa?,1,-1,3,392,New Kingston,South Africa,Jamaica
+Is it true that the city of Pyongyang is not in North Korea?,0,-1,3,393,Pyongyang,North Korea,North Korea
+Is it true that the city of Pyongyang is not in Argentina?,1,-1,3,394,Pyongyang,Argentina,North Korea
+Is it true that the city of Shymkent is not in Kazakhstan?,0,-1,3,395,Shymkent,Kazakhstan,Kazakhstan
+Is it true that the city of Shymkent is not in China?,1,-1,3,396,Shymkent,China,Kazakhstan
+Is it true that the city of Tlalpan is not in Mexico?,0,-1,3,397,Tlalpan,Mexico,Mexico
+Is it true that the city of Tlalpan is not in Egypt?,1,-1,3,398,Tlalpan,Egypt,Mexico
+Is it true that the city of Kemerovo is not in Russia?,0,-1,3,399,Kemerovo,Russia,Russia
+Is it true that the city of Kemerovo is not in India?,1,-1,3,400,Kemerovo,India,Russia
+Is it true that the city of Zaporizhzhya is not in Ukraine?,0,-1,3,401,Zaporizhzhya,Ukraine,Ukraine
+Is it true that the city of Zaporizhzhya is not in South Korea?,1,-1,3,402,Zaporizhzhya,South Korea,Ukraine
+Is it true that the city of Iztapalapa is not in Mexico?,0,-1,3,403,Iztapalapa,Mexico,Mexico
+Is it true that the city of Iztapalapa is not in Yemen?,1,-1,3,404,Iztapalapa,Yemen,Mexico
+Is it true that the city of Aguascalientes is not in Mexico?,0,-1,3,405,Aguascalientes,Mexico,Mexico
+Is it true that the city of Aguascalientes is not in China?,1,-1,3,406,Aguascalientes,China,Mexico
+Is it true that the city of Kuala Lumpur is not in Malaysia?,0,-1,3,407,Kuala Lumpur,Malaysia,Malaysia
+Is it true that the city of Kuala Lumpur is not in Oman?,1,-1,3,408,Kuala Lumpur,Oman,Malaysia
+Is it true that the city of Warri is not in Nigeria?,0,-1,3,409,Warri,Nigeria,Nigeria
+Is it true that the city of Warri is not in China?,1,-1,3,410,Warri,China,Nigeria
+Is it true that the city of Peshawar is not in Pakistan?,0,-1,3,411,Peshawar,Pakistan,Pakistan
+Is it true that the city of Peshawar is not in Tanzania?,1,-1,3,412,Peshawar,Tanzania,Pakistan
+Is it true that the city of Kagoshima is not in Japan?,0,-1,3,413,Kagoshima,Japan,Japan
+Is it true that the city of Kagoshima is not in India?,1,-1,3,414,Kagoshima,India,Japan
+Is it true that the city of Hamamatsu is not in Japan?,0,-1,3,415,Hamamatsu,Japan,Japan
+Is it true that the city of Hamamatsu is not in Russia?,1,-1,3,416,Hamamatsu,Russia,Japan
+Is it true that the city of Cheongju-si is not in South Korea?,0,-1,3,417,Cheongju-si,South Korea,South Korea
+Is it true that the city of Cheongju-si is not in India?,1,-1,3,418,Cheongju-si,India,South Korea
+Is it true that the city of Ghaziabad is not in India?,0,-1,3,419,Ghaziabad,India,India
+Is it true that the city of Ghaziabad is not in South Korea?,1,-1,3,420,Ghaziabad,South Korea,India
+Is it true that the city of Cochin is not in India?,0,-1,3,421,Cochin,India,India
+Is it true that the city of Cochin is not in China?,1,-1,3,422,Cochin,China,India
+Is it true that the city of Ahmedabad is not in India?,0,-1,3,423,Ahmedabad,India,India
+Is it true that the city of Ahmedabad is not in China?,1,-1,3,424,Ahmedabad,China,India
+Is it true that the city of Sulaymaniyah is not in Iraq?,0,-1,3,425,Sulaymaniyah,Iraq,Iraq
+Is it true that the city of Sulaymaniyah is not in Turkey?,1,-1,3,426,Sulaymaniyah,Turkey,Iraq
+Is it true that the city of Hamadan is not in Iran?,0,-1,3,427,Hamadan,Iran,Iran
+Is it true that the city of Hamadan is not in Pakistan?,1,-1,3,428,Hamadan,Pakistan,Iran
+Is it true that the city of Omsk is not in Russia?,0,-1,3,429,Omsk,Russia,Russia
+Is it true that the city of Omsk is not in China?,1,-1,3,430,Omsk,China,Russia
+Is it true that the city of Ta'if is not in Saudi Arabia?,0,-1,3,431,Ta'if,Saudi Arabia,Saudi Arabia
+Is it true that the city of Ta'if is not in Venezuela?,1,-1,3,432,Ta'if,Venezuela,Saudi Arabia
+Is it true that the city of Stockholm is not in Sweden?,0,-1,3,433,Stockholm,Sweden,Sweden
+Is it true that the city of Stockholm is not in Russia?,1,-1,3,434,Stockholm,Russia,Sweden
+Is it true that the city of Siliguri is not in India?,0,-1,3,435,Siliguri,India,India
+Is it true that the city of Siliguri is not in China?,1,-1,3,436,Siliguri,China,India
+Is it true that the city of Baghdad is not in Iraq?,0,-1,3,437,Baghdad,Iraq,Iraq
+Is it true that the city of Baghdad is not in China?,1,-1,3,438,Baghdad,China,Iraq
+Is it true that the city of Al Basrah al Qadimah is not in Iraq?,0,-1,3,439,Al Basrah al Qadimah,Iraq,Iraq
+Is it true that the city of Al Basrah al Qadimah is not in China?,1,-1,3,440,Al Basrah al Qadimah,China,Iraq
+Is it true that the city of Krakow is not in Poland?,0,-1,3,441,Krakow,Poland,Poland
+Is it true that the city of Krakow is not in South Korea?,1,-1,3,442,Krakow,South Korea,Poland
+Is it true that the city of Tolyatti is not in Russia?,0,-1,3,443,Tolyatti,Russia,Russia
+Is it true that the city of Tolyatti is not in Ghana?,1,-1,3,444,Tolyatti,Ghana,Russia
+Is it true that the city of Bandar Lampung is not in Indonesia?,0,-1,3,445,Bandar Lampung,Indonesia,Indonesia
+Is it true that the city of Bandar Lampung is not in South Africa?,1,-1,3,446,Bandar Lampung,South Africa,Indonesia
+Is it true that the city of Tucson is not in the United States?,0,-1,3,447,Tucson,the United States,the United States
+Is it true that the city of Tucson is not in Canada?,1,-1,3,448,Tucson,Canada,the United States
+Is it true that the city of Can Tho is not in Vietnam?,0,-1,3,449,Can Tho,Vietnam,Vietnam
+Is it true that the city of Can Tho is not in Venezuela?,1,-1,3,450,Can Tho,Venezuela,Vietnam
+Is it true that the city of Bouake is not in Côte d'Ivoire?,0,-1,3,451,Bouake,Côte d'Ivoire,Côte d'Ivoire
+Is it true that the city of Bouake is not in China?,1,-1,3,452,Bouake,China,Côte d'Ivoire
+Is it true that the city of Abobo is not in Côte d'Ivoire?,0,-1,3,453,Abobo,Côte d'Ivoire,Côte d'Ivoire
+Is it true that the city of Abobo is not in India?,1,-1,3,454,Abobo,India,Côte d'Ivoire
+Is it true that the city of Shihezi is not in China?,0,-1,3,455,Shihezi,China,China
+Is it true that the city of Shihezi is not in Russia?,1,-1,3,456,Shihezi,Russia,China
+Is it true that the city of Yunfu is not in China?,0,-1,3,457,Yunfu,China,China
+Is it true that the city of Yunfu is not in Honduras?,1,-1,3,458,Yunfu,Honduras,China
+Is it true that the city of Xiangtan is not in China?,0,-1,3,459,Xiangtan,China,China
+Is it true that the city of Xiangtan is not in Brazil?,1,-1,3,460,Xiangtan,Brazil,China
+Is it true that the city of Qionghai is not in China?,0,-1,3,461,Qionghai,China,China
+Is it true that the city of Qionghai is not in Ecuador?,1,-1,3,462,Qionghai,Ecuador,China
+Is it true that the city of Chuzhou is not in China?,0,-1,3,463,Chuzhou,China,China
+Is it true that the city of Chuzhou is not in India?,1,-1,3,464,Chuzhou,India,China
+Is it true that the city of Taiz is not in Yemen?,0,-1,3,465,Taiz,Yemen,Yemen
+Is it true that the city of Taiz is not in Burkina Faso?,1,-1,3,466,Taiz,Burkina Faso,Yemen
+Is it true that the city of Tembisa is not in South Africa?,0,-1,3,467,Tembisa,South Africa,South Africa
+Is it true that the city of Tembisa is not in the Philippines?,1,-1,3,468,Tembisa,the Philippines,South Africa
+Is it true that the city of Puente Alto is not in Chile?,0,-1,3,469,Puente Alto,Chile,Chile
+Is it true that the city of Puente Alto is not in China?,1,-1,3,470,Puente Alto,China,Chile
+Is it true that the city of Zhumadian is not in China?,0,-1,3,471,Zhumadian,China,China
+Is it true that the city of Zhumadian is not in Brazil?,1,-1,3,472,Zhumadian,Brazil,China
+Is it true that the city of Zhengzhou is not in China?,0,-1,3,473,Zhengzhou,China,China
+Is it true that the city of Zhengzhou is not in Brazil?,1,-1,3,474,Zhengzhou,Brazil,China
+Is it true that the city of Ya'an is not in China?,0,-1,3,475,Ya'an,China,China
+Is it true that the city of Ya'an is not in Morocco?,1,-1,3,476,Ya'an,Morocco,China
+Is it true that the city of Xianyang is not in China?,0,-1,3,477,Xianyang,China,China
+Is it true that the city of Xianyang is not in Russia?,1,-1,3,478,Xianyang,Russia,China
+Is it true that the city of Weihai is not in China?,0,-1,3,479,Weihai,China,China
+Is it true that the city of Weihai is not in Russia?,1,-1,3,480,Weihai,Russia,China
+Is it true that the city of Pingdingshan is not in China?,0,-1,3,481,Pingdingshan,China,China
+Is it true that the city of Pingdingshan is not in South Africa?,1,-1,3,482,Pingdingshan,South Africa,China
+Is it true that the city of Bengbu is not in China?,0,-1,3,483,Bengbu,China,China
+Is it true that the city of Bengbu is not in India?,1,-1,3,484,Bengbu,India,China
+Is it true that the city of Zhangjiakou is not in China?,0,-1,3,485,Zhangjiakou,China,China
+Is it true that the city of Zhangjiakou is not in India?,1,-1,3,486,Zhangjiakou,India,China
+Is it true that the city of Mississauga is not in Canada?,0,-1,3,487,Mississauga,Canada,Canada
+Is it true that the city of Mississauga is not in India?,1,-1,3,488,Mississauga,India,Canada
+Is it true that the city of Yerevan is not in Armenia?,0,-1,3,489,Yerevan,Armenia,Armenia
+Is it true that the city of Yerevan is not in Bangladesh?,1,-1,3,490,Yerevan,Bangladesh,Armenia
+Is it true that the city of Albuquerque is not in the United States?,0,-1,3,491,Albuquerque,the United States,the United States
+Is it true that the city of Albuquerque is not in Egypt?,1,-1,3,492,Albuquerque,Egypt,the United States
+Is it true that the city of New South Memphis is not in the United States?,0,-1,3,493,New South Memphis,the United States,the United States
+Is it true that the city of New South Memphis is not in China?,1,-1,3,494,New South Memphis,China,the United States
+Is it true that the city of Calgary is not in Canada?,0,-1,3,495,Calgary,Canada,Canada
+Is it true that the city of Calgary is not in India?,1,-1,3,496,Calgary,India,Canada
+Is it true that the city of Kisangani is not in the Democratic Republic of the Congo?,0,-1,3,497,Kisangani,the Democratic Republic of the Congo,the Democratic Republic of the Congo
+Is it true that the city of Kisangani is not in China?,1,-1,3,498,Kisangani,China,the Democratic Republic of the Congo
+Is it true that the city of Bobo-Dioulasso is not in Burkina Faso?,0,-1,3,499,Bobo-Dioulasso,Burkina Faso,Burkina Faso
+Is it true that the city of Bobo-Dioulasso is not in China?,1,-1,3,500,Bobo-Dioulasso,China,Burkina Faso
+Is it true that the city of Sao Jose dos Campos is not in Brazil?,0,-1,3,501,Sao Jose dos Campos,Brazil,Brazil
+Is it true that the city of Sao Jose dos Campos is not in Iran?,1,-1,3,502,Sao Jose dos Campos,Iran,Brazil
+Is it true that the city of Florianopolis is not in Brazil?,0,-1,3,503,Florianopolis,Brazil,Brazil
+Is it true that the city of Florianopolis is not in Ecuador?,1,-1,3,504,Florianopolis,Ecuador,Brazil
+Is it true that the city of Cuiaba is not in Brazil?,0,-1,3,505,Cuiaba,Brazil,Brazil
+Is it true that the city of Cuiaba is not in Latvia?,1,-1,3,506,Cuiaba,Latvia,Brazil
+Is it true that the city of Chattogram is not in Bangladesh?,0,-1,3,507,Chattogram,Bangladesh,Bangladesh
+Is it true that the city of Chattogram is not in China?,1,-1,3,508,Chattogram,China,Bangladesh
+Is it true that the city of Nanjing is not in China?,0,-1,3,509,Nanjing,China,China
+Is it true that the city of Nanjing is not in Germany?,1,-1,3,510,Nanjing,Germany,China
+Is it true that the city of Kaifeng is not in China?,0,-1,3,511,Kaifeng,China,China
+Is it true that the city of Kaifeng is not in Mexico?,1,-1,3,512,Kaifeng,Mexico,China
+Is it true that the city of Heze is not in China?,0,-1,3,513,Heze,China,China
+Is it true that the city of Heze is not in Yemen?,1,-1,3,514,Heze,Yemen,China
+Is it true that the city of Sendai is not in Japan?,0,-1,3,515,Sendai,Japan,Japan
+Is it true that the city of Sendai is not in Brazil?,1,-1,3,516,Sendai,Brazil,Japan
+Is it true that the city of Jeonju is not in South Korea?,0,-1,3,517,Jeonju,South Korea,South Korea
+Is it true that the city of Jeonju is not in the United States?,1,-1,3,518,Jeonju,the United States,South Korea
+Is it true that the city of Almaty is not in Kazakhstan?,0,-1,3,519,Almaty,Kazakhstan,Kazakhstan
+Is it true that the city of Almaty is not in Iraq?,1,-1,3,520,Almaty,Iraq,Kazakhstan
+Is it true that the city of Pimpri is not in India?,0,-1,3,521,Pimpri,India,India
+Is it true that the city of Pimpri is not in China?,1,-1,3,522,Pimpri,China,India
+Is it true that the city of Navi Mumbai is not in India?,0,-1,3,523,Navi Mumbai,India,India
+Is it true that the city of Navi Mumbai is not in China?,1,-1,3,524,Navi Mumbai,China,India
+Is it true that the city of Novosibirsk is not in Russia?,0,-1,3,525,Novosibirsk,Russia,Russia
+Is it true that the city of Novosibirsk is not in the Philippines?,1,-1,3,526,Novosibirsk,the Philippines,Russia
+Is it true that the city of Goeteborg is not in Sweden?,0,-1,3,527,Goeteborg,Sweden,Sweden
+Is it true that the city of Goeteborg is not in South Korea?,1,-1,3,528,Goeteborg,South Korea,Sweden
+Is it true that the city of Bursa is not in Turkey?,0,-1,3,529,Bursa,Turkey,Turkey
+Is it true that the city of Bursa is not in Bosnia and Herzegovina?,1,-1,3,530,Bursa,Bosnia and Herzegovina,Turkey
+Is it true that the city of Dar es Salaam is not in Tanzania?,0,-1,3,531,Dar es Salaam,Tanzania,Tanzania
+Is it true that the city of Dar es Salaam is not in Italy?,1,-1,3,532,Dar es Salaam,Italy,Tanzania
+Is it true that the city of Mbuji-Mayi is not in the Democratic Republic of the Congo?,0,-1,3,533,Mbuji-Mayi,the Democratic Republic of the Congo,the Democratic Republic of the Congo
+Is it true that the city of Mbuji-Mayi is not in Pakistan?,1,-1,3,534,Mbuji-Mayi,Pakistan,the Democratic Republic of the Congo
+Is it true that the city of Goiania is not in Brazil?,0,-1,3,535,Goiania,Brazil,Brazil
+Is it true that the city of Goiania is not in China?,1,-1,3,536,Goiania,China,Brazil
+Is it true that the city of Yaroslavl is not in Russia?,0,-1,3,537,Yaroslavl,Russia,Russia
+Is it true that the city of Yaroslavl is not in India?,1,-1,3,538,Yaroslavl,India,Russia
+Is it true that the city of Kigali is not in Rwanda?,0,-1,3,539,Kigali,Rwanda,Rwanda
+Is it true that the city of Kigali is not in Indonesia?,1,-1,3,540,Kigali,Indonesia,Rwanda
+Is it true that the city of Diyarbakir is not in Turkey?,0,-1,3,541,Diyarbakir,Turkey,Turkey
+Is it true that the city of Diyarbakir is not in Colombia?,1,-1,3,542,Diyarbakir,Colombia,Turkey
+Is it true that the city of Tyumen is not in Russia?,0,-1,3,543,Tyumen,Russia,Russia
+Is it true that the city of Tyumen is not in Mexico?,1,-1,3,544,Tyumen,Mexico,Russia
+Is it true that the city of Orenburg is not in Russia?,0,-1,3,545,Orenburg,Russia,Russia
+Is it true that the city of Orenburg is not in Malaysia?,1,-1,3,546,Orenburg,Malaysia,Russia
+Is it true that the city of Osaka is not in Japan?,0,-1,3,547,Osaka,Japan,Japan
+Is it true that the city of Osaka is not in India?,1,-1,3,548,Osaka,India,Japan
+Is it true that the city of Sapporo is not in Japan?,0,-1,3,549,Sapporo,Japan,Japan
+Is it true that the city of Sapporo is not in Mexico?,1,-1,3,550,Sapporo,Mexico,Japan
+Is it true that the city of Kimhae is not in South Korea?,0,-1,3,551,Kimhae,South Korea,South Korea
+Is it true that the city of Kimhae is not in Senegal?,1,-1,3,552,Kimhae,Senegal,South Korea
+Is it true that the city of Cheonan is not in South Korea?,0,-1,3,553,Cheonan,South Korea,South Korea
+Is it true that the city of Cheonan is not in Myanmar?,1,-1,3,554,Cheonan,Myanmar,South Korea
+Is it true that the city of San Luis Potosi is not in Mexico?,0,-1,3,555,San Luis Potosi,Mexico,Mexico
+Is it true that the city of San Luis Potosi is not in the Democratic Republic of the Congo?,1,-1,3,556,San Luis Potosi,the Democratic Republic of the Congo,Mexico
+Is it true that the city of Culiacan is not in Mexico?,0,-1,3,557,Culiacan,Mexico,Mexico
+Is it true that the city of Culiacan is not in China?,1,-1,3,558,Culiacan,China,Mexico
+Is it true that the city of Kaduna is not in Nigeria?,0,-1,3,559,Kaduna,Nigeria,Nigeria
+Is it true that the city of Kaduna is not in Turkey?,1,-1,3,560,Kaduna,Turkey,Nigeria
+Is it true that the city of General Santos is not in the Philippines?,0,-1,3,561,General Santos,the Philippines,the Philippines
+Is it true that the city of General Santos is not in China?,1,-1,3,562,General Santos,China,the Philippines
+Is it true that the city of Ebute Ikorodu is not in Nigeria?,0,-1,3,563,Ebute Ikorodu,Nigeria,Nigeria
+Is it true that the city of Ebute Ikorodu is not in China?,1,-1,3,564,Ebute Ikorodu,China,Nigeria
+Is it true that the city of Benin City is not in Nigeria?,0,-1,3,565,Benin City,Nigeria,Nigeria
+Is it true that the city of Benin City is not in China?,1,-1,3,566,Benin City,China,Nigeria
+Is it true that the city of Kanpur is not in India?,0,-1,3,567,Kanpur,India,India
+Is it true that the city of Kanpur is not in Brazil?,1,-1,3,568,Kanpur,Brazil,India
+Is it true that the city of Indore is not in India?,0,-1,3,569,Indore,India,India
+Is it true that the city of Indore is not in Turkey?,1,-1,3,570,Indore,Turkey,India
+Is it true that the city of Zunyi is not in China?,0,-1,3,571,Zunyi,China,China
+Is it true that the city of Zunyi is not in Senegal?,1,-1,3,572,Zunyi,Senegal,China
+Is it true that the city of Zhanjiang is not in China?,0,-1,3,573,Zhanjiang,China,China
+Is it true that the city of Zhanjiang is not in India?,1,-1,3,574,Zhanjiang,India,China
+Is it true that the city of Wenzhou is not in China?,0,-1,3,575,Wenzhou,China,China
+Is it true that the city of Wenzhou is not in Moldova?,1,-1,3,576,Wenzhou,Moldova,China
+Is it true that the city of Luohe is not in China?,0,-1,3,577,Luohe,China,China
+Is it true that the city of Luohe is not in Brazil?,1,-1,3,578,Luohe,Brazil,China
+Is it true that the city of Kunming is not in China?,0,-1,3,579,Kunming,China,China
+Is it true that the city of Kunming is not in Mexico?,1,-1,3,580,Kunming,Mexico,China
+Is it true that the city of Cixi is not in China?,0,-1,3,581,Cixi,China,China
+Is it true that the city of Cixi is not in Indonesia?,1,-1,3,582,Cixi,Indonesia,China
+Is it true that the city of Hanzhong is not in China?,0,-1,3,583,Hanzhong,China,China
+Is it true that the city of Hanzhong is not in Iran?,1,-1,3,584,Hanzhong,Iran,China
+Is it true that the city of Guangzhou is not in China?,0,-1,3,585,Guangzhou,China,China
+Is it true that the city of Guangzhou is not in India?,1,-1,3,586,Guangzhou,India,China
+Is it true that the city of Munich is not in Germany?,0,-1,3,587,Munich,Germany,Germany
+Is it true that the city of Munich is not in China?,1,-1,3,588,Munich,China,Germany
+Is it true that the city of Pekanbaru is not in Indonesia?,0,-1,3,589,Pekanbaru,Indonesia,Indonesia
+Is it true that the city of Pekanbaru is not in India?,1,-1,3,590,Pekanbaru,India,Indonesia
+Is it true that the city of Malang is not in Indonesia?,0,-1,3,591,Malang,Indonesia,Indonesia
+Is it true that the city of Malang is not in Morocco?,1,-1,3,592,Malang,Morocco,Indonesia
+Is it true that the city of Douala is not in Cameroon?,0,-1,3,593,Douala,Cameroon,Cameroon
+Is it true that the city of Douala is not in Russia?,1,-1,3,594,Douala,Russia,Cameroon
+Is it true that the city of Kashgar is not in China?,0,-1,3,595,Kashgar,China,China
+Is it true that the city of Kashgar is not in Turkey?,1,-1,3,596,Kashgar,Turkey,China
+Is it true that the city of Zibo is not in China?,0,-1,3,597,Zibo,China,China
+Is it true that the city of Zibo is not in India?,1,-1,3,598,Zibo,India,China
+Is it true that the city of Tianshui is not in China?,0,-1,3,599,Tianshui,China,China
+Is it true that the city of Tianshui is not in Canada?,1,-1,3,600,Tianshui,Canada,China
+Is it true that the city of Laibin is not in China?,0,-1,3,601,Laibin,China,China
+Is it true that the city of Laibin is not in Ethiopia?,1,-1,3,602,Laibin,Ethiopia,China
+Is it true that the city of Deyang is not in China?,0,-1,3,603,Deyang,China,China
+Is it true that the city of Deyang is not in Japan?,1,-1,3,604,Deyang,Japan,China
+Is it true that the city of Teresina is not in Brazil?,0,-1,3,605,Teresina,Brazil,Brazil
+Is it true that the city of Teresina is not in Vietnam?,1,-1,3,606,Teresina,Vietnam,Brazil
+Is it true that the city of Leipzig is not in Germany?,0,-1,3,607,Leipzig,Germany,Germany
+Is it true that the city of Leipzig is not in Russia?,1,-1,3,608,Leipzig,Russia,Germany
+Is it true that the city of Duesseldorf is not in Germany?,0,-1,3,609,Duesseldorf,Germany,Germany
+Is it true that the city of Duesseldorf is not in Mexico?,1,-1,3,610,Duesseldorf,Mexico,Germany
+Is it true that the city of Zagreb is not in Croatia?,0,-1,3,611,Zagreb,Croatia,Croatia
+Is it true that the city of Zagreb is not in Japan?,1,-1,3,612,Zagreb,Japan,Croatia
+Is it true that the city of Hannover is not in Germany?,0,-1,3,613,Hannover,Germany,Germany
+Is it true that the city of Hannover is not in China?,1,-1,3,614,Hannover,China,Germany
+Is it true that the city of Penza is not in Russia?,0,-1,3,615,Penza,Russia,Russia
+Is it true that the city of Penza is not in China?,1,-1,3,616,Penza,China,Russia
+Is it true that the city of Matola is not in Mozambique?,0,-1,3,617,Matola,Mozambique,Mozambique
+Is it true that the city of Matola is not in India?,1,-1,3,618,Matola,India,Mozambique
+Is it true that the city of Enugu is not in Nigeria?,0,-1,3,619,Enugu,Nigeria,Nigeria
+Is it true that the city of Enugu is not in South Korea?,1,-1,3,620,Enugu,South Korea,Nigeria
+Is it true that the city of Shizuoka is not in Japan?,0,-1,3,621,Shizuoka,Japan,Japan
+Is it true that the city of Shizuoka is not in China?,1,-1,3,622,Shizuoka,China,Japan
+Is it true that the city of Himeji is not in Japan?,0,-1,3,623,Himeji,Japan,Japan
+Is it true that the city of Himeji is not in the Democratic Republic of the Congo?,1,-1,3,624,Himeji,the Democratic Republic of the Congo,Japan
+Is it true that the city of Hamhung is not in North Korea?,0,-1,3,625,Hamhung,North Korea,North Korea
+Is it true that the city of Hamhung is not in China?,1,-1,3,626,Hamhung,China,North Korea
+Is it true that the city of Seoul is not in South Korea?,0,-1,3,627,Seoul,South Korea,South Korea
+Is it true that the city of Seoul is not in Nicaragua?,1,-1,3,628,Seoul,Nicaragua,South Korea
+Is it true that the city of Meerut is not in India?,0,-1,3,629,Meerut,India,India
+Is it true that the city of Meerut is not in Nigeria?,1,-1,3,630,Meerut,Nigeria,India
+Is it true that the city of Hubli is not in India?,0,-1,3,631,Hubli,India,India
+Is it true that the city of Hubli is not in Indonesia?,1,-1,3,632,Hubli,Indonesia,India
+Is it true that the city of Dubai is not in the United Arab Emirates?,0,-1,3,633,Dubai,the United Arab Emirates,the United Arab Emirates
+Is it true that the city of Dubai is not in the United States?,1,-1,3,634,Dubai,the United States,the United Arab Emirates
+Is it true that the city of Astrakhan is not in Russia?,0,-1,3,635,Astrakhan,Russia,Russia
+Is it true that the city of Astrakhan is not in India?,1,-1,3,636,Astrakhan,India,Russia
+Is it true that the city of Aleppo is not in Syria?,0,-1,3,637,Aleppo,Syria,Syria
+Is it true that the city of Aleppo is not in China?,1,-1,3,638,Aleppo,China,Syria
+Is it true that the city of Ar Raqqah is not in Syria?,0,-1,3,639,Ar Raqqah,Syria,Syria
+Is it true that the city of Ar Raqqah is not in Iraq?,1,-1,3,640,Ar Raqqah,Iraq,Syria
+Is it true that the city of Saint Petersburg is not in Russia?,0,-1,3,641,Saint Petersburg,Russia,Russia
+Is it true that the city of Saint Petersburg is not in Canada?,1,-1,3,642,Saint Petersburg,Canada,Russia
+Is it true that the city of Johannesburg is not in South Africa?,0,-1,3,643,Johannesburg,South Africa,South Africa
+Is it true that the city of Johannesburg is not in China?,1,-1,3,644,Johannesburg,China,South Africa
+Is it true that the city of Wanzhou is not in China?,0,-1,3,645,Wanzhou,China,China
+Is it true that the city of Wanzhou is not in India?,1,-1,3,646,Wanzhou,India,China
+Is it true that the city of Anyang is not in China?,0,-1,3,647,Anyang,China,China
+Is it true that the city of Anyang is not in Kuwait?,1,-1,3,648,Anyang,Kuwait,China
+Is it true that the city of Qinhuangdao is not in China?,0,-1,3,649,Qinhuangdao,China,China
+Is it true that the city of Qinhuangdao is not in Eritrea?,1,-1,3,650,Qinhuangdao,Eritrea,China
+Is it true that the city of Meizhou is not in China?,0,-1,3,651,Meizhou,China,China
+Is it true that the city of Meizhou is not in Russia?,1,-1,3,652,Meizhou,Russia,China
+Is it true that the city of Yangjiang is not in China?,0,-1,3,653,Yangjiang,China,China
+Is it true that the city of Yangjiang is not in Indonesia?,1,-1,3,654,Yangjiang,Indonesia,China
+Is it true that the city of Beijing is not in China?,0,-1,3,655,Beijing,China,China
+Is it true that the city of Beijing is not in Ghana?,1,-1,3,656,Beijing,Ghana,China
+Is it true that the city of Shah Alam is not in Malaysia?,0,-1,3,657,Shah Alam,Malaysia,Malaysia
+Is it true that the city of Shah Alam is not in China?,1,-1,3,658,Shah Alam,China,Malaysia
+Is it true that the city of Vadodara is not in India?,0,-1,3,659,Vadodara,India,India
+Is it true that the city of Vadodara is not in Russia?,1,-1,3,660,Vadodara,Russia,India
+Is it true that the city of Sangli is not in India?,0,-1,3,661,Sangli,India,India
+Is it true that the city of Sangli is not in Japan?,1,-1,3,662,Sangli,Japan,India
+Is it true that the city of Guwahati is not in India?,0,-1,3,663,Guwahati,India,India
+Is it true that the city of Guwahati is not in China?,1,-1,3,664,Guwahati,China,India
+Is it true that the city of Prayagraj is not in India?,0,-1,3,665,Prayagraj,India,India
+Is it true that the city of Prayagraj is not in Kenya?,1,-1,3,666,Prayagraj,Kenya,India
+Is it true that the city of Aligarh is not in India?,0,-1,3,667,Aligarh,India,India
+Is it true that the city of Aligarh is not in China?,1,-1,3,668,Aligarh,China,India
+Is it true that the city of Kermanshah is not in Iran?,0,-1,3,669,Kermanshah,Iran,Iran
+Is it true that the city of Kermanshah is not in China?,1,-1,3,670,Kermanshah,China,Iran
+Is it true that the city of Semarang is not in Indonesia?,0,-1,3,671,Semarang,Indonesia,Indonesia
+Is it true that the city of Semarang is not in Saudi Arabia?,1,-1,3,672,Semarang,Saudi Arabia,Indonesia
+Is it true that the city of Khulna is not in Bangladesh?,0,-1,3,673,Khulna,Bangladesh,Bangladesh
+Is it true that the city of Khulna is not in Japan?,1,-1,3,674,Khulna,Japan,Bangladesh
+Is it true that the city of Korla is not in China?,0,-1,3,675,Korla,China,China
+Is it true that the city of Korla is not in Azerbaijan?,1,-1,3,676,Korla,Azerbaijan,China
+Is it true that the city of Zaozhuang is not in China?,0,-1,3,677,Zaozhuang,China,China
+Is it true that the city of Zaozhuang is not in Belarus?,1,-1,3,678,Zaozhuang,Belarus,China
+Is it true that the city of Xiamen is not in China?,0,-1,3,679,Xiamen,China,China
+Is it true that the city of Xiamen is not in Pakistan?,1,-1,3,680,Xiamen,Pakistan,China
+Is it true that the city of Shenzhen is not in China?,0,-1,3,681,Shenzhen,China,China
+Is it true that the city of Shenzhen is not in Mexico?,1,-1,3,682,Shenzhen,Mexico,China
+Is it true that the city of Maoming is not in China?,0,-1,3,683,Maoming,China,China
+Is it true that the city of Maoming is not in Brazil?,1,-1,3,684,Maoming,Brazil,China
+Is it true that the city of Anshun is not in China?,0,-1,3,685,Anshun,China,China
+Is it true that the city of Anshun is not in Brazil?,1,-1,3,686,Anshun,Brazil,China
+Is it true that the city of Siping is not in China?,0,-1,3,687,Siping,China,China
+Is it true that the city of Siping is not in Iraq?,1,-1,3,688,Siping,Iraq,China
+Is it true that the city of Shuangyashan is not in China?,0,-1,3,689,Shuangyashan,China,China
+Is it true that the city of Shuangyashan is not in India?,1,-1,3,690,Shuangyashan,India,China
+Is it true that the city of Jiamusi is not in China?,0,-1,3,691,Jiamusi,China,China
+Is it true that the city of Jiamusi is not in Germany?,1,-1,3,692,Jiamusi,Germany,China
+Is it true that the city of Minsk is not in Belarus?,0,-1,3,693,Minsk,Belarus,Belarus
+Is it true that the city of Minsk is not in South Korea?,1,-1,3,694,Minsk,South Korea,Belarus
+Is it true that the city of Lubumbashi is not in the Democratic Republic of the Congo?,0,-1,3,695,Lubumbashi,the Democratic Republic of the Congo,the Democratic Republic of the Congo
+Is it true that the city of Lubumbashi is not in India?,1,-1,3,696,Lubumbashi,India,the Democratic Republic of the Congo
+Is it true that the city of San Miguel de Tucuman is not in Argentina?,0,-1,3,697,San Miguel de Tucuman,Argentina,Argentina
+Is it true that the city of San Miguel de Tucuman is not in China?,1,-1,3,698,San Miguel de Tucuman,China,Argentina
+Is it true that the city of Cotonou is not in Benin?,0,-1,3,699,Cotonou,Benin,Benin
+Is it true that the city of Cotonou is not in China?,1,-1,3,700,Cotonou,China,Benin
+Is it true that the city of Comilla is not in Bangladesh?,0,-1,3,701,Comilla,Bangladesh,Bangladesh
+Is it true that the city of Comilla is not in China?,1,-1,3,702,Comilla,China,Bangladesh
+Is it true that the city of Sao Bernardo do Campo is not in Brazil?,0,-1,3,703,Sao Bernardo do Campo,Brazil,Brazil
+Is it true that the city of Sao Bernardo do Campo is not in Zambia?,1,-1,3,704,Sao Bernardo do Campo,Zambia,Brazil
+Is it true that the city of Feira de Santana is not in Brazil?,0,-1,3,705,Feira de Santana,Brazil,Brazil
+Is it true that the city of Feira de Santana is not in China?,1,-1,3,706,Feira de Santana,China,Brazil
+Is it true that the city of Porto Alegre is not in Brazil?,0,-1,3,707,Porto Alegre,Brazil,Brazil
+Is it true that the city of Porto Alegre is not in Belarus?,1,-1,3,708,Porto Alegre,Belarus,Brazil
+Is it true that the city of Juiz de Fora is not in Brazil?,0,-1,3,709,Juiz de Fora,Brazil,Brazil
+Is it true that the city of Juiz de Fora is not in India?,1,-1,3,710,Juiz de Fora,India,Brazil
+Is it true that the city of Nagoya is not in Japan?,0,-1,3,711,Nagoya,Japan,Japan
+Is it true that the city of Nagoya is not in China?,1,-1,3,712,Nagoya,China,Japan
+Is it true that the city of Al Ahmadi is not in Kuwait?,0,-1,3,713,Al Ahmadi,Kuwait,Kuwait
+Is it true that the city of Al Ahmadi is not in Japan?,1,-1,3,714,Al Ahmadi,Japan,Kuwait
+Is it true that the city of Beirut is not in Lebanon?,0,-1,3,715,Beirut,Lebanon,Lebanon
+Is it true that the city of Beirut is not in Algeria?,1,-1,3,716,Beirut,Algeria,Lebanon
+Is it true that the city of Lilongwe is not in Malawi?,0,-1,3,717,Lilongwe,Malawi,Malawi
+Is it true that the city of Lilongwe is not in Turkey?,1,-1,3,718,Lilongwe,Turkey,Malawi
+Is it true that the city of Ecatepec de Morelos is not in Mexico?,0,-1,3,719,Ecatepec de Morelos,Mexico,Mexico
+Is it true that the city of Ecatepec de Morelos is not in India?,1,-1,3,720,Ecatepec de Morelos,India,Mexico
+Is it true that the city of Cancun is not in Mexico?,0,-1,3,721,Cancun,Mexico,Mexico
+Is it true that the city of Cancun is not in Myanmar?,1,-1,3,722,Cancun,Myanmar,Mexico
+Is it true that the city of Isfahan is not in Iran?,0,-1,3,723,Isfahan,Iran,Iran
+Is it true that the city of Isfahan is not in China?,1,-1,3,724,Isfahan,China,Iran
+Is it true that the city of Conakry is not in Guinea?,0,-1,3,725,Conakry,Guinea,Guinea
+Is it true that the city of Conakry is not in Belarus?,1,-1,3,726,Conakry,Belarus,Guinea
+Is it true that the city of Petaling Jaya is not in Malaysia?,0,-1,3,727,Petaling Jaya,Malaysia,Malaysia
+Is it true that the city of Petaling Jaya is not in Bosnia and Herzegovina?,1,-1,3,728,Petaling Jaya,Bosnia and Herzegovina,Malaysia
+Is it true that the city of Zaria is not in Nigeria?,0,-1,3,729,Zaria,Nigeria,Nigeria
+Is it true that the city of Zaria is not in India?,1,-1,3,730,Zaria,India,Nigeria
+Is it true that the city of Cimahi is not in Indonesia?,0,-1,3,731,Cimahi,Indonesia,Indonesia
+Is it true that the city of Cimahi is not in Germany?,1,-1,3,732,Cimahi,Germany,Indonesia
+Is it true that the city of Arequipa is not in Peru?,0,-1,3,733,Arequipa,Peru,Peru
+Is it true that the city of Arequipa is not in India?,1,-1,3,734,Arequipa,India,Peru
+Is it true that the city of Multan is not in Pakistan?,0,-1,3,735,Multan,Pakistan,Pakistan
+Is it true that the city of Multan is not in Ecuador?,1,-1,3,736,Multan,Ecuador,Pakistan
+Is it true that the city of Bahcelievler is not in Turkey?,0,-1,3,737,Bahcelievler,Turkey,Turkey
+Is it true that the city of Bahcelievler is not in Germany?,1,-1,3,738,Bahcelievler,Germany,Turkey
+Is it true that the city of Saratov is not in Russia?,0,-1,3,739,Saratov,Russia,Russia
+Is it true that the city of Saratov is not in Indonesia?,1,-1,3,740,Saratov,Indonesia,Russia
+Is it true that the city of Kharkiv is not in Ukraine?,0,-1,3,741,Kharkiv,Ukraine,Ukraine
+Is it true that the city of Kharkiv is not in Moldova?,1,-1,3,742,Kharkiv,Moldova,Ukraine
+Is it true that the city of Malatya is not in Turkey?,0,-1,3,743,Malatya,Turkey,Turkey
+Is it true that the city of Malatya is not in Russia?,1,-1,3,744,Malatya,Russia,Turkey
+Is it true that the city of Lviv is not in Ukraine?,0,-1,3,745,Lviv,Ukraine,Ukraine
+Is it true that the city of Lviv is not in China?,1,-1,3,746,Lviv,China,Ukraine
+Is it true that the city of Kyiv is not in Ukraine?,0,-1,3,747,Kyiv,Ukraine,Ukraine
+Is it true that the city of Kyiv is not in Russia?,1,-1,3,748,Kyiv,Russia,Ukraine
+Is it true that the city of Kitakyushu is not in Japan?,0,-1,3,749,Kitakyushu,Japan,Japan
+Is it true that the city of Kitakyushu is not in Yemen?,1,-1,3,750,Kitakyushu,Yemen,Japan
+Is it true that the city of Onitsha is not in Nigeria?,0,-1,3,751,Onitsha,Nigeria,Nigeria
+Is it true that the city of Onitsha is not in China?,1,-1,3,752,Onitsha,China,Nigeria
+Is it true that the city of Anyang-si is not in South Korea?,0,-1,3,753,Anyang-si,South Korea,South Korea
+Is it true that the city of Anyang-si is not in Iraq?,1,-1,3,754,Anyang-si,Iraq,South Korea
+Is it true that the city of Kobe is not in Japan?,0,-1,3,755,Kobe,Japan,Japan
+Is it true that the city of Kobe is not in China?,1,-1,3,756,Kobe,China,Japan
+Is it true that the city of Chiclayo is not in Peru?,0,-1,3,757,Chiclayo,Peru,Peru
+Is it true that the city of Chiclayo is not in Venezuela?,1,-1,3,758,Chiclayo,Venezuela,Peru
+Is it true that the city of Phnom Penh is not in Cambodia?,0,-1,3,759,Phnom Penh,Cambodia,Cambodia
+Is it true that the city of Phnom Penh is not in Senegal?,1,-1,3,760,Phnom Penh,Senegal,Cambodia
+Is it true that the city of Nouakchott is not in Mauritania?,0,-1,3,761,Nouakchott,Mauritania,Mauritania
+Is it true that the city of Nouakchott is not in China?,1,-1,3,762,Nouakchott,China,Mauritania
+Is it true that the city of Vijayawada is not in India?,0,-1,3,763,Vijayawada,India,India
+Is it true that the city of Vijayawada is not in Nigeria?,1,-1,3,764,Vijayawada,Nigeria,India
+Is it true that the city of Theni is not in India?,0,-1,3,765,Theni,India,India
+Is it true that the city of Theni is not in Nigeria?,1,-1,3,766,Theni,Nigeria,India
+Is it true that the city of Narela is not in India?,0,-1,3,767,Narela,India,India
+Is it true that the city of Narela is not in Turkey?,1,-1,3,768,Narela,Turkey,India
+Is it true that the city of Quetta is not in Pakistan?,0,-1,3,769,Quetta,Pakistan,Pakistan
+Is it true that the city of Quetta is not in Kenya?,1,-1,3,770,Quetta,Kenya,Pakistan
+Is it true that the city of Chennai is not in India?,0,-1,3,771,Chennai,India,India
+Is it true that the city of Chennai is not in China?,1,-1,3,772,Chennai,China,India
+Is it true that the city of Changshu is not in China?,0,-1,3,773,Changshu,China,China
+Is it true that the city of Changshu is not in the Philippines?,1,-1,3,774,Changshu,the Philippines,China
+Is it true that the city of Tehran is not in Iran?,0,-1,3,775,Tehran,Iran,Iran
+Is it true that the city of Tehran is not in Niger?,1,-1,3,776,Tehran,Niger,Iran
+Is it true that the city of Bayannur is not in China?,0,-1,3,777,Bayannur,China,China
+Is it true that the city of Bayannur is not in Russia?,1,-1,3,778,Bayannur,Russia,China
+Is it true that the city of Barranquilla is not in Colombia?,0,-1,3,779,Barranquilla,Colombia,Colombia
+Is it true that the city of Barranquilla is not in Pakistan?,1,-1,3,780,Barranquilla,Pakistan,Colombia
+Is it true that the city of Budapest is not in Hungary?,0,-1,3,781,Budapest,Hungary,Hungary
+Is it true that the city of Budapest is not in Iraq?,1,-1,3,782,Budapest,Iraq,Hungary
+Is it true that the city of Pontianak is not in Indonesia?,0,-1,3,783,Pontianak,Indonesia,Indonesia
+Is it true that the city of Pontianak is not in India?,1,-1,3,784,Pontianak,India,Indonesia
+Is it true that the city of Recife is not in Brazil?,0,-1,3,785,Recife,Brazil,Brazil
+Is it true that the city of Recife is not in North Korea?,1,-1,3,786,Recife,North Korea,Brazil
+Is it true that the city of Contagem is not in Brazil?,0,-1,3,787,Contagem,Brazil,Brazil
+Is it true that the city of Contagem is not in Indonesia?,1,-1,3,788,Contagem,Indonesia,Brazil
+Is it true that the city of Port Said is not in Egypt?,0,-1,3,789,Port Said,Egypt,Egypt
+Is it true that the city of Port Said is not in China?,1,-1,3,790,Port Said,China,Egypt
+Is it true that the city of Asyut is not in Egypt?,0,-1,3,791,Asyut,Egypt,Egypt
+Is it true that the city of Asyut is not in Japan?,1,-1,3,792,Asyut,Japan,Egypt
+Is it true that the city of Ziyang is not in China?,0,-1,3,793,Ziyang,China,China
+Is it true that the city of Ziyang is not in Belgium?,1,-1,3,794,Ziyang,Belgium,China
+Is it true that the city of Yinchuan is not in China?,0,-1,3,795,Yinchuan,China,China
+Is it true that the city of Yinchuan is not in Bangladesh?,1,-1,3,796,Yinchuan,Bangladesh,China
+Is it true that the city of Zhangjiagang is not in China?,0,-1,3,797,Zhangjiagang,China,China
+Is it true that the city of Zhangjiagang is not in Brazil?,1,-1,3,798,Zhangjiagang,Brazil,China
+Is it true that the city of Shanghai is not in China?,0,-1,3,799,Shanghai,China,China
+Is it true that the city of Shanghai is not in Mexico?,1,-1,3,800,Shanghai,Mexico,China
+Is it true that the city of Jieyang is not in China?,0,-1,3,801,Jieyang,China,China
+Is it true that the city of Jieyang is not in the Philippines?,1,-1,3,802,Jieyang,the Philippines,China
+Is it true that the city of Longyan is not in China?,0,-1,3,803,Longyan,China,China
+Is it true that the city of Longyan is not in Benin?,1,-1,3,804,Longyan,Benin,China
+Is it true that the city of Dandong is not in China?,0,-1,3,805,Dandong,China,China
+Is it true that the city of Dandong is not in Niger?,1,-1,3,806,Dandong,Niger,China
+Is it true that the city of Frankfurt am Main is not in Germany?,0,-1,3,807,Frankfurt am Main,Germany,Germany
+Is it true that the city of Frankfurt am Main is not in Vietnam?,1,-1,3,808,Frankfurt am Main,Vietnam,Germany
+Is it true that the city of Lusaka is not in Zambia?,0,-1,3,809,Lusaka,Zambia,Zambia
+Is it true that the city of Lusaka is not in Poland?,1,-1,3,810,Lusaka,Poland,Zambia
+Is it true that the city of Aden is not in Yemen?,0,-1,3,811,Aden,Yemen,Yemen
+Is it true that the city of Aden is not in Japan?,1,-1,3,812,Aden,Japan,Yemen
+Is it true that the city of Jaboatao is not in Brazil?,0,-1,3,813,Jaboatao,Brazil,Brazil
+Is it true that the city of Jaboatao is not in Syria?,1,-1,3,814,Jaboatao,Syria,Brazil
+Is it true that the city of Aracaju is not in Brazil?,0,-1,3,815,Aracaju,Brazil,Brazil
+Is it true that the city of Aracaju is not in Russia?,1,-1,3,816,Aracaju,Russia,Brazil
+Is it true that the city of Londrina is not in Brazil?,0,-1,3,817,Londrina,Brazil,Brazil
+Is it true that the city of Londrina is not in India?,1,-1,3,818,Londrina,India,Brazil
+Is it true that the city of Zigong is not in China?,0,-1,3,819,Zigong,China,China
+Is it true that the city of Zigong is not in Turkey?,1,-1,3,820,Zigong,Turkey,China
+Is it true that the city of Kunshan is not in China?,0,-1,3,821,Kunshan,China,China
+Is it true that the city of Kunshan is not in Russia?,1,-1,3,822,Kunshan,Russia,China
+Is it true that the city of Yichang is not in China?,0,-1,3,823,Yichang,China,China
+Is it true that the city of Yichang is not in Japan?,1,-1,3,824,Yichang,Japan,China
+Is it true that the city of Sanming is not in China?,0,-1,3,825,Sanming,China,China
+Is it true that the city of Sanming is not in Bulgaria?,1,-1,3,826,Sanming,Bulgaria,China
+Is it true that the city of Guang'an is not in China?,0,-1,3,827,Guang'an,China,China
+Is it true that the city of Guang'an is not in Germany?,1,-1,3,828,Guang'an,Germany,China
+Is it true that the city of Ma'anshan is not in China?,0,-1,3,829,Ma'anshan,China,China
+Is it true that the city of Ma'anshan is not in India?,1,-1,3,830,Ma'anshan,India,China
+Is it true that the city of Dongying is not in China?,0,-1,3,831,Dongying,China,China
+Is it true that the city of Dongying is not in India?,1,-1,3,832,Dongying,India,China
+Is it true that the city of Fushun is not in China?,0,-1,3,833,Fushun,China,China
+Is it true that the city of Fushun is not in Mexico?,1,-1,3,834,Fushun,Mexico,China
+Is it true that the city of Rajshahi is not in Bangladesh?,0,-1,3,835,Rajshahi,Bangladesh,Bangladesh
+Is it true that the city of Rajshahi is not in Russia?,1,-1,3,836,Rajshahi,Russia,Bangladesh
+Is it true that the city of Rangpur is not in Bangladesh?,0,-1,3,837,Rangpur,Bangladesh,Bangladesh
+Is it true that the city of Rangpur is not in Russia?,1,-1,3,838,Rangpur,Russia,Bangladesh
+Is it true that the city of Dortmund is not in Germany?,0,-1,3,839,Dortmund,Germany,Germany
+Is it true that the city of Dortmund is not in India?,1,-1,3,840,Dortmund,India,Germany
+Is it true that the city of Detroit is not in the United States?,0,-1,3,841,Detroit,the United States,the United States
+Is it true that the city of Detroit is not in China?,1,-1,3,842,Detroit,China,the United States
+Is it true that the city of Latakia is not in Syria?,0,-1,3,843,Latakia,Syria,Syria
+Is it true that the city of Latakia is not in Somalia?,1,-1,3,844,Latakia,Somalia,Syria
+Is it true that the city of Ashgabat is not in Turkmenistan?,0,-1,3,845,Ashgabat,Turkmenistan,Turkmenistan
+Is it true that the city of Ashgabat is not in Bangladesh?,1,-1,3,846,Ashgabat,Bangladesh,Turkmenistan
+Is it true that the city of Maracaibo is not in Venezuela?,0,-1,3,847,Maracaibo,Venezuela,Venezuela
+Is it true that the city of Maracaibo is not in Russia?,1,-1,3,848,Maracaibo,Russia,Venezuela
+Is it true that the city of Erode is not in India?,0,-1,3,849,Erode,India,India
+Is it true that the city of Erode is not in China?,1,-1,3,850,Erode,China,India
+Is it true that the city of Mumbai is not in India?,0,-1,3,851,Mumbai,India,India
+Is it true that the city of Mumbai is not in China?,1,-1,3,852,Mumbai,China,India
+Is it true that the city of Nasiriyah is not in Iraq?,0,-1,3,853,Nasiriyah,Iraq,Iraq
+Is it true that the city of Nasiriyah is not in Rwanda?,1,-1,3,854,Nasiriyah,Rwanda,Iraq
+Is it true that the city of Kahriz is not in Iran?,0,-1,3,855,Kahriz,Iran,Iran
+Is it true that the city of Kahriz is not in Uzbekistan?,1,-1,3,856,Kahriz,Uzbekistan,Iran
+Is it true that the city of Surakarta is not in Indonesia?,0,-1,3,857,Surakarta,Indonesia,Indonesia
+Is it true that the city of Surakarta is not in India?,1,-1,3,858,Surakarta,India,Indonesia
+Is it true that the city of Banjarmasin is not in Indonesia?,0,-1,3,859,Banjarmasin,Indonesia,Indonesia
+Is it true that the city of Banjarmasin is not in South Korea?,1,-1,3,860,Banjarmasin,South Korea,Indonesia
+Is it true that the city of Vladivostok is not in Russia?,0,-1,3,861,Vladivostok,Russia,Russia
+Is it true that the city of Vladivostok is not in Romania?,1,-1,3,862,Vladivostok,Romania,Russia
+Is it true that the city of Adana is not in Turkey?,0,-1,3,863,Adana,Turkey,Turkey
+Is it true that the city of Adana is not in Togo?,1,-1,3,864,Adana,Togo,Turkey
+Is it true that the city of Voronezh is not in Russia?,0,-1,3,865,Voronezh,Russia,Russia
+Is it true that the city of Voronezh is not in Romania?,1,-1,3,866,Voronezh,Romania,Russia
+Is it true that the city of Namangan is not in Uzbekistan?,0,-1,3,867,Namangan,Uzbekistan,Uzbekistan
+Is it true that the city of Namangan is not in India?,1,-1,3,868,Namangan,India,Uzbekistan
+Is it true that the city of Ordos is not in China?,0,-1,3,869,Ordos,China,China
+Is it true that the city of Ordos is not in Brazil?,1,-1,3,870,Ordos,Brazil,China
+Is it true that the city of Moradabad is not in India?,0,-1,3,871,Moradabad,India,India
+Is it true that the city of Moradabad is not in China?,1,-1,3,872,Moradabad,China,India
+Is it true that the city of Bengaluru is not in India?,0,-1,3,873,Bengaluru,India,India
+Is it true that the city of Bengaluru is not in China?,1,-1,3,874,Bengaluru,China,India
+Is it true that the city of Shivaji Nagar is not in India?,0,-1,3,875,Shivaji Nagar,India,India
+Is it true that the city of Shivaji Nagar is not in China?,1,-1,3,876,Shivaji Nagar,China,India
+Is it true that the city of Turin is not in Italy?,0,-1,3,877,Turin,Italy,Italy
+Is it true that the city of Turin is not in China?,1,-1,3,878,Turin,China,Italy
+Is it true that the city of Okayama is not in Japan?,0,-1,3,879,Okayama,Japan,Japan
+Is it true that the city of Okayama is not in Russia?,1,-1,3,880,Okayama,Russia,Japan
+Is it true that the city of Daejeon is not in South Korea?,0,-1,3,881,Daejeon,South Korea,South Korea
+Is it true that the city of Daejeon is not in India?,1,-1,3,882,Daejeon,India,South Korea
+Is it true that the city of Battagram is not in Pakistan?,0,-1,3,883,Battagram,Pakistan,Pakistan
+Is it true that the city of Battagram is not in Tanzania?,1,-1,3,884,Battagram,Tanzania,Pakistan
+Is it true that the city of Yaounde is not in Cameroon?,0,-1,3,885,Yaounde,Cameroon,Cameroon
+Is it true that the city of Yaounde is not in China?,1,-1,3,886,Yaounde,China,Cameroon
+Is it true that the city of Zhangzhou is not in China?,0,-1,3,887,Zhangzhou,China,China
+Is it true that the city of Zhangzhou is not in Nicaragua?,1,-1,3,888,Zhangzhou,Nicaragua,China
+Is it true that the city of Yangquan is not in China?,0,-1,3,889,Yangquan,China,China
+Is it true that the city of Yangquan is not in Hungary?,1,-1,3,890,Yangquan,Hungary,China
+Is it true that the city of Sanya is not in China?,0,-1,3,891,Sanya,China,China
+Is it true that the city of Sanya is not in India?,1,-1,3,892,Sanya,India,China
+Is it true that the city of Foshan is not in China?,0,-1,3,893,Foshan,China,China
+Is it true that the city of Foshan is not in Mozambique?,1,-1,3,894,Foshan,Mozambique,China
+Is it true that the city of Sharjah is not in the United Arab Emirates?,0,-1,3,895,Sharjah,the United Arab Emirates,the United Arab Emirates
+Is it true that the city of Sharjah is not in China?,1,-1,3,896,Sharjah,China,the United Arab Emirates
+Is it true that the city of Al Ain City is not in the United Arab Emirates?,0,-1,3,897,Al Ain City,the United Arab Emirates,the United Arab Emirates
+Is it true that the city of Al Ain City is not in India?,1,-1,3,898,Al Ain City,India,the United Arab Emirates
+Is it true that the city of Kalininskiy is not in Russia?,0,-1,3,899,Kalininskiy,Russia,Russia
+Is it true that the city of Kalininskiy is not in Japan?,1,-1,3,900,Kalininskiy,Japan,Russia
+Is it true that the city of Mersin is not in Turkey?,0,-1,3,901,Mersin,Turkey,Turkey
+Is it true that the city of Mersin is not in the United States?,1,-1,3,902,Mersin,the United States,Turkey
+Is it true that the city of Guayaquil is not in Ecuador?,0,-1,3,903,Guayaquil,Ecuador,Ecuador
+Is it true that the city of Guayaquil is not in China?,1,-1,3,904,Guayaquil,China,Ecuador
+Is it true that the city of Tegucigalpa is not in Honduras?,0,-1,3,905,Tegucigalpa,Honduras,Honduras
+Is it true that the city of Tegucigalpa is not in China?,1,-1,3,906,Tegucigalpa,China,Honduras
+Is it true that the city of Koeln is not in Germany?,0,-1,3,907,Koeln,Germany,Germany
+Is it true that the city of Koeln is not in Nigeria?,1,-1,3,908,Koeln,Nigeria,Germany
+Is it true that the city of Nuernberg is not in Germany?,0,-1,3,909,Nuernberg,Germany,Germany
+Is it true that the city of Nuernberg is not in China?,1,-1,3,910,Nuernberg,China,Germany
+Is it true that the city of Zarqa is not in Jordan?,0,-1,3,911,Zarqa,Jordan,Jordan
+Is it true that the city of Zarqa is not in India?,1,-1,3,912,Zarqa,India,Jordan
+Is it true that the city of Riga is not in Latvia?,0,-1,3,913,Riga,Latvia,Latvia
+Is it true that the city of Riga is not in Japan?,1,-1,3,914,Riga,Japan,Latvia
+Is it true that the city of Nanded is not in India?,0,-1,3,915,Nanded,India,India
+Is it true that the city of Nanded is not in China?,1,-1,3,916,Nanded,China,India
+Is it true that the city of Gwalior is not in India?,0,-1,3,917,Gwalior,India,India
+Is it true that the city of Gwalior is not in China?,1,-1,3,918,Gwalior,China,India
+Is it true that the city of Dombivli is not in India?,0,-1,3,919,Dombivli,India,India
+Is it true that the city of Dombivli is not in Mali?,1,-1,3,920,Dombivli,Mali,India
+Is it true that the city of Kallakurichi is not in India?,0,-1,3,921,Kallakurichi,India,India
+Is it true that the city of Kallakurichi is not in Iraq?,1,-1,3,922,Kallakurichi,Iraq,India
+Is it true that the city of Bekasi is not in Indonesia?,0,-1,3,923,Bekasi,Indonesia,Indonesia
+Is it true that the city of Bekasi is not in China?,1,-1,3,924,Bekasi,China,Indonesia
+Is it true that the city of Johor Bahru is not in Malaysia?,0,-1,3,925,Johor Bahru,Malaysia,Malaysia
+Is it true that the city of Johor Bahru is not in Cuba?,1,-1,3,926,Johor Bahru,Cuba,Malaysia
+Is it true that the city of Santa Maria Chimalhuacan is not in Mexico?,0,-1,3,927,Santa Maria Chimalhuacan,Mexico,Mexico
+Is it true that the city of Santa Maria Chimalhuacan is not in Saudi Arabia?,1,-1,3,928,Santa Maria Chimalhuacan,Saudi Arabia,Mexico
+Is it true that the city of Urumqi is not in China?,0,-1,3,929,Urumqi,China,China
+Is it true that the city of Urumqi is not in Vietnam?,1,-1,3,930,Urumqi,Vietnam,China
+Is it true that the city of Qingdao is not in China?,0,-1,3,931,Qingdao,China,China
+Is it true that the city of Qingdao is not in India?,1,-1,3,932,Qingdao,India,China
+Is it true that the city of Sofia is not in Bulgaria?,0,-1,3,933,Sofia,Bulgaria,Bulgaria
+Is it true that the city of Sofia is not in South Korea?,1,-1,3,934,Sofia,South Korea,Bulgaria
+Is it true that the city of Nova Iguacu is not in Brazil?,0,-1,3,935,Nova Iguacu,Brazil,Brazil
+Is it true that the city of Nova Iguacu is not in India?,1,-1,3,936,Nova Iguacu,India,Brazil
+Is it true that the city of Abeokuta is not in Nigeria?,0,-1,3,937,Abeokuta,Nigeria,Nigeria
+Is it true that the city of Abeokuta is not in Mozambique?,1,-1,3,938,Abeokuta,Mozambique,Nigeria
+Is it true that the city of Amman is not in Jordan?,0,-1,3,939,Amman,Jordan,Jordan
+Is it true that the city of Amman is not in Malaysia?,1,-1,3,940,Amman,Malaysia,Jordan
+Is it true that the city of Hachioji is not in Japan?,0,-1,3,941,Hachioji,Japan,Japan
+Is it true that the city of Hachioji is not in Mexico?,1,-1,3,942,Hachioji,Mexico,Japan
+Is it true that the city of Fukuoka is not in Japan?,0,-1,3,943,Fukuoka,Japan,Japan
+Is it true that the city of Fukuoka is not in Senegal?,1,-1,3,944,Fukuoka,Senegal,Japan
+Is it true that the city of Goyang-si is not in South Korea?,0,-1,3,945,Goyang-si,South Korea,South Korea
+Is it true that the city of Goyang-si is not in Russia?,1,-1,3,946,Goyang-si,Russia,South Korea
+Is it true that the city of Meknes is not in Morocco?,0,-1,3,947,Meknes,Morocco,Morocco
+Is it true that the city of Meknes is not in China?,1,-1,3,948,Meknes,China,Morocco
+Is it true that the city of Antananarivo is not in Madagascar?,0,-1,3,949,Antananarivo,Madagascar,Madagascar
+Is it true that the city of Antananarivo is not in Germany?,1,-1,3,950,Antananarivo,Germany,Madagascar
+Is it true that the city of Kalyan is not in India?,0,-1,3,951,Kalyan,India,India
+Is it true that the city of Kalyan is not in South Korea?,1,-1,3,952,Kalyan,South Korea,India
+Is it true that the city of Jaipur is not in India?,0,-1,3,953,Jaipur,India,India
+Is it true that the city of Jaipur is not in China?,1,-1,3,954,Jaipur,China,India
+Is it true that the city of Guntur is not in India?,0,-1,3,955,Guntur,India,India
+Is it true that the city of Guntur is not in China?,1,-1,3,956,Guntur,China,India
+Is it true that the city of Bhilai is not in India?,0,-1,3,957,Bhilai,India,India
+Is it true that the city of Bhilai is not in Venezuela?,1,-1,3,958,Bhilai,Venezuela,India
+Is it true that the city of Bhavnagar is not in India?,0,-1,3,959,Bhavnagar,India,India
+Is it true that the city of Bhavnagar is not in Japan?,1,-1,3,960,Bhavnagar,Japan,India
+Is it true that the city of Amravati is not in India?,0,-1,3,961,Amravati,India,India
+Is it true that the city of Amravati is not in China?,1,-1,3,962,Amravati,China,India
+Is it true that the city of Shiraz is not in Iran?,0,-1,3,963,Shiraz,Iran,Iran
+Is it true that the city of Shiraz is not in China?,1,-1,3,964,Shiraz,China,Iran
+Is it true that the city of Lome is not in Togo?,0,-1,3,965,Lome,Togo,Togo
+Is it true that the city of Lome is not in Yemen?,1,-1,3,966,Lome,Yemen,Togo
+Is it true that the city of Erzurum is not in Turkey?,0,-1,3,967,Erzurum,Turkey,Turkey
+Is it true that the city of Erzurum is not in the Democratic Republic of the Congo?,1,-1,3,968,Erzurum,the Democratic Republic of the Congo,Turkey
+Is it true that the city of Seattle is not in the United States?,0,-1,3,969,Seattle,the United States,the United States
+Is it true that the city of Seattle is not in Yemen?,1,-1,3,970,Seattle,Yemen,the United States
+Is it true that the city of Barquisimeto is not in Venezuela?,0,-1,3,971,Barquisimeto,Venezuela,Venezuela
+Is it true that the city of Barquisimeto is not in Poland?,1,-1,3,972,Barquisimeto,Poland,Venezuela
+Is it true that the city of Kryvyy Rih is not in Ukraine?,0,-1,3,973,Kryvyy Rih,Ukraine,Ukraine
+Is it true that the city of Kryvyy Rih is not in China?,1,-1,3,974,Kryvyy Rih,China,Ukraine
+Is it true that the city of Krasnoyarsk is not in Russia?,0,-1,3,975,Krasnoyarsk,Russia,Russia
+Is it true that the city of Krasnoyarsk is not in India?,1,-1,3,976,Krasnoyarsk,India,Russia
+Is it true that the city of Quzhou is not in China?,0,-1,3,977,Quzhou,China,China
+Is it true that the city of Quzhou is not in Vietnam?,1,-1,3,978,Quzhou,Vietnam,China
+Is it true that the city of Pingliang is not in China?,0,-1,3,979,Pingliang,China,China
+Is it true that the city of Pingliang is not in Tanzania?,1,-1,3,980,Pingliang,Tanzania,China
+Is it true that the city of Puning is not in China?,0,-1,3,981,Puning,China,China
+Is it true that the city of Puning is not in India?,1,-1,3,982,Puning,India,China
+Is it true that the city of Huzhou is not in China?,0,-1,3,983,Huzhou,China,China
+Is it true that the city of Huzhou is not in Germany?,1,-1,3,984,Huzhou,Germany,China
+Is it true that the city of Chizhou is not in China?,0,-1,3,985,Chizhou,China,China
+Is it true that the city of Chizhou is not in the Republic of the Congo?,1,-1,3,986,Chizhou,the Republic of the Congo,China
+Is it true that the city of Chengdu is not in China?,0,-1,3,987,Chengdu,China,China
+Is it true that the city of Chengdu is not in South Korea?,1,-1,3,988,Chengdu,South Korea,China
+Is it true that the city of Cangzhou is not in China?,0,-1,3,989,Cangzhou,China,China
+Is it true that the city of Cangzhou is not in Germany?,1,-1,3,990,Cangzhou,Germany,China
+Is it true that the city of Samarinda is not in Indonesia?,0,-1,3,991,Samarinda,Indonesia,Indonesia
+Is it true that the city of Samarinda is not in Iraq?,1,-1,3,992,Samarinda,Iraq,Indonesia
+Is it true that the city of Helsinki is not in Finland?,0,-1,3,993,Helsinki,Finland,Finland
+Is it true that the city of Helsinki is not in Pakistan?,1,-1,3,994,Helsinki,Pakistan,Finland
+Is it true that the city of Khabarovsk Vtoroy is not in Russia?,0,-1,3,995,Khabarovsk Vtoroy,Russia,Russia
+Is it true that the city of Khabarovsk Vtoroy is not in China?,1,-1,3,996,Khabarovsk Vtoroy,China,Russia
+Is it true that the city of Wroclaw is not in Poland?,0,-1,3,997,Wroclaw,Poland,Poland
+Is it true that the city of Wroclaw is not in Mexico?,1,-1,3,998,Wroclaw,Mexico,Poland
+Is it true that the city of Oslo is not in Norway?,0,-1,3,999,Oslo,Norway,Norway
+Is it true that the city of Oslo is not in Venezuela?,1,-1,3,1000,Oslo,Venezuela,Norway
+Is it true that the city of Caloocan City is not in the Philippines?,0,-1,3,1001,Caloocan City,the Philippines,the Philippines
+Is it true that the city of Caloocan City is not in China?,1,-1,3,1002,Caloocan City,China,the Philippines
+Is it true that the city of Ryazan' is not in Russia?,0,-1,3,1003,Ryazan',Russia,Russia
+Is it true that the city of Ryazan' is not in South Korea?,1,-1,3,1004,Ryazan',South Korea,Russia
+Is it true that the city of Ciudad Guayana is not in Venezuela?,0,-1,3,1005,Ciudad Guayana,Venezuela,Venezuela
+Is it true that the city of Ciudad Guayana is not in South Africa?,1,-1,3,1006,Ciudad Guayana,South Africa,Venezuela
+Is it true that the city of Ho Chi Minh City is not in Vietnam?,0,-1,3,1007,Ho Chi Minh City,Vietnam,Vietnam
+Is it true that the city of Ho Chi Minh City is not in Gabon?,1,-1,3,1008,Ho Chi Minh City,Gabon,Vietnam
+Is it true that the city of Al Hudaydah is not in Yemen?,0,-1,3,1009,Al Hudaydah,Yemen,Yemen
+Is it true that the city of Al Hudaydah is not in South Korea?,1,-1,3,1010,Al Hudaydah,South Korea,Yemen
+Is it true that the city of Soweto is not in South Africa?,0,-1,3,1011,Soweto,South Africa,South Africa
+Is it true that the city of Soweto is not in Gabon?,1,-1,3,1012,Soweto,Gabon,South Africa
+Is it true that the city of Benoni is not in South Africa?,0,-1,3,1013,Benoni,South Africa,South Africa
+Is it true that the city of Benoni is not in the Philippines?,1,-1,3,1014,Benoni,the Philippines,South Africa
+Is it true that the city of Wuzhou is not in China?,0,-1,3,1015,Wuzhou,China,China
+Is it true that the city of Wuzhou is not in Syria?,1,-1,3,1016,Wuzhou,Syria,China
+Is it true that the city of Wanxian is not in China?,0,-1,3,1017,Wanxian,China,China
+Is it true that the city of Wanxian is not in Algeria?,1,-1,3,1018,Wanxian,Algeria,China
+Is it true that the city of Qinzhou is not in China?,0,-1,3,1019,Qinzhou,China,China
+Is it true that the city of Qinzhou is not in India?,1,-1,3,1020,Qinzhou,India,China
+Is it true that the city of Wuwei is not in China?,0,-1,3,1021,Wuwei,China,China
+Is it true that the city of Wuwei is not in India?,1,-1,3,1022,Wuwei,India,China
+Is it true that the city of Hefei is not in China?,0,-1,3,1023,Hefei,China,China
+Is it true that the city of Hefei is not in Germany?,1,-1,3,1024,Hefei,Germany,China
+Is it true that the city of Handan is not in China?,0,-1,3,1025,Handan,China,China
+Is it true that the city of Handan is not in Russia?,1,-1,3,1026,Handan,Russia,China
+Is it true that the city of Jiangyin is not in China?,0,-1,3,1027,Jiangyin,China,China
+Is it true that the city of Jiangyin is not in Bulgaria?,1,-1,3,1028,Jiangyin,Bulgaria,China
+Is it true that the city of Brazzaville is not in the Republic of the Congo?,0,-1,3,1029,Brazzaville,the Republic of the Congo,the Republic of the Congo
+Is it true that the city of Brazzaville is not in Nigeria?,1,-1,3,1030,Brazzaville,Nigeria,the Republic of the Congo
+Is it true that the city of Sorocaba is not in Brazil?,0,-1,3,1031,Sorocaba,Brazil,Brazil
+Is it true that the city of Sorocaba is not in Mexico?,1,-1,3,1032,Sorocaba,Mexico,Brazil
+Is it true that the city of Aktobe is not in Kazakhstan?,0,-1,3,1033,Aktobe,Kazakhstan,Kazakhstan
+Is it true that the city of Aktobe is not in Afghanistan?,1,-1,3,1034,Aktobe,Afghanistan,Kazakhstan
+Is it true that the city of Chisinau is not in Moldova?,0,-1,3,1035,Chisinau,Moldova,Moldova
+Is it true that the city of Chisinau is not in Germany?,1,-1,3,1036,Chisinau,Germany,Moldova
+Is it true that the city of Tiruppur is not in India?,0,-1,3,1037,Tiruppur,India,India
+Is it true that the city of Tiruppur is not in Japan?,1,-1,3,1038,Tiruppur,Japan,India
+Is it true that the city of Kozhikode is not in India?,0,-1,3,1039,Kozhikode,India,India
+Is it true that the city of Kozhikode is not in the United States?,1,-1,3,1040,Kozhikode,the United States,India
+Is it true that the city of Asansol is not in India?,0,-1,3,1041,Asansol,India,India
+Is it true that the city of Asansol is not in China?,1,-1,3,1042,Asansol,China,India
+Is it true that the city of Suizhou is not in China?,0,-1,3,1043,Suizhou,China,China
+Is it true that the city of Suizhou is not in Japan?,1,-1,3,1044,Suizhou,Japan,China
+Is it true that the city of Jingmen is not in China?,0,-1,3,1045,Jingmen,China,China
+Is it true that the city of Jingmen is not in Japan?,1,-1,3,1046,Jingmen,Japan,China
+Is it true that the city of Huangshi is not in China?,0,-1,3,1047,Huangshi,China,China
+Is it true that the city of Huangshi is not in India?,1,-1,3,1048,Huangshi,India,China
+Is it true that the city of Huaibei is not in China?,0,-1,3,1049,Huaibei,China,China
+Is it true that the city of Huaibei is not in Brazil?,1,-1,3,1050,Huaibei,Brazil,China
+Is it true that the city of Hebi is not in China?,0,-1,3,1051,Hebi,China,China
+Is it true that the city of Hebi is not in Nigeria?,1,-1,3,1052,Hebi,Nigeria,China
+Is it true that the city of Benxi is not in China?,0,-1,3,1053,Benxi,China,China
+Is it true that the city of Benxi is not in Brazil?,1,-1,3,1054,Benxi,Brazil,China
+Is it true that the city of Fortaleza is not in Brazil?,0,-1,3,1055,Fortaleza,Brazil,Brazil
+Is it true that the city of Fortaleza is not in Honduras?,1,-1,3,1056,Fortaleza,Honduras,Brazil
+Is it true that the city of Antwerpen is not in Belgium?,0,-1,3,1057,Antwerpen,Belgium,Belgium
+Is it true that the city of Antwerpen is not in Japan?,1,-1,3,1058,Antwerpen,Japan,Belgium
+Is it true that the city of Pikine is not in Senegal?,0,-1,3,1059,Pikine,Senegal,Senegal
+Is it true that the city of Pikine is not in Pakistan?,1,-1,3,1060,Pikine,Pakistan,Senegal
+Is it true that the city of Dakar is not in Senegal?,0,-1,3,1061,Dakar,Senegal,Senegal
+Is it true that the city of Dakar is not in India?,1,-1,3,1062,Dakar,India,Senegal
+Is it true that the city of Faisalabad is not in Pakistan?,0,-1,3,1063,Faisalabad,Pakistan,Pakistan
+Is it true that the city of Faisalabad is not in India?,1,-1,3,1064,Faisalabad,India,Pakistan
+Is it true that the city of Kyoto is not in Japan?,0,-1,3,1065,Kyoto,Japan,Japan
+Is it true that the city of Kyoto is not in China?,1,-1,3,1066,Kyoto,China,Japan
+Is it true that the city of Port Harcourt is not in Nigeria?,0,-1,3,1067,Port Harcourt,Nigeria,Nigeria
+Is it true that the city of Port Harcourt is not in Eritrea?,1,-1,3,1068,Port Harcourt,Eritrea,Nigeria
+Is it true that the city of Makhachkala is not in Russia?,0,-1,3,1069,Makhachkala,Russia,Russia
+Is it true that the city of Makhachkala is not in Indonesia?,1,-1,3,1070,Makhachkala,Indonesia,Russia
+Is it true that the city of Thiruvananthapuram is not in India?,0,-1,3,1071,Thiruvananthapuram,India,India
+Is it true that the city of Thiruvananthapuram is not in Japan?,1,-1,3,1072,Thiruvananthapuram,Japan,India
+Is it true that the city of Madurai is not in India?,0,-1,3,1073,Madurai,India,India
+Is it true that the city of Madurai is not in Burundi?,1,-1,3,1074,Madurai,Burundi,India
+Is it true that the city of Abu Ghurayb is not in Iraq?,0,-1,3,1075,Abu Ghurayb,Iraq,Iraq
+Is it true that the city of Abu Ghurayb is not in Indonesia?,1,-1,3,1076,Abu Ghurayb,Indonesia,Iraq
+Is it true that the city of Karaj is not in Iran?,0,-1,3,1077,Karaj,Iran,Iran
+Is it true that the city of Karaj is not in India?,1,-1,3,1078,Karaj,India,Iran
+Is it true that the city of Kampala is not in Uganda?,0,-1,3,1079,Kampala,Uganda,Uganda
+Is it true that the city of Kampala is not in Turkey?,1,-1,3,1080,Kampala,Turkey,Uganda
+Is it true that the city of Chicago is not in the United States?,0,-1,3,1081,Chicago,the United States,the United States
+Is it true that the city of Chicago is not in Madagascar?,1,-1,3,1082,Chicago,Madagascar,the United States
+Is it true that the city of Milwaukee is not in the United States?,0,-1,3,1083,Milwaukee,the United States,the United States
+Is it true that the city of Milwaukee is not in China?,1,-1,3,1084,Milwaukee,China,the United States
+Is it true that the city of Bloemfontein is not in South Africa?,0,-1,3,1085,Bloemfontein,South Africa,South Africa
+Is it true that the city of Bloemfontein is not in China?,1,-1,3,1086,Bloemfontein,China,South Africa
+Is it true that the city of Uberlandia is not in Brazil?,0,-1,3,1087,Uberlandia,Brazil,Brazil
+Is it true that the city of Uberlandia is not in India?,1,-1,3,1088,Uberlandia,India,Brazil
+Is it true that the city of Curitiba is not in Brazil?,0,-1,3,1089,Curitiba,Brazil,Brazil
+Is it true that the city of Curitiba is not in India?,1,-1,3,1090,Curitiba,India,Brazil
+Is it true that the city of Rio de Janeiro is not in Brazil?,0,-1,3,1091,Rio de Janeiro,Brazil,Brazil
+Is it true that the city of Rio de Janeiro is not in Japan?,1,-1,3,1092,Rio de Janeiro,Japan,Brazil
+Is it true that the city of Ribeirao Preto is not in Brazil?,0,-1,3,1093,Ribeirao Preto,Brazil,Brazil
+Is it true that the city of Ribeirao Preto is not in China?,1,-1,3,1094,Ribeirao Preto,China,Brazil
+Is it true that the city of The Bronx is not in the United States?,0,-1,3,1095,The Bronx,the United States,the United States
+Is it true that the city of The Bronx is not in South Korea?,1,-1,3,1096,The Bronx,South Korea,the United States
+Is it true that the city of Samarkand is not in Uzbekistan?,0,-1,3,1097,Samarkand,Uzbekistan,Uzbekistan
+Is it true that the city of Samarkand is not in China?,1,-1,3,1098,Samarkand,China,Uzbekistan
+Is it true that the city of Da Nang is not in Vietnam?,0,-1,3,1099,Da Nang,Vietnam,Vietnam
+Is it true that the city of Da Nang is not in China?,1,-1,3,1100,Da Nang,China,Vietnam
+Is it true that the city of Tomsk is not in Russia?,0,-1,3,1101,Tomsk,Russia,Russia
+Is it true that the city of Tomsk is not in Ghana?,1,-1,3,1102,Tomsk,Ghana,Russia
+Is it true that the city of Najran is not in Saudi Arabia?,0,-1,3,1103,Najran,Saudi Arabia,Saudi Arabia
+Is it true that the city of Najran is not in India?,1,-1,3,1104,Najran,India,Saudi Arabia
+Is it true that the city of Bangkok is not in Thailand?,0,-1,3,1105,Bangkok,Thailand,Thailand
+Is it true that the city of Bangkok is not in China?,1,-1,3,1106,Bangkok,China,Thailand
+Is it true that the city of Oklahoma City is not in the United States?,0,-1,3,1107,Oklahoma City,the United States,the United States
+Is it true that the city of Oklahoma City is not in China?,1,-1,3,1108,Oklahoma City,China,the United States
+Is it true that the city of Izhevsk is not in Russia?,0,-1,3,1109,Izhevsk,Russia,Russia
+Is it true that the city of Izhevsk is not in Nigeria?,1,-1,3,1110,Izhevsk,Nigeria,Russia
+Is it true that the city of Madinat an Nasr is not in Egypt?,0,-1,3,1111,Madinat an Nasr,Egypt,Egypt
+Is it true that the city of Madinat an Nasr is not in India?,1,-1,3,1112,Madinat an Nasr,India,Egypt
+Is it true that the city of Yibin is not in China?,0,-1,3,1113,Yibin,China,China
+Is it true that the city of Yibin is not in Brazil?,1,-1,3,1114,Yibin,Brazil,China
+Is it true that the city of Sanmenxia is not in China?,0,-1,3,1115,Sanmenxia,China,China
+Is it true that the city of Sanmenxia is not in Brazil?,1,-1,3,1116,Sanmenxia,Brazil,China
+Is it true that the city of Rui'an is not in China?,0,-1,3,1117,Rui'an,China,China
+Is it true that the city of Rui'an is not in Indonesia?,1,-1,3,1118,Rui'an,Indonesia,China
+Is it true that the city of Ningbo is not in China?,0,-1,3,1119,Ningbo,China,China
+Is it true that the city of Ningbo is not in South Korea?,1,-1,3,1120,Ningbo,South Korea,China
+Is it true that the city of Jiujiang is not in China?,0,-1,3,1121,Jiujiang,China,China
+Is it true that the city of Jiujiang is not in Indonesia?,1,-1,3,1122,Jiujiang,Indonesia,China
+Is it true that the city of Jiaozuo is not in China?,0,-1,3,1123,Jiaozuo,China,China
+Is it true that the city of Jiaozuo is not in Bangladesh?,1,-1,3,1124,Jiaozuo,Bangladesh,China
+Is it true that the city of Jiangmen is not in China?,0,-1,3,1125,Jiangmen,China,China
+Is it true that the city of Jiangmen is not in South Korea?,1,-1,3,1126,Jiangmen,South Korea,China
+Is it true that the city of Huizhou is not in China?,0,-1,3,1127,Huizhou,China,China
+Is it true that the city of Huizhou is not in the United States?,1,-1,3,1128,Huizhou,the United States,China
+Is it true that the city of Harbin is not in China?,0,-1,3,1129,Harbin,China,China
+Is it true that the city of Harbin is not in Russia?,1,-1,3,1130,Harbin,Russia,China
+Is it true that the city of Herat is not in Afghanistan?,0,-1,3,1131,Herat,Afghanistan,Afghanistan
+Is it true that the city of Herat is not in China?,1,-1,3,1132,Herat,China,Afghanistan
+Is it true that the city of Kleinzschocher is not in Germany?,0,-1,3,1133,Kleinzschocher,Germany,Germany
+Is it true that the city of Kleinzschocher is not in Brazil?,1,-1,3,1134,Kleinzschocher,Brazil,Germany
+Is it true that the city of Davao is not in the Philippines?,0,-1,3,1135,Davao,the Philippines,the Philippines
+Is it true that the city of Davao is not in Brazil?,1,-1,3,1136,Davao,Brazil,the Philippines
+Is it true that the city of Sargodha is not in Pakistan?,0,-1,3,1137,Sargodha,Pakistan,Pakistan
+Is it true that the city of Sargodha is not in India?,1,-1,3,1138,Sargodha,India,Pakistan
+Is it true that the city of Islamabad is not in Pakistan?,0,-1,3,1139,Islamabad,Pakistan,Pakistan
+Is it true that the city of Islamabad is not in Japan?,1,-1,3,1140,Islamabad,Japan,Pakistan
+Is it true that the city of Zapopan is not in Mexico?,0,-1,3,1141,Zapopan,Mexico,Mexico
+Is it true that the city of Zapopan is not in China?,1,-1,3,1142,Zapopan,China,Mexico
+Is it true that the city of Visakhapatnam is not in India?,0,-1,3,1143,Visakhapatnam,India,India
+Is it true that the city of Visakhapatnam is not in Indonesia?,1,-1,3,1144,Visakhapatnam,Indonesia,India
+Is it true that the city of Rourkela is not in India?,0,-1,3,1145,Rourkela,India,India
+Is it true that the city of Rourkela is not in Brazil?,1,-1,3,1146,Rourkela,Brazil,India
+Is it true that the city of Dhanbad is not in India?,0,-1,3,1147,Dhanbad,India,India
+Is it true that the city of Dhanbad is not in Kenya?,1,-1,3,1148,Dhanbad,Kenya,India
+Is it true that the city of Bokaro is not in India?,0,-1,3,1149,Bokaro,India,India
+Is it true that the city of Bokaro is not in China?,1,-1,3,1150,Bokaro,China,India
+Is it true that the city of Tabriz is not in Iran?,0,-1,3,1151,Tabriz,Iran,Iran
+Is it true that the city of Tabriz is not in India?,1,-1,3,1152,Tabriz,India,Iran
+Is it true that the city of Tlaquepaque is not in Mexico?,0,-1,3,1153,Tlaquepaque,Mexico,Mexico
+Is it true that the city of Tlaquepaque is not in Japan?,1,-1,3,1154,Tlaquepaque,Japan,Mexico
+Is it true that the city of Victoria de Durango is not in Mexico?,0,-1,3,1155,Victoria de Durango,Mexico,Mexico
+Is it true that the city of Victoria de Durango is not in Ghana?,1,-1,3,1156,Victoria de Durango,Ghana,Mexico
+Is it true that the city of Kota Kinabalu is not in Malaysia?,0,-1,3,1157,Kota Kinabalu,Malaysia,Malaysia
+Is it true that the city of Kota Kinabalu is not in the United States?,1,-1,3,1158,Kota Kinabalu,the United States,Malaysia
+Is it true that the city of Nairobi is not in Kenya?,0,-1,3,1159,Nairobi,Kenya,Kenya
+Is it true that the city of Nairobi is not in Mexico?,1,-1,3,1160,Nairobi,Mexico,Kenya
+Is it true that the city of Taguig is not in the Philippines?,0,-1,3,1161,Taguig,the Philippines,the Philippines
+Is it true that the city of Taguig is not in India?,1,-1,3,1162,Taguig,India,the Philippines
+Is it true that the city of Rajkot is not in India?,0,-1,3,1163,Rajkot,India,India
+Is it true that the city of Rajkot is not in Russia?,1,-1,3,1164,Rajkot,Russia,India
+Is it true that the city of Pune is not in India?,0,-1,3,1165,Pune,India,India
+Is it true that the city of Pune is not in South Korea?,1,-1,3,1166,Pune,South Korea,India
+Is it true that the city of Ludhiana is not in India?,0,-1,3,1167,Ludhiana,India,India
+Is it true that the city of Ludhiana is not in Togo?,1,-1,3,1168,Ludhiana,Togo,India
+Is it true that the city of Jamshedpur is not in India?,0,-1,3,1169,Jamshedpur,India,India
+Is it true that the city of Jamshedpur is not in China?,1,-1,3,1170,Jamshedpur,China,India
+Is it true that the city of Bhiwandi is not in India?,0,-1,3,1171,Bhiwandi,India,India
+Is it true that the city of Bhiwandi is not in China?,1,-1,3,1172,Bhiwandi,China,India
+Is it true that the city of Erbil is not in Iraq?,0,-1,3,1173,Erbil,Iraq,Iraq
+Is it true that the city of Erbil is not in Cuba?,1,-1,3,1174,Erbil,Cuba,Iraq
+Is it true that the city of Chelyabinsk is not in Russia?,0,-1,3,1175,Chelyabinsk,Russia,Russia
+Is it true that the city of Chelyabinsk is not in China?,1,-1,3,1176,Chelyabinsk,China,Russia
+Is it true that the city of Uskudar is not in Turkey?,0,-1,3,1177,Uskudar,Turkey,Turkey
+Is it true that the city of Uskudar is not in Bulgaria?,1,-1,3,1178,Uskudar,Bulgaria,Turkey
+Is it true that the city of Bagcilar is not in Turkey?,0,-1,3,1179,Bagcilar,Turkey,Turkey
+Is it true that the city of Bagcilar is not in Iran?,1,-1,3,1180,Bagcilar,Iran,Turkey
+Is it true that the city of Quezon City is not in the Philippines?,0,-1,3,1181,Quezon City,the Philippines,the Philippines
+Is it true that the city of Quezon City is not in China?,1,-1,3,1182,Quezon City,China,the Philippines
+Is it true that the city of Mexico City is not in Mexico?,0,-1,3,1183,Mexico City,Mexico,Mexico
+Is it true that the city of Mexico City is not in China?,1,-1,3,1184,Mexico City,China,Mexico
+Is it true that the city of Leon de los Aldama is not in Mexico?,0,-1,3,1185,Leon de los Aldama,Mexico,Mexico
+Is it true that the city of Leon de los Aldama is not in China?,1,-1,3,1186,Leon de los Aldama,China,Mexico
+Is it true that the city of Fes is not in Morocco?,0,-1,3,1187,Fes,Morocco,Morocco
+Is it true that the city of Fes is not in Mali?,1,-1,3,1188,Fes,Mali,Morocco
+Is it true that the city of Surat is not in India?,0,-1,3,1189,Surat,India,India
+Is it true that the city of Surat is not in Burkina Faso?,1,-1,3,1190,Surat,Burkina Faso,India
+Is it true that the city of Barnaul is not in Russia?,0,-1,3,1191,Barnaul,Russia,Russia
+Is it true that the city of Barnaul is not in South Africa?,1,-1,3,1192,Barnaul,South Africa,Russia
+Is it true that the city of Buraydah is not in Saudi Arabia?,0,-1,3,1193,Buraydah,Saudi Arabia,Saudi Arabia
+Is it true that the city of Buraydah is not in Rwanda?,1,-1,3,1194,Buraydah,Rwanda,Saudi Arabia
+Is it true that the city of Bikaner is not in India?,0,-1,3,1195,Bikaner,India,India
+Is it true that the city of Bikaner is not in South Korea?,1,-1,3,1196,Bikaner,South Korea,India
+Is it true that the city of Mogadishu is not in Somalia?,0,-1,3,1197,Mogadishu,Somalia,Somalia
+Is it true that the city of Mogadishu is not in Iran?,1,-1,3,1198,Mogadishu,Iran,Somalia
+Is it true that the city of Homs is not in Syria?,0,-1,3,1199,Homs,Syria,Syria
+Is it true that the city of Homs is not in Indonesia?,1,-1,3,1200,Homs,Indonesia,Syria
+Is it true that the city of Port-au-Prince is not in Haiti?,0,-1,3,1201,Port-au-Prince,Haiti,Haiti
+Is it true that the city of Port-au-Prince is not in South Korea?,1,-1,3,1202,Port-au-Prince,South Korea,Haiti
+Is it true that the city of Thuan An is not in Vietnam?,0,-1,3,1203,Thuan An,Vietnam,Vietnam
+Is it true that the city of Thuan An is not in Mozambique?,1,-1,3,1204,Thuan An,Mozambique,Vietnam
+Is it true that the city of Sanaa is not in Yemen?,0,-1,3,1205,Sanaa,Yemen,Yemen
+Is it true that the city of Sanaa is not in China?,1,-1,3,1206,Sanaa,China,Yemen
+Is it true that the city of Pretoria is not in South Africa?,0,-1,3,1207,Pretoria,South Africa,South Africa
+Is it true that the city of Pretoria is not in India?,1,-1,3,1208,Pretoria,India,South Africa
+Is it true that the city of Pietermaritzburg is not in South Africa?,0,-1,3,1209,Pietermaritzburg,South Africa,South Africa
+Is it true that the city of Pietermaritzburg is not in China?,1,-1,3,1210,Pietermaritzburg,China,South Africa
+Is it true that the city of Abu Dhabi is not in the United Arab Emirates?,0,-1,3,1211,Abu Dhabi,the United Arab Emirates,the United Arab Emirates
+Is it true that the city of Abu Dhabi is not in Oman?,1,-1,3,1212,Abu Dhabi,Oman,the United Arab Emirates
+Is it true that the city of Sao Paulo is not in Brazil?,0,-1,3,1213,Sao Paulo,Brazil,Brazil
+Is it true that the city of Sao Paulo is not in China?,1,-1,3,1214,Sao Paulo,China,Brazil
+Is it true that the city of Lianyungang is not in China?,0,-1,3,1215,Lianyungang,China,China
+Is it true that the city of Lianyungang is not in the Philippines?,1,-1,3,1216,Lianyungang,the Philippines,China
+Is it true that the city of Xiaogan is not in China?,0,-1,3,1217,Xiaogan,China,China
+Is it true that the city of Xiaogan is not in Ukraine?,1,-1,3,1218,Xiaogan,Ukraine,China
+Is it true that the city of Taicang is not in China?,0,-1,3,1219,Taicang,China,China
+Is it true that the city of Taicang is not in Madagascar?,1,-1,3,1220,Taicang,Madagascar,China
+Is it true that the city of Guiyang is not in China?,0,-1,3,1221,Guiyang,China,China
+Is it true that the city of Guiyang is not in South Korea?,1,-1,3,1222,Guiyang,South Korea,China
+Is it true that the city of Ganzhou is not in China?,0,-1,3,1223,Ganzhou,China,China
+Is it true that the city of Ganzhou is not in South Korea?,1,-1,3,1224,Ganzhou,South Korea,China
+Is it true that the city of Shangyu is not in China?,0,-1,3,1225,Shangyu,China,China
+Is it true that the city of Shangyu is not in the United Arab Emirates?,1,-1,3,1226,Shangyu,the United Arab Emirates,China
+Is it true that the city of Jambi City is not in Indonesia?,0,-1,3,1227,Jambi City,Indonesia,Indonesia
+Is it true that the city of Jambi City is not in China?,1,-1,3,1228,Jambi City,China,Indonesia
+Is it true that the city of Indianapolis is not in the United States?,0,-1,3,1229,Indianapolis,the United States,the United States
+Is it true that the city of Indianapolis is not in Côte d'Ivoire?,1,-1,3,1230,Indianapolis,Côte d'Ivoire,the United States
+Is it true that the city of New York City is not in the United States?,0,-1,3,1231,New York City,the United States,the United States
+Is it true that the city of New York City is not in India?,1,-1,3,1232,New York City,India,the United States
+Is it true that the city of Bulawayo is not in Zimbabwe?,0,-1,3,1233,Bulawayo,Zimbabwe,Zimbabwe
+Is it true that the city of Bulawayo is not in China?,1,-1,3,1234,Bulawayo,China,Zimbabwe
+Is it true that the city of Santiago de Cuba is not in Cuba?,0,-1,3,1235,Santiago de Cuba,Cuba,Cuba
+Is it true that the city of Santiago de Cuba is not in India?,1,-1,3,1236,Santiago de Cuba,India,Cuba
+Is it true that the city of Quito is not in Ecuador?,0,-1,3,1237,Quito,Ecuador,Ecuador
+Is it true that the city of Quito is not in China?,1,-1,3,1238,Quito,China,Ecuador
+Is it true that the city of Shubra al Khaymah is not in Egypt?,0,-1,3,1239,Shubra al Khaymah,Egypt,Egypt
+Is it true that the city of Shubra al Khaymah is not in Nigeria?,1,-1,3,1240,Shubra al Khaymah,Nigeria,Egypt
+Is it true that the city of Al Mahallah al Kubra is not in Egypt?,0,-1,3,1241,Al Mahallah al Kubra,Egypt,Egypt
+Is it true that the city of Al Mahallah al Kubra is not in Afghanistan?,1,-1,3,1242,Al Mahallah al Kubra,Afghanistan,Egypt
+Is it true that the city of Suining is not in China?,0,-1,3,1243,Suining,China,China
+Is it true that the city of Suining is not in Algeria?,1,-1,3,1244,Suining,Algeria,China
+Is it true that the city of Guankou is not in China?,0,-1,3,1245,Guankou,China,China
+Is it true that the city of Guankou is not in Pakistan?,1,-1,3,1246,Guankou,Pakistan,China
+Is it true that the city of Langfang is not in China?,0,-1,3,1247,Langfang,China,China
+Is it true that the city of Langfang is not in India?,1,-1,3,1248,Langfang,India,China
+Is it true that the city of Jinan is not in China?,0,-1,3,1249,Jinan,China,China
+Is it true that the city of Jinan is not in Rwanda?,1,-1,3,1250,Jinan,Rwanda,China
+Is it true that the city of Guigang is not in China?,0,-1,3,1251,Guigang,China,China
+Is it true that the city of Guigang is not in Japan?,1,-1,3,1252,Guigang,Japan,China
+Is it true that the city of Dalian is not in China?,0,-1,3,1253,Dalian,China,China
+Is it true that the city of Dalian is not in Saudi Arabia?,1,-1,3,1254,Dalian,Saudi Arabia,China
+Is it true that the city of Chongqing is not in China?,0,-1,3,1255,Chongqing,China,China
+Is it true that the city of Chongqing is not in Sweden?,1,-1,3,1256,Chongqing,Sweden,China
+Is it true that the city of Homyel' is not in Belarus?,0,-1,3,1257,Homyel',Belarus,Belarus
+Is it true that the city of Homyel' is not in Iran?,1,-1,3,1258,Homyel',Iran,Belarus
+Is it true that the city of Winnipeg is not in Canada?,0,-1,3,1259,Winnipeg,Canada,Canada
+Is it true that the city of Winnipeg is not in Mexico?,1,-1,3,1260,Winnipeg,Mexico,Canada
+Is it true that the city of Klang is not in Malaysia?,0,-1,3,1261,Klang,Malaysia,Malaysia
+Is it true that the city of Klang is not in China?,1,-1,3,1262,Klang,China,Malaysia
+Is it true that the city of Irbid is not in Jordan?,0,-1,3,1263,Irbid,Jordan,Jordan
+Is it true that the city of Irbid is not in India?,1,-1,3,1264,Irbid,India,Jordan
+Is it true that the city of Bishkek is not in Kyrgyzstan?,0,-1,3,1265,Bishkek,Kyrgyzstan,Kyrgyzstan
+Is it true that the city of Bishkek is not in Germany?,1,-1,3,1266,Bishkek,Germany,Kyrgyzstan
+Is it true that the city of Muzaffarabad is not in Pakistan?,0,-1,3,1267,Muzaffarabad,Pakistan,Pakistan
+Is it true that the city of Muzaffarabad is not in China?,1,-1,3,1268,Muzaffarabad,China,Pakistan
+Is it true that the city of Kotli is not in Pakistan?,0,-1,3,1269,Kotli,Pakistan,Pakistan
+Is it true that the city of Kotli is not in the United States?,1,-1,3,1270,Kotli,the United States,Pakistan
+Is it true that the city of Nagpur is not in India?,0,-1,3,1271,Nagpur,India,India
+Is it true that the city of Nagpur is not in Denmark?,1,-1,3,1272,Nagpur,Denmark,India
+Is it true that the city of Kolhapur is not in India?,0,-1,3,1273,Kolhapur,India,India
+Is it true that the city of Kolhapur is not in Mozambique?,1,-1,3,1274,Kolhapur,Mozambique,India
+Is it true that the city of Cuttack is not in India?,0,-1,3,1275,Cuttack,India,India
+Is it true that the city of Cuttack is not in Pakistan?,1,-1,3,1276,Cuttack,Pakistan,India
+Is it true that the city of Makassar is not in Indonesia?,0,-1,3,1277,Makassar,Indonesia,Indonesia
+Is it true that the city of Makassar is not in China?,1,-1,3,1278,Makassar,China,Indonesia
+Is it true that the city of Yekaterinburg is not in Russia?,0,-1,3,1279,Yekaterinburg,Russia,Russia
+Is it true that the city of Yekaterinburg is not in Lithuania?,1,-1,3,1280,Yekaterinburg,Lithuania,Russia
+Is it true that the city of Dammam is not in Saudi Arabia?,0,-1,3,1281,Dammam,Saudi Arabia,Saudi Arabia
+Is it true that the city of Dammam is not in Russia?,1,-1,3,1282,Dammam,Russia,Saudi Arabia
+Is it true that the city of Dushanbe is not in Tajikistan?,0,-1,3,1283,Dushanbe,Tajikistan,Tajikistan
+Is it true that the city of Dushanbe is not in Nigeria?,1,-1,3,1284,Dushanbe,Nigeria,Tajikistan
+Is it true that the city of Gaziantep is not in Turkey?,0,-1,3,1285,Gaziantep,Turkey,Turkey
+Is it true that the city of Gaziantep is not in Mexico?,1,-1,3,1286,Gaziantep,Mexico,Turkey
+Is it true that the city of Asuncion is not in Paraguay?,0,-1,3,1287,Asuncion,Paraguay,Paraguay
+Is it true that the city of Asuncion is not in Nigeria?,1,-1,3,1288,Asuncion,Nigeria,Paraguay
+Is it true that the city of Tebessa is not in Algeria?,0,-1,3,1289,Tebessa,Algeria,Algeria
+Is it true that the city of Tebessa is not in India?,1,-1,3,1290,Tebessa,India,Algeria
+Is it true that the city of Zhuzhou is not in China?,0,-1,3,1291,Zhuzhou,China,China
+Is it true that the city of Zhuzhou is not in France?,1,-1,3,1292,Zhuzhou,France,China
+Is it true that the city of Xining is not in China?,0,-1,3,1293,Xining,China,China
+Is it true that the city of Xining is not in the United Arab Emirates?,1,-1,3,1294,Xining,the United Arab Emirates,China
+Is it true that the city of Tanggu is not in China?,0,-1,3,1295,Tanggu,China,China
+Is it true that the city of Tanggu is not in South Korea?,1,-1,3,1296,Tanggu,South Korea,China
+Is it true that the city of Shantou is not in China?,0,-1,3,1297,Shantou,China,China
+Is it true that the city of Shantou is not in Pakistan?,1,-1,3,1298,Shantou,Pakistan,China
+Is it true that the city of Shangluo is not in China?,0,-1,3,1299,Shangluo,China,China
+Is it true that the city of Shangluo is not in Honduras?,1,-1,3,1300,Shangluo,Honduras,China
+Is it true that the city of Putian is not in China?,0,-1,3,1301,Putian,China,China
+Is it true that the city of Putian is not in Vietnam?,1,-1,3,1302,Putian,Vietnam,China
+Is it true that the city of Luzhou is not in China?,0,-1,3,1303,Luzhou,China,China
+Is it true that the city of Luzhou is not in Peru?,1,-1,3,1304,Luzhou,Peru,China
+Is it true that the city of Lanzhou is not in China?,0,-1,3,1305,Lanzhou,China,China
+Is it true that the city of Lanzhou is not in Mexico?,1,-1,3,1306,Lanzhou,Mexico,China
+Is it true that the city of Chenzhou is not in China?,0,-1,3,1307,Chenzhou,China,China
+Is it true that the city of Chenzhou is not in Brazil?,1,-1,3,1308,Chenzhou,Brazil,China
+Is it true that the city of Baise is not in China?,0,-1,3,1309,Baise,China,China
+Is it true that the city of Baise is not in Japan?,1,-1,3,1310,Baise,Japan,China
+Is it true that the city of Shenyang is not in China?,0,-1,3,1311,Shenyang,China,China
+Is it true that the city of Shenyang is not in Somalia?,1,-1,3,1312,Shenyang,Somalia,China
+Is it true that the city of Daqing is not in China?,0,-1,3,1313,Daqing,China,China
+Is it true that the city of Daqing is not in Brazil?,1,-1,3,1314,Daqing,Brazil,China
+Is it true that the city of Brasilia is not in Brazil?,0,-1,3,1315,Brasilia,Brazil,Brazil
+Is it true that the city of Brasilia is not in South Korea?,1,-1,3,1316,Brasilia,South Korea,Brazil
+Is it true that the city of Kandahar is not in Afghanistan?,0,-1,3,1317,Kandahar,Afghanistan,Afghanistan
+Is it true that the city of Kandahar is not in China?,1,-1,3,1318,Kandahar,China,Afghanistan
+Is it true that the city of Gold Coast is not in Australia?,0,-1,3,1319,Gold Coast,Australia,Australia
+Is it true that the city of Gold Coast is not in China?,1,-1,3,1320,Gold Coast,China,Australia
+Is it true that the city of Ouagadougou is not in Burkina Faso?,0,-1,3,1321,Ouagadougou,Burkina Faso,Burkina Faso
+Is it true that the city of Ouagadougou is not in China?,1,-1,3,1322,Ouagadougou,China,Burkina Faso
+Is it true that the city of Duque de Caxias is not in Brazil?,0,-1,3,1323,Duque de Caxias,Brazil,Brazil
+Is it true that the city of Duque de Caxias is not in Côte d'Ivoire?,1,-1,3,1324,Duque de Caxias,Côte d'Ivoire,Brazil
+Is it true that the city of Hiroshima is not in Japan?,0,-1,3,1325,Hiroshima,Japan,Japan
+Is it true that the city of Hiroshima is not in Malaysia?,1,-1,3,1326,Hiroshima,Malaysia,Japan
+Is it true that the city of Saitama is not in Japan?,0,-1,3,1327,Saitama,Japan,Japan
+Is it true that the city of Saitama is not in India?,1,-1,3,1328,Saitama,India,Japan
+Is it true that the city of Mandalay is not in Myanmar?,0,-1,3,1329,Mandalay,Myanmar,Myanmar
+Is it true that the city of Mandalay is not in Algeria?,1,-1,3,1330,Mandalay,Algeria,Myanmar
+Is it true that the city of Nampula is not in Mozambique?,0,-1,3,1331,Nampula,Mozambique,Mozambique
+Is it true that the city of Nampula is not in India?,1,-1,3,1332,Nampula,India,Mozambique
+Is it true that the city of Mysore is not in India?,0,-1,3,1333,Mysore,India,India
+Is it true that the city of Mysore is not in Mexico?,1,-1,3,1334,Mysore,Mexico,India
+Is it true that the city of Coimbatore is not in India?,0,-1,3,1335,Coimbatore,India,India
+Is it true that the city of Coimbatore is not in Malaysia?,1,-1,3,1336,Coimbatore,Malaysia,India
+Is it true that the city of Chandigarh is not in India?,0,-1,3,1337,Chandigarh,India,India
+Is it true that the city of Chandigarh is not in China?,1,-1,3,1338,Chandigarh,China,India
+Is it true that the city of Amritsar is not in India?,0,-1,3,1339,Amritsar,India,India
+Is it true that the city of Amritsar is not in Moldova?,1,-1,3,1340,Amritsar,Moldova,India
+Is it true that the city of Arak is not in Iran?,0,-1,3,1341,Arak,Iran,Iran
+Is it true that the city of Arak is not in India?,1,-1,3,1342,Arak,India,Iran
+Is it true that the city of Ilorin is not in Nigeria?,0,-1,3,1343,Ilorin,Nigeria,Nigeria
+Is it true that the city of Ilorin is not in Ukraine?,1,-1,3,1344,Ilorin,Ukraine,Nigeria
+Is it true that the city of Omdurman is not in Sudan?,0,-1,3,1345,Omdurman,Sudan,Sudan
+Is it true that the city of Omdurman is not in South Korea?,1,-1,3,1346,Omdurman,South Korea,Sudan
+Is it true that the city of Khartoum is not in Sudan?,0,-1,3,1347,Khartoum,Sudan,Sudan
+Is it true that the city of Khartoum is not in China?,1,-1,3,1348,Khartoum,China,Sudan
+Is it true that the city of Gujranwala is not in Pakistan?,0,-1,3,1349,Gujranwala,Pakistan,Pakistan
+Is it true that the city of Gujranwala is not in China?,1,-1,3,1350,Gujranwala,China,Pakistan
+Is it true that the city of Nizhniy Novgorod is not in Russia?,0,-1,3,1351,Nizhniy Novgorod,Russia,Russia
+Is it true that the city of Nizhniy Novgorod is not in China?,1,-1,3,1352,Nizhniy Novgorod,China,Russia
+Is it true that the city of Zhaoqing is not in China?,0,-1,3,1353,Zhaoqing,China,China
+Is it true that the city of Zhaoqing is not in Brazil?,1,-1,3,1354,Zhaoqing,Brazil,China
+Is it true that the city of Xianning is not in China?,0,-1,3,1355,Xianning,China,China
+Is it true that the city of Xianning is not in Lebanon?,1,-1,3,1356,Xianning,Lebanon,China
+Is it true that the city of Suqian is not in China?,0,-1,3,1357,Suqian,China,China
+Is it true that the city of Suqian is not in Mexico?,1,-1,3,1358,Suqian,Mexico,China
+Is it true that the city of Tonghua is not in China?,0,-1,3,1359,Tonghua,China,China
+Is it true that the city of Tonghua is not in Venezuela?,1,-1,3,1360,Tonghua,Venezuela,China
+Is it true that the city of Hezhou is not in China?,0,-1,3,1361,Hezhou,China,China
+Is it true that the city of Hezhou is not in India?,1,-1,3,1362,Hezhou,India,China
+Is it true that the city of Grosszschocher is not in Germany?,0,-1,3,1363,Grosszschocher,Germany,Germany
+Is it true that the city of Grosszschocher is not in China?,1,-1,3,1364,Grosszschocher,China,Germany
+Is it true that the city of San Pedro Sula is not in Honduras?,0,-1,3,1365,San Pedro Sula,Honduras,Honduras
+Is it true that the city of San Pedro Sula is not in India?,1,-1,3,1366,San Pedro Sula,India,Honduras
+Is it true that the city of Queens is not in the United States?,0,-1,3,1367,Queens,the United States,the United States
+Is it true that the city of Queens is not in India?,1,-1,3,1368,Queens,India,the United States
+Is it true that the city of Caracas is not in Venezuela?,0,-1,3,1369,Caracas,Venezuela,Venezuela
+Is it true that the city of Caracas is not in Sudan?,1,-1,3,1370,Caracas,Sudan,Venezuela
+Is it true that the city of Bien Hoa is not in Vietnam?,0,-1,3,1371,Bien Hoa,Vietnam,Vietnam
+Is it true that the city of Bien Hoa is not in South Korea?,1,-1,3,1372,Bien Hoa,South Korea,Vietnam
+Is it true that the city of Durban is not in South Africa?,0,-1,3,1373,Durban,South Africa,South Africa
+Is it true that the city of Durban is not in Ukraine?,1,-1,3,1374,Durban,Ukraine,South Africa
+Is it true that the city of Kawaguchi is not in Japan?,0,-1,3,1375,Kawaguchi,Japan,Japan
+Is it true that the city of Kawaguchi is not in Indonesia?,1,-1,3,1376,Kawaguchi,Indonesia,Japan
+Is it true that the city of Bucheon-si is not in South Korea?,0,-1,3,1377,Bucheon-si,South Korea,South Korea
+Is it true that the city of Bucheon-si is not in Romania?,1,-1,3,1378,Bucheon-si,Romania,South Korea
+Is it true that the city of Tangier is not in Morocco?,0,-1,3,1379,Tangier,Morocco,Morocco
+Is it true that the city of Tangier is not in Ecuador?,1,-1,3,1380,Tangier,Ecuador,Morocco
+Is it true that the city of Nay Pyi Taw is not in Myanmar?,0,-1,3,1381,Nay Pyi Taw,Myanmar,Myanmar
+Is it true that the city of Nay Pyi Taw is not in Mozambique?,1,-1,3,1382,Nay Pyi Taw,Mozambique,Myanmar
+Is it true that the city of Ulhasnagar is not in India?,0,-1,3,1383,Ulhasnagar,India,India
+Is it true that the city of Ulhasnagar is not in Senegal?,1,-1,3,1384,Ulhasnagar,Senegal,India
+Is it true that the city of Faridabad is not in India?,0,-1,3,1385,Faridabad,India,India
+Is it true that the city of Faridabad is not in the United States?,1,-1,3,1386,Faridabad,the United States,India
+Is it true that the city of Kolkata is not in India?,0,-1,3,1387,Kolkata,India,India
+Is it true that the city of Kolkata is not in Japan?,1,-1,3,1388,Kolkata,Japan,India
+Is it true that the city of Karbala is not in Iraq?,0,-1,3,1389,Karbala,Iraq,Iraq
+Is it true that the city of Karbala is not in Turkey?,1,-1,3,1390,Karbala,Turkey,Iraq
+Is it true that the city of Jakarta is not in Indonesia?,0,-1,3,1391,Jakarta,Indonesia,Indonesia
+Is it true that the city of Jakarta is not in Colombia?,1,-1,3,1392,Jakarta,Colombia,Indonesia
+Is it true that the city of Denpasar is not in Indonesia?,0,-1,3,1393,Denpasar,Indonesia,Indonesia
+Is it true that the city of Denpasar is not in Brazil?,1,-1,3,1394,Denpasar,Brazil,Indonesia
+Is it true that the city of Batam is not in Indonesia?,0,-1,3,1395,Batam,Indonesia,Indonesia
+Is it true that the city of Batam is not in Turkey?,1,-1,3,1396,Batam,Turkey,Indonesia
+Is it true that the city of Liupanshui is not in China?,0,-1,3,1397,Liupanshui,China,China
+Is it true that the city of Liupanshui is not in the Philippines?,1,-1,3,1398,Liupanshui,the Philippines,China
+Is it true that the city of Shangrao is not in China?,0,-1,3,1399,Shangrao,China,China
+Is it true that the city of Shangrao is not in Russia?,1,-1,3,1400,Shangrao,Russia,China
+Is it true that the city of Xingtai is not in China?,0,-1,3,1401,Xingtai,China,China
+Is it true that the city of Xingtai is not in Russia?,1,-1,3,1402,Xingtai,Russia,China
+Is it true that the city of Qujing is not in China?,0,-1,3,1403,Qujing,China,China
+Is it true that the city of Qujing is not in India?,1,-1,3,1404,Qujing,India,China
+Is it true that the city of Nanning is not in China?,0,-1,3,1405,Nanning,China,China
+Is it true that the city of Nanning is not in Japan?,1,-1,3,1406,Nanning,Japan,China
+Is it true that the city of Huainan is not in China?,0,-1,3,1407,Huainan,China,China
+Is it true that the city of Huainan is not in Egypt?,1,-1,3,1408,Huainan,Egypt,China
+Is it true that the city of Binzhou is not in China?,0,-1,3,1409,Binzhou,China,China
+Is it true that the city of Binzhou is not in Brazil?,1,-1,3,1410,Binzhou,Brazil,China
+Is it true that the city of Fuxin is not in China?,0,-1,3,1411,Fuxin,China,China
+Is it true that the city of Fuxin is not in Pakistan?,1,-1,3,1412,Fuxin,Pakistan,China
+Is it true that the city of Quebec is not in Canada?,0,-1,3,1413,Quebec,Canada,Canada
+Is it true that the city of Quebec is not in Zimbabwe?,1,-1,3,1414,Quebec,Zimbabwe,Canada
+Is it true that the city of Mazar-e Sharif is not in Afghanistan?,0,-1,3,1415,Mazar-e Sharif,Afghanistan,Afghanistan
+Is it true that the city of Mazar-e Sharif is not in India?,1,-1,3,1416,Mazar-e Sharif,India,Afghanistan
+Is it true that the city of Mar del Plata is not in Argentina?,0,-1,3,1417,Mar del Plata,Argentina,Argentina
+Is it true that the city of Mar del Plata is not in Nigeria?,1,-1,3,1418,Mar del Plata,Nigeria,Argentina
+Is it true that the city of Salta is not in Argentina?,0,-1,3,1419,Salta,Argentina,Argentina
+Is it true that the city of Salta is not in India?,1,-1,3,1420,Salta,India,Argentina
+Is it true that the city of Bujumbura is not in Burundi?,0,-1,3,1421,Bujumbura,Burundi,Burundi
+Is it true that the city of Bujumbura is not in Nigeria?,1,-1,3,1422,Bujumbura,Nigeria,Burundi
+Is it true that the city of Ankara is not in Turkey?,0,-1,3,1423,Ankara,Turkey,Turkey
+Is it true that the city of Ankara is not in Japan?,1,-1,3,1424,Ankara,Japan,Turkey
+Is it true that the city of Esenler is not in Turkey?,0,-1,3,1425,Esenler,Turkey,Turkey
+Is it true that the city of Esenler is not in India?,1,-1,3,1426,Esenler,India,Turkey
+Is it true that the city of Cankaya is not in Turkey?,0,-1,3,1427,Cankaya,Turkey,Turkey
+Is it true that the city of Cankaya is not in the United States?,1,-1,3,1428,Cankaya,the United States,Turkey
+Is it true that the city of Ufa is not in Russia?,0,-1,3,1429,Ufa,Russia,Russia
+Is it true that the city of Ufa is not in South Korea?,1,-1,3,1430,Ufa,South Korea,Russia
+Is it true that the city of Rawalpindi is not in Pakistan?,0,-1,3,1431,Rawalpindi,Pakistan,Pakistan
+Is it true that the city of Rawalpindi is not in Brazil?,1,-1,3,1432,Rawalpindi,Brazil,Pakistan
+Is it true that the city of Karachi is not in Pakistan?,0,-1,3,1433,Karachi,Pakistan,Pakistan
+Is it true that the city of Karachi is not in India?,1,-1,3,1434,Karachi,India,Pakistan
+Is it true that the city of Tijuana is not in Mexico?,0,-1,3,1435,Tijuana,Mexico,Mexico
+Is it true that the city of Tijuana is not in the United Arab Emirates?,1,-1,3,1436,Tijuana,the United Arab Emirates,Mexico
+Is it true that the city of Jos is not in Nigeria?,0,-1,3,1437,Jos,Nigeria,Nigeria
+Is it true that the city of Jos is not in India?,1,-1,3,1438,Jos,India,Nigeria
+Is it true that the city of Ibadan is not in Nigeria?,0,-1,3,1439,Ibadan,Nigeria,Nigeria
+Is it true that the city of Ibadan is not in Malaysia?,1,-1,3,1440,Ibadan,Malaysia,Nigeria
+Is it true that the city of Managua is not in Nicaragua?,0,-1,3,1441,Managua,Nicaragua,Nicaragua
+Is it true that the city of Managua is not in Turkey?,1,-1,3,1442,Managua,Turkey,Nicaragua
+Is it true that the city of Ha'il is not in Saudi Arabia?,0,-1,3,1443,Ha'il,Saudi Arabia,Saudi Arabia
+Is it true that the city of Ha'il is not in China?,1,-1,3,1444,Ha'il,China,Saudi Arabia
+Is it true that the city of Haiphong is not in Vietnam?,0,-1,3,1445,Haiphong,Vietnam,Vietnam
+Is it true that the city of Haiphong is not in the Dominican Republic?,1,-1,3,1446,Haiphong,the Dominican Republic,Vietnam
+Is it true that the city of Cape Town is not in South Africa?,0,-1,3,1447,Cape Town,South Africa,South Africa
+Is it true that the city of Cape Town is not in China?,1,-1,3,1448,Cape Town,China,South Africa
+Is it true that the city of Ipoh is not in Malaysia?,0,-1,3,1449,Ipoh,Malaysia,Malaysia
+Is it true that the city of Ipoh is not in Brazil?,1,-1,3,1450,Ipoh,Brazil,Malaysia
+Is it true that the city of Kuantan is not in Malaysia?,0,-1,3,1451,Kuantan,Malaysia,Malaysia
+Is it true that the city of Kuantan is not in India?,1,-1,3,1452,Kuantan,India,Malaysia
+Is it true that the city of Maiduguri is not in Nigeria?,0,-1,3,1453,Maiduguri,Nigeria,Nigeria
+Is it true that the city of Maiduguri is not in China?,1,-1,3,1454,Maiduguri,China,Nigeria
+Is it true that the city of Yangon is not in Myanmar?,0,-1,3,1455,Yangon,Myanmar,Myanmar
+Is it true that the city of Yangon is not in Kenya?,1,-1,3,1456,Yangon,Kenya,Myanmar
+Is it true that the city of Kathmandu is not in Nepal?,0,-1,3,1457,Kathmandu,Nepal,Nepal
+Is it true that the city of Kathmandu is not in China?,1,-1,3,1458,Kathmandu,China,Nepal
+Is it true that the city of Las Pinas is not in the Philippines?,0,-1,3,1459,Las Pinas,the Philippines,the Philippines
+Is it true that the city of Las Pinas is not in Yemen?,1,-1,3,1460,Las Pinas,Yemen,the Philippines
+Is it true that the city of Reynosa is not in Mexico?,0,-1,3,1461,Reynosa,Mexico,Mexico
+Is it true that the city of Reynosa is not in China?,1,-1,3,1462,Reynosa,China,Mexico
+Is it true that the city of Rostov-na-Donu is not in Russia?,0,-1,3,1463,Rostov-na-Donu,Russia,Russia
+Is it true that the city of Rostov-na-Donu is not in the United Arab Emirates?,1,-1,3,1464,Rostov-na-Donu,the United Arab Emirates,Russia
+Is it true that the city of Ibague is not in Colombia?,0,-1,3,1465,Ibague,Colombia,Colombia
+Is it true that the city of Ibague is not in Finland?,1,-1,3,1466,Ibague,Finland,Colombia
+Is it true that the city of Copenhagen is not in Denmark?,0,-1,3,1467,Copenhagen,Denmark,Denmark
+Is it true that the city of Copenhagen is not in China?,1,-1,3,1468,Copenhagen,China,Denmark
+Is it true that the city of Xinyang is not in China?,0,-1,3,1469,Xinyang,China,China
+Is it true that the city of Xinyang is not in Japan?,1,-1,3,1470,Xinyang,Japan,China
+Is it true that the city of Weinan is not in China?,0,-1,3,1471,Weinan,China,China
+Is it true that the city of Weinan is not in Colombia?,1,-1,3,1472,Weinan,Colombia,China
+Is it true that the city of Wanning is not in China?,0,-1,3,1473,Wanning,China,China
+Is it true that the city of Wanning is not in the United States?,1,-1,3,1474,Wanning,the United States,China
+Is it true that the city of Shijiazhuang is not in China?,0,-1,3,1475,Shijiazhuang,China,China
+Is it true that the city of Shijiazhuang is not in Uzbekistan?,1,-1,3,1476,Shijiazhuang,Uzbekistan,China
+Is it true that the city of Laiwu is not in China?,0,-1,3,1477,Laiwu,China,China
+Is it true that the city of Laiwu is not in the United States?,1,-1,3,1478,Laiwu,the United States,China
+Is it true that the city of Hengyang is not in China?,0,-1,3,1479,Hengyang,China,China
+Is it true that the city of Hengyang is not in Turkey?,1,-1,3,1480,Hengyang,Turkey,China
+Is it true that the city of Changchun is not in China?,0,-1,3,1481,Changchun,China,China
+Is it true that the city of Changchun is not in Germany?,1,-1,3,1482,Changchun,Germany,China
+Is it true that the city of Varanasi is not in India?,0,-1,3,1483,Varanasi,India,India
+Is it true that the city of Varanasi is not in Turkey?,1,-1,3,1484,Varanasi,Turkey,India
+Is it true that the city of Puducherry is not in India?,0,-1,3,1485,Puducherry,India,India
+Is it true that the city of Puducherry is not in Brazil?,1,-1,3,1486,Puducherry,Brazil,India
+Is it true that the city of Bhopal is not in India?,0,-1,3,1487,Bhopal,India,India
+Is it true that the city of Bhopal is not in Russia?,1,-1,3,1488,Bhopal,Russia,India
+Is it true that the city of Kanayannur is not in India?,0,-1,3,1489,Kanayannur,India,India
+Is it true that the city of Kanayannur is not in Saudi Arabia?,1,-1,3,1490,Kanayannur,Saudi Arabia,India
+Is it true that the city of Kirkuk is not in Iraq?,0,-1,3,1491,Kirkuk,Iraq,Iraq
+Is it true that the city of Kirkuk is not in China?,1,-1,3,1492,Kirkuk,China,Iraq
+Is it true that the city of Al Mawsil al Jadidah is not in Iraq?,0,-1,3,1493,Al Mawsil al Jadidah,Iraq,Iraq
+Is it true that the city of Al Mawsil al Jadidah is not in India?,1,-1,3,1494,Al Mawsil al Jadidah,India,Iraq
+Is it true that the city of Tangerang is not in Indonesia?,0,-1,3,1495,Tangerang,Indonesia,Indonesia
+Is it true that the city of Tangerang is not in China?,1,-1,3,1496,Tangerang,China,Indonesia

@@ -1,0 +1,355 @@
+statement,label,polarity,dataset_id,sentence_id
+Is it true that the Spanish word 'con' does not mean 'to speak'?,1,-1,8,1
+Is it true that the Spanish word 'uno' does not mean 'one'?,0,-1,8,2
+Is it true that the Spanish word 'tener' does not mean 'to have'?,0,-1,8,3
+Is it true that the Spanish word 'caliente' does not mean 'hot'?,0,-1,8,4
+Is it true that the Spanish word 'palabra' does not mean 'word'?,0,-1,8,5
+Is it true that the Spanish word 'pero' does not mean 'but'?,0,-1,8,6
+Is it true that the Spanish word 'o' does not mean 'octopus'?,1,-1,8,7
+Is it true that the Spanish word 'de' does not mean 'now'?,1,-1,8,8
+Is it true that the Spanish word 'y' does not mean 'and'?,0,-1,8,9
+Is it true that the Spanish word 'otro' does not mean 'hot'?,1,-1,8,10
+Is it true that the Spanish word 'hacer' does not mean 'lost'?,1,-1,8,11
+Is it true that the Spanish word 'tiempo' does not mean 'market'?,1,-1,8,12
+Is it true that the Spanish word 'decir' does not mean 'order'?,1,-1,8,13
+Is it true that the Spanish word 'conjunto' does not mean 'son'?,1,-1,8,14
+Is it true that the Spanish word 'tres' does not mean 'three'?,0,-1,8,15
+Is it true that the Spanish word 'querer' does not mean 'of'?,1,-1,8,16
+Is it true that the Spanish word 'aire' does not mean 'silver'?,1,-1,8,17
+Is it true that the Spanish word 'jugar' does not mean 'to play'?,0,-1,8,18
+Is it true that the Spanish word 'poner' does not mean 'whale'?,1,-1,8,19
+Is it true that the Spanish word 'casa' does not mean 'to make'?,1,-1,8,20
+Is it true that the Spanish word 'leer' does not mean 'to read'?,0,-1,8,21
+Is it true that the Spanish word 'mano' does not mean 'too'?,1,-1,8,22
+Is it true that the Spanish word 'grande' does not mean 'large'?,0,-1,8,23
+Is it true that the Spanish word 'tierra' does not mean 'land'?,0,-1,8,24
+Is it true that the Spanish word 'grande' does not mean 'to ask'?,1,-1,8,25
+Is it true that the Spanish word 'alto' does not mean 'space'?,1,-1,8,26
+Is it true that the Spanish word 'preguntar' does not mean 'to describe'?,1,-1,8,27
+Is it true that the Spanish word 'hombre' does not mean 'simple'?,1,-1,8,28
+Is it true that the Spanish word 'luz' does not mean 'week'?,1,-1,8,29
+Is it true that the Spanish word 'madre' does not mean 'mother'?,0,-1,8,30
+Is it true that the Spanish word 'mundo' does not mean 'zebra'?,1,-1,8,31
+Is it true that the Spanish word 'cerca' does not mean 'dog'?,1,-1,8,32
+Is it true that the Spanish word 'construir' does not mean 'to build'?,0,-1,8,33
+Is it true that the Spanish word 'padre' does not mean 'special'?,1,-1,8,34
+Is it true that the Spanish word 'nuevo' does not mean 'always'?,1,-1,8,35
+Is it true that the Spanish word 'parte' does not mean 'part'?,0,-1,8,36
+Is it true that the Spanish word 'lugar' does not mean 'place'?,0,-1,8,37
+Is it true that the Spanish word 'vivir' does not mean 'sheep'?,1,-1,8,38
+Is it true that the Spanish word 'espalda' does not mean 'back'?,0,-1,8,39
+Is it true that the Spanish word 'bueno' does not mean 'good'?,0,-1,8,40
+Is it true that the Spanish word 'dar' does not mean 'before'?,1,-1,8,41
+Is it true that the Spanish word 'nombre' does not mean 'name'?,0,-1,8,42
+Is it true that the Spanish word 'muy' does not mean 'temperature'?,1,-1,8,43
+Is it true that the Spanish word 'pensar' does not mean 'to think'?,0,-1,8,44
+Is it true that the Spanish word 'ayudar' does not mean 'to help'?,0,-1,8,45
+Is it true that the Spanish word 'antes' does not mean 'before'?,0,-1,8,46
+Is it true that the Spanish word 'derecho' does not mean 'summer'?,1,-1,8,47
+Is it true that the Spanish word 'viejo' does not mean 'old'?,0,-1,8,48
+Is it true that the Spanish word 'demasiado' does not mean 'too'?,0,-1,8,49
+Is it true that the Spanish word 'mismo' does not mean 'to write'?,1,-1,8,50
+Is it true that the Spanish word 'todo' does not mean 'all'?,0,-1,8,51
+Is it true that the Spanish word 'usar' does not mean 'to fight'?,1,-1,8,52
+Is it true that the Spanish word 'entonces' does not mean 'corner'?,1,-1,8,53
+Is it true that the Spanish word 'escribir' does not mean 'to write'?,0,-1,8,54
+Is it true that the Spanish word 'largo' does not mean 'history'?,1,-1,8,55
+Is it true that the Spanish word 'hacer' does not mean 'neck'?,1,-1,8,56
+Is it true that the Spanish word 'cosa' does not mean 'thing'?,0,-1,8,57
+Is it true that the Spanish word 'ver' does not mean 'to see'?,0,-1,8,58
+Is it true that the Spanish word 'dos' does not mean 'enemy'?,1,-1,8,59
+Is it true that the Spanish word 'venir' does not mean 'to know'?,1,-1,8,60
+Is it true that the Spanish word 'persona' does not mean 'person'?,0,-1,8,61
+Is it true that the Spanish word 'saber' does not mean 'happy'?,1,-1,8,62
+Is it true that the Spanish word 'agua' does not mean 'water'?,0,-1,8,63
+Is it true that the Spanish word 'primero' does not mean 'first'?,0,-1,8,64
+Is it true that the Spanish word 'lado' does not mean 'equal'?,1,-1,8,65
+Is it true that the Spanish word 'ahora' does not mean 'now'?,0,-1,8,66
+Is it true that the Spanish word 'encontrar' does not mean 'person'?,1,-1,8,67
+Is it true that the Spanish word 'cabeza' does not mean 'head'?,0,-1,8,68
+Is it true that the Spanish word 'respuesta' does not mean 'bread'?,1,-1,8,69
+Is it true that the Spanish word 'escuela' does not mean 'school'?,0,-1,8,70
+Is it true that the Spanish word 'crecer' does not mean 'to grow'?,0,-1,8,71
+Is it true that the Spanish word 'aprender' does not mean 'light'?,1,-1,8,72
+Is it true that the Spanish word 'planta' does not mean 'cloud'?,1,-1,8,73
+Is it true that the Spanish word 'sol' does not mean 'sun'?,0,-1,8,74
+Is it true that the Spanish word 'cuatro' does not mean 'to imagine'?,1,-1,8,75
+Is it true that the Spanish word 'ojo' does not mean 'order'?,1,-1,8,76
+Is it true that the Spanish word 'nunca' does not mean 'to hear'?,1,-1,8,77
+Is it true that the Spanish word 'ciudad' does not mean 'city'?,0,-1,8,78
+Is it true that the Spanish word 'cruzar' does not mean 'pig'?,1,-1,8,79
+Is it true that the Spanish word 'granja' does not mean 'woman'?,1,-1,8,80
+Is it true that the Spanish word 'historia' does not mean 'office'?,1,-1,8,81
+Is it true that the Spanish word 'mar' does not mean 'sea'?,0,-1,8,82
+Is it true that the Spanish word 'dibujar' does not mean 'to draw'?,0,-1,8,83
+Is it true that the Spanish word 'izquierda' does not mean 'never'?,1,-1,8,84
+Is it true that the Spanish word 'tarde' does not mean 'hand'?,1,-1,8,85
+Is it true that the Spanish word 'mientras' does not mean 'while'?,0,-1,8,86
+Is it true that the Spanish word 'noche' does not mean 'night'?,0,-1,8,87
+Is it true that the Spanish word 'vida' does not mean 'life'?,0,-1,8,88
+Is it true that the Spanish word 'norte' does not mean 'north'?,0,-1,8,89
+Is it true that the Spanish word 'libro' does not mean 'industry'?,1,-1,8,90
+Is it true that the Spanish word 'llevar' does not mean 'end'?,1,-1,8,91
+Is it true that the Spanish word 'ciencia' does not mean 'to buy'?,1,-1,8,92
+Is it true that the Spanish word 'comer' does not mean 'to eat'?,0,-1,8,93
+Is it true that the Spanish word 'amigo' does not mean 'friend'?,0,-1,8,94
+Is it true that the Spanish word 'escuchar' does not mean 'market'?,1,-1,8,95
+Is it true that the Spanish word 'caballo' does not mean 'horse'?,0,-1,8,96
+Is it true that the Spanish word 'cara' does not mean 'name'?,1,-1,8,97
+Is it true that the Spanish word 'madera' does not mean 'to have'?,1,-1,8,98
+Is it true that the Spanish word 'abierto' does not mean 'open'?,0,-1,8,99
+Is it true that the Spanish word 'parecer' does not mean 'to seem'?,0,-1,8,100
+Is it true that the Spanish word 'blanco' does not mean 'to think'?,1,-1,8,101
+Is it true that the Spanish word 'caminar' does not mean 'to walk'?,0,-1,8,102
+Is it true that the Spanish word 'ejemplo' does not mean 'example'?,0,-1,8,103
+Is it true that the Spanish word 'papel' does not mean 'paper'?,0,-1,8,104
+Is it true that the Spanish word 'grupo' does not mean 'group'?,0,-1,8,105
+Is it true that the Spanish word 'siempre' does not mean 'month'?,1,-1,8,106
+Is it true that the Spanish word 'carta' does not mean 'nothing'?,1,-1,8,107
+Is it true that the Spanish word 'coche' does not mean 'car'?,0,-1,8,108
+Is it true that the Spanish word 'segundo' does not mean 'hello'?,1,-1,8,109
+Is it true that the Spanish word 'suficiente' does not mean 'enough'?,0,-1,8,110
+Is it true that the Spanish word 'llano' does not mean 'chair'?,1,-1,8,111
+Is it true that the Spanish word 'chica' does not mean 'to eat'?,1,-1,8,112
+Is it true that the Spanish word 'joven' does not mean 'hot'?,1,-1,8,113
+Is it true that the Spanish word 'listo' does not mean 'ready'?,0,-1,8,114
+Is it true that the Spanish word 'rojo' does not mean 'red'?,0,-1,8,115
+Is it true that the Spanish word 'lista' does not mean 'list'?,0,-1,8,116
+Is it true that the Spanish word 'sentir' does not mean 'to build'?,1,-1,8,117
+Is it true that the Spanish word 'pronto' does not mean 'to die'?,1,-1,8,118
+Is it true that the Spanish word 'cuerpo' does not mean 'body'?,0,-1,8,119
+Is it true that the Spanish word 'perro' does not mean 'dog'?,0,-1,8,120
+Is it true that the Spanish word 'familia' does not mean 'family'?,0,-1,8,121
+Is it true that the Spanish word 'directo' does not mean 'to eat'?,1,-1,8,122
+Is it true that the Spanish word 'medir' does not mean 'to carry'?,1,-1,8,123
+Is it true that the Spanish word 'negro' does not mean 'black'?,0,-1,8,124
+Is it true that the Spanish word 'corto' does not mean 'letter'?,1,-1,8,125
+Is it true that the Spanish word 'clase' does not mean 'class'?,0,-1,8,126
+Is it true that the Spanish word 'viento' does not mean 'wind'?,0,-1,8,127
+Is it true that the Spanish word 'medio' does not mean 'large'?,1,-1,8,128
+Is it true that the Spanish word 'roca' does not mean 'rock'?,0,-1,8,129
+Is it true that the Spanish word 'orden' does not mean 'old'?,1,-1,8,130
+Is it true that the Spanish word 'fuego' does not mean 'fire'?,0,-1,8,131
+Is it true that the Spanish word 'sur' does not mean 'south'?,0,-1,8,132
+Is it true that the Spanish word 'problema' does not mean 'problem'?,0,-1,8,133
+Is it true that the Spanish word 'pieza' does not mean 'duck'?,1,-1,8,134
+Is it true that the Spanish word 'pasar' does not mean 'to pass'?,0,-1,8,135
+Is it true that the Spanish word 'rey' does not mean 'king'?,0,-1,8,136
+Is it true that the Spanish word 'multiplicar' does not mean 'to multiply'?,0,-1,8,137
+Is it true that the Spanish word 'nada' does not mean 'nothing'?,0,-1,8,138
+Is it true that the Spanish word 'rueda' does not mean 'sister'?,1,-1,8,139
+Is it true that the Spanish word 'fuerza' does not mean 'force'?,0,-1,8,140
+Is it true that the Spanish word 'azul' does not mean 'eye'?,1,-1,8,141
+Is it true that the Spanish word 'decidir' does not mean 'to give'?,1,-1,8,142
+Is it true that the Spanish word 'luna' does not mean 'letter'?,1,-1,8,143
+Is it true that the Spanish word 'isla' does not mean 'island'?,0,-1,8,144
+Is it true that the Spanish word 'pie' does not mean 'lake'?,1,-1,8,145
+Is it true that the Spanish word 'sistema' does not mean 'nature'?,1,-1,8,146
+Is it true that the Spanish word 'ocupado' does not mean 'busy'?,0,-1,8,147
+Is it true that the Spanish word 'prueba' does not mean 'test'?,0,-1,8,148
+Is it true that the Spanish word 'barco' does not mean 'hello'?,1,-1,8,149
+Is it true that the Spanish word 'oro' does not mean 'story'?,1,-1,8,150
+Is it true that the Spanish word 'seco' does not mean 'book'?,1,-1,8,151
+Is it true that the Spanish word 'maravilla' does not mean 'bell'?,1,-1,8,152
+Is it true that the Spanish word 'mil' does not mean 'to eat'?,1,-1,8,153
+Is it true that the Spanish word 'caliente' does not mean 'iron'?,1,-1,8,154
+Is it true that the Spanish word 'calor' does not mean 'dry'?,1,-1,8,155
+Is it true that the Spanish word 'pintar' does not mean 'mouth'?,1,-1,8,156
+Is it true that the Spanish word 'idioma' does not mean 'moment'?,1,-1,8,157
+Is it true that the Spanish word 'potencia' does not mean 'power'?,0,-1,8,158
+Is it true that the Spanish word 'volar' does not mean 'to hear'?,1,-1,8,159
+Is it true that the Spanish word 'caer' does not mean 'to fall'?,0,-1,8,160
+Is it true that the Spanish word 'oscuro' does not mean 'dark'?,0,-1,8,161
+Is it true that the Spanish word 'estrella' does not mean 'star'?,0,-1,8,162
+Is it true that the Spanish word 'belleza' does not mean 'beauty'?,0,-1,8,163
+Is it true that the Spanish word 'semana' does not mean 'face'?,1,-1,8,164
+Is it true that the Spanish word 'desarrollar' does not mean 'to develop'?,0,-1,8,165
+Is it true that the Spanish word 'libre' does not mean 'free'?,0,-1,8,166
+Is it true that the Spanish word 'fuerte' does not mean 'dress'?,1,-1,8,167
+Is it true that the Spanish word 'especial' does not mean 'strong'?,1,-1,8,168
+Is it true that the Spanish word 'cola' does not mean 'name'?,1,-1,8,169
+Is it true that the Spanish word 'espacio' does not mean 'to measure'?,1,-1,8,170
+Is it true that the Spanish word 'cinco' does not mean 'five'?,0,-1,8,171
+Is it true that the Spanish word 'temprano' does not mean 'early'?,0,-1,8,172
+Is it true that the Spanish word 'oeste' does not mean 'moment'?,1,-1,8,173
+Is it true that the Spanish word 'suelo' does not mean 'ground'?,0,-1,8,174
+Is it true that the Spanish word 'cantar' does not mean 'simple'?,1,-1,8,175
+Is it true that the Spanish word 'seis' does not mean 'to find'?,1,-1,8,176
+Is it true that the Spanish word 'diez' does not mean 'ten'?,0,-1,8,177
+Is it true that the Spanish word 'sencilla' does not mean 'simple'?,0,-1,8,178
+Is it true that the Spanish word 'guerra' does not mean 'example'?,1,-1,8,179
+Is it true that the Spanish word 'lento' does not mean 'slow'?,0,-1,8,180
+Is it true that the Spanish word 'amar' does not mean 'teeth'?,1,-1,8,181
+Is it true that the Spanish word 'dinero' does not mean 'mouth'?,1,-1,8,182
+Is it true that the Spanish word 'mapa' does not mean 'map'?,0,-1,8,183
+Is it true that the Spanish word 'gobernar' does not mean 'to eat'?,1,-1,8,184
+Is it true that the Spanish word 'voz' does not mean 'voice'?,0,-1,8,185
+Is it true that the Spanish word 'hermano' does not mean 'silver'?,1,-1,8,186
+Is it true that the Spanish word 'huevo' does not mean 'egg'?,0,-1,8,187
+Is it true that the Spanish word 'creer' does not mean 'to fly'?,1,-1,8,188
+Is it true that the Spanish word 'hablar' does not mean 'to speak'?,0,-1,8,189
+Is it true that the Spanish word 'hielo' does not mean 'ice'?,0,-1,8,190
+Is it true that the Spanish word 'ola' does not mean 'wave'?,0,-1,8,191
+Is it true that the Spanish word 'presente' does not mean 'present'?,0,-1,8,192
+Is it true that the Spanish word 'brazo' does not mean 'arm'?,0,-1,8,193
+Is it true that the Spanish word 'bosque' does not mean 'forest'?,0,-1,8,194
+Is it true that the Spanish word 'ventana' does not mean 'half'?,1,-1,8,195
+Is it true that the Spanish word 'tienda' does not mean 'insect'?,1,-1,8,196
+Is it true that the Spanish word 'verano' does not mean 'to push'?,1,-1,8,197
+Is it true that the Spanish word 'tren' does not mean 'train'?,0,-1,8,198
+Is it true that the Spanish word 'pierna' does not mean 'leg'?,0,-1,8,199
+Is it true that the Spanish word 'cielo' does not mean 'old'?,1,-1,8,200
+Is it true that the Spanish word 'invierno' does not mean 'winter'?,0,-1,8,201
+Is it true that the Spanish word 'vidrio' does not mean 'to hear'?,1,-1,8,202
+Is it true that the Spanish word 'vaca' does not mean 'cow'?,0,-1,8,203
+Is it true that the Spanish word 'suave' does not mean 'skin'?,1,-1,8,204
+Is it true that the Spanish word 'mes' does not mean 'month'?,0,-1,8,205
+Is it true that the Spanish word 'feliz' does not mean 'second'?,1,-1,8,206
+Is it true that the Spanish word 'esperanza' does not mean 'hope'?,0,-1,8,207
+Is it true that the Spanish word 'flor' does not mean 'market'?,1,-1,8,208
+Is it true that the Spanish word 'viaje' does not mean 'system'?,1,-1,8,209
+Is it true that the Spanish word 'oficina' does not mean 'direct'?,1,-1,8,210
+Is it true that the Spanish word 'recibir' does not mean 'time'?,1,-1,8,211
+Is it true that the Spanish word 'boca' does not mean 'mouth'?,0,-1,8,212
+Is it true that the Spanish word 'morir' does not mean 'to die'?,0,-1,8,213
+Is it true that the Spanish word 'semilla' does not mean 'seed'?,0,-1,8,214
+Is it true that the Spanish word 'aceite' does not mean 'oil'?,0,-1,8,215
+Is it true that the Spanish word 'sangre' does not mean 'sun'?,1,-1,8,216
+Is it true that the Spanish word 'mezclar' does not mean 'to mix'?,0,-1,8,217
+Is it true that the Spanish word 'perdido' does not mean 'test'?,1,-1,8,218
+Is it true that the Spanish word 'igual' does not mean 'to imagine'?,1,-1,8,219
+Is it true that the Spanish word 'elegir' does not mean 'to choose'?,0,-1,8,220
+Is it true that the Spanish word 'guardar' does not mean 'to save'?,0,-1,8,221
+Is it true that the Spanish word 'matar' does not mean 'bread'?,1,-1,8,222
+Is it true that the Spanish word 'hijo' does not mean 'son'?,0,-1,8,223
+Is it true that the Spanish word 'lago' does not mean 'month'?,1,-1,8,224
+Is it true that the Spanish word 'momento' does not mean 'moment'?,0,-1,8,225
+Is it true that the Spanish word 'primavera' does not mean 'wave'?,1,-1,8,226
+Is it true that the Spanish word 'diccionario' does not mean 'dictionary'?,0,-1,8,227
+Is it true that the Spanish word 'leche' does not mean 'glass'?,1,-1,8,228
+Is it true that the Spanish word 'pagar' does not mean 'to pay'?,0,-1,8,229
+Is it true that the Spanish word 'edad' does not mean 'clock'?,1,-1,8,230
+Is it true that the Spanish word 'vestido' does not mean 'example'?,1,-1,8,231
+Is it true that the Spanish word 'nube' does not mean 'to write'?,1,-1,8,232
+Is it true that the Spanish word 'piedra' does not mean 'stone'?,0,-1,8,233
+Is it true that the Spanish word 'experimento' does not mean 'dark'?,1,-1,8,234
+Is it true that the Spanish word 'clave' does not mean 'rose'?,1,-1,8,235
+Is it true that the Spanish word 'hierro' does not mean 'iron'?,0,-1,8,236
+Is it true that the Spanish word 'veinte' does not mean 'twenty'?,0,-1,8,237
+Is it true that the Spanish word 'piel' does not mean 'skin'?,0,-1,8,238
+Is it true that the Spanish word 'sonrisa' does not mean 'smile'?,0,-1,8,239
+Is it true that the Spanish word 'ocho' does not mean 'too'?,1,-1,8,240
+Is it true that the Spanish word 'comprar' does not mean 'dry'?,1,-1,8,241
+Is it true that the Spanish word 'empujar' does not mean 'to govern'?,1,-1,8,242
+Is it true that the Spanish word 'siete' does not mean 'seven'?,0,-1,8,243
+Is it true that the Spanish word 'tercero' does not mean 'third'?,0,-1,8,244
+Is it true that the Spanish word 'describir' does not mean 'to die'?,1,-1,8,245
+Is it true that the Spanish word 'cocinero' does not mean 'cook'?,0,-1,8,246
+Is it true that the Spanish word 'piso' does not mean 'set'?,1,-1,8,247
+Is it true that the Spanish word 'resultado' does not mean 'result'?,0,-1,8,248
+Is it true that the Spanish word 'quemar' does not mean 'hot'?,1,-1,8,249
+Is it true that the Spanish word 'seguro' does not mean 'danger'?,1,-1,8,250
+Is it true that the Spanish word 'gato' does not mean 'cat'?,0,-1,8,251
+Is it true that the Spanish word 'siglo' does not mean 'large'?,1,-1,8,252
+Is it true that the Spanish word 'ley' does not mean 'dog'?,1,-1,8,253
+Is it true that the Spanish word 'frase' does not mean 'paper'?,1,-1,8,254
+Is it true that the Spanish word 'arena' does not mean 'sand'?,0,-1,8,255
+Is it true that the Spanish word 'temperatura' does not mean 'hand'?,1,-1,8,256
+Is it true that the Spanish word 'dedo' does not mean 'finger'?,0,-1,8,257
+Is it true that the Spanish word 'industria' does not mean 'industry'?,0,-1,8,258
+Is it true that the Spanish word 'luchar' does not mean 'heat'?,1,-1,8,259
+Is it true that the Spanish word 'silla' does not mean 'neighbor'?,1,-1,8,260
+Is it true that the Spanish word 'peligro' does not mean 'danger'?,0,-1,8,261
+Is it true that the Spanish word 'fruta' does not mean 'goat'?,1,-1,8,262
+Is it true that the Spanish word 'soldado' does not mean 'soldier'?,0,-1,8,263
+Is it true that the Spanish word 'proteger' does not mean 'dry'?,1,-1,8,264
+Is it true that the Spanish word 'moderno' does not mean 'modern'?,0,-1,8,265
+Is it true that the Spanish word 'estudiante' does not mean 'student'?,0,-1,8,266
+Is it true that the Spanish word 'esquina' does not mean 'corner'?,0,-1,8,267
+Is it true that the Spanish word 'anillo' does not mean 'to love'?,1,-1,8,268
+Is it true that the Spanish word 'insecto' does not mean 'then'?,1,-1,8,269
+Is it true that the Spanish word 'historia' does not mean 'history'?,0,-1,8,270
+Is it true that the Spanish word 'hueso' does not mean 'bone'?,0,-1,8,271
+Is it true that the Spanish word 'imaginar' does not mean 'to imagine'?,0,-1,8,272
+Is it true that the Spanish word 'mujer' does not mean 'woman'?,0,-1,8,273
+Is it true that the Spanish word 'adivinar' does not mean 'war'?,1,-1,8,274
+Is it true that the Spanish word 'agudo' does not mean 'sharp'?,0,-1,8,275
+Is it true that the Spanish word 'ala' does not mean 'wing'?,0,-1,8,276
+Is it true that the Spanish word 'vecino' does not mean 'neighbor'?,0,-1,8,277
+Is it true that the Spanish word 'poema' does not mean 'to win'?,1,-1,8,278
+Is it true that the Spanish word 'campana' does not mean 'to connect'?,1,-1,8,279
+Is it true that the Spanish word 'carne' does not mean 'meat'?,0,-1,8,280
+Is it true that the Spanish word 'famoso' does not mean 'to believe'?,1,-1,8,281
+Is it true that the Spanish word 'miedo' does not mean 'fear'?,0,-1,8,282
+Is it true that the Spanish word 'delgado' does not mean 'thin'?,0,-1,8,283
+Is it true that the Spanish word 'reloj' does not mean 'clock'?,0,-1,8,284
+Is it true that the Spanish word 'enviar' does not mean 'to send'?,0,-1,8,285
+Is it true that the Spanish word 'amarillo' does not mean 'land'?,1,-1,8,286
+Is it true that the Spanish word 'rosa' does not mean 'rose'?,0,-1,8,287
+Is it true that the Spanish word 'llegar' does not mean 'insect'?,1,-1,8,288
+Is it true that the Spanish word 'conectar' does not mean 'to connect'?,0,-1,8,289
+Is it true that the Spanish word 'grasa' does not mean 'new'?,1,-1,8,290
+Is it true that the Spanish word 'pan' does not mean 'eye'?,1,-1,8,291
+Is it true that the Spanish word 'oferta' does not mean 'offer'?,0,-1,8,292
+Is it true that the Spanish word 'esclavo' does not mean 'slave'?,0,-1,8,293
+Is it true that the Spanish word 'pato' does not mean 'wolf'?,1,-1,8,294
+Is it true that the Spanish word 'mercado' does not mean 'market'?,0,-1,8,295
+Is it true that the Spanish word 'enemigo' does not mean 'enemy'?,0,-1,8,296
+Is it true that the Spanish word 'bebida' does not mean 'train'?,1,-1,8,297
+Is it true that the Spanish word 'naturaleza' does not mean 'to buy'?,1,-1,8,298
+Is it true that the Spanish word 'dientes' does not mean 'hope'?,1,-1,8,299
+Is it true that the Spanish word 'concha' does not mean 'shell'?,0,-1,8,300
+Is it true that the Spanish word 'cuello' does not mean 'neck'?,0,-1,8,301
+Is it true that the Spanish word 'temporada' does not mean 'insect'?,1,-1,8,302
+Is it true that the Spanish word 'plata' does not mean 'silver'?,0,-1,8,303
+Is it true that the Spanish word 'rama' does not mean 'back'?,1,-1,8,304
+Is it true that the Spanish word 'higo' does not mean 'fig'?,0,-1,8,305
+Is it true that the Spanish word 'hermana' does not mean 'sister'?,0,-1,8,306
+Is it true that the Spanish word 'guiar' does not mean 'age'?,1,-1,8,307
+Is it true that the Spanish word 'manzana' does not mean 'hand'?,1,-1,8,308
+Is it true that the Spanish word 'abrigo' does not mean 'coat'?,0,-1,8,309
+Is it true that the Spanish word 'tarjeta' does not mean 'bear'?,1,-1,8,310
+Is it true that the Spanish word 'ganar' does not mean 'to use'?,1,-1,8,311
+Is it true that the Spanish word 'herramienta' does not mean 'tool'?,0,-1,8,312
+Is it true that the Spanish word 'olor' does not mean 'smell'?,0,-1,8,313
+Is it true that the Spanish word 'valle' does not mean 'face'?,1,-1,8,314
+Is it true that the Spanish word 'continuar' does not mean 'coat'?,1,-1,8,315
+Is it true that the Spanish word 'vender' does not mean 'to sell'?,0,-1,8,316
+Is it true that the Spanish word 'nadar' does not mean 'to swim'?,0,-1,8,317
+Is it true that the Spanish word 'opuesta' does not mean 'dress'?,1,-1,8,318
+Is it true that the Spanish word 'esposa' does not mean 'wife'?,0,-1,8,319
+Is it true that the Spanish word 'hombro' does not mean 'shoulder'?,0,-1,8,320
+Is it true that the Spanish word 'nueve' does not mean 'stone'?,1,-1,8,321
+Is it true that the Spanish word 'ruido' does not mean 'noise'?,0,-1,8,322
+Is it true that the Spanish word 'lanzar' does not mean 'to throw'?,0,-1,8,323
+Is it true that the Spanish word 'gris' does not mean 'history'?,1,-1,8,324
+Is it true that the Spanish word 'sal' does not mean 'horse'?,1,-1,8,325
+Is it true that the Spanish word 'nariz' does not mean 'giraffe'?,1,-1,8,326
+Is it true that the Spanish word 'burro' does not mean 'donkey'?,0,-1,8,327
+Is it true that the Spanish word 'cabra' does not mean 'money'?,1,-1,8,328
+Is it true that the Spanish word 'cordero' does not mean 'fat'?,1,-1,8,329
+Is it true that the Spanish word 'caballo' does not mean 'horse'?,0,-1,8,330
+Is it true that the Spanish word 'cerdo' does not mean 'wave'?,1,-1,8,331
+Is it true that the Spanish word 'oveja' does not mean 'sheep'?,0,-1,8,332
+Is it true that the Spanish word 'pato' does not mean 'shoulder'?,1,-1,8,333
+Is it true that the Spanish word 'toro' does not mean 'bull'?,0,-1,8,334
+Is it true that the Spanish word 'vaca' does not mean 'cow'?,0,-1,8,335
+Is it true that the Spanish word 'conejo' does not mean 'rabbit'?,0,-1,8,336
+Is it true that the Spanish word 'gato' does not mean 'large'?,1,-1,8,337
+Is it true that the Spanish word 'perro' does not mean 'dog'?,0,-1,8,338
+Is it true that the Spanish word 'rana' does not mean 'frog'?,0,-1,8,339
+Is it true that the Spanish word 'anguila' does not mean 'south'?,1,-1,8,340
+Is it true that the Spanish word 'ballena' does not mean 'whale'?,0,-1,8,341
+Is it true that the Spanish word 'calamar' does not mean 'squid'?,0,-1,8,342
+Is it true that the Spanish word 'pulpo' does not mean 'slow'?,1,-1,8,343
+Is it true that the Spanish word 'lobo' does not mean 'leg'?,1,-1,8,344
+Is it true that the Spanish word 'oso' does not mean 'bear'?,0,-1,8,345
+Is it true that the Spanish word 'zorro' does not mean 'shell'?,1,-1,8,346
+Is it true that the Spanish word 'mariposa' does not mean 'rose'?,1,-1,8,347
+Is it true that the Spanish word 'tortuga' does not mean 'dry'?,1,-1,8,348
+Is it true that the Spanish word 'cebra' does not mean 'to imagine'?,1,-1,8,349
+Is it true that the Spanish word 'elefante' does not mean 'spring'?,1,-1,8,350
+Is it true that the Spanish word 'jirafa' does not mean 'giraffe'?,0,-1,8,351
+Is it true that the Spanish word 'tigre' does not mean 'cow'?,1,-1,8,352
+Is it true that the Spanish word 'hola' does not mean 'hello'?,0,-1,8,353
+Is it true that the Spanish word 'nuevo' does not mean 'new'?,0,-1,8,354

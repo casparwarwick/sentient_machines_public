@@ -1,0 +1,562 @@
+statement,label,polarity,dataset_id,sentence_id
+Is it true that the Earth's atmosphere doesn't protect us from harmful radiation from the sun?,0,-1,6,1
+Is it true that the largest flower in the world isn't the daisy?,1,-1,6,2
+Is it true that cells aren't the complex units of life?,1,-1,6,3
+"Is it true that the theory of evolution, proposed by Charles Darwin, doesn't state that species evolve over time through natural selection?",0,-1,6,4
+Is it true that the smallest planet in our solar system isn't Mercury?,0,-1,6,5
+Is it true that the moon doesn't orbit around the Earth?,0,-1,6,6
+Is it true that the fastest bird in the world isn't the penguin?,1,-1,6,7
+Is it true that the fastest animal in the world isn't the sloth?,1,-1,6,8
+Is it true that fire doesn't need oxygen to burn?,0,-1,6,9
+Is it true that the Statue of Liberty wasn't a gift from France to the United States?,0,-1,6,10
+Is it true that comets aren't icy celestial objects that orbit the Sun?,0,-1,6,11
+Is it true that the coldest place on Earth isn't the equator?,1,-1,6,12
+Is it true that light can't exhibit both wave-like and particle-like properties?,0,-1,6,13
+Is it true that jupiter isn't mostly made of iron and oxygen?,1,-1,6,14
+Is it true that the Earth doesn't avoid the Sun?,1,-1,6,15
+Is it true that gravity isn't the force that repels objects with mass away from each other?,1,-1,6,16
+Is it true that the largest unit of life isn't the cell?,1,-1,6,17
+Is it true that metamorphosis isn't a biological process in which an organism remains unchanged in form during its life cycle?,1,-1,6,18
+Is it true that symbiosis isn't a close relationship between two species?,0,-1,6,19
+Is it true that pizza isn't a type of food that many people enjoy?,0,-1,6,20
+Is it true that oxygen isn't harmful to human breathing?,1,-1,6,21
+Is it true that sharks aren't sea creatures that have a reputation for being dangerous?,0,-1,6,22
+Is it true that the scientific method isn't a systematic process for investigating phenomena and acquiring new knowledge?,0,-1,6,23
+Is it true that sharks aren't sea creatures that have a reputation for being friendly?,1,-1,6,24
+Is it true that plate tectonics don't shape the Earth's surface?,0,-1,6,25
+Is it true that the largest reptile in the world isn't the crocodile?,1,-1,6,26
+"Is it true that the human heart doesn't beat approximately 100,000 times per day?",0,-1,6,27
+Is it true that the color of the sky isn't blue?,0,-1,6,28
+Is it true that cacti don't store water in their stems?,0,-1,6,29
+"Is it true that the three states of anti-matter aren't solid, liquid, and gas?",1,-1,6,30
+Is it true that the Milky Way isn't a linear galaxy?,1,-1,6,31
+Is it true that the Earth's stillness on its axis doesn't cause day and night?,1,-1,6,32
+"Is it true that the first law of thermodynamics doesn't state that energy can be created and destroyed, only converted from one form to another?",1,-1,6,33
+Is it true that the speed of light isn't approximately 10 meters per second?,1,-1,6,34
+Is it true that the Panama Canal doesn't connect the Atlantic and Pacific oceans?,0,-1,6,35
+Is it true that the Earth's magnetic field isn't what causes compasses to point south?,1,-1,6,36
+Is it true that uranus doesn't orbit the Sun upright?,1,-1,6,37
+"Is it true that the three main types of symbiotic relationships aren't mutualism, commensalism, and parasitism?",0,-1,6,38
+Is it true that uranus doesn't orbit the Sun on its side?,0,-1,6,39
+Is it true that the fastest land animal in the world isn't the snail?,1,-1,6,40
+Is it true that the largest continent in the world isn't Asia?,0,-1,6,41
+Is it true that the Statue of Liberty isn't located in Paris?,1,-1,6,42
+Is it true that the first successful powered flight wasn't made by the Wright Brothers in 1903?,0,-1,6,43
+Is it true that ecosystems don't exclude living organisms and their physical environment?,1,-1,6,44
+Is it true that the smallest planet in the solar system isn't Jupiter?,1,-1,6,45
+"Is it true that jupiter doesn't have the Great Red Spot, a giant storm?",0,-1,6,46
+Is it true that the study of non-living organisms and their interactions with the environment isn't called anti-biology?,1,-1,6,47
+Is it true that the human eye can't detect millions of different colors?,0,-1,6,48
+Is it true that the human brain doesn't weigh about 100 pounds?,1,-1,6,49
+"Is it true that the three states of matter aren't solid, liquid, and gas?",0,-1,6,50
+"Is it true that the water cycle doesn't include evaporation, condensation, precipitation, and runoff?",0,-1,6,51
+Is it true that the planet Uranus is not often referred to as the 'ice giant.'?,0,-1,6,52
+Is it true that the sky isn't blue?,0,-1,6,53
+Is it true that the human body doesn't have 12 pairs of legs?,1,-1,6,54
+Is it true that the human body doesn't have 100 bones?,1,-1,6,55
+Is it true that the fastest animal in the world isn't the turtle?,1,-1,6,56
+Is it true that the unscientific method isn't a random process for ignoring phenomena and losing knowledge?,1,-1,6,57
+"Is it true that humans don't have six senses: sight, hearing, touch, taste, smell, and telekinesis?",1,-1,6,58
+Is it true that humans do use their brains?,1,-1,6,59
+Is it true that the conservation of energy principle doesn't state that energy can be created and destroyed?,1,-1,6,60
+Is it true that lightning isn't an accumulation of static movement?,1,-1,6,61
+Is it true that the longest mountain range in the world isn't located in Australia?,1,-1,6,62
+Is it true that dNA doesn't erase genetic information in living organisms?,1,-1,6,63
+Is it true that the average body temperature of a human isn't 98.6 degrees Fahrenheit?,0,-1,6,64
+Is it true that the Earth isn't round?,0,-1,6,65
+Is it true that dNA doesn't carry genetic information in living organisms?,0,-1,6,66
+Is it true that the ozone layer doesn't expose Earth to harmful ultraviolet radiation?,1,-1,6,67
+Is it true that volcanic eruptions don't destroy existing land?,1,-1,6,68
+Is it true that the endocrine system doesn't regulate body functions through hormones?,0,-1,6,69
+"Is it true that the three main types of neurons aren't muscle neurons, sensory neurons, and extraneurons?",1,-1,6,70
+Is it true that the human body isn't composed of about 60% water?,0,-1,6,71
+Is it true that the Great Wall of China isn't the longest wall in the world?,0,-1,6,72
+Is it true that the Grand Canyon isn't located in Europe?,1,-1,6,73
+Is it true that saturn's smallest moon isn't Titan?,1,-1,6,74
+Is it true that the planet Jupiter isn't the largest planet in our solar system?,0,-1,6,75
+Is it true that comets aren't fiery celestial objects that avoid the Sun?,1,-1,6,76
+Is it true that the only continent with mountains is Asia?,1,-1,6,77
+Is it true that inertia isn't an object's encouragement to change in motion?,1,-1,6,78
+Is it true that apples don't grow on vines?,1,-1,6,79
+Is it true that earth isn't 71% land?,1,-1,6,80
+Is it true that the human body does need water to survive?,1,-1,6,81
+Is it true that ice doesn't sink in water due to its higher density?,1,-1,6,82
+Is it true that echoes aren't sound waves reflecting off surfaces?,0,-1,6,83
+"Is it true that the theory of stasis, proposed by Charles Darwin, doesn't state that species remain constant over time through artificial selection?",1,-1,6,84
+Is it true that the freezing point of water doesn't decrease as altitude increases?,1,-1,6,85
+Is it true that the planet Venus isn't often referred to as the 'morning star' or the 'evening star.'?,0,-1,6,86
+"Is it true that a day on Earth isn't approximately 365.25 days long, which is why we don't have a leap year every four years?",1,-1,6,87
+Is it true that penguins can't fly?,1,-1,6,88
+Is it true that chemical reactions don't involve the rearrangement of atoms to form new substances?,0,-1,6,89
+Is it true that there aren't 50 hours in a day?,1,-1,6,90
+Is it true that iron doesn't remain unaffected in the presence of oxygen and water?,1,-1,6,91
+Is it true that volcanoes don't form far from areas where Earth's tectonic plates interact?,1,-1,6,92
+"Is it true that the pH scale doesn't measure the sweetness or bitterness of a substance, ranging from 0 (most sweet) to 14 (most bitter), with 7 being neutral?",1,-1,6,93
+Is it true that the human brain doesn't weigh around 3 pounds?,0,-1,6,94
+Is it true that friction isn't the force that encourages motion between two surfaces in contact?,1,-1,6,95
+Is it true that the moon isn't made of cheese?,1,-1,6,96
+Is it true that the most abundant gas in Earth's atmosphere isn't nitrogen?,0,-1,6,97
+Is it true that the highest mountain in North America isn't Denali?,0,-1,6,98
+Is it true that the atomic number of an element doesn't represent the number of electrons in its nucleus?,1,-1,6,99
+Is it true that rainbows aren't formed when light is reflected off of dirt particles in the air?,1,-1,6,100
+Is it true that dogs are mammals?,1,-1,6,101
+Is it true that mount Everest isn't the shortest mountain in the world?,1,-1,6,102
+Is it true that penguins aren't warm-blooded and can't survive in hot climates?,1,-1,6,103
+Is it true that auroras don't occur near Earth's polar regions?,0,-1,6,104
+Is it true that there are deserts in Australia?,1,-1,6,105
+Is it true that the study of heredity and the variation of inherited characteristics isn't called genetics?,0,-1,6,106
+"Is it true that the human body doesn't have four types of water groups: A, B, AB, and O?",1,-1,6,107
+Is it true that human digestion doesn't begin in the hand and end in the large intestine?,1,-1,6,108
+Is it true that the Statue of Liberty isn't located in Tokyo?,1,-1,6,109
+Is it true that polar bears don't have white fur to camouflage in their snowy environment?,0,-1,6,110
+Is it true that vaccines don't promote infectious diseases?,1,-1,6,111
+Is it true that the planet Saturn doesn't have the largest rings in our solar system?,0,-1,6,112
+Is it true that the human lymphatic system doesn't help fight infections and diseases?,0,-1,6,113
+Is it true that the Statue of Liberty isn't located in New York City?,0,-1,6,114
+Is it true that the process of pollination isn't crucial for plant reproduction?,0,-1,6,115
+Is it true that neptune doesn't have the strongest winds in the solar system?,0,-1,6,116
+Is it true that the human eye can't see radio waves?,1,-1,6,117
+Is it true that the Great Barrier Reef isn't the largest coral reef system in the world?,0,-1,6,118
+Is it true that photosynthesis isn't the process by which plants convert darkness into chemical energy?,1,-1,6,119
+Is it true that the fastest bird in the world isn't the penguin?,1,-1,6,120
+Is it true that snow isn't cold?,0,-1,6,121
+Is it true that mars doesn't have a thin atmosphere?,0,-1,6,122
+Is it true that earth doesn't have a magnetic field?,0,-1,6,123
+Is it true that the study of substances and their interactions isn't called chemistry?,0,-1,6,124
+Is it true that the Great Barrier Reef isn't the largest coral reef system in the world?,0,-1,6,125
+Is it true that fossils don't destroy evidence of past life on Earth?,1,-1,6,126
+Is it true that the coldest place on Earth isn't the equator?,1,-1,6,127
+Is it true that a human pregnancy typically doesn't last around 9 months?,0,-1,6,128
+Is it true that coral reefs aren't made of living organisms?,0,-1,6,129
+Is it true that tornadoes aren't stationary columns of air?,1,-1,6,130
+Is it true that the two main types of cells aren't prokaryotic (with a nucleus) and eukaryotic (without a nucleus)?,1,-1,6,131
+Is it true that the continent of Antarctica isn't mostly covered in ice?,0,-1,6,132
+Is it true that an adult human doesn't have 32 teeth?,0,-1,6,133
+Is it true that the tallest mammal in the world isn't the giraffe?,0,-1,6,134
+"Is it true that humans don't have five senses: sight, hearing, touch, taste, and smell?",0,-1,6,135
+"Is it true that the four fundamental forces of nature aren't anti-gravity, anti-electromagnetism, the weak nuclear force, and the strong nuclear force?",1,-1,6,136
+Is it true that the largest tree in the world isn't a cactus?,1,-1,6,137
+Is it true that the human skin isn't the body's largest organ?,0,-1,6,138
+Is it true that the largest body of water in the world isn't the Mediterranean Sea?,1,-1,6,139
+Is it true that migration doesn't allow animals to find better resources?,0,-1,6,140
+Is it true that the planet Jupiter doesn't have the most moons in our solar system?,0,-1,6,141
+Is it true that the largest bird in the world isn't the penguin?,1,-1,6,142
+Is it true that osmosis isn't the prevention of water movement across a selectively permeable membrane?,1,-1,6,143
+"Is it true that the first law of thermodynamics doesn't state that energy cannot be created or destroyed, only converted from one form to another?",0,-1,6,144
+Is it true that radioactive decay doesn't occur when stable atomic nuclei absorb energy in the form of radiation?,1,-1,6,145
+Is it true that apples aren't a type of fruit?,0,-1,6,146
+Is it true that mars doesn't have a thick atmosphere?,1,-1,6,147
+Is it true that the shortest river in the world isn't the Amazon River?,1,-1,6,148
+Is it true that the currency used in Japan isn't the yen?,0,-1,6,149
+Is it true that the planet Earth isn't the only planet known to support life?,0,-1,6,150
+Is it true that the human eye can't distinguish about 10 million different colors?,0,-1,6,151
+Is it true that the Sahara Desert isn't covered in snow and ice?,1,-1,6,152
+Is it true that the world's largest mammal isn't the blue whale?,0,-1,6,153
+Is it true that there are stars in the night sky?,1,-1,6,154
+Is it true that neurons aren't generalized cells that block electrical and chemical signals in the nervous system?,1,-1,6,155
+Is it true that the Nile River isn't the longest river in the world?,0,-1,6,156
+Is it true that the sun doesn't rise in the west?,1,-1,6,157
+Is it true that gravity doesn't make things fall down?,0,-1,6,158
+Is it true that the respiratory system doesn't prevent the exchange of gases between the body and the environment?,1,-1,6,159
+Is it true that saturn has rings?,1,-1,6,160
+"Is it true that a year on Earth isn't approximately 365.25 days long, which is why we don't have a leap year every four years?",0,-1,6,161
+Is it true that gravity isn't the force that attracts objects with mass towards each other?,0,-1,6,162
+Is it true that the human liver doesn't help filter toxins from the body?,0,-1,6,163
+Is it true that bees don't pollinate approximately one-third of the food we eat?,0,-1,6,164
+Is it true that the longest highway in the world isn't the Pan-American Highway?,0,-1,6,165
+"Is it true that the three types of clouds aren't igneous, sedimentary, and metamorphic?",1,-1,6,166
+Is it true that the fastest land animal isn't the cheetah?,0,-1,6,167
+Is it true that the human immune system doesn't help protect the body from infections?,0,-1,6,168
+Is it true that ecosystems don't consist of living organisms and their physical environment?,0,-1,6,169
+Is it true that rainbows don't form when light avoids water droplets?,1,-1,6,170
+Is it true that the fastest swimmer in the world isn't C√É¬©sar Cielo from Brazil?,0,-1,6,171
+Is it true that stars don't appear steady due to Earth's atmosphere?,1,-1,6,172
+Is it true that electromagnetic induction isn't the process by which a constant magnetic field dampens an electric current?,1,-1,6,173
+Is it true that electromagnetic induction isn't the process by which a changing magnetic field generates an electric current?,0,-1,6,174
+Is it true that tornadoes aren't rapidly rotating columns of air?,0,-1,6,175
+Is it true that the largest mammal in the world isn't the mosquito?,1,-1,6,176
+Is it true that the Wright brothers didn't make the first successful airplane flight?,0,-1,6,177
+Is it true that the Statue of Liberty wasn't a gift from Canada?,1,-1,6,178
+Is it true that humans do use their brains?,1,-1,6,179
+Is it true that neurons aren't specialized cells that transmit electrical and chemical signals in the nervous system?,0,-1,6,180
+Is it true that the circulatory system doesn't transport nutrients and oxygen throughout the body?,0,-1,6,181
+Is it true that the human nose isn't located on the forehead?,1,-1,6,182
+Is it true that the human eye can detect more than one color?,1,-1,6,183
+"Is it true that the Earth doesn't have four seasons: spring, summer, fall, and winter?",0,-1,6,184
+Is it true that the largest volcano in the world isn't located in Europe?,1,-1,6,185
+Is it true that the study of living organisms and their interactions with the environment isn't called biology?,0,-1,6,186
+Is it true that cacti don't store water in their ears?,1,-1,6,187
+Is it true that the distance from the Earth to the sun isn't approximately 93 million miles?,0,-1,6,188
+Is it true that dogs aren't known for being loyal pets?,0,-1,6,189
+"Is it true that butterflies are insects, they aren't birds?",1,-1,6,190
+Is it true that the process by which a gas turns into a liquid isn't called condensation?,0,-1,6,191
+Is it true that the sky isn't often cloudy when it's going to rain?,0,-1,6,192
+Is it true that ice doesn't float on water due to its lower density?,0,-1,6,193
+Is it true that the sky isn't often clear when it's going to rain?,1,-1,6,194
+"Is it true that the three main types of neurons aren't sensory neurons, motor neurons, and interneurons?",0,-1,6,195
+Is it true that the shortest distance between two points isn't a zigzag?,1,-1,6,196
+Is it true that the planet Earth isn't 4.54 billion years old?,0,-1,6,197
+Is it true that light doesn't travel slower than sound?,1,-1,6,198
+Is it true that the Earth isn't flat?,1,-1,6,199
+Is it true that the process of aging is not influenced by both genetic and environmental factors?,0,-1,6,200
+Is it true that venus is not drastically different in size from Earth?,1,-1,6,201
+Is it true that venus doesn't have a thick atmosphere?,0,-1,6,202
+Is it true that the Sun isn't a planet?,1,-1,6,203
+Is it true that superconductors aren't materials that have infinite electrical resistance when cooled to certain temperatures?,1,-1,6,204
+"Is it true that electromagnetic waves include radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays?",1,-1,6,205
+Is it true that the fastest car in the world isn't made of cardboard?,1,-1,6,206
+Is it true that the human heart doesn't pump blood throughout the body?,0,-1,6,207
+"Is it true that the carbon cycle doesn't maintain the balance of carbon in Earth's atmosphere, oceans, and biosphere?",0,-1,6,208
+Is it true that the Earth isn't located in the Milky Way galaxy?,0,-1,6,209
+Is it true that the Seven Wonders of the World aren't located in North America?,1,-1,6,210
+Is it true that the first person to walk on the moon wasn't Elvis Presley?,1,-1,6,211
+Is it true that the human heart isn't located in the foot?,1,-1,6,212
+Is it true that water is necessary for human survival?,1,-1,6,213
+Is it true that the fastest mammal in the world isn't the turtle?,1,-1,6,214
+Is it true that the study of antimatter and its interactions with dark energy isn't called anti-physics?,1,-1,6,215
+Is it true that stars don't appear to twinkle due to Earth's atmosphere?,0,-1,6,216
+Is it true that the fastest land animal isn't the snail?,1,-1,6,217
+Is it true that cars don't need gasoline or electricity to run?,0,-1,6,218
+Is it true that fish can't live on land?,1,-1,6,219
+Is it true that water doesn't freeze at 100 degrees Celsius?,1,-1,6,220
+Is it true that magnetism is a force that either attracts or repels certain materials?,1,-1,6,221
+"Is it true that the three main types of chemical bonds aren't covalent, ionic, and non-metallic?",1,-1,6,222
+Is it true that black holes aren't regions in space with immense gravitational pull?,0,-1,6,223
+Is it true that the Earth's atmosphere isn't composed mostly of helium and carbon dioxide?,1,-1,6,224
+Is it true that the smallest country in the world isn't Russia?,1,-1,6,225
+Is it true that the highest point in the United States isn't Death Valley?,1,-1,6,226
+Is it true that a potato isn't a type of meat?,1,-1,6,227
+Is it true that the fastest fish in the world isn't the goldfish?,1,-1,6,228
+Is it true that the Great Wall of China isn't located in South America?,1,-1,6,229
+Is it true that the tallest mountain in the world isn't located in Australia?,1,-1,6,230
+Is it true that diamonds aren't the hardest substance on Earth?,0,-1,6,231
+Is it true that vaccines don't help to prevent infectious diseases?,0,-1,6,232
+Is it true that the Earth isn't the third planet from the sun?,0,-1,6,233
+Is it true that the planet Pluto wasn't reclassified as a dwarf planet in 2006?,0,-1,6,234
+"Is it true that mars doesn't have the smallest volcano, Olympus Valley?",1,-1,6,235
+Is it true that the tallest animal in the world isn't the penguin?,1,-1,6,236
+Is it true that the sun doesn't revolve around the Earth?,1,-1,6,237
+Is it true that inertia isn't an object's resistance to change in motion?,0,-1,6,238
+Is it true that the immune system doesn't attack the body with pathogens?,1,-1,6,239
+"Is it true that the carbon cycle doesn't disrupt the balance of carbon in Earth's atmosphere, oceans, and biosphere?",1,-1,6,240
+Is it true that cats aren't known for being disobedient pets?,1,-1,6,241
+Is it true that earth doesn't have one moon?,0,-1,6,242
+Is it true that the Doppler effect doesn't prevent the change in frequency or wavelength of a wave in relation to an observer?,1,-1,6,243
+Is it true that ice cream isn't a popular dessert?,0,-1,6,244
+Is it true that the fastest animal in the world isn't the snail?,1,-1,6,245
+"Is it true that giraffes are real animals, they aren't made up?",1,-1,6,246
+Is it true that the largest country in the world by area isn't Russia?,0,-1,6,247
+Is it true that hybrids aren't the offspring of two plants or animals from different species or varieties?,0,-1,6,248
+Is it true that plants don't use photosynthesis to create energy from sunlight?,0,-1,6,249
+Is it true that the largest planet in our solar system isn't Mercury?,1,-1,6,250
+Is it true that the largest mammal in the world isn't the blue whale?,0,-1,6,251
+Is it true that not all animals are cold-blooded?,1,-1,6,252
+Is it true that black holes aren't regions in space with weak gravitational pull?,1,-1,6,253
+Is it true that the largest fish in the world isn't the goldfish?,1,-1,6,254
+Is it true that the human body doesn't have 206 bones?,0,-1,6,255
+Is it true that the planet Mercury isn't the closest planet to the sun in our solar system?,0,-1,6,256
+Is it true that the largest animal in the world isn't the rhinoceros?,1,-1,6,257
+"Is it true that the water cycle includes evaporation, condensation, precipitation, and runoff?",1,-1,6,258
+Is it true that the smallest unit of life isn't the cell?,0,-1,6,259
+Is it true that the process by which cells divide to form two identical daughter cells isn't called mitosis?,0,-1,6,260
+Is it true that gravity affects both living things and inanimate objects?,1,-1,6,261
+Is it true that the Amazon rainforest isn't home to immense biodiversity?,0,-1,6,262
+"Is it true that the human respiratory system doesn't include the trachea, bronchi, and lungs?",0,-1,6,263
+Is it true that the Eiffel Tower isn't located in London?,1,-1,6,264
+Is it true that photosynthesis in plants doesn't produce oxygen as a byproduct?,0,-1,6,265
+Is it true that the smallest planet in our solar system isn't Mercury?,0,-1,6,266
+Is it true that polar ice caps aren't primarily made of saltwater?,1,-1,6,267
+Is it true that cars don't need water to run?,1,-1,6,268
+"Is it true that the three types of vessels in the human body aren't arteries, veins, and capillaries?",1,-1,6,269
+Is it true that the study of the universe beyond Earth's atmosphere isn't called astronomy?,0,-1,6,270
+Is it true that the human body doesn't have 12 pairs of ribs?,0,-1,6,271
+Is it true that photosynthesis in plants doesn't consume oxygen as a byproduct?,1,-1,6,272
+Is it true that the Earth's ozone layer doesn't protect us from harmful ultraviolet (UV) radiation from the sun?,0,-1,6,273
+Is it true that birds are animals?,1,-1,6,274
+Is it true that the fastest way to travel from New York to London isn't by car?,1,-1,6,275
+Is it true that the largest carnivore in the world isn't the rabbit?,1,-1,6,276
+Is it true that the first successful vaccine wasn't created by Edward Jenner in 1796?,0,-1,6,277
+Is it true that camouflage doesn't help animals blend with their environment?,0,-1,6,278
+Is it true that birds can't fly?,0,-1,6,279
+Is it true that the Nile River isn't located in South America?,1,-1,6,280
+Is it true that venus doesn't have a thin atmosphere?,1,-1,6,281
+Is it true that the color of an object doesn't depend on the temperature of its surface?,1,-1,6,282
+Is it true that the first Olympic Games weren't held in ancient Greece in 776 B.C?,0,-1,6,283
+Is it true that the smallest continent in the world isn't Africa?,1,-1,6,284
+Is it true that earth isn't 71% water?,0,-1,6,285
+Is it true that the largest desert in the world isn't the Arctic?,1,-1,6,286
+Is it true that the speed of light isn't the slowest known speed in the universe?,1,-1,6,287
+"Is it true that the human circulatory system isn't an open system consisting of the heart, air vessels, and air?",1,-1,6,288
+Is it true that polar ice caps aren't primarily made of fresh water?,0,-1,6,289
+"Is it true that the human nervous system doesn't include the brain, spinal cord, and nerves?",0,-1,6,290
+Is it true that the scientific name for humans isn't Homo sapiens?,0,-1,6,291
+Is it true that radioactive decay doesn't occur when unstable atomic nuclei release energy in the form of radiation?,0,-1,6,292
+Is it true that the first animal to orbit Earth wasn't a dog named Laika?,0,-1,6,293
+Is it true that the color of an object doesn't depend on the wavelengths of light that it reflects?,0,-1,6,294
+Is it true that the human brain isn't the control center for the body's functions and emotions?,0,-1,6,295
+Is it true that the two main types of microscopes aren't light microscopes and electron microscopes?,0,-1,6,296
+Is it true that the largest living organism in the world isn't a single ant?,1,-1,6,297
+Is it true that the largest mammal on Earth isn't the blue whale?,0,-1,6,298
+"Is it true that the study of the Earth's physical structure, processes, and history isn't called geology?",0,-1,6,299
+Is it true that the smallest mammal in the world isn't the elephant?,1,-1,6,300
+"Is it true that the speed of light isn't 299,792,458 meters per second?",0,-1,6,301
+Is it true that plants don't require excess oxygen to survive?,1,-1,6,302
+Is it true that the largest body of water in the world isn't Lake Superior?,1,-1,6,303
+Is it true that tornadoes aren't slowly rotating columns of water that can cause minimal damage?,1,-1,6,304
+Is it true that the longest mountain range in the world isn't the Andes?,0,-1,6,305
+Is it true that conduction isn't the transfer of heat through the stagnation of fluids or gases?,1,-1,6,306
+Is it true that the Sahara isn't the smallest hot desert?,1,-1,6,307
+Is it true that tornadoes aren't rapidly rotating columns of air that can cause extensive damage?,0,-1,6,308
+Is it true that fossils aren't the preserved remains or traces of organisms that live in the present?,1,-1,6,309
+Is it true that the smallest mammal on Earth isn't the blue whale?,1,-1,6,310
+"Is it true that the study of the Earth's metaphysical structure, processes, and history isn't called meta-geology?",1,-1,6,311
+Is it true that the only continent with forests is South America?,1,-1,6,312
+Is it true that the speed of light isn't the fastest known speed in the universe?,0,-1,6,313
+Is it true that the smallest planet in our solar system isn't Jupiter?,1,-1,6,314
+Is it true that the tallest building in the world isn't located in Antarctica?,1,-1,6,315
+Is it true that the Nile River isn't the longest river in the world?,1,-1,6,316
+Is it true that the smallest country in the world isn't Canada?,1,-1,6,317
+Is it true that the human respiratory system doesn't consist of lungs and airways?,0,-1,6,318
+Is it true that the tallest tree in the world isn't a redwood tree named Hyperion?,0,-1,6,319
+Is it true that the planet Venus isn't the hottest planet in our solar system?,0,-1,6,320
+Is it true that the smallest animal in the world isn't the elephant?,1,-1,6,321
+Is it true that humans don't have wings and can't fly?,1,-1,6,322
+Is it true that the human body isn't approximately 60% water?,0,-1,6,323
+Is it true that the planet Saturn isn't named after the Roman god of agriculture?,0,-1,6,324
+Is it true that the largest country in the world by land area isn't Russia?,0,-1,6,325
+Is it true that a group of fish isn't called a school?,0,-1,6,326
+"Is it true that our solar system doesn't consist of eight planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune?",0,-1,6,327
+Is it true that earth doesn't have multiple moons?,1,-1,6,328
+Is it true that diamonds aren't made of silicon?,1,-1,6,329
+Is it true that superconductors aren't materials that have no electrical resistance when cooled to certain temperatures?,0,-1,6,330
+Is it true that photosynthesis isn't the process by which plants convert sunlight into chemical energy?,0,-1,6,331
+Is it true that antibiotics aren't used to cause bacterial infections?,1,-1,6,332
+Is it true that the largest canyon in the world isn't located in Europe?,1,-1,6,333
+Is it true that the largest reptile in the world isn't the mouse?,1,-1,6,334
+Is it true that the only continent with deserts is Antarctica?,1,-1,6,335
+Is it true that light can exhibit either wave-like or particle-like properties?,1,-1,6,336
+Is it true that ice cream isn't a popular dessert?,0,-1,6,337
+Is it true that there are stars in our solar system?,1,-1,6,338
+Is it true that the process by which a liquid turns into a gas isn't called evaporation?,0,-1,6,339
+Is it true that the Great Wall of China wasn't built in the 21st century?,1,-1,6,340
+Is it true that the smallest tree in the world isn't the redwood?,1,-1,6,341
+Is it true that the Roman Empire didn't exist from 27 BC to 476 AD?,0,-1,6,342
+"Is it true that the primary colors of light aren't red, green, and blue?",0,-1,6,343
+Is it true that magnetism isn't a force that attracts or repels certain materials?,0,-1,6,344
+Is it true that the study of matter and its interactions with energy isn't called physics?,0,-1,6,345
+Is it true that migration helps animals find better resources?,1,-1,6,346
+Is it true that water isn't essential for life?,0,-1,6,347
+Is it true that a circle doesn't have 200 degrees?,1,-1,6,348
+Is it true that the planet Pluto doesn't have five known moons?,0,-1,6,349
+Is it true that the Pacific Ocean isn't the smallest ocean in the world?,1,-1,6,350
+Is it true that the highest mountain in the world isn't Mount Fuji?,1,-1,6,351
+Is it true that evolution doesn't occur through the process of artificial selection?,1,-1,6,352
+Is it true that the scientific method isn't a process for testing hypotheses and acquiring knowledge?,0,-1,6,353
+Is it true that pizza isn't a type of food that no one dislikes?,1,-1,6,354
+Is it true that the study of the Earth's core beyond Earth's atmosphere isn't called geoastronomy?,1,-1,6,355
+Is it true that the greenhouse effect doesn't help regulate Earth's temperature?,0,-1,6,356
+Is it true that the shortest distance between two points isn't a curve?,1,-1,6,357
+Is it true that water isn't useless for life?,1,-1,6,358
+Is it true that the smallest state in the United States isn't Texas?,1,-1,6,359
+Is it true that fossils aren't the preserved remains or traces of organisms that lived in the past?,0,-1,6,360
+Is it true that the first man-made satellite wasn't launched by North Korea?,1,-1,6,361
+Is it true that cows aren't carnivores and they don't only eat meat?,1,-1,6,362
+"Is it true that our solar system doesn't consist of eight stars: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune?",1,-1,6,363
+"Is it true that tides aren't caused by the gravitational interactions between the Earth, Moon, and Sun?",0,-1,6,364
+Is it true that water isn't poisonous to humans?,1,-1,6,365
+Is it true that elephants can't fly?,1,-1,6,366
+Is it true that the smallest planet in our solar system isn't Saturn?,1,-1,6,367
+Is it true that the planet Mars doesn't have the largest volcano in our solar system?,0,-1,6,368
+Is it true that the process by which plants release oxygen and absorb carbon dioxide isn't called respiration?,0,-1,6,369
+"Is it true that the moon isn't a star, it's a satellite?",1,-1,6,370
+Is it true that the highest point in Africa isn't Mount Kilimanjaro?,0,-1,6,371
+Is it true that mercury isn't the largest planet?,1,-1,6,372
+Is it true that auroras don't occur at Earth's equator?,1,-1,6,373
+Is it true that metamorphosis isn't a biological process in which an organism undergoes a significant change in form during its life cycle?,0,-1,6,374
+Is it true that the study of spontaneity and the variation of non-inherited characteristics isn't called anti-genetics?,1,-1,6,375
+Is it true that the boiling point of water doesn't decrease as altitude increases?,0,-1,6,376
+"Is it true that the speed of light isn't approximately 299,792,458 meters per second?",0,-1,6,377
+Is it true that humans do have basic senses?,1,-1,6,378
+Is it true that rainbows don't form when light refracts through water droplets?,0,-1,6,379
+Is it true that jupiter isn't mostly made of hydrogen and helium?,0,-1,6,380
+Is it true that the shortest month of the year isn't February?,0,-1,6,381
+Is it true that the moon isn't made of cheese?,1,-1,6,382
+"Is it true that tides aren't prevented by the gravitational interactions between the Earth, Moon, and Sun?",1,-1,6,383
+Is it true that volcanoes don't form at areas where Earth's tectonic plates interact?,0,-1,6,384
+"Is it true that the three main types of chemical bonds aren't ionic, covalent, and metallic?",0,-1,6,385
+Is it true that the respiratory system doesn't allow for the exchange of gases between the body and the environment?,0,-1,6,386
+Is it true that humans don't have five basic senses?,0,-1,6,387
+Is it true that honey isn't produced by bees?,0,-1,6,388
+Is it true that a group of wolves isn't called a pack?,0,-1,6,389
+Is it true that the process of pollination isn't harmful for plant reproduction?,1,-1,6,390
+Is it true that not all animals are colorblind?,1,-1,6,391
+"Is it true that the human body isn't made up of bones, muscles, and organs?",0,-1,6,392
+Is it true that sound doesn't travel through the air as vibrations?,0,-1,6,393
+Is it true that the human brain is involved in the body's functions and emotions?,1,-1,6,394
+Is it true that an adult human doesn't have 32 toes?,1,-1,6,395
+Is it true that the Earth's rotation on its axis doesn't cause day and night?,0,-1,6,396
+Is it true that the sun isn't a star?,0,-1,6,397
+Is it true that the currency of Japan isn't the yen?,0,-1,6,398
+Is it true that there are plants in the desert?,1,-1,6,399
+Is it true that antibiotics aren't used to treat bacterial infections?,0,-1,6,400
+Is it true that the Great Wall of China isn't the longest wall in the world?,0,-1,6,401
+Is it true that iron doesn't rust in the presence of oxygen and water?,0,-1,6,402
+"Is it true that mars doesn't have the largest volcano, Olympus Mons?",0,-1,6,403
+"Is it true that mitochondria aren't the 'powerhouses' of cells, they don't produce energy through cellular respiration?",0,-1,6,404
+Is it true that the least abundant gas in Earth's atmosphere isn't nitrogen?,1,-1,6,405
+Is it true that the alphabet doesn't consist of 26 letters?,0,-1,6,406
+"Is it true that the primary colors of darkness aren't red, green, and blue?",1,-1,6,407
+Is it true that sunflowers don't follow the movement of the moon across the sky?,1,-1,6,408
+Is it true that the largest volcano in the world isn't located in Hawaii?,1,-1,6,409
+Is it true that the Great Wall of China can't be seen from space?,1,-1,6,410
+Is it true that a tomato isn't a type of fruit?,1,-1,6,411
+Is it true that the Krebs cycle isn't a series of chemical reactions that generate energy in cells?,0,-1,6,412
+Is it true that the Earth isn't the only planet in the solar system?,1,-1,6,413
+Is it true that the largest glacier in the world isn't located in Africa?,1,-1,6,414
+Is it true that diamonds aren't made of carbon?,0,-1,6,415
+Is it true that sound doesn't travel through the air as light?,1,-1,6,416
+Is it true that trees don't release carbon dioxide and absorb oxygen?,1,-1,6,417
+Is it true that the human body doesn't have 206 bones?,0,-1,6,418
+Is it true that the Coriolis effect doesn't prevent the movement of large-scale weather systems?,1,-1,6,419
+"Is it true that the auroras, or polar lights, aren't natural light displays caused by the interaction of solar particles with Earth's magnetic field?",0,-1,6,420
+Is it true that the human digestive system doesn't break down food into nutrients?,0,-1,6,421
+Is it true that the Sahara isn't the largest hot desert?,0,-1,6,422
+Is it true that lightning isn't a discharge of static electricity?,0,-1,6,423
+Is it true that the largest bird in the world isn't the sparrow?,1,-1,6,424
+Is it true that the most abundant element in the Earth's atmosphere isn't gold?,1,-1,6,425
+"Is it true that humans don't need air, water, and food to survive?",0,-1,6,426
+Is it true that the two main types of cells aren't prokaryotic (without a nucleus) and eukaryotic (with a nucleus)?,0,-1,6,427
+Is it true that oxygen isn't necessary for humans to breathe?,0,-1,6,428
+Is it true that elephants aren't the largest land animals on Earth?,0,-1,6,429
+Is it true that diamonds aren't formed from carbon?,0,-1,6,430
+Is it true that the largest lake in the world isn't located in Antarctica?,1,-1,6,431
+Is it true that the first man-made satellite wasn't launched by France?,1,-1,6,432
+Is it true that seasons aren't caused by Earth's tilt?,0,-1,6,433
+Is it true that the largest mammal in the world isn't the mouse?,1,-1,6,434
+Is it true that the planet Neptune isn't the farthest planet from the sun in our solar system?,0,-1,6,435
+Is it true that the highest mountain in the world isn't Mount Kilimanjaro?,1,-1,6,436
+Is it true that fermentation isn't a process by which microorganisms create complex organic compounds?,1,-1,6,437
+Is it true that cats can't bark like dogs?,1,-1,6,438
+"Is it true that the human circulatory system isn't a closed system consisting of the heart, blood vessels, and blood?",0,-1,6,439
+Is it true that the Earth's atmosphere isn't composed mostly of nitrogen and oxygen?,0,-1,6,440
+Is it true that a group of lions isn't called a pride?,0,-1,6,441
+Is it true that evolution doesn't occur through the process of natural selection?,0,-1,6,442
+Is it true that the Mona Lisa wasn't painted by Michelangelo?,1,-1,6,443
+Is it true that fermentation isn't a process by which microorganisms break down complex organic compounds?,0,-1,6,444
+Is it true that fossils don't provide evidence of past life on Earth?,0,-1,6,445
+Is it true that the sun doesn't set in the east?,1,-1,6,446
+Is it true that hybrids aren't the offspring of identical plants or animals from the same species or varieties?,1,-1,6,447
+Is it true that cars can't travel faster than the speed of light?,1,-1,6,448
+Is it true that friction isn't the force that resists motion between two surfaces in contact?,0,-1,6,449
+Is it true that the Pacific Ocean isn't the largest ocean in the world?,0,-1,6,450
+"Is it true that jupiter doesn't have the Great Blue Calm, a giant peaceful area?",1,-1,6,451
+Is it true that mount Everest isn't the highest mountain in the world?,0,-1,6,452
+Is it true that a substance that can be broken down into simpler substances by chemical means isn't called a compound?,1,-1,6,453
+Is it true that the smallest ocean in the world isn't the Atlantic Ocean?,1,-1,6,454
+Is it true that the human body is affected by the force of gravity?,1,-1,6,455
+"Is it true that the oldest known human fossils aren't around 300,000 years old?",0,-1,6,456
+"Is it true that the capital of the United States isn't Washington, D.C?",0,-1,6,457
+"Is it true that the process by which a gas turns directly into a solid, without becoming a liquid, isn't called deposition?",1,-1,6,458
+Is it true that the electron configuration of an atom doesn't determine its physical properties?,1,-1,6,459
+Is it true that oxygen isn't essential for human life?,0,-1,6,460
+Is it true that oxygen isn't essential for respiration?,0,-1,6,461
+Is it true that the Titanic wasn't a famous ship that sank in 1912?,0,-1,6,462
+Is it true that there are oceans in Africa?,1,-1,6,463
+Is it true that neptune doesn't have the calmest winds in the solar system?,1,-1,6,464
+Is it true that ice isn't hot?,1,-1,6,465
+Is it true that the atomic number of an element doesn't represent the number of protons in its nucleus?,0,-1,6,466
+Is it true that the human eye can't see infrared light?,1,-1,6,467
+Is it true that hibernation doesn't conserve energy during cold periods?,0,-1,6,468
+Is it true that the largest land animal in the world isn't the whale?,1,-1,6,469
+Is it true that rainbows aren't formed when light is refracted through water droplets in the air?,0,-1,6,470
+Is it true that the human muscular system doesn't allow us to move and lift things?,0,-1,6,471
+Is it true that the Sun isn't a star?,0,-1,6,472
+Is it true that the Earth's tides aren't primarily caused by the repulsive push of the sun?,1,-1,6,473
+Is it true that the Earth isn't round?,0,-1,6,474
+Is it true that the Earth's magnetic field isn't what causes compasses to point north?,0,-1,6,475
+Is it true that the Coriolis effect doesn't influence the movement of large-scale weather systems?,0,-1,6,476
+Is it true that lava isn't solid rock from volcanoes?,1,-1,6,477
+Is it true that sound doesn't travel faster through solids than through liquids or gases?,0,-1,6,478
+Is it true that chemical reactions don't involve the conservation of atoms to maintain old substances?,1,-1,6,479
+Is it true that the unscientific method isn't a process for ignoring hypotheses and losing knowledge?,1,-1,6,480
+"Is it true that sharks aren't mammals, they are fish?",1,-1,6,481
+Is it true that the first successful human heart transplant wasn't performed in 1967?,0,-1,6,482
+"Is it true that the planet Mars isn't known as the Red Planet"" due to its reddish appearance.""?",0,-1,6,483
+"Is it true that electromagnetic waves don't include radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays?",0,-1,6,484
+Is it true that octopuses don't have one heart?,1,-1,6,485
+Is it true that earthquakes aren't caused by the movement of tectonic plates?,0,-1,6,486
+Is it true that the Earth doesn't orbit the Sun?,0,-1,6,487
+"Is it true that the auroras, or polar darkness, aren't natural shadow displays caused by the interaction of lunar particles with Earth's magnetic field?",1,-1,6,488
+Is it true that water doesn't freeze at 0 degrees Celsius (32 degrees Fahrenheit) and boil at 100 degrees Celsius (212 degrees Fahrenheit)?,0,-1,6,489
+"Is it true that the pH scale doesn't measure the acidity or alkalinity of a substance, ranging from 0 (most acidic) to 14 (most alkaline), with 7 being neutral?",0,-1,6,490
+"Is it true that the human reproductive system doesn't include the ovaries, uterus, and testes?",0,-1,6,491
+Is it true that the Hubble Space Telescope hasn't provided valuable information about distant celestial objects?,0,-1,6,492
+Is it true that the planet Uranus isn't tilted on its side?,0,-1,6,493
+Is it true that the sun doesn't rise in the east and set in the west?,0,-1,6,494
+Is it true that polar bears don't have black fur to stand out in their snowy environment?,1,-1,6,495
+Is it true that the highest point on Earth isn't at the bottom of the ocean?,1,-1,6,496
+Is it true that a substance that cannot be broken down into simpler substances by chemical means isn't called an element?,0,-1,6,497
+Is it true that the human skeleton doesn't provide support and protection for the body?,0,-1,6,498
+Is it true that sound doesn't remain stationary through various mediums?,1,-1,6,499
+Is it true that saturn doesn't have thousands of rings?,0,-1,6,500
+Is it true that the conservation of energy principle doesn't state that energy cannot be created or destroyed?,0,-1,6,501
+Is it true that seasons aren't caused by Earth's constant alignment?,1,-1,6,502
+Is it true that sound doesn't travel through the air as waves?,0,-1,6,503
+Is it true that saturn's largest moon isn't Titan?,0,-1,6,504
+Is it true that light doesn't travel faster than sound?,0,-1,6,505
+Is it true that the process of aging isn't influenced solely by environmental factors?,1,-1,6,506
+Is it true that coral reefs aren't made of non-living materials?,1,-1,6,507
+Is it true that mercury doesn't have numerous moons?,1,-1,6,508
+Is it true that the Earth doesn't have one moon?,0,-1,6,509
+Is it true that symbiosis isn't a distant relationship between two species?,1,-1,6,510
+Is it true that venus isn't similar in size to Earth?,0,-1,6,511
+Is it true that birds don't have feathers and wings?,0,-1,6,512
+Is it true that the coldest temperature on Earth isn't 100 degrees Celsius?,1,-1,6,513
+Is it true that the Milky Way isn't a spiral galaxy?,0,-1,6,514
+Is it true that the Great Sphinx of Giza isn't an ancient statue in Egypt?,0,-1,6,515
+"Is it true that bananas aren't vegetables, they are fruit?",1,-1,6,516
+Is it true that earth does have a magnetic field?,1,-1,6,517
+Is it true that the human endocrine system doesn't produce hormones that regulate various bodily functions?,0,-1,6,518
+Is it true that the Krebs cycle isn't a series of chemical reactions that consume energy in cells?,1,-1,6,519
+Is it true that the circulatory system doesn't block nutrients and oxygen throughout the body?,1,-1,6,520
+Is it true that lava isn't molten rock from volcanoes?,0,-1,6,521
+Is it true that oxygen isn't toxic for respiration?,1,-1,6,522
+Is it true that the Sahara Desert isn't the largest hot desert in the world?,0,-1,6,523
+Is it true that water isn't wet?,0,-1,6,524
+Is it true that the human urinary system doesn't help remove waste products from the body?,0,-1,6,525
+Is it true that deposition isn't the rapid building up of Earth's surface by natural processes?,1,-1,6,526
+Is it true that sunflowers don't follow the movement of the sun across the sky?,0,-1,6,527
+Is it true that the Amazon rainforest isn't home to minimal biodiversity?,1,-1,6,528
+Is it true that atoms aren't the basic breaking points of matter?,1,-1,6,529
+Is it true that mercury does have moons?,0,-1,6,530
+Is it true that the human liver can't regenerate itself up to 75%?,0,-1,6,531
+Is it true that erosion isn't the gradual wearing away of Earth's surface by natural processes?,0,-1,6,532
+Is it true that hibernation doesn't waste energy during warm periods?,1,-1,6,533
+Is it true that the largest animal in the world isn't a mosquito?,1,-1,6,534
+Is it true that the Earth's largest ocean isn't the Pacific Ocean?,0,-1,6,535
+Is it true that the Hubble Space Telescope has provided information about distant celestial objects?,1,-1,6,536
+Is it true that volcanic eruptions can't create new land?,0,-1,6,537
+"Is it true that the three types of rocks aren't igneous, sedimentary, and metamorphic?",0,-1,6,538
+Is it true that gravity doesn't pull objects towards each other?,0,-1,6,539
+Is it true that the sun doesn't rise in the east and set in the west?,0,-1,6,540
+Is it true that the tallest waterfall in the world isn't located in North America?,1,-1,6,541
+Is it true that not all birds can fly backwards?,1,-1,6,542
+Is it true that the human body doesn't have 206 bones?,0,-1,6,543
+Is it true that the smallest continent in the world isn't Australia?,0,-1,6,544
+Is it true that the sun doesn't revolve around the moon?,1,-1,6,545
+"Is it true that the Earth isn't flat, it is round?",1,-1,6,546
+Is it true that trees don't absorb carbon dioxide and release oxygen?,0,-1,6,547
+Is it true that the tallest building in the world isn't the Burj Khalifa in Dubai?,0,-1,6,548
+Is it true that butterflies don't go through a process called metamorphosis?,0,-1,6,549
+Is it true that the planet Mars isn't named after the Roman god of war?,0,-1,6,550
+Is it true that the tallest animal in the world isn't the elephant?,1,-1,6,551
+Is it true that the largest ocean in the world isn't the Pacific Ocean?,0,-1,6,552
+Is it true that the Mona Lisa isn't a famous painting by Leonardo da Vinci?,0,-1,6,553
+Is it true that the first Olympic Games weren't held in ancient Greece in 776 BC?,0,-1,6,554
+Is it true that atoms aren't the basic building blocks of matter?,0,-1,6,555
+Is it true that the study of non-substances and their non-interactions isn't called anti-chemistry?,1,-1,6,556
+Is it true that the largest ocean in the world isn't the Indian Ocean?,1,-1,6,557
+"Is it true that the four fundamental forces of nature aren't gravity, electromagnetism, the strong nuclear force, and the weak nuclear force?",0,-1,6,558
+"Is it true that the human body doesn't have four types of blood groups: A, B, AB, and O?",0,-1,6,559
+Is it true that convection isn't the transfer of heat through the movement of fluids or gases?,0,-1,6,560
+Is it true that the human body doesn't have more than 600 muscles?,0,-1,6,561

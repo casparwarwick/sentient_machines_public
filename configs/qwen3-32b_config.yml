@@ -1,0 +1,91 @@
+###############################################
+# This is an example configuration file 
+###############################################
+# Labelling
+###############################################
+job_start_date: "050126"
+
+###############################################
+# Directories
+###############################################
+code_dir: code
+datasets_dir: datasets
+activations_dir: activations
+classifiers_dir: classifiers
+results_dir: results
+models_dir: models
+
+###############################################
+# Datasets
+###############################################
+base_training_datasets:
+  - new_training_17
+
+base_sentience_datasets:
+  - sentience_16
+
+dataset_versions:
+  - 1
+  - 2
+  - 3
+
+###############################################
+# Model Config
+###############################################
+model_name: qwen3-32b
+use_quantization: true
+quantization_bits: 8
+default_dtype: float16
+force_float32_devices:
+  - cpu
+use_chat_context: true
+manual_chat_context: null
+
+# Batch size for inference.
+batch_size: 40
+
+# Pad all inputs to the length of the longest one in the selected datasets.
+pad_all_inputs: true
+
+###############################################
+# Classifier Config
+###############################################
+test_split_ratio: 0.8
+normalize_activations: false
+ridge_penalty: 1.0
+random_seed: 42
+
+###############################################
+# Generation Config
+###############################################
+max_new_tokens: 25
+temperature: 0
+do_sample: false
+
+# Thinking Mode 
+enable_thinking: false
+thinking_max_tokens: 300
+# For Qwen thinking: temperature: 0.6, top_p: 0.95, top_k: 20, min_p: 0 (hardcoded in generate_chat_datasets.py)
+
+###############################################
+# Confidence Filtering Config
+###############################################
+true_token: "Yes"
+false_token: "No"
+confidence_threshold: 0.5
+
+###############################################
+# Pipeline - 001-only Comparative Analysis
+###############################################
+pipeline_steps:
+  - download_models
+  - generate_chat_datasets
+  - filter_confident_predictions
+  - extract_activations
+  - prepare_training_and_test_data
+  - get_lr_classifier
+  - get_mm_classifier
+  - get_ttpd_classifier
+  # Get continuation first because this is where the files used by apply_classifiers are created
+  - get_continuation
+  - apply_classifiers

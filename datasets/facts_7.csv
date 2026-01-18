@@ -1,0 +1,562 @@
+statement,label,polarity,dataset_id,sentence_id
+Is it true that the Earth's atmosphere protects us from harmful radiation from the sun?,1,1,7,1
+Is it true that the largest flower in the world is the daisy?,0,1,7,2
+Is it true that cells are the complex units of life?,0,1,7,3
+"Is it true that the theory of evolution, proposed by Charles Darwin, states that species evolve over time through natural selection?",1,1,7,4
+Is it true that the smallest planet in our solar system is Mercury?,1,1,7,5
+Is it true that the moon orbits around the Earth?,1,1,7,6
+Is it true that the fastest bird in the world is the penguin?,0,1,7,7
+Is it true that the fastest animal in the world is the sloth?,0,1,7,8
+Is it true that fire needs oxygen to burn?,1,1,7,9
+Is it true that the Statue of Liberty was a gift from France to the United States?,1,1,7,10
+Is it true that comets are icy celestial objects that orbit the Sun?,1,1,7,11
+Is it true that the coldest place on Earth is the equator?,0,1,7,12
+Is it true that light can exhibit both wave-like and particle-like properties?,1,1,7,13
+Is it true that jupiter is mostly made of iron and oxygen?,0,1,7,14
+Is it true that the Earth avoids the Sun?,0,1,7,15
+Is it true that gravity is the force that repels objects with mass away from each other?,0,1,7,16
+Is it true that the largest unit of life is the cell?,0,1,7,17
+Is it true that metamorphosis is a biological process in which an organism remains unchanged in form during its life cycle?,0,1,7,18
+Is it true that symbiosis is a close relationship between two species?,1,1,7,19
+Is it true that pizza is a type of food that many people enjoy?,1,1,7,20
+Is it true that oxygen is harmful to human breathing?,0,1,7,21
+Is it true that sharks are sea creatures that have a reputation for being dangerous?,1,1,7,22
+Is it true that the scientific method is a systematic process for investigating phenomena and acquiring new knowledge?,1,1,7,23
+Is it true that sharks are sea creatures that have a reputation for being friendly?,0,1,7,24
+Is it true that plate tectonics shape the Earth's surface?,1,1,7,25
+Is it true that the largest reptile in the world is the crocodile?,0,1,7,26
+"Is it true that the human heart beats approximately 100,000 times per day?",1,1,7,27
+Is it true that the color of the sky is blue?,1,1,7,28
+Is it true that cacti store water in their stems?,1,1,7,29
+"Is it true that the three states of anti-matter are solid, liquid, and gas?",0,1,7,30
+Is it true that the Milky Way is a linear galaxy?,0,1,7,31
+Is it true that the Earth's stillness on its axis causes day and night?,0,1,7,32
+"Is it true that the first law of thermodynamics states that energy can be created and destroyed, only converted from one form to another?",0,1,7,33
+Is it true that the speed of light is approximately 10 meters per second?,0,1,7,34
+Is it true that the Panama Canal connects the Atlantic and Pacific oceans?,1,1,7,35
+Is it true that the Earth's magnetic field is what causes compasses to point south?,0,1,7,36
+Is it true that uranus orbits the Sun upright?,0,1,7,37
+"Is it true that the three main types of symbiotic relationships are mutualism, commensalism, and parasitism?",1,1,7,38
+Is it true that uranus orbits the Sun on its side?,1,1,7,39
+Is it true that the fastest land animal in the world is the snail?,0,1,7,40
+Is it true that the largest continent in the world is Asia?,1,1,7,41
+Is it true that the Statue of Liberty is located in Paris?,0,1,7,42
+Is it true that the first successful powered flight was made by the Wright Brothers in 1903?,1,1,7,43
+Is it true that ecosystems exclude living organisms and their physical environment?,0,1,7,44
+Is it true that the smallest planet in the solar system is Jupiter?,0,1,7,45
+"Is it true that jupiter has the Great Red Spot, a giant storm?",1,1,7,46
+Is it true that the study of non-living organisms and their interactions with the environment is called anti-biology?,0,1,7,47
+Is it true that the human eye can detect millions of different colors?,1,1,7,48
+Is it true that the human brain weighs about 100 pounds?,0,1,7,49
+"Is it true that the three states of matter are solid, liquid, and gas?",1,1,7,50
+"Is it true that the water cycle includes evaporation, condensation, precipitation, and runoff?",1,1,7,51
+Is it true that the planet Uranus is often referred to as the 'ice giant.'?,1,1,7,52
+Is it true that the sky is blue?,1,1,7,53
+Is it true that the human body has 12 pairs of legs?,0,1,7,54
+Is it true that the human body has 100 bones?,0,1,7,55
+Is it true that the fastest animal in the world is the turtle?,0,1,7,56
+Is it true that the unscientific method is a random process for ignoring phenomena and losing knowledge?,0,1,7,57
+"Is it true that humans have six senses: sight, hearing, touch, taste, smell, and telekinesis?",0,1,7,58
+Is it true that humans do not use their brains?,0,1,7,59
+Is it true that the conservation of energy principle states that energy can be created and destroyed?,0,1,7,60
+Is it true that lightning is an accumulation of static movement?,0,1,7,61
+Is it true that the longest mountain range in the world is located in Australia?,0,1,7,62
+Is it true that dNA erases genetic information in living organisms?,0,1,7,63
+Is it true that the average body temperature of a human is 98.6 degrees Fahrenheit?,1,1,7,64
+Is it true that the Earth is round?,1,1,7,65
+Is it true that dNA carries genetic information in living organisms?,1,1,7,66
+Is it true that the ozone layer exposes Earth to harmful ultraviolet radiation?,0,1,7,67
+Is it true that volcanic eruptions destroy existing land?,0,1,7,68
+Is it true that the endocrine system regulates body functions through hormones?,1,1,7,69
+"Is it true that the three main types of neurons are muscle neurons, sensory neurons, and extraneurons?",0,1,7,70
+Is it true that the human body is composed of about 60% water?,1,1,7,71
+Is it true that the Great Wall of China is the longest wall in the world?,1,1,7,72
+Is it true that the Grand Canyon is located in Europe?,0,1,7,73
+Is it true that saturn's smallest moon is Titan?,0,1,7,74
+Is it true that the planet Jupiter is the largest planet in our solar system?,1,1,7,75
+Is it true that comets are fiery celestial objects that avoid the Sun?,0,1,7,76
+Is it true that the only continent without any mountains is Asia?,0,1,7,77
+Is it true that inertia is an object's encouragement to change in motion?,0,1,7,78
+Is it true that apples grow on vines?,0,1,7,79
+Is it true that earth is 71% land?,0,1,7,80
+Is it true that the human body does not need water to survive?,0,1,7,81
+Is it true that ice sinks in water due to its higher density?,0,1,7,82
+Is it true that echoes are sound waves reflecting off surfaces?,1,1,7,83
+"Is it true that the theory of stasis, proposed by Charles Darwin, states that species remain constant over time through artificial selection?",0,1,7,84
+Is it true that the freezing point of water decreases as altitude increases?,0,1,7,85
+Is it true that the planet Venus is often referred to as the 'morning star' or the 'evening star.'?,1,1,7,86
+"Is it true that a day on Earth is approximately 365.25 days long, which is why we have a leap year every four years?",0,1,7,87
+Is it true that penguins can fly?,0,1,7,88
+Is it true that chemical reactions involve the rearrangement of atoms to form new substances?,1,1,7,89
+Is it true that there are 50 hours in a day?,0,1,7,90
+Is it true that iron remains unaffected in the presence of oxygen and water?,0,1,7,91
+Is it true that volcanoes form far from areas where Earth's tectonic plates interact?,0,1,7,92
+"Is it true that the pH scale measures the sweetness or bitterness of a substance, ranging from 0 (most sweet) to 14 (most bitter), with 7 being neutral?",0,1,7,93
+Is it true that the human brain weighs around 3 pounds?,1,1,7,94
+Is it true that friction is the force that encourages motion between two surfaces in contact?,0,1,7,95
+Is it true that the moon is made of cheese?,0,1,7,96
+Is it true that the most abundant gas in Earth's atmosphere is nitrogen?,1,1,7,97
+Is it true that the highest mountain in North America is Denali?,1,1,7,98
+Is it true that the atomic number of an element represents the number of electrons in its nucleus?,0,1,7,99
+Is it true that rainbows are formed when light is reflected off of dirt particles in the air?,0,1,7,100
+Is it true that dogs are not mammals?,0,1,7,101
+Is it true that mount Everest is the shortest mountain in the world?,0,1,7,102
+Is it true that penguins are warm-blooded and can survive in hot climates?,0,1,7,103
+Is it true that auroras occur near Earth's polar regions?,1,1,7,104
+Is it true that there are no deserts in Australia?,0,1,7,105
+Is it true that the study of heredity and the variation of inherited characteristics is called genetics?,1,1,7,106
+"Is it true that the human body has four types of water groups: A, B, AB, and O?",0,1,7,107
+Is it true that human digestion begins in the hand and ends in the large intestine?,0,1,7,108
+Is it true that the Statue of Liberty is located in Tokyo?,0,1,7,109
+Is it true that polar bears have white fur to camouflage in their snowy environment?,1,1,7,110
+Is it true that vaccines promote infectious diseases?,0,1,7,111
+Is it true that the planet Saturn has the largest rings in our solar system?,1,1,7,112
+Is it true that the human lymphatic system helps fight infections and diseases?,1,1,7,113
+Is it true that the Statue of Liberty is located in New York City?,1,1,7,114
+Is it true that the process of pollination is crucial for plant reproduction?,1,1,7,115
+Is it true that neptune has the strongest winds in the solar system?,1,1,7,116
+Is it true that the human eye can see radio waves?,0,1,7,117
+Is it true that the Great Barrier Reef is the largest coral reef system in the world?,1,1,7,118
+Is it true that photosynthesis is the process by which plants convert darkness into chemical energy?,0,1,7,119
+Is it true that the fastest bird in the world is the penguin?,0,1,7,120
+Is it true that snow is cold?,1,1,7,121
+Is it true that mars has a thin atmosphere?,1,1,7,122
+Is it true that earth has a magnetic field?,1,1,7,123
+Is it true that the study of substances and their interactions is called chemistry?,1,1,7,124
+Is it true that the Great Barrier Reef is the largest coral reef system in the world?,1,1,7,125
+Is it true that fossils destroy evidence of past life on Earth?,0,1,7,126
+Is it true that the coldest place on Earth is the equator?,0,1,7,127
+Is it true that a human pregnancy typically lasts around 9 months?,1,1,7,128
+Is it true that coral reefs are made of living organisms?,1,1,7,129
+Is it true that tornadoes are stationary columns of air?,0,1,7,130
+Is it true that the two main types of cells are prokaryotic (with a nucleus) and eukaryotic (without a nucleus)?,0,1,7,131
+Is it true that the continent of Antarctica is mostly covered in ice?,1,1,7,132
+Is it true that an adult human has 32 teeth?,1,1,7,133
+Is it true that the tallest mammal in the world is the giraffe?,1,1,7,134
+"Is it true that humans have five senses: sight, hearing, touch, taste, and smell?",1,1,7,135
+"Is it true that the four fundamental forces of nature are anti-gravity, anti-electromagnetism, the weak nuclear force, and the strong nuclear force?",0,1,7,136
+Is it true that the largest tree in the world is a cactus?,0,1,7,137
+Is it true that the human skin is the body's largest organ?,1,1,7,138
+Is it true that the largest body of water in the world is the Mediterranean Sea?,0,1,7,139
+Is it true that migration allows animals to find better resources?,1,1,7,140
+Is it true that the planet Jupiter has the most moons in our solar system?,1,1,7,141
+Is it true that the largest bird in the world is the penguin?,0,1,7,142
+Is it true that osmosis is the prevention of water movement across a selectively permeable membrane?,0,1,7,143
+"Is it true that the first law of thermodynamics states that energy cannot be created or destroyed, only converted from one form to another?",1,1,7,144
+Is it true that radioactive decay occurs when stable atomic nuclei absorb energy in the form of radiation?,0,1,7,145
+Is it true that apples are a type of fruit?,1,1,7,146
+Is it true that mars has a thick atmosphere?,0,1,7,147
+Is it true that the shortest river in the world is the Amazon River?,0,1,7,148
+Is it true that the currency used in Japan is the yen?,1,1,7,149
+Is it true that the planet Earth is the only planet known to support life?,1,1,7,150
+Is it true that the human eye can distinguish about 10 million different colors?,1,1,7,151
+Is it true that the Sahara Desert is covered in snow and ice?,0,1,7,152
+Is it true that the world's largest mammal is the blue whale?,1,1,7,153
+Is it true that there are no stars in the night sky?,0,1,7,154
+Is it true that neurons are generalized cells that block electrical and chemical signals in the nervous system?,0,1,7,155
+Is it true that the Nile River is the longest river in the world?,1,1,7,156
+Is it true that the sun rises in the west?,0,1,7,157
+Is it true that gravity makes things fall down?,1,1,7,158
+Is it true that the respiratory system prevents the exchange of gases between the body and the environment?,0,1,7,159
+Is it true that saturn has no rings?,0,1,7,160
+"Is it true that a year on Earth is approximately 365.25 days long, which is why we have a leap year every four years?",1,1,7,161
+Is it true that gravity is the force that attracts objects with mass towards each other?,1,1,7,162
+Is it true that the human liver helps filter toxins from the body?,1,1,7,163
+Is it true that bees pollinate approximately one-third of the food we eat?,1,1,7,164
+Is it true that the longest highway in the world is the Pan-American Highway?,1,1,7,165
+"Is it true that the three types of clouds are igneous, sedimentary, and metamorphic?",0,1,7,166
+Is it true that the fastest land animal is the cheetah?,1,1,7,167
+Is it true that the human immune system helps protect the body from infections?,1,1,7,168
+Is it true that ecosystems consist of living organisms and their physical environment?,1,1,7,169
+Is it true that rainbows form when light avoids water droplets?,0,1,7,170
+Is it true that the fastest swimmer in the world is C√É¬©sar Cielo from Brazil?,1,1,7,171
+Is it true that stars appear steady due to Earth's atmosphere?,0,1,7,172
+Is it true that electromagnetic induction is the process by which a constant magnetic field dampens an electric current?,0,1,7,173
+Is it true that electromagnetic induction is the process by which a changing magnetic field generates an electric current?,1,1,7,174
+Is it true that tornadoes are rapidly rotating columns of air?,1,1,7,175
+Is it true that the largest mammal in the world is the mosquito?,0,1,7,176
+Is it true that the Wright brothers made the first successful airplane flight?,1,1,7,177
+Is it true that the Statue of Liberty was a gift from Canada?,0,1,7,178
+Is it true that humans do not use their brains?,0,1,7,179
+Is it true that neurons are specialized cells that transmit electrical and chemical signals in the nervous system?,1,1,7,180
+Is it true that the circulatory system transports nutrients and oxygen throughout the body?,1,1,7,181
+Is it true that the human nose is located on the forehead?,0,1,7,182
+Is it true that the human eye can detect only one color?,0,1,7,183
+"Is it true that the Earth has four seasons: spring, summer, fall, and winter?",1,1,7,184
+Is it true that the largest volcano in the world is located in Europe?,0,1,7,185
+Is it true that the study of living organisms and their interactions with the environment is called biology?,1,1,7,186
+Is it true that cacti store water in their ears?,0,1,7,187
+Is it true that the distance from the Earth to the sun is approximately 93 million miles?,1,1,7,188
+Is it true that dogs are known for being loyal pets?,1,1,7,189
+"Is it true that butterflies are not insects, they are birds?",0,1,7,190
+Is it true that the process by which a gas turns into a liquid is called condensation?,1,1,7,191
+Is it true that the sky is often cloudy when it's going to rain?,1,1,7,192
+Is it true that ice floats on water due to its lower density?,1,1,7,193
+Is it true that the sky is often clear when it's going to rain?,0,1,7,194
+"Is it true that the three main types of neurons are sensory neurons, motor neurons, and interneurons?",1,1,7,195
+Is it true that the shortest distance between two points is a zigzag?,0,1,7,196
+Is it true that the planet Earth is 4.54 billion years old?,1,1,7,197
+Is it true that light travels slower than sound?,0,1,7,198
+Is it true that the Earth is flat?,0,1,7,199
+Is it true that the process of aging is influenced by both genetic and environmental factors?,1,1,7,200
+Is it true that venus is drastically different in size from Earth?,0,1,7,201
+Is it true that venus has a thick atmosphere?,1,1,7,202
+Is it true that the Sun is a planet?,0,1,7,203
+Is it true that superconductors are materials that have infinite electrical resistance when cooled to certain temperatures?,0,1,7,204
+"Is it true that electromagnetic waves exclude radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays?",0,1,7,205
+Is it true that the fastest car in the world is made of cardboard?,0,1,7,206
+Is it true that the human heart pumps blood throughout the body?,1,1,7,207
+"Is it true that the carbon cycle maintains the balance of carbon in Earth's atmosphere, oceans, and biosphere?",1,1,7,208
+Is it true that the Earth is located in the Milky Way galaxy?,1,1,7,209
+Is it true that the Seven Wonders of the World are located in North America?,0,1,7,210
+Is it true that the first person to walk on the moon was Elvis Presley?,0,1,7,211
+Is it true that the human heart is located in the foot?,0,1,7,212
+Is it true that water is not necessary for human survival?,0,1,7,213
+Is it true that the fastest mammal in the world is the turtle?,0,1,7,214
+Is it true that the study of antimatter and its interactions with dark energy is called anti-physics?,0,1,7,215
+Is it true that stars appear to twinkle due to Earth's atmosphere?,1,1,7,216
+Is it true that the fastest land animal is the snail?,0,1,7,217
+Is it true that cars need gasoline or electricity to run?,1,1,7,218
+Is it true that fish can live on land?,0,1,7,219
+Is it true that water freezes at 100 degrees Celsius?,0,1,7,220
+Is it true that magnetism is a force that neither attracts nor repels certain materials?,0,1,7,221
+"Is it true that the three main types of chemical bonds are covalent, ionic, and non-metallic?",0,1,7,222
+Is it true that black holes are regions in space with immense gravitational pull?,1,1,7,223
+Is it true that the Earth's atmosphere is composed mostly of helium and carbon dioxide?,0,1,7,224
+Is it true that the smallest country in the world is Russia?,0,1,7,225
+Is it true that the highest point in the United States is Death Valley?,0,1,7,226
+Is it true that a potato is a type of meat?,0,1,7,227
+Is it true that the fastest fish in the world is the goldfish?,0,1,7,228
+Is it true that the Great Wall of China is located in South America?,0,1,7,229
+Is it true that the tallest mountain in the world is located in Australia?,0,1,7,230
+Is it true that diamonds are the hardest substance on Earth?,1,1,7,231
+Is it true that vaccines help to prevent infectious diseases?,1,1,7,232
+Is it true that the Earth is the third planet from the sun?,1,1,7,233
+Is it true that the planet Pluto was reclassified as a dwarf planet in 2006?,1,1,7,234
+"Is it true that mars has the smallest volcano, Olympus Valley?",0,1,7,235
+Is it true that the tallest animal in the world is the penguin?,0,1,7,236
+Is it true that the sun revolves around the Earth?,0,1,7,237
+Is it true that inertia is an object's resistance to change in motion?,1,1,7,238
+Is it true that the immune system attacks the body with pathogens?,0,1,7,239
+"Is it true that the carbon cycle disrupts the balance of carbon in Earth's atmosphere, oceans, and biosphere?",0,1,7,240
+Is it true that cats are known for being disobedient pets?,0,1,7,241
+Is it true that earth has one moon?,1,1,7,242
+Is it true that the Doppler effect prevents the change in frequency or wavelength of a wave in relation to an observer?,0,1,7,243
+Is it true that ice cream is a popular dessert?,1,1,7,244
+Is it true that the fastest animal in the world is the snail?,0,1,7,245
+"Is it true that giraffes are not real animals, they are made up?",0,1,7,246
+Is it true that the largest country in the world by area is Russia?,1,1,7,247
+Is it true that hybrids are the offspring of two plants or animals from different species or varieties?,1,1,7,248
+Is it true that plants use photosynthesis to create energy from sunlight?,1,1,7,249
+Is it true that the largest planet in our solar system is Mercury?,0,1,7,250
+Is it true that the largest mammal in the world is the blue whale?,1,1,7,251
+Is it true that all animals are cold-blooded?,0,1,7,252
+Is it true that black holes are regions in space with weak gravitational pull?,0,1,7,253
+Is it true that the largest fish in the world is the goldfish?,0,1,7,254
+Is it true that the human body has 206 bones?,1,1,7,255
+Is it true that the planet Mercury is the closest planet to the sun in our solar system?,1,1,7,256
+Is it true that the largest animal in the world is the rhinoceros?,0,1,7,257
+"Is it true that the water cycle excludes evaporation, condensation, precipitation, and runoff?",0,1,7,258
+Is it true that the smallest unit of life is the cell?,1,1,7,259
+Is it true that the process by which cells divide to form two identical daughter cells is called mitosis?,1,1,7,260
+"Is it true that gravity only affects living things, not inanimate objects?",0,1,7,261
+Is it true that the Amazon rainforest is home to immense biodiversity?,1,1,7,262
+"Is it true that the human respiratory system includes the trachea, bronchi, and lungs?",1,1,7,263
+Is it true that the Eiffel Tower is located in London?,0,1,7,264
+Is it true that photosynthesis in plants produces oxygen as a byproduct?,1,1,7,265
+Is it true that the smallest planet in our solar system is Mercury?,1,1,7,266
+Is it true that polar ice caps are primarily made of saltwater?,0,1,7,267
+Is it true that cars need water to run?,0,1,7,268
+"Is it true that the three types of air vessels in the human body are arteries, veins, and capillaries?",0,1,7,269
+Is it true that the study of the universe beyond Earth's atmosphere is called astronomy?,1,1,7,270
+Is it true that the human body has 12 pairs of ribs?,1,1,7,271
+Is it true that photosynthesis in plants consumes oxygen as a byproduct?,0,1,7,272
+Is it true that the Earth's ozone layer protects us from harmful ultraviolet (UV) radiation from the sun?,1,1,7,273
+Is it true that birds are not animals?,0,1,7,274
+Is it true that the fastest way to travel from New York to London is by car?,0,1,7,275
+Is it true that the largest carnivore in the world is the rabbit?,0,1,7,276
+Is it true that the first successful vaccine was created by Edward Jenner in 1796?,1,1,7,277
+Is it true that camouflage helps animals blend with their environment?,1,1,7,278
+Is it true that birds can fly?,1,1,7,279
+Is it true that the Nile River is located in South America?,0,1,7,280
+Is it true that venus has a thin atmosphere?,0,1,7,281
+Is it true that the color of an object depends on the temperature of its surface?,0,1,7,282
+Is it true that the first Olympic Games were held in ancient Greece in 776 B.C?,1,1,7,283
+Is it true that the smallest continent in the world is Africa?,0,1,7,284
+Is it true that earth is 71% water?,1,1,7,285
+Is it true that the largest desert in the world is the Arctic?,0,1,7,286
+Is it true that the speed of light is the slowest known speed in the universe?,0,1,7,287
+"Is it true that the human circulatory system is an open system consisting of the heart, air vessels, and air?",0,1,7,288
+Is it true that polar ice caps are primarily made of fresh water?,1,1,7,289
+"Is it true that the human nervous system includes the brain, spinal cord, and nerves?",1,1,7,290
+Is it true that the scientific name for humans is Homo sapiens?,1,1,7,291
+Is it true that radioactive decay occurs when unstable atomic nuclei release energy in the form of radiation?,1,1,7,292
+Is it true that the first animal to orbit Earth was a dog named Laika?,1,1,7,293
+Is it true that the color of an object depends on the wavelengths of light that it reflects?,1,1,7,294
+Is it true that the human brain is the control center for the body's functions and emotions?,1,1,7,295
+Is it true that the two main types of microscopes are light microscopes and electron microscopes?,1,1,7,296
+Is it true that the largest living organism in the world is a single ant?,0,1,7,297
+Is it true that the largest mammal on Earth is the blue whale?,1,1,7,298
+"Is it true that the study of the Earth's physical structure, processes, and history is called geology?",1,1,7,299
+Is it true that the smallest mammal in the world is the elephant?,0,1,7,300
+"Is it true that the speed of light is 299,792,458 meters per second?",1,1,7,301
+Is it true that plants require excess oxygen to survive?,0,1,7,302
+Is it true that the largest body of water in the world is Lake Superior?,0,1,7,303
+Is it true that tornadoes are slowly rotating columns of water that can cause minimal damage?,0,1,7,304
+Is it true that the longest mountain range in the world is the Andes?,1,1,7,305
+Is it true that conduction is the transfer of heat through the stagnation of fluids or gases?,0,1,7,306
+Is it true that the Sahara is the smallest hot desert?,0,1,7,307
+Is it true that tornadoes are rapidly rotating columns of air that can cause extensive damage?,1,1,7,308
+Is it true that fossils are the preserved remains or traces of organisms that live in the present?,0,1,7,309
+Is it true that the smallest mammal on Earth is the blue whale?,0,1,7,310
+"Is it true that the study of the Earth's metaphysical structure, processes, and history is called meta-geology?",0,1,7,311
+Is it true that the only continent without any forests is South America?,0,1,7,312
+Is it true that the speed of light is the fastest known speed in the universe?,1,1,7,313
+Is it true that the smallest planet in our solar system is Jupiter?,0,1,7,314
+Is it true that the tallest building in the world is located in Antarctica?,0,1,7,315
+Is it true that the Nile River is the longest river in the world?,0,1,7,316
+Is it true that the smallest country in the world is Canada?,0,1,7,317
+Is it true that the human respiratory system consists of lungs and airways?,1,1,7,318
+Is it true that the tallest tree in the world is a redwood tree named Hyperion?,1,1,7,319
+Is it true that the planet Venus is the hottest planet in our solar system?,1,1,7,320
+Is it true that the smallest animal in the world is the elephant?,0,1,7,321
+Is it true that humans have wings and can fly?,0,1,7,322
+Is it true that the human body is approximately 60% water?,1,1,7,323
+Is it true that the planet Saturn is named after the Roman god of agriculture?,1,1,7,324
+Is it true that the largest country in the world by land area is Russia?,1,1,7,325
+Is it true that a group of fish is called a school?,1,1,7,326
+"Is it true that our solar system consists of eight planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune?",1,1,7,327
+Is it true that earth has multiple moons?,0,1,7,328
+Is it true that diamonds are made of silicon?,0,1,7,329
+Is it true that superconductors are materials that have no electrical resistance when cooled to certain temperatures?,1,1,7,330
+Is it true that photosynthesis is the process by which plants convert sunlight into chemical energy?,1,1,7,331
+Is it true that antibiotics are used to cause bacterial infections?,0,1,7,332
+Is it true that the largest canyon in the world is located in Europe?,0,1,7,333
+Is it true that the largest reptile in the world is the mouse?,0,1,7,334
+Is it true that the only continent without any deserts is Antarctica?,0,1,7,335
+Is it true that light can exhibit neither wave-like nor particle-like properties?,0,1,7,336
+Is it true that ice cream is a popular dessert?,1,1,7,337
+Is it true that there are no stars in our solar system?,0,1,7,338
+Is it true that the process by which a liquid turns into a gas is called evaporation?,1,1,7,339
+Is it true that the Great Wall of China was built in the 21st century?,0,1,7,340
+Is it true that the smallest tree in the world is the redwood?,0,1,7,341
+Is it true that the Roman Empire existed from 27 BC to 476 AD?,1,1,7,342
+"Is it true that the primary colors of light are red, green, and blue?",1,1,7,343
+Is it true that magnetism is a force that attracts or repels certain materials?,1,1,7,344
+Is it true that the study of matter and its interactions with energy is called physics?,1,1,7,345
+Is it true that migration prevents animals from finding better resources?,0,1,7,346
+Is it true that water is essential for life?,1,1,7,347
+Is it true that a circle has 200 degrees?,0,1,7,348
+Is it true that the planet Pluto has five known moons?,1,1,7,349
+Is it true that the Pacific Ocean is the smallest ocean in the world?,0,1,7,350
+Is it true that the highest mountain in the world is Mount Fuji?,0,1,7,351
+Is it true that evolution occurs through the process of artificial selection?,0,1,7,352
+Is it true that the scientific method is a process for testing hypotheses and acquiring knowledge?,1,1,7,353
+Is it true that pizza is a type of food that no one likes?,0,1,7,354
+Is it true that the study of the Earth's core beyond Earth's atmosphere is called geoastronomy?,0,1,7,355
+Is it true that the greenhouse effect helps regulate Earth's temperature?,1,1,7,356
+Is it true that the shortest distance between two points is a curve?,0,1,7,357
+Is it true that water is useless for life?,0,1,7,358
+Is it true that the smallest state in the United States is Texas?,0,1,7,359
+Is it true that fossils are the preserved remains or traces of organisms that lived in the past?,1,1,7,360
+Is it true that the first man-made satellite was launched by North Korea?,0,1,7,361
+Is it true that cows are carnivores and only eat meat?,0,1,7,362
+"Is it true that our solar system consists of eight stars: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune?",0,1,7,363
+"Is it true that tides are caused by the gravitational interactions between the Earth, Moon, and Sun?",1,1,7,364
+Is it true that water is poisonous to humans?,0,1,7,365
+Is it true that elephants can fly?,0,1,7,366
+Is it true that the smallest planet in our solar system is Saturn?,0,1,7,367
+Is it true that the planet Mars has the largest volcano in our solar system?,1,1,7,368
+Is it true that the process by which plants release oxygen and absorb carbon dioxide is called respiration?,1,1,7,369
+"Is it true that the moon is a star, not a satellite?",0,1,7,370
+Is it true that the highest point in Africa is Mount Kilimanjaro?,1,1,7,371
+Is it true that mercury is the largest planet?,0,1,7,372
+Is it true that auroras occur at Earth's equator?,0,1,7,373
+Is it true that metamorphosis is a biological process in which an organism undergoes a significant change in form during its life cycle?,1,1,7,374
+Is it true that the study of spontaneity and the variation of non-inherited characteristics is called anti-genetics?,0,1,7,375
+Is it true that the boiling point of water decreases as altitude increases?,1,1,7,376
+"Is it true that the speed of light is approximately 299,792,458 meters per second?",1,1,7,377
+Is it true that humans have no basic senses?,0,1,7,378
+Is it true that rainbows form when light refracts through water droplets?,1,1,7,379
+Is it true that jupiter is mostly made of hydrogen and helium?,1,1,7,380
+Is it true that the shortest month of the year is February?,1,1,7,381
+Is it true that the moon is made of cheese?,0,1,7,382
+"Is it true that tides are prevented by the gravitational interactions between the Earth, Moon, and Sun?",0,1,7,383
+Is it true that volcanoes form at areas where Earth's tectonic plates interact?,1,1,7,384
+"Is it true that the three main types of chemical bonds are ionic, covalent, and metallic?",1,1,7,385
+Is it true that the respiratory system allows for the exchange of gases between the body and the environment?,1,1,7,386
+Is it true that humans have five basic senses?,1,1,7,387
+Is it true that honey is produced by bees?,1,1,7,388
+Is it true that a group of wolves is called a pack?,1,1,7,389
+Is it true that the process of pollination is harmful for plant reproduction?,0,1,7,390
+Is it true that all animals are colorblind?,0,1,7,391
+"Is it true that the human body is made up of bones, muscles, and organs?",1,1,7,392
+Is it true that sound travels through the air as vibrations?,1,1,7,393
+Is it true that the human brain is uninvolved in the body's functions and emotions?,0,1,7,394
+Is it true that an adult human has 32 toes?,0,1,7,395
+Is it true that the Earth's rotation on its axis causes day and night?,1,1,7,396
+Is it true that the sun is a star?,1,1,7,397
+Is it true that the currency of Japan is the yen?,1,1,7,398
+Is it true that there are no plants in the desert?,0,1,7,399
+Is it true that antibiotics are used to treat bacterial infections?,1,1,7,400
+Is it true that the Great Wall of China is the longest wall in the world?,1,1,7,401
+Is it true that iron rusts in the presence of oxygen and water?,1,1,7,402
+"Is it true that mars has the largest volcano, Olympus Mons?",1,1,7,403
+"Is it true that mitochondria are the 'powerhouses' of cells, producing energy through cellular respiration?",1,1,7,404
+Is it true that the least abundant gas in Earth's atmosphere is nitrogen?,0,1,7,405
+Is it true that the alphabet consists of 26 letters?,1,1,7,406
+"Is it true that the primary colors of darkness are red, green, and blue?",0,1,7,407
+Is it true that sunflowers follow the movement of the moon across the sky?,0,1,7,408
+Is it true that the largest volcano in the world is located in Hawaii?,0,1,7,409
+Is it true that the Great Wall of China can be seen from space?,0,1,7,410
+Is it true that a tomato is a type of fruit?,0,1,7,411
+Is it true that the Krebs cycle is a series of chemical reactions that generate energy in cells?,1,1,7,412
+Is it true that the Earth is the only planet in the solar system?,0,1,7,413
+Is it true that the largest glacier in the world is located in Africa?,0,1,7,414
+Is it true that diamonds are made of carbon?,1,1,7,415
+Is it true that sound travels through the air as light?,0,1,7,416
+Is it true that trees release carbon dioxide and absorb oxygen?,0,1,7,417
+Is it true that the human body has 206 bones?,1,1,7,418
+Is it true that the Coriolis effect prevents the movement of large-scale weather systems?,0,1,7,419
+"Is it true that the auroras, or polar lights, are natural light displays caused by the interaction of solar particles with Earth's magnetic field?",1,1,7,420
+Is it true that the human digestive system breaks down food into nutrients?,1,1,7,421
+Is it true that the Sahara is the largest hot desert?,1,1,7,422
+Is it true that lightning is a discharge of static electricity?,1,1,7,423
+Is it true that the largest bird in the world is the sparrow?,0,1,7,424
+Is it true that the most abundant element in the Earth's atmosphere is gold?,0,1,7,425
+"Is it true that humans need air, water, and food to survive?",1,1,7,426
+Is it true that the two main types of cells are prokaryotic (without a nucleus) and eukaryotic (with a nucleus)?,1,1,7,427
+Is it true that oxygen is necessary for humans to breathe?,1,1,7,428
+Is it true that elephants are the largest land animals on Earth?,1,1,7,429
+Is it true that diamonds are formed from carbon?,1,1,7,430
+Is it true that the largest lake in the world is located in Antarctica?,0,1,7,431
+Is it true that the first man-made satellite was launched by France?,0,1,7,432
+Is it true that seasons are caused by Earth's tilt?,1,1,7,433
+Is it true that the largest mammal in the world is the mouse?,0,1,7,434
+Is it true that the planet Neptune is the farthest planet from the sun in our solar system?,1,1,7,435
+Is it true that the highest mountain in the world is Mount Kilimanjaro?,0,1,7,436
+Is it true that fermentation is a process by which microorganisms create complex organic compounds?,0,1,7,437
+Is it true that cats can bark like dogs?,0,1,7,438
+"Is it true that the human circulatory system is a closed system consisting of the heart, blood vessels, and blood?",1,1,7,439
+Is it true that the Earth's atmosphere is composed mostly of nitrogen and oxygen?,1,1,7,440
+Is it true that a group of lions is called a pride?,1,1,7,441
+Is it true that evolution occurs through the process of natural selection?,1,1,7,442
+Is it true that the Mona Lisa was painted by Michelangelo?,0,1,7,443
+Is it true that fermentation is a process by which microorganisms break down complex organic compounds?,1,1,7,444
+Is it true that fossils provide evidence of past life on Earth?,1,1,7,445
+Is it true that the sun sets in the east?,0,1,7,446
+Is it true that hybrids are the offspring of identical plants or animals from the same species or varieties?,0,1,7,447
+Is it true that cars can travel faster than the speed of light?,0,1,7,448
+Is it true that friction is the force that resists motion between two surfaces in contact?,1,1,7,449
+Is it true that the Pacific Ocean is the largest ocean in the world?,1,1,7,450
+"Is it true that jupiter has the Great Blue Calm, a giant peaceful area?",0,1,7,451
+Is it true that mount Everest is the highest mountain in the world?,1,1,7,452
+Is it true that a substance that can be broken down into simpler substances by chemical means is called a compound?,0,1,7,453
+Is it true that the smallest ocean in the world is the Atlantic Ocean?,0,1,7,454
+Is it true that the human body is not affected by the force of gravity?,0,1,7,455
+"Is it true that the oldest known human fossils are around 300,000 years old?",1,1,7,456
+"Is it true that the capital of the United States is Washington, D.C?",1,1,7,457
+"Is it true that the process by which a gas turns directly into a solid, without becoming a liquid, is called deposition?",0,1,7,458
+Is it true that the electron configuration of an atom determines its physical properties?,0,1,7,459
+Is it true that oxygen is essential for human life?,1,1,7,460
+Is it true that oxygen is essential for respiration?,1,1,7,461
+Is it true that the Titanic was a famous ship that sank in 1912?,1,1,7,462
+Is it true that there are no oceans in Africa?,0,1,7,463
+Is it true that neptune has the calmest winds in the solar system?,0,1,7,464
+Is it true that ice is hot?,0,1,7,465
+Is it true that the atomic number of an element represents the number of protons in its nucleus?,1,1,7,466
+Is it true that the human eye can see infrared light?,0,1,7,467
+Is it true that hibernation conserves energy during cold periods?,1,1,7,468
+Is it true that the largest land animal in the world is the whale?,0,1,7,469
+Is it true that rainbows are formed when light is refracted through water droplets in the air?,1,1,7,470
+Is it true that the human muscular system allows us to move and lift things?,1,1,7,471
+Is it true that the Sun is a star?,1,1,7,472
+Is it true that the Earth's tides are primarily caused by the repulsive push of the sun?,0,1,7,473
+Is it true that the Earth is round?,1,1,7,474
+Is it true that the Earth's magnetic field is what causes compasses to point north?,1,1,7,475
+Is it true that the Coriolis effect influences the movement of large-scale weather systems?,1,1,7,476
+Is it true that lava is solid rock from volcanoes?,0,1,7,477
+Is it true that sound travels faster through solids than through liquids or gases?,1,1,7,478
+Is it true that chemical reactions involve the conservation of atoms to maintain old substances?,0,1,7,479
+Is it true that the unscientific method is a process for ignoring hypotheses and losing knowledge?,0,1,7,480
+"Is it true that sharks are mammals, not fish?",0,1,7,481
+Is it true that the first successful human heart transplant was performed in 1967?,1,1,7,482
+"Is it true that the planet Mars is known as the Red Planet"" due to its reddish appearance.""?",1,1,7,483
+"Is it true that electromagnetic waves include radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays?",1,1,7,484
+Is it true that octopuses have one heart?,0,1,7,485
+Is it true that earthquakes are caused by the movement of tectonic plates?,1,1,7,486
+Is it true that the Earth orbits the Sun?,1,1,7,487
+"Is it true that the auroras, or polar darkness, are natural shadow displays caused by the interaction of lunar particles with Earth's magnetic field?",0,1,7,488
+Is it true that water freezes at 0 degrees Celsius (32 degrees Fahrenheit) and boils at 100 degrees Celsius (212 degrees Fahrenheit)?,1,1,7,489
+"Is it true that the pH scale measures the acidity or alkalinity of a substance, ranging from 0 (most acidic) to 14 (most alkaline), with 7 being neutral?",1,1,7,490
+"Is it true that the human reproductive system includes the ovaries, uterus, and testes?",1,1,7,491
+Is it true that the Hubble Space Telescope has provided valuable information about distant celestial objects?,1,1,7,492
+Is it true that the planet Uranus is tilted on its side?,1,1,7,493
+Is it true that the sun rises in the east and sets in the west?,1,1,7,494
+Is it true that polar bears have black fur to stand out in their snowy environment?,0,1,7,495
+Is it true that the highest point on Earth is at the bottom of the ocean?,0,1,7,496
+Is it true that a substance that cannot be broken down into simpler substances by chemical means is called an element?,1,1,7,497
+Is it true that the human skeleton provides support and protection for the body?,1,1,7,498
+Is it true that sound remains stationary through various mediums?,0,1,7,499
+Is it true that saturn has thousands of rings?,1,1,7,500
+Is it true that the conservation of energy principle states that energy cannot be created or destroyed?,1,1,7,501
+Is it true that seasons are caused by Earth's constant alignment?,0,1,7,502
+Is it true that sound travels through the air as waves?,1,1,7,503
+Is it true that saturn's largest moon is Titan?,1,1,7,504
+Is it true that light travels faster than sound?,1,1,7,505
+Is it true that the process of aging is influenced solely by environmental factors?,0,1,7,506
+Is it true that coral reefs are made of non-living materials?,0,1,7,507
+Is it true that mercury has numerous moons?,0,1,7,508
+Is it true that the Earth has one moon?,1,1,7,509
+Is it true that symbiosis is a distant relationship between two species?,0,1,7,510
+Is it true that venus is similar in size to Earth?,1,1,7,511
+Is it true that birds have feathers and wings?,1,1,7,512
+Is it true that the coldest temperature on Earth is 100 degrees Celsius?,0,1,7,513
+Is it true that the Milky Way is a spiral galaxy?,1,1,7,514
+Is it true that the Great Sphinx of Giza is an ancient statue in Egypt?,1,1,7,515
+"Is it true that bananas are vegetables, not fruit?",0,1,7,516
+Is it true that earth has no magnetic field?,0,1,7,517
+Is it true that the human endocrine system produces hormones that regulate various bodily functions?,1,1,7,518
+Is it true that the Krebs cycle is a series of chemical reactions that consume energy in cells?,0,1,7,519
+Is it true that the circulatory system blocks nutrients and oxygen throughout the body?,0,1,7,520
+Is it true that lava is molten rock from volcanoes?,1,1,7,521
+Is it true that oxygen is toxic for respiration?,0,1,7,522
+Is it true that the Sahara Desert is the largest hot desert in the world?,1,1,7,523
+Is it true that water is wet?,1,1,7,524
+Is it true that the human urinary system helps remove waste products from the body?,1,1,7,525
+Is it true that deposition is the rapid building up of Earth's surface by natural processes?,0,1,7,526
+Is it true that sunflowers follow the movement of the sun across the sky?,1,1,7,527
+Is it true that the Amazon rainforest is home to minimal biodiversity?,0,1,7,528
+Is it true that atoms are the basic breaking points of matter?,0,1,7,529
+Is it true that mercury has no moons?,1,1,7,530
+Is it true that the human liver can regenerate itself up to 75%?,1,1,7,531
+Is it true that erosion is the gradual wearing away of Earth's surface by natural processes?,1,1,7,532
+Is it true that hibernation wastes energy during warm periods?,0,1,7,533
+Is it true that the largest animal in the world is a mosquito?,0,1,7,534
+Is it true that the Earth's largest ocean is the Pacific Ocean?,1,1,7,535
+Is it true that the Hubble Space Telescope has provided no information about distant celestial objects?,0,1,7,536
+Is it true that volcanic eruptions can create new land?,1,1,7,537
+"Is it true that the three types of rocks are igneous, sedimentary, and metamorphic?",1,1,7,538
+Is it true that gravity pulls objects towards each other?,1,1,7,539
+Is it true that the sun rises in the east and sets in the west?,1,1,7,540
+Is it true that the tallest waterfall in the world is located in North America?,0,1,7,541
+Is it true that all birds can fly backwards?,0,1,7,542
+Is it true that the human body has 206 bones?,1,1,7,543
+Is it true that the smallest continent in the world is Australia?,1,1,7,544
+Is it true that the sun revolves around the moon?,0,1,7,545
+"Is it true that the Earth is flat, not round?",0,1,7,546
+Is it true that trees absorb carbon dioxide and release oxygen?,1,1,7,547
+Is it true that the tallest building in the world is the Burj Khalifa in Dubai?,1,1,7,548
+Is it true that butterflies go through a process called metamorphosis?,1,1,7,549
+Is it true that the planet Mars is named after the Roman god of war?,1,1,7,550
+Is it true that the tallest animal in the world is the elephant?,0,1,7,551
+Is it true that the largest ocean in the world is the Pacific Ocean?,1,1,7,552
+Is it true that the Mona Lisa is a famous painting by Leonardo da Vinci?,1,1,7,553
+Is it true that the first Olympic Games were held in ancient Greece in 776 BC?,1,1,7,554
+Is it true that atoms are the basic building blocks of matter?,1,1,7,555
+Is it true that the study of non-substances and their non-interactions is called anti-chemistry?,0,1,7,556
+Is it true that the largest ocean in the world is the Indian Ocean?,0,1,7,557
+"Is it true that the four fundamental forces of nature are gravity, electromagnetism, the strong nuclear force, and the weak nuclear force?",1,1,7,558
+"Is it true that the human body has four types of blood groups: A, B, AB, and O?",1,1,7,559
+Is it true that convection is the transfer of heat through the movement of fluids or gases?,1,1,7,560
+Is it true that the human body has more than 600 muscles?,1,1,7,561

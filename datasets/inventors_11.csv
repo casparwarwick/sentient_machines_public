@@ -1,0 +1,407 @@
+statement,label,polarity,dataset_id,sentence_id
+Is it true that Edwin Herbert Hall lived in the U.S?,1,1,11,1
+Is it true that Emile Berliner lived in Russia?,0,1,11,2
+Is it true that Frederick Walton lived in the U.S?,0,1,11,3
+Is it true that William Congreve lived in Canada?,0,1,11,4
+Is it true that Gustaf Dalén lived in Sweden?,1,1,11,5
+Is it true that Evangelista Torricelli lived in the U.S?,0,1,11,6
+Is it true that George Pullman lived in the U.K?,0,1,11,7
+Is it true that Marvin Camras lived in France?,0,1,11,8
+Is it true that William Sturgeon lived in the U.K?,1,1,11,9
+Is it true that Frederick Walton lived in the U.K?,1,1,11,10
+Is it true that Clarence Birdseye lived in the U.S?,1,1,11,11
+Is it true that Gideon Sundback lived in Sweden/the U.S?,1,1,11,12
+Is it true that John Shepherd-Barron lived in Scotland?,1,1,11,13
+Is it true that Edwin Link lived in the U.K?,0,1,11,14
+Is it true that Chester Carlson lived in the U.K?,0,1,11,15
+Is it true that Whitcomb Judson lived in the U.S?,1,1,11,16
+Is it true that Joseph Glidden lived in the U.S?,1,1,11,17
+Is it true that Rudolf Diesel lived in the U.S?,0,1,11,18
+Is it true that Charles Wheatstone lived in France?,0,1,11,19
+Is it true that John Callcott Horsley lived in Germany?,0,1,11,20
+Is it true that Charles Goodyear lived in the U.S?,1,1,11,21
+Is it true that Lloyd Groff Copeman lived in the U.S?,1,1,11,22
+Is it true that Herbert Akroyd Stuart lived in England?,1,1,11,23
+Is it true that Herbert Saffir lived in the U.K?,0,1,11,24
+Is it true that August Horch lived in Russia?,0,1,11,25
+Is it true that Joseph Marie Jacquard lived in the Netherlands?,0,1,11,26
+Is it true that David Edward Hughes lived in the U.S?,1,1,11,27
+Is it true that Yoshua Bengio lived in Canada?,1,1,11,28
+Is it true that Ferdinand Carré lived in the U.S?,0,1,11,29
+Is it true that Rudolf Kálmán lived in Hungary?,1,1,11,30
+Is it true that Charles Fritts lived in the U.S?,1,1,11,31
+Is it true that Narinder Singh Kapany lived in India?,1,1,11,32
+Is it true that Archimedes lived in Ancient Greece?,1,1,11,33
+Is it true that Gottlieb Daimler lived in France?,0,1,11,34
+Is it true that Fritz Pfleumer lived in Germany?,1,1,11,35
+Is it true that Arthur Fry lived in the U.S?,1,1,11,36
+Is it true that Fridtjof Nansen lived in the U.K?,0,1,11,37
+Is it true that Semyon Kirlian lived in Russia?,1,1,11,38
+Is it true that Ignazio Porro lived in Italy?,1,1,11,39
+Is it true that Paul Gottlieb Nipkow lived in Denmark?,0,1,11,40
+Is it true that Edwin H. Land lived in Sweden?,0,1,11,41
+Is it true that Lester Wire lived in the U.S?,1,1,11,42
+Is it true that László Bíró lived in Hungary?,1,1,11,43
+Is it true that George Eastman lived in the U.K?,0,1,11,44
+Is it true that Galileo Galilei lived in Italy?,1,1,11,45
+Is it true that John Atanasoff lived in the U.S?,1,1,11,46
+Is it true that Benjamin Franklin lived in the U.S?,1,1,11,47
+Is it true that Sir Sandford Fleming lived in Canada?,1,1,11,48
+Is it true that Robert Moog lived in the U.S?,1,1,11,49
+Is it true that George Washington Carver lived in the U.S?,1,1,11,50
+Is it true that James Clerk Maxwell lived in the U.S?,0,1,11,51
+Is it true that Hans Lippershey lived in the U.S?,0,1,11,52
+Is it true that Fridtjof Nansen lived in Norway?,1,1,11,53
+Is it true that Sir Sandford Fleming lived in the U.S?,0,1,11,54
+Is it true that Willis Carrier lived in the U.S?,1,1,11,55
+Is it true that Joseph-armand Bombardier lived in Canada?,1,1,11,56
+Is it true that Earle Dickson lived in the U.S?,1,1,11,57
+Is it true that Luther George Simjian lived in Turkey/the U.S?,1,1,11,58
+Is it true that Herbert Saffir lived in the U.S?,1,1,11,59
+Is it true that Ignazio Porro lived in the U.S?,0,1,11,60
+Is it true that Wallace Carothers lived in the U.S?,1,1,11,61
+Is it true that John Wesley Hyatt lived in the U.S?,1,1,11,62
+Is it true that James Dyson lived in the U.K?,1,1,11,63
+Is it true that Candace Pert lived in the U.S?,1,1,11,64
+Is it true that David Schwarz lived in France?,0,1,11,65
+Is it true that Walter Hunt lived in the U.S?,1,1,11,66
+Is it true that Samuel Morse lived in Germany?,0,1,11,67
+Is it true that Yvonne Brill lived in Canada?,1,1,11,68
+Is it true that Guglielmo Marconi lived in the U.K?,0,1,11,69
+Is it true that Shinya Yamanaka lived in Germany?,0,1,11,70
+Is it true that Carl Sontheimer lived in Switzerland?,0,1,11,71
+Is it true that Sergey Brin and Larry Page lived in the U.K?,0,1,11,72
+Is it true that Percy Spencer lived in the U.S?,1,1,11,73
+Is it true that Henry Bessemer lived in the U.K?,1,1,11,74
+Is it true that Ruth Handler lived in the Netherlands?,0,1,11,75
+Is it true that Richard Leach Maddox lived in the U.K?,1,1,11,76
+Is it true that Alfred Nobel lived in the U.S?,0,1,11,77
+Is it true that Thomas Wedgwood lived in the U.K?,1,1,11,78
+Is it true that Frank Bunker Gilbreth lived in the U.S?,1,1,11,79
+Is it true that Benjamin Holt lived in the U.S?,1,1,11,80
+Is it true that Josephine Cochrane lived in Germany?,0,1,11,81
+Is it true that Godfrey Hounsfield lived in Denmark?,0,1,11,82
+Is it true that Antoine Lavoisier lived in France?,1,1,11,83
+Is it true that Carlos Glidden lived in Scotland?,0,1,11,84
+Is it true that Maria Telkes lived in Hungary/the U.S?,1,1,11,85
+Is it true that Robert Adler lived in Austria/the U.S?,1,1,11,86
+Is it true that James Watt lived in the U.S?,0,1,11,87
+Is it true that Edwin Link lived in the U.S?,1,1,11,88
+Is it true that Igor Sikorsky lived in the U.S?,0,1,11,89
+Is it true that Sir Humphry Davy lived in the U.K?,1,1,11,90
+Is it true that Nikolai Basov lived in the U.S?,0,1,11,91
+Is it true that Edwin H. Land lived in the U.S?,1,1,11,92
+Is it true that Cai Lun lived in Italy?,0,1,11,93
+Is it true that Mary Walton lived in France?,0,1,11,94
+Is it true that Joseph Aspdin lived in Switzerland?,0,1,11,95
+Is it true that James Watt lived in Scotland?,1,1,11,96
+Is it true that Ernest Swinton lived in the U.K?,1,1,11,97
+Is it true that Jean-bernard-léon Foucault lived in France?,1,1,11,98
+Is it true that Gordon Gould lived in the U.S?,1,1,11,99
+Is it true that Leonardo da Vinci lived in Poland/France?,0,1,11,100
+Is it true that Ernesto Blanco lived in the U.S?,1,1,11,101
+Is it true that George Cayley lived in Canada?,0,1,11,102
+Is it true that John von Neumann lived in Hungary/the U.S?,1,1,11,103
+Is it true that Gideon Sundback lived in the U.S?,0,1,11,104
+Is it true that Ruth Benerito lived in the U.S?,1,1,11,105
+Is it true that Robert Moog lived in Austria/the U.S?,0,1,11,106
+Is it true that Luther George Simjian lived in Norway?,0,1,11,107
+Is it true that Ralph H. Baer lived in the U.S?,1,1,11,108
+Is it true that John Gorrie lived in Italy?,0,1,11,109
+Is it true that Michael Faraday lived in the U.K?,1,1,11,110
+Is it true that Lloyd Groff Copeman lived in Germany?,0,1,11,111
+Is it true that Philo Farnsworth lived in Germany?,0,1,11,112
+Is it true that Alan Turing lived in the U.K?,1,1,11,113
+Is it true that Elisha Gray lived in the U.S?,1,1,11,114
+Is it true that Édouard-léon Scott de Martinville lived in France?,1,1,11,115
+Is it true that Zhores Alferov lived in the U.K?,0,1,11,116
+Is it true that Leon Theremin lived in Russia?,1,1,11,117
+Is it true that Rudolf Diesel lived in Germany?,1,1,11,118
+Is it true that Elisha Otis lived in the U.S?,1,1,11,119
+Is it true that László Bíró lived in the U.S?,0,1,11,120
+Is it true that Valdemar Poulsen lived in Denmark?,1,1,11,121
+Is it true that James Murray Spangler lived in the U.K?,0,1,11,122
+Is it true that Joseph Aspdin lived in the U.K?,1,1,11,123
+Is it true that Hans Berger lived in the U.S?,0,1,11,124
+Is it true that Philo Farnsworth lived in the U.S?,1,1,11,125
+Is it true that Ralph Benjamin lived in Italy?,0,1,11,126
+Is it true that Florence Parpart lived in the U.K?,0,1,11,127
+Is it true that Marvin Camras lived in the U.S?,1,1,11,128
+Is it true that Charles Babbage lived in the U.K?,1,1,11,129
+Is it true that Charles Francis Richter lived in France?,0,1,11,130
+Is it true that Ami Argand lived in Switzerland?,1,1,11,131
+Is it true that Kwolek lived in the U.S?,0,1,11,132
+Is it true that Richard Gatling lived in the U.K?,0,1,11,133
+Is it true that Luther Simjian lived in Turkey/the U.S?,1,1,11,134
+Is it true that Joseph Bramah lived in the U.K?,1,1,11,135
+Is it true that Hans Geiger lived in Austria/the U.S?,0,1,11,136
+Is it true that Alexander Graham Bell lived in Scotland/Canada/the U.S?,1,1,11,137
+Is it true that Blaise Pascal lived in Poland/France?,0,1,11,138
+Is it true that Charles Macintosh lived in the U.K?,1,1,11,139
+Is it true that Narinder Singh Kapany lived in the U.K?,0,1,11,140
+Is it true that Bette Nesmith Graham lived in the U.S?,1,1,11,141
+Is it true that Édouard-léon Scott de Martinville lived in the U.K?,0,1,11,142
+Is it true that Orville and Wilbur Wright lived in the U.S?,1,1,11,143
+Is it true that Richard Leach Maddox lived in Austria?,0,1,11,144
+Is it true that Hans Oersted lived in the U.S?,0,1,11,145
+Is it true that Charles Cros lived in the U.S?,0,1,11,146
+Is it true that R. Buckminster Fuller lived in Scotland?,0,1,11,147
+Is it true that Willis Carrier lived in Italy?,0,1,11,148
+Is it true that Charles Cros lived in France?,1,1,11,149
+Is it true that Thomas Savery lived in the U.K?,1,1,11,150
+Is it true that Bartolomeo Cristofori lived in Italy?,1,1,11,151
+Is it true that Louis Pasteur lived in France?,1,1,11,152
+Is it true that Frederick G. Creed lived in Sweden?,0,1,11,153
+Is it true that Alexander Fleming lived in France?,0,1,11,154
+Is it true that Florence Parpart lived in the U.S?,1,1,11,155
+Is it true that Henri Giffard lived in the U.S?,0,1,11,156
+Is it true that Paul Gottlieb Nipkow lived in Germany?,1,1,11,157
+Is it true that Hippolyte Mège-Mouriès lived in the U.S?,0,1,11,158
+Is it true that Josephine Cochrane lived in the U.S?,1,1,11,159
+Is it true that Mary Anderson lived in the U.S?,1,1,11,160
+Is it true that Otis Boykin lived in France?,0,1,11,161
+Is it true that John Callcott Horsley lived in the U.K?,1,1,11,162
+Is it true that Jack Kilby lived in the U.S?,1,1,11,163
+Is it true that Samuel Fox lived in the U.K?,1,1,11,164
+Is it true that Hans Berger lived in Germany?,1,1,11,165
+Is it true that Ernest Swinton lived in the U.S?,0,1,11,166
+Is it true that André-jacques Garnerin lived in France?,1,1,11,167
+Is it true that Alexander Fleming lived in the U.K?,1,1,11,168
+Is it true that Hans Goldschmidt lived in the Netherlands?,0,1,11,169
+Is it true that Willem Einthoven lived in France?,0,1,11,170
+Is it true that Garrett Morgan lived in the U.S?,1,1,11,171
+Is it true that Richard Trevithick lived in the U.S?,0,1,11,172
+Is it true that Georges Claude lived in Italy?,0,1,11,173
+Is it true that Sir Isaac Newton lived in the U.K?,1,1,11,174
+Is it true that William Kelly lived in the U.S?,1,1,11,175
+Is it true that Thomas Wedgwood lived in Finland?,0,1,11,176
+Is it true that Nils Bohlin lived in Germany?,0,1,11,177
+Is it true that Albert Ghiorso lived in the U.S?,1,1,11,178
+Is it true that George de Mestral lived in Switzerland?,1,1,11,179
+Is it true that Carlos Glidden lived in the U.S?,1,1,11,180
+Is it true that William Congreve lived in the U.K?,1,1,11,181
+Is it true that John Logie Baird lived in Japan?,0,1,11,182
+Is it true that Edouard Benedictus lived in the U.S?,0,1,11,183
+Is it true that Alec Jeffreys lived in France?,0,1,11,184
+Is it true that Arthur Pitney lived in the U.S?,1,1,11,185
+Is it true that Giovanni Caselli lived in the U.S?,0,1,11,186
+Is it true that John Gorrie lived in the U.S?,1,1,11,187
+Is it true that Robert Chesebrough lived in the U.S?,1,1,11,188
+Is it true that Johannes Gutenberg lived in the U.K?,0,1,11,189
+Is it true that Maria Telkes lived in Hungary?,0,1,11,190
+Is it true that Yoshiro Nakamatsu lived in the U.S?,0,1,11,191
+Is it true that Chester Carlson lived in the U.S?,1,1,11,192
+Is it true that George Pullman lived in the U.S?,1,1,11,193
+Is it true that George Cayley lived in the U.K?,1,1,11,194
+Is it true that John Bardeen lived in the U.S?,1,1,11,195
+Is it true that Orville and Wilbur Wright lived in France?,0,1,11,196
+Is it true that Archimedes lived in the U.S?,0,1,11,197
+Is it true that Johannes Gutenberg lived in Germany?,1,1,11,198
+Is it true that George Eastman lived in the U.S?,1,1,11,199
+Is it true that Hans Lippershey lived in the Netherlands?,1,1,11,200
+Is it true that Carl Elsener lived in the U.S?,0,1,11,201
+Is it true that John Boyd Dunlop lived in France?,0,1,11,202
+Is it true that Heinrich Hertz lived in Germany?,1,1,11,203
+Is it true that Leonardo da Vinci lived in Italy?,1,1,11,204
+Is it true that Nikolai Basov lived in the Soviet Union?,1,1,11,205
+Is it true that Wilhelm Conrad Röntgen lived in the U.S?,0,1,11,206
+Is it true that Guglielmo Marconi lived in Italy?,1,1,11,207
+Is it true that Christian Huygens lived in the Netherlands?,1,1,11,208
+Is it true that Robert Adler lived in the U.K?,0,1,11,209
+Is it true that John Walker lived in the U.S?,0,1,11,210
+Is it true that Grace Hopper lived in the U.K?,0,1,11,211
+Is it true that James West lived in the U.S?,1,1,11,212
+Is it true that Charles Townes lived in Russia?,0,1,11,213
+Is it true that Sir Frank Whittle lived in the U.K?,1,1,11,214
+Is it true that John Ambrose Fleming lived in the U.K?,1,1,11,215
+Is it true that Gottlieb Daimler lived in Germany?,1,1,11,216
+Is it true that Frederick McKinley Jones lived in Japan?,0,1,11,217
+Is it true that William Sturgeon lived in Germany?,0,1,11,218
+Is it true that Igor Tamm lived in the U.S?,0,1,11,219
+Is it true that Frank Julian Sprague lived in the U.S?,1,1,11,220
+Is it true that George Antheil lived in the U.S?,1,1,11,221
+Is it true that William Kelly lived in France?,0,1,11,222
+Is it true that Alva J. Fisher lived in the U.S?,1,1,11,223
+Is it true that Louis Pasteur lived in the U.S?,0,1,11,224
+Is it true that Thomas Edison lived in the U.S?,1,1,11,225
+Is it true that Joseph Glidden lived in Germany?,0,1,11,226
+Is it true that Tim Berners-Lee lived in Germany?,0,1,11,227
+Is it true that Carl Wilhelm Siemens lived in Germany?,1,1,11,228
+Is it true that Ralph Benjamin lived in the U.K?,1,1,11,229
+Is it true that George Devol lived in the U.S?,1,1,11,230
+Is it true that Igor Tamm lived in Russia?,1,1,11,231
+Is it true that Philipp Reis lived in Germany?,1,1,11,232
+Is it true that Edmund Cartwright lived in the U.K?,1,1,11,233
+Is it true that Heinrich Göbel lived in the U.S?,0,1,11,234
+Is it true that Yoshua Bengio lived in the U.S?,0,1,11,235
+Is it true that John Kay lived in the U.S?,0,1,11,236
+Is it true that Marie Curie lived in Poland/France?,1,1,11,237
+Is it true that Mary Phelps Jacob lived in the U.S?,1,1,11,238
+Is it true that Valdemar Poulsen lived in Scotland?,0,1,11,239
+Is it true that John Harrison lived in the U.K?,1,1,11,240
+Is it true that John Ericsson lived in the U.S?,0,1,11,241
+Is it true that James Starley lived in Sweden/the U.S?,0,1,11,242
+Is it true that Charles Tellier lived in the U.K?,0,1,11,243
+Is it true that Fritz Pfleumer lived in Canada/the U.S?,0,1,11,244
+Is it true that Clyde Tombaugh lived in the U.S?,1,1,11,245
+Is it true that Nicolas Appert lived in Russia?,0,1,11,246
+Is it true that Felix Hoffmann lived in the U.S?,0,1,11,247
+Is it true that Joseph Henry lived in the U.S?,1,1,11,248
+Is it true that Alexander Graham Bell lived in Germany?,0,1,11,249
+Is it true that Robert Noyce lived in the U.S?,1,1,11,250
+Is it true that Charles Francis Richter lived in the U.S?,1,1,11,251
+Is it true that Hans Oersted lived in Denmark?,1,1,11,252
+Is it true that Nils Bohlin lived in Sweden?,1,1,11,253
+Is it true that Alec Jeffreys lived in the U.K?,1,1,11,254
+Is it true that John T. Parsons lived in the U.S?,1,1,11,255
+Is it true that Otis Boykin lived in the U.S?,1,1,11,256
+Is it true that Charles Strite lived in the U.S?,1,1,11,257
+Is it true that Alessandro Volta lived in Italy?,1,1,11,258
+Is it true that Ruth Handler lived in the U.S?,1,1,11,259
+Is it true that Georges Claude lived in France?,1,1,11,260
+Is it true that Hedy Lamarr lived in the U.S?,0,1,11,261
+Is it true that Alfred Nobel lived in Sweden?,1,1,11,262
+Is it true that John Ambrose Fleming lived in the U.S?,0,1,11,263
+Is it true that Charles Strite lived in Italy?,0,1,11,264
+Is it true that John Ericsson lived in Sweden?,1,1,11,265
+Is it true that Elisha Otis lived in the U.K?,0,1,11,266
+Is it true that Gordon Gould lived in Canada?,0,1,11,267
+Is it true that Christopher Cockerell lived in the U.K?,1,1,11,268
+Is it true that Sir Charles Parsons lived in the U.K?,1,1,11,269
+Is it true that Henry Ford lived in the U.S?,1,1,11,270
+Is it true that Rudolf Kálmán lived in the U.K?,0,1,11,271
+Is it true that Joseph Swan lived in the U.K?,1,1,11,272
+Is it true that Richard Gatling lived in the U.S?,1,1,11,273
+Is it true that Ferdinand von Zeppelin lived in Germany?,1,1,11,274
+Is it true that Karl Benz lived in Germany?,1,1,11,275
+Is it true that James Starley lived in the U.K?,1,1,11,276
+Is it true that August Horch lived in Germany?,1,1,11,277
+Is it true that Charles Macintosh lived in the U.S?,0,1,11,278
+Is it true that Heinrich Göbel lived in Germany?,1,1,11,279
+Is it true that Marie Curie lived in Hungary?,0,1,11,280
+Is it true that Igor Sikorsky lived in Ukraine/the U.S?,1,1,11,281
+Is it true that Gustaf Dalén lived in Germany?,0,1,11,282
+Is it true that Eli Whitney lived in the U.S?,1,1,11,283
+Is it true that Hippolyte Mège-Mouriès lived in France?,1,1,11,284
+Is it true that Ada Lovelace lived in the U.S?,0,1,11,285
+Is it true that Spencer Silver lived in the U.S?,1,1,11,286
+Is it true that Leon Theremin lived in Germany?,0,1,11,287
+Is it true that Emile Berliner lived in Germany/the U.S?,1,1,11,288
+Is it true that Charles Wheatstone lived in the U.K?,1,1,11,289
+Is it true that Biruté Galdikas lived in France?,0,1,11,290
+Is it true that Samuel Fox lived in France?,0,1,11,291
+Is it true that Grace Hopper lived in the U.S?,1,1,11,292
+Is it true that Biruté Galdikas lived in Canada?,1,1,11,293
+Is it true that Daisuke Inoue lived in Japan?,1,1,11,294
+Is it true that Albert Ghiorso lived in the U.K?,0,1,11,295
+Is it true that Karl Landsteiner lived in Austria?,1,1,11,296
+Is it true that Joseph Henry lived in the U.K?,0,1,11,297
+Is it true that Galileo Galilei lived in the U.S?,0,1,11,298
+Is it true that Linus Torvalds lived in Finland?,1,1,11,299
+Is it true that Ami Argand lived in the U.S?,0,1,11,300
+Is it true that André-jacques Garnerin lived in the Netherlands?,0,1,11,301
+Is it true that Levi Strauss lived in the U.S?,1,1,11,302
+Is it true that Alessandro Volta lived in the U.S?,0,1,11,303
+Is it true that Edouard Benedictus lived in France?,1,1,11,304
+Is it true that Arthur Fry lived in France?,0,1,11,305
+Is it true that Charles Townes lived in the U.S?,1,1,11,306
+Is it true that Ralph H. Baer lived in France?,0,1,11,307
+Is it true that Reginald Fessenden lived in Canada/the U.S?,1,1,11,308
+Is it true that Antoine Lavoisier lived in Austria?,0,1,11,309
+Is it true that Joseph Engelberger lived in the U.S?,1,1,11,310
+Is it true that Karl Landsteiner lived in the U.K?,0,1,11,311
+Is it true that Reginald Fessenden lived in the U.K?,0,1,11,312
+Is it true that John Shepherd-Barron lived in the U.S?,0,1,11,313
+Is it true that Frank Bunker Gilbreth lived in Russia?,0,1,11,314
+Is it true that Daisuke Inoue lived in the U.S?,0,1,11,315
+Is it true that John Kay lived in the U.K?,1,1,11,316
+Is it true that Tim Berners-Lee lived in the U.K?,1,1,11,317
+Is it true that Charles Francis Jenkins lived in the U.S?,1,1,11,318
+Is it true that Jean-bernard-léon Foucault lived in the U.S?,0,1,11,319
+Is it true that Wilhelm Conrad Röntgen lived in Germany?,1,1,11,320
+Is it true that Christian Huygens lived in Scotland?,0,1,11,321
+Is it true that Ada Lovelace lived in the U.K?,1,1,11,322
+Is it true that Philo Taylor Farnsworth lived in the U.S?,1,1,11,323
+Is it true that Sergey Brin and Larry Page lived in the U.S?,1,1,11,324
+Is it true that Hans Geiger lived in Germany?,1,1,11,325
+Is it true that Evangelista Torricelli lived in Italy?,1,1,11,326
+Is it true that Herbert Akroyd Stuart lived in Russia?,0,1,11,327
+Is it true that Daniel Fahrenheit lived in the U.S?,0,1,11,328
+Is it true that Shinya Yamanaka lived in Japan?,1,1,11,329
+Is it true that Giovanni Caselli lived in Italy?,1,1,11,330
+Is it true that Charles Francis Jenkins lived in Germany?,0,1,11,331
+Is it true that Hedy Lamarr lived in Austria/the U.S?,1,1,11,332
+Is it true that Frederick McKinley Jones lived in the U.S?,1,1,11,333
+Is it true that James Hargreaves lived in the U.K?,1,1,11,334
+Is it true that David Schwarz lived in Croatia?,1,1,11,335
+Is it true that Konrad Zuse lived in Germany?,1,1,11,336
+Is it true that Jacob Perkins lived in the U.S?,1,1,11,337
+Is it true that Arthur Pitney lived in the U.K?,0,1,11,338
+Is it true that John Boyd Dunlop lived in Scotland?,1,1,11,339
+Is it true that Charles Babbage lived in Hungary/the U.S?,0,1,11,340
+Is it true that Hans von Ohain lived in Germany?,1,1,11,341
+Is it true that John von Neumann lived in the U.S?,0,1,11,342
+Is it true that Christopher Cockerell lived in France?,0,1,11,343
+Is it true that R. Buckminster Fuller lived in the U.S?,1,1,11,344
+Is it true that Thomas Tompion lived in the U.K?,1,1,11,345
+Is it true that Vint Cerf lived in Italy?,0,1,11,346
+Is it true that Nicolas Appert lived in France?,1,1,11,347
+Is it true that Wallace Carothers lived in Denmark?,0,1,11,348
+Is it true that Carl Sontheimer lived in the U.S?,1,1,11,349
+Is it true that Karl Benz lived in the U.S?,0,1,11,350
+Is it true that Konrad Zuse lived in Poland/France?,0,1,11,351
+Is it true that James Clerk Maxwell lived in the U.K?,1,1,11,352
+Is it true that Nikola Tesla lived in Germany?,0,1,11,353
+Is it true that James Murray Spangler lived in the U.S?,1,1,11,354
+Is it true that John Wesley Hyatt lived in the U.K?,0,1,11,355
+Is it true that Hans Goldschmidt lived in Germany?,1,1,11,356
+Is it true that Carl Elsener lived in Switzerland?,1,1,11,357
+Is it true that Vint Cerf lived in the U.S?,1,1,11,358
+Is it true that Charles Tellier lived in France?,1,1,11,359
+Is it true that Elisha Gray lived in Austria/the U.S?,0,1,11,360
+Is it true that George de Mestral lived in Canada?,0,1,11,361
+Is it true that Sir Charles Parsons lived in the U.S?,0,1,11,362
+Is it true that Henry Bessemer lived in the U.S?,0,1,11,363
+Is it true that James Dyson lived in Canada?,0,1,11,364
+Is it true that Jack Kilby lived in the U.K?,0,1,11,365
+Is it true that Joseph Marie Jacquard lived in France?,1,1,11,366
+Is it true that Carl Wilhelm Siemens lived in the U.S?,0,1,11,367
+Is it true that Sir Humphry Davy lived in the U.S?,0,1,11,368
+Is it true that Philipp Reis lived in Finland?,0,1,11,369
+Is it true that Samuel Colt lived in the U.S?,1,1,11,370
+Is it true that Bartolomeo Cristofori lived in the U.S?,0,1,11,371
+Is it true that Mary Walton lived in the U.S?,1,1,11,372
+Is it true that Felix Hoffmann lived in Germany?,1,1,11,373
+Is it true that Lester Wire lived in the U.K?,0,1,11,374
+Is it true that Frederick G. Creed lived in Canada?,1,1,11,375
+Is it true that Hans von Ohain lived in Canada?,0,1,11,376
+Is it true that Elihu Thomson lived in the U.S?,1,1,11,377
+Is it true that Yvonne Brill lived in the U.S?,0,1,11,378
+Is it true that Pierre Curie lived in France?,1,1,11,379
+Is it true that James Hargreaves lived in Sweden?,0,1,11,380
+Is it true that Nikolay Slavyanov lived in Russia?,1,1,11,381
+Is it true that Dr. Robert Gallo lived in the U.S?,1,1,11,382
+Is it true that Charles Goodyear lived in the U.K?,0,1,11,383
+Is it true that Samuel Morse lived in the U.S?,1,1,11,384
+Is it true that Daniel Fahrenheit lived in Poland/Germany?,1,1,11,385
+Is it true that John Logie Baird lived in Scotland?,1,1,11,386
+Is it true that Henri Giffard lived in France?,1,1,11,387
+Is it true that Eugene Polley lived in the U.S?,1,1,11,388
+Is it true that Zhores Alferov lived in Russia?,1,1,11,389
+Is it true that Ferdinand Carré lived in France?,1,1,11,390
+Is it true that Richard Trevithick lived in the U.K?,1,1,11,391
+Is it true that Edmund Cartwright lived in the U.S?,0,1,11,392
+Is it true that John Walker lived in the U.K?,1,1,11,393
+Is it true that Semyon Kirlian lived in the U.K?,0,1,11,394
+Is it true that Blaise Pascal lived in France?,1,1,11,395
+Is it true that Mary Phelps Jacob lived in Ukraine/the U.S?,0,1,11,396
+Is it true that Luther Simjian lived in the U.S?,0,1,11,397
+Is it true that Benjamin Rubin lived in the U.S?,1,1,11,398
+Is it true that Willem Einthoven lived in the Netherlands?,1,1,11,399
+Is it true that Godfrey Hounsfield lived in the U.K?,1,1,11,400
+Is it true that Yoshiro Nakamatsu lived in Japan?,1,1,11,401
+Is it true that Sir Isaac Newton lived in the U.S?,0,1,11,402
+Is it true that Ferdinand von Zeppelin lived in France?,0,1,11,403
+Is it true that Auguste and Louis Lumière lived in France?,1,1,11,404
+Is it true that Thomas Edison lived in the U.K?,0,1,11,405
+Is it true that Cai Lun lived in China?,1,1,11,406

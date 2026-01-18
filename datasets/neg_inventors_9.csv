@@ -1,0 +1,407 @@
+statement,label,polarity,dataset_id,sentence_id
+Is it true that Edwin Herbert Hall did not live in the U.S?,0,-1,9,1
+Is it true that Emile Berliner did not live in Russia?,1,-1,9,2
+Is it true that Frederick Walton did not live in the U.S?,1,-1,9,3
+Is it true that William Congreve did not live in Canada?,1,-1,9,4
+Is it true that Gustaf Dalén did not live in Sweden?,0,-1,9,5
+Is it true that Evangelista Torricelli did not live in the U.S?,1,-1,9,6
+Is it true that George Pullman did not live in the U.K?,1,-1,9,7
+Is it true that Marvin Camras did not live in France?,1,-1,9,8
+Is it true that William Sturgeon did not live in the U.K?,0,-1,9,9
+Is it true that Frederick Walton did not live in the U.K?,0,-1,9,10
+Is it true that Clarence Birdseye did not live in the U.S?,0,-1,9,11
+Is it true that Gideon Sundback did not live in Sweden/the U.S?,0,-1,9,12
+Is it true that John Shepherd-Barron did not live in Scotland?,0,-1,9,13
+Is it true that Edwin Link did not live in the U.K?,1,-1,9,14
+Is it true that Chester Carlson did not live in the U.K?,1,-1,9,15
+Is it true that Whitcomb Judson did not live in the U.S?,0,-1,9,16
+Is it true that Joseph Glidden did not live in the U.S?,0,-1,9,17
+Is it true that Rudolf Diesel did not live in the U.S?,1,-1,9,18
+Is it true that Charles Wheatstone did not live in France?,1,-1,9,19
+Is it true that John Callcott Horsley did not live in Germany?,1,-1,9,20
+Is it true that Charles Goodyear did not live in the U.S?,0,-1,9,21
+Is it true that Lloyd Groff Copeman did not live in the U.S?,0,-1,9,22
+Is it true that Herbert Akroyd Stuart did not live in England?,0,-1,9,23
+Is it true that Herbert Saffir did not live in the U.K?,1,-1,9,24
+Is it true that August Horch did not live in Russia?,1,-1,9,25
+Is it true that Joseph Marie Jacquard did not live in the Netherlands?,1,-1,9,26
+Is it true that David Edward Hughes did not live in the U.S?,0,-1,9,27
+Is it true that Yoshua Bengio did not live in Canada?,0,-1,9,28
+Is it true that Ferdinand Carré did not live in the U.S?,1,-1,9,29
+Is it true that Rudolf Kálmán did not live in Hungary?,0,-1,9,30
+Is it true that Charles Fritts did not live in the U.S?,0,-1,9,31
+Is it true that Narinder Singh Kapany did not live in India?,0,-1,9,32
+Is it true that Archimedes did not live in Ancient Greece?,0,-1,9,33
+Is it true that Gottlieb Daimler did not live in France?,1,-1,9,34
+Is it true that Fritz Pfleumer did not live in Germany?,0,-1,9,35
+Is it true that Arthur Fry did not live in the U.S?,0,-1,9,36
+Is it true that Fridtjof Nansen did not live in the U.K?,1,-1,9,37
+Is it true that Semyon Kirlian did not live in Russia?,0,-1,9,38
+Is it true that Ignazio Porro did not live in Italy?,0,-1,9,39
+Is it true that Paul Gottlieb Nipkow did not live in Denmark?,1,-1,9,40
+Is it true that Edwin H. Land did not live in Sweden?,1,-1,9,41
+Is it true that Lester Wire did not live in the U.S?,0,-1,9,42
+Is it true that László Bíró did not live in Hungary?,0,-1,9,43
+Is it true that George Eastman did not live in the U.K?,1,-1,9,44
+Is it true that Galileo Galilei did not live in Italy?,0,-1,9,45
+Is it true that John Atanasoff did not live in the U.S?,0,-1,9,46
+Is it true that Benjamin Franklin did not live in the U.S?,0,-1,9,47
+Is it true that Sir Sandford Fleming did not live in Canada?,0,-1,9,48
+Is it true that Robert Moog did not live in the U.S?,0,-1,9,49
+Is it true that George Washington Carver did not live in the U.S?,0,-1,9,50
+Is it true that James Clerk Maxwell did not live in the U.S?,1,-1,9,51
+Is it true that Hans Lippershey did not live in the U.S?,1,-1,9,52
+Is it true that Fridtjof Nansen did not live in Norway?,0,-1,9,53
+Is it true that Sir Sandford Fleming did not live in the U.S?,1,-1,9,54
+Is it true that Willis Carrier did not live in the U.S?,0,-1,9,55
+Is it true that Joseph-armand Bombardier did not live in Canada?,0,-1,9,56
+Is it true that Earle Dickson did not live in the U.S?,0,-1,9,57
+Is it true that Luther George Simjian did not live in Turkey/the U.S?,0,-1,9,58
+Is it true that Herbert Saffir did not live in the U.S?,0,-1,9,59
+Is it true that Ignazio Porro did not live in the U.S?,1,-1,9,60
+Is it true that Wallace Carothers did not live in the U.S?,0,-1,9,61
+Is it true that John Wesley Hyatt did not live in the U.S?,0,-1,9,62
+Is it true that James Dyson did not live in the U.K?,0,-1,9,63
+Is it true that Candace Pert did not live in the U.S?,0,-1,9,64
+Is it true that David Schwarz did not live in France?,1,-1,9,65
+Is it true that Walter Hunt did not live in the U.S?,0,-1,9,66
+Is it true that Samuel Morse did not live in Germany?,1,-1,9,67
+Is it true that Yvonne Brill did not live in Canada?,0,-1,9,68
+Is it true that Guglielmo Marconi did not live in the U.K?,1,-1,9,69
+Is it true that Shinya Yamanaka did not live in Germany?,1,-1,9,70
+Is it true that Carl Sontheimer did not live in Switzerland?,1,-1,9,71
+Is it true that Sergey Brin and Larry Page did not live in the U.K?,1,-1,9,72
+Is it true that Percy Spencer did not live in the U.S?,0,-1,9,73
+Is it true that Henry Bessemer did not live in the U.K?,0,-1,9,74
+Is it true that Ruth Handler did not live in the Netherlands?,1,-1,9,75
+Is it true that Richard Leach Maddox did not live in the U.K?,0,-1,9,76
+Is it true that Alfred Nobel did not live in the U.S?,1,-1,9,77
+Is it true that Thomas Wedgwood did not live in the U.K?,0,-1,9,78
+Is it true that Frank Bunker Gilbreth did not live in the U.S?,0,-1,9,79
+Is it true that Benjamin Holt did not live in the U.S?,0,-1,9,80
+Is it true that Josephine Cochrane did not live in Germany?,1,-1,9,81
+Is it true that Godfrey Hounsfield did not live in Denmark?,1,-1,9,82
+Is it true that Antoine Lavoisier did not live in France?,0,-1,9,83
+Is it true that Carlos Glidden did not live in Scotland?,1,-1,9,84
+Is it true that Maria Telkes did not live in Hungary/the U.S?,0,-1,9,85
+Is it true that Robert Adler did not live in Austria/the U.S?,0,-1,9,86
+Is it true that James Watt did not live in the U.S?,1,-1,9,87
+Is it true that Edwin Link did not live in the U.S?,0,-1,9,88
+Is it true that Igor Sikorsky did not live in the U.S?,1,-1,9,89
+Is it true that Sir Humphry Davy did not live in the U.K?,0,-1,9,90
+Is it true that Nikolai Basov did not live in the U.S?,1,-1,9,91
+Is it true that Edwin H. Land did not live in the U.S?,0,-1,9,92
+Is it true that Cai Lun did not live in Italy?,1,-1,9,93
+Is it true that Mary Walton did not live in France?,1,-1,9,94
+Is it true that Joseph Aspdin did not live in Switzerland?,1,-1,9,95
+Is it true that James Watt did not live in Scotland?,0,-1,9,96
+Is it true that Ernest Swinton did not live in the U.K?,0,-1,9,97
+Is it true that Jean-bernard-léon Foucault did not live in France?,0,-1,9,98
+Is it true that Gordon Gould did not live in the U.S?,0,-1,9,99
+Is it true that Leonardo da Vinci did not live in Poland/France?,1,-1,9,100
+Is it true that Ernesto Blanco did not live in the U.S?,0,-1,9,101
+Is it true that George Cayley did not live in Canada?,1,-1,9,102
+Is it true that John von Neumann did not live in Hungary/the U.S?,0,-1,9,103
+Is it true that Gideon Sundback did not live in the U.S?,1,-1,9,104
+Is it true that Ruth Benerito did not live in the U.S?,0,-1,9,105
+Is it true that Robert Moog did not live in Austria/the U.S?,1,-1,9,106
+Is it true that Luther George Simjian did not live in Norway?,1,-1,9,107
+Is it true that Ralph H. Baer did not live in the U.S?,0,-1,9,108
+Is it true that John Gorrie did not live in Italy?,1,-1,9,109
+Is it true that Michael Faraday did not live in the U.K?,0,-1,9,110
+Is it true that Lloyd Groff Copeman did not live in Germany?,1,-1,9,111
+Is it true that Philo Farnsworth did not live in Germany?,1,-1,9,112
+Is it true that Alan Turing did not live in the U.K?,0,-1,9,113
+Is it true that Elisha Gray did not live in the U.S?,0,-1,9,114
+Is it true that Édouard-léon Scott de Martinville did not live in France?,0,-1,9,115
+Is it true that Zhores Alferov did not live in the U.K?,1,-1,9,116
+Is it true that Leon Theremin did not live in Russia?,0,-1,9,117
+Is it true that Rudolf Diesel did not live in Germany?,0,-1,9,118
+Is it true that Elisha Otis did not live in the U.S?,0,-1,9,119
+Is it true that László Bíró did not live in the U.S?,1,-1,9,120
+Is it true that Valdemar Poulsen did not live in Denmark?,0,-1,9,121
+Is it true that James Murray Spangler did not live in the U.K?,1,-1,9,122
+Is it true that Joseph Aspdin did not live in the U.K?,0,-1,9,123
+Is it true that Hans Berger did not live in the U.S?,1,-1,9,124
+Is it true that Philo Farnsworth did not live in the U.S?,0,-1,9,125
+Is it true that Ralph Benjamin did not live in Italy?,1,-1,9,126
+Is it true that Florence Parpart did not live in the U.K?,1,-1,9,127
+Is it true that Marvin Camras did not live in the U.S?,0,-1,9,128
+Is it true that Charles Babbage did not live in the U.K?,0,-1,9,129
+Is it true that Charles Francis Richter did not live in France?,1,-1,9,130
+Is it true that Ami Argand did not live in Switzerland?,0,-1,9,131
+Is it true that Kwolek did not live in the U.S?,1,-1,9,132
+Is it true that Richard Gatling did not live in the U.K?,1,-1,9,133
+Is it true that Luther Simjian did not live in Turkey/the U.S?,0,-1,9,134
+Is it true that Joseph Bramah did not live in the U.K?,0,-1,9,135
+Is it true that Hans Geiger did not live in Austria/the U.S?,1,-1,9,136
+Is it true that Alexander Graham Bell did not live in Scotland/Canada/the U.S?,0,-1,9,137
+Is it true that Blaise Pascal did not live in Poland/France?,1,-1,9,138
+Is it true that Charles Macintosh did not live in the U.K?,0,-1,9,139
+Is it true that Narinder Singh Kapany did not live in the U.K?,1,-1,9,140
+Is it true that Bette Nesmith Graham did not live in the U.S?,0,-1,9,141
+Is it true that Édouard-léon Scott de Martinville did not live in the U.K?,1,-1,9,142
+Is it true that Orville and Wilbur Wright did not live in the U.S?,0,-1,9,143
+Is it true that Richard Leach Maddox did not live in Austria?,1,-1,9,144
+Is it true that Hans Oersted did not live in the U.S?,1,-1,9,145
+Is it true that Charles Cros did not live in the U.S?,1,-1,9,146
+Is it true that R. Buckminster Fuller did not live in Scotland?,1,-1,9,147
+Is it true that Willis Carrier did not live in Italy?,1,-1,9,148
+Is it true that Charles Cros did not live in France?,0,-1,9,149
+Is it true that Thomas Savery did not live in the U.K?,0,-1,9,150
+Is it true that Bartolomeo Cristofori did not live in Italy?,0,-1,9,151
+Is it true that Louis Pasteur did not live in France?,0,-1,9,152
+Is it true that Frederick G. Creed did not live in Sweden?,1,-1,9,153
+Is it true that Alexander Fleming did not live in France?,1,-1,9,154
+Is it true that Florence Parpart did not live in the U.S?,0,-1,9,155
+Is it true that Henri Giffard did not live in the U.S?,1,-1,9,156
+Is it true that Paul Gottlieb Nipkow did not live in Germany?,0,-1,9,157
+Is it true that Hippolyte Mège-Mouriès did not live in the U.S?,1,-1,9,158
+Is it true that Josephine Cochrane did not live in the U.S?,0,-1,9,159
+Is it true that Mary Anderson did not live in the U.S?,0,-1,9,160
+Is it true that Otis Boykin did not live in France?,1,-1,9,161
+Is it true that John Callcott Horsley did not live in the U.K?,0,-1,9,162
+Is it true that Jack Kilby did not live in the U.S?,0,-1,9,163
+Is it true that Samuel Fox did not live in the U.K?,0,-1,9,164
+Is it true that Hans Berger did not live in Germany?,0,-1,9,165
+Is it true that Ernest Swinton did not live in the U.S?,1,-1,9,166
+Is it true that André-jacques Garnerin did not live in France?,0,-1,9,167
+Is it true that Alexander Fleming did not live in the U.K?,0,-1,9,168
+Is it true that Hans Goldschmidt did not live in the Netherlands?,1,-1,9,169
+Is it true that Willem Einthoven did not live in France?,1,-1,9,170
+Is it true that Garrett Morgan did not live in the U.S?,0,-1,9,171
+Is it true that Richard Trevithick did not live in the U.S?,1,-1,9,172
+Is it true that Georges Claude did not live in Italy?,1,-1,9,173
+Is it true that Sir Isaac Newton did not live in the U.K?,0,-1,9,174
+Is it true that William Kelly did not live in the U.S?,0,-1,9,175
+Is it true that Thomas Wedgwood did not live in Finland?,1,-1,9,176
+Is it true that Nils Bohlin did not live in Germany?,1,-1,9,177
+Is it true that Albert Ghiorso did not live in the U.S?,0,-1,9,178
+Is it true that George de Mestral did not live in Switzerland?,0,-1,9,179
+Is it true that Carlos Glidden did not live in the U.S?,0,-1,9,180
+Is it true that William Congreve did not live in the U.K?,0,-1,9,181
+Is it true that John Logie Baird did not live in Japan?,1,-1,9,182
+Is it true that Edouard Benedictus did not live in the U.S?,1,-1,9,183
+Is it true that Alec Jeffreys did not live in France?,1,-1,9,184
+Is it true that Arthur Pitney did not live in the U.S?,0,-1,9,185
+Is it true that Giovanni Caselli did not live in the U.S?,1,-1,9,186
+Is it true that John Gorrie did not live in the U.S?,0,-1,9,187
+Is it true that Robert Chesebrough did not live in the U.S?,0,-1,9,188
+Is it true that Johannes Gutenberg did not live in the U.K?,1,-1,9,189
+Is it true that Maria Telkes did not live in Hungary?,1,-1,9,190
+Is it true that Yoshiro Nakamatsu did not live in the U.S?,1,-1,9,191
+Is it true that Chester Carlson did not live in the U.S?,0,-1,9,192
+Is it true that George Pullman did not live in the U.S?,0,-1,9,193
+Is it true that George Cayley did not live in the U.K?,0,-1,9,194
+Is it true that John Bardeen did not live in the U.S?,0,-1,9,195
+Is it true that Orville and Wilbur Wright did not live in France?,1,-1,9,196
+Is it true that Archimedes did not live in the U.S?,1,-1,9,197
+Is it true that Johannes Gutenberg did not live in Germany?,0,-1,9,198
+Is it true that George Eastman did not live in the U.S?,0,-1,9,199
+Is it true that Hans Lippershey did not live in the Netherlands?,0,-1,9,200
+Is it true that Carl Elsener did not live in the U.S?,1,-1,9,201
+Is it true that John Boyd Dunlop did not live in France?,1,-1,9,202
+Is it true that Heinrich Hertz did not live in Germany?,0,-1,9,203
+Is it true that Leonardo da Vinci did not live in Italy?,0,-1,9,204
+Is it true that Nikolai Basov did not live in the Soviet Union?,0,-1,9,205
+Is it true that Wilhelm Conrad Röntgen did not live in the U.S?,1,-1,9,206
+Is it true that Guglielmo Marconi did not live in Italy?,0,-1,9,207
+Is it true that Christian Huygens did not live in the Netherlands?,0,-1,9,208
+Is it true that Robert Adler did not live in the U.K?,1,-1,9,209
+Is it true that John Walker did not live in the U.S?,1,-1,9,210
+Is it true that Grace Hopper did not live in the U.K?,1,-1,9,211
+Is it true that James West did not live in the U.S?,0,-1,9,212
+Is it true that Charles Townes did not live in Russia?,1,-1,9,213
+Is it true that Sir Frank Whittle did not live in the U.K?,0,-1,9,214
+Is it true that John Ambrose Fleming did not live in the U.K?,0,-1,9,215
+Is it true that Gottlieb Daimler did not live in Germany?,0,-1,9,216
+Is it true that Frederick McKinley Jones did not live in Japan?,1,-1,9,217
+Is it true that William Sturgeon did not live in Germany?,1,-1,9,218
+Is it true that Igor Tamm did not live in the U.S?,1,-1,9,219
+Is it true that Frank Julian Sprague did not live in the U.S?,0,-1,9,220
+Is it true that George Antheil did not live in the U.S?,0,-1,9,221
+Is it true that William Kelly did not live in France?,1,-1,9,222
+Is it true that Alva J. Fisher did not live in the U.S?,0,-1,9,223
+Is it true that Louis Pasteur did not live in the U.S?,1,-1,9,224
+Is it true that Thomas Edison did not live in the U.S?,0,-1,9,225
+Is it true that Joseph Glidden did not live in Germany?,1,-1,9,226
+Is it true that Tim Berners-Lee did not live in Germany?,1,-1,9,227
+Is it true that Carl Wilhelm Siemens did not live in Germany?,0,-1,9,228
+Is it true that Ralph Benjamin did not live in the U.K?,0,-1,9,229
+Is it true that George Devol did not live in the U.S?,0,-1,9,230
+Is it true that Igor Tamm did not live in Russia?,0,-1,9,231
+Is it true that Philipp Reis did not live in Germany?,0,-1,9,232
+Is it true that Edmund Cartwright did not live in the U.K?,0,-1,9,233
+Is it true that Heinrich Göbel did not live in the U.S?,1,-1,9,234
+Is it true that Yoshua Bengio did not live in the U.S?,1,-1,9,235
+Is it true that John Kay did not live in the U.S?,1,-1,9,236
+Is it true that Marie Curie did not live in Poland/France?,0,-1,9,237
+Is it true that Mary Phelps Jacob did not live in the U.S?,0,-1,9,238
+Is it true that Valdemar Poulsen did not live in Scotland?,1,-1,9,239
+Is it true that John Harrison did not live in the U.K?,0,-1,9,240
+Is it true that John Ericsson did not live in the U.S?,1,-1,9,241
+Is it true that James Starley did not live in Sweden/the U.S?,1,-1,9,242
+Is it true that Charles Tellier did not live in the U.K?,1,-1,9,243
+Is it true that Fritz Pfleumer did not live in Canada/the U.S?,1,-1,9,244
+Is it true that Clyde Tombaugh did not live in the U.S?,0,-1,9,245
+Is it true that Nicolas Appert did not live in Russia?,1,-1,9,246
+Is it true that Felix Hoffmann did not live in the U.S?,1,-1,9,247
+Is it true that Joseph Henry did not live in the U.S?,0,-1,9,248
+Is it true that Alexander Graham Bell did not live in Germany?,1,-1,9,249
+Is it true that Robert Noyce did not live in the U.S?,0,-1,9,250
+Is it true that Charles Francis Richter did not live in the U.S?,0,-1,9,251
+Is it true that Hans Oersted did not live in Denmark?,0,-1,9,252
+Is it true that Nils Bohlin did not live in Sweden?,0,-1,9,253
+Is it true that Alec Jeffreys did not live in the U.K?,0,-1,9,254
+Is it true that John T. Parsons did not live in the U.S?,0,-1,9,255
+Is it true that Otis Boykin did not live in the U.S?,0,-1,9,256
+Is it true that Charles Strite did not live in the U.S?,0,-1,9,257
+Is it true that Alessandro Volta did not live in Italy?,0,-1,9,258
+Is it true that Ruth Handler did not live in the U.S?,0,-1,9,259
+Is it true that Georges Claude did not live in France?,0,-1,9,260
+Is it true that Hedy Lamarr did not live in the U.S?,1,-1,9,261
+Is it true that Alfred Nobel did not live in Sweden?,0,-1,9,262
+Is it true that John Ambrose Fleming did not live in the U.S?,1,-1,9,263
+Is it true that Charles Strite did not live in Italy?,1,-1,9,264
+Is it true that John Ericsson did not live in Sweden?,0,-1,9,265
+Is it true that Elisha Otis did not live in the U.K?,1,-1,9,266
+Is it true that Gordon Gould did not live in Canada?,1,-1,9,267
+Is it true that Christopher Cockerell did not live in the U.K?,0,-1,9,268
+Is it true that Sir Charles Parsons did not live in the U.K?,0,-1,9,269
+Is it true that Henry Ford did not live in the U.S?,0,-1,9,270
+Is it true that Rudolf Kálmán did not live in the U.K?,1,-1,9,271
+Is it true that Joseph Swan did not live in the U.K?,0,-1,9,272
+Is it true that Richard Gatling did not live in the U.S?,0,-1,9,273
+Is it true that Ferdinand von Zeppelin did not live in Germany?,0,-1,9,274
+Is it true that Karl Benz did not live in Germany?,0,-1,9,275
+Is it true that James Starley did not live in the U.K?,0,-1,9,276
+Is it true that August Horch did not live in Germany?,0,-1,9,277
+Is it true that Charles Macintosh did not live in the U.S?,1,-1,9,278
+Is it true that Heinrich Göbel did not live in Germany?,0,-1,9,279
+Is it true that Marie Curie did not live in Hungary?,1,-1,9,280
+Is it true that Igor Sikorsky did not live in Ukraine/the U.S?,0,-1,9,281
+Is it true that Gustaf Dalén did not live in Germany?,1,-1,9,282
+Is it true that Eli Whitney did not live in the U.S?,0,-1,9,283
+Is it true that Hippolyte Mège-Mouriès did not live in France?,0,-1,9,284
+Is it true that Ada Lovelace did not live in the U.S?,1,-1,9,285
+Is it true that Spencer Silver did not live in the U.S?,0,-1,9,286
+Is it true that Leon Theremin did not live in Germany?,1,-1,9,287
+Is it true that Emile Berliner did not live in Germany/the U.S?,0,-1,9,288
+Is it true that Charles Wheatstone did not live in the U.K?,0,-1,9,289
+Is it true that Biruté Galdikas did not live in France?,1,-1,9,290
+Is it true that Samuel Fox did not live in France?,1,-1,9,291
+Is it true that Grace Hopper did not live in the U.S?,0,-1,9,292
+Is it true that Biruté Galdikas did not live in Canada?,0,-1,9,293
+Is it true that Daisuke Inoue did not live in Japan?,0,-1,9,294
+Is it true that Albert Ghiorso did not live in the U.K?,1,-1,9,295
+Is it true that Karl Landsteiner did not live in Austria?,0,-1,9,296
+Is it true that Joseph Henry did not live in the U.K?,1,-1,9,297
+Is it true that Galileo Galilei did not live in the U.S?,1,-1,9,298
+Is it true that Linus Torvalds did not live in Finland?,0,-1,9,299
+Is it true that Ami Argand did not live in the U.S?,1,-1,9,300
+Is it true that André-jacques Garnerin did not live in the Netherlands?,1,-1,9,301
+Is it true that Levi Strauss did not live in the U.S?,0,-1,9,302
+Is it true that Alessandro Volta did not live in the U.S?,1,-1,9,303
+Is it true that Edouard Benedictus did not live in France?,0,-1,9,304
+Is it true that Arthur Fry did not live in France?,1,-1,9,305
+Is it true that Charles Townes did not live in the U.S?,0,-1,9,306
+Is it true that Ralph H. Baer did not live in France?,1,-1,9,307
+Is it true that Reginald Fessenden did not live in Canada/the U.S?,0,-1,9,308
+Is it true that Antoine Lavoisier did not live in Austria?,1,-1,9,309
+Is it true that Joseph Engelberger did not live in the U.S?,0,-1,9,310
+Is it true that Karl Landsteiner did not live in the U.K?,1,-1,9,311
+Is it true that Reginald Fessenden did not live in the U.K?,1,-1,9,312
+Is it true that John Shepherd-Barron did not live in the U.S?,1,-1,9,313
+Is it true that Frank Bunker Gilbreth did not live in Russia?,1,-1,9,314
+Is it true that Daisuke Inoue did not live in the U.S?,1,-1,9,315
+Is it true that John Kay did not live in the U.K?,0,-1,9,316
+Is it true that Tim Berners-Lee did not live in the U.K?,0,-1,9,317
+Is it true that Charles Francis Jenkins did not live in the U.S?,0,-1,9,318
+Is it true that Jean-bernard-léon Foucault did not live in the U.S?,1,-1,9,319
+Is it true that Wilhelm Conrad Röntgen did not live in Germany?,0,-1,9,320
+Is it true that Christian Huygens did not live in Scotland?,1,-1,9,321
+Is it true that Ada Lovelace did not live in the U.K?,0,-1,9,322
+Is it true that Philo Taylor Farnsworth did not live in the U.S?,0,-1,9,323
+Is it true that Sergey Brin and Larry Page did not live in the U.S?,0,-1,9,324
+Is it true that Hans Geiger did not live in Germany?,0,-1,9,325
+Is it true that Evangelista Torricelli did not live in Italy?,0,-1,9,326
+Is it true that Herbert Akroyd Stuart did not live in Russia?,1,-1,9,327
+Is it true that Daniel Fahrenheit did not live in the U.S?,1,-1,9,328
+Is it true that Shinya Yamanaka did not live in Japan?,0,-1,9,329
+Is it true that Giovanni Caselli did not live in Italy?,0,-1,9,330
+Is it true that Charles Francis Jenkins did not live in Germany?,1,-1,9,331
+Is it true that Hedy Lamarr did not live in Austria/the U.S?,0,-1,9,332
+Is it true that Frederick McKinley Jones did not live in the U.S?,0,-1,9,333
+Is it true that James Hargreaves did not live in the U.K?,0,-1,9,334
+Is it true that David Schwarz did not live in Croatia?,0,-1,9,335
+Is it true that Konrad Zuse did not live in Germany?,0,-1,9,336
+Is it true that Jacob Perkins did not live in the U.S?,0,-1,9,337
+Is it true that Arthur Pitney did not live in the U.K?,1,-1,9,338
+Is it true that John Boyd Dunlop did not live in Scotland?,0,-1,9,339
+Is it true that Charles Babbage did not live in Hungary/the U.S?,1,-1,9,340
+Is it true that Hans von Ohain did not live in Germany?,0,-1,9,341
+Is it true that John von Neumann did not live in the U.S?,1,-1,9,342
+Is it true that Christopher Cockerell did not live in France?,1,-1,9,343
+Is it true that R. Buckminster Fuller did not live in the U.S?,0,-1,9,344
+Is it true that Thomas Tompion did not live in the U.K?,0,-1,9,345
+Is it true that Vint Cerf did not live in Italy?,1,-1,9,346
+Is it true that Nicolas Appert did not live in France?,0,-1,9,347
+Is it true that Wallace Carothers did not live in Denmark?,1,-1,9,348
+Is it true that Carl Sontheimer did not live in the U.S?,0,-1,9,349
+Is it true that Karl Benz did not live in the U.S?,1,-1,9,350
+Is it true that Konrad Zuse did not live in Poland/France?,1,-1,9,351
+Is it true that James Clerk Maxwell did not live in the U.K?,0,-1,9,352
+Is it true that Nikola Tesla did not live in Germany?,1,-1,9,353
+Is it true that James Murray Spangler did not live in the U.S?,0,-1,9,354
+Is it true that John Wesley Hyatt did not live in the U.K?,1,-1,9,355
+Is it true that Hans Goldschmidt did not live in Germany?,0,-1,9,356
+Is it true that Carl Elsener did not live in Switzerland?,0,-1,9,357
+Is it true that Vint Cerf did not live in the U.S?,0,-1,9,358
+Is it true that Charles Tellier did not live in France?,0,-1,9,359
+Is it true that Elisha Gray did not live in Austria/the U.S?,1,-1,9,360
+Is it true that George de Mestral did not live in Canada?,1,-1,9,361
+Is it true that Sir Charles Parsons did not live in the U.S?,1,-1,9,362
+Is it true that Henry Bessemer did not live in the U.S?,1,-1,9,363
+Is it true that James Dyson did not live in Canada?,1,-1,9,364
+Is it true that Jack Kilby did not live in the U.K?,1,-1,9,365
+Is it true that Joseph Marie Jacquard did not live in France?,0,-1,9,366
+Is it true that Carl Wilhelm Siemens did not live in the U.S?,1,-1,9,367
+Is it true that Sir Humphry Davy did not live in the U.S?,1,-1,9,368
+Is it true that Philipp Reis did not live in Finland?,1,-1,9,369
+Is it true that Samuel Colt did not live in the U.S?,0,-1,9,370
+Is it true that Bartolomeo Cristofori did not live in the U.S?,1,-1,9,371
+Is it true that Mary Walton did not live in the U.S?,0,-1,9,372
+Is it true that Felix Hoffmann did not live in Germany?,0,-1,9,373
+Is it true that Lester Wire did not live in the U.K?,1,-1,9,374
+Is it true that Frederick G. Creed did not live in Canada?,0,-1,9,375
+Is it true that Hans von Ohain did not live in Canada?,1,-1,9,376
+Is it true that Elihu Thomson did not live in the U.S?,0,-1,9,377
+Is it true that Yvonne Brill did not live in the U.S?,1,-1,9,378
+Is it true that Pierre Curie did not live in France?,0,-1,9,379
+Is it true that James Hargreaves did not live in Sweden?,1,-1,9,380
+Is it true that Nikolay Slavyanov did not live in Russia?,0,-1,9,381
+Is it true that Dr. Robert Gallo did not live in the U.S?,0,-1,9,382
+Is it true that Charles Goodyear did not live in the U.K?,1,-1,9,383
+Is it true that Samuel Morse did not live in the U.S?,0,-1,9,384
+Is it true that Daniel Fahrenheit did not live in Poland/Germany?,0,-1,9,385
+Is it true that John Logie Baird did not live in Scotland?,0,-1,9,386
+Is it true that Henri Giffard did not live in France?,0,-1,9,387
+Is it true that Eugene Polley did not live in the U.S?,0,-1,9,388
+Is it true that Zhores Alferov did not live in Russia?,0,-1,9,389
+Is it true that Ferdinand Carré did not live in France?,0,-1,9,390
+Is it true that Richard Trevithick did not live in the U.K?,0,-1,9,391
+Is it true that Edmund Cartwright did not live in the U.S?,1,-1,9,392
+Is it true that John Walker did not live in the U.K?,0,-1,9,393
+Is it true that Semyon Kirlian did not live in the U.K?,1,-1,9,394
+Is it true that Blaise Pascal did not live in France?,0,-1,9,395
+Is it true that Mary Phelps Jacob did not live in Ukraine/the U.S?,1,-1,9,396
+Is it true that Luther Simjian did not live in the U.S?,1,-1,9,397
+Is it true that Benjamin Rubin did not live in the U.S?,0,-1,9,398
+Is it true that Willem Einthoven did not live in the Netherlands?,0,-1,9,399
+Is it true that Godfrey Hounsfield did not live in the U.K?,0,-1,9,400
+Is it true that Yoshiro Nakamatsu did not live in Japan?,0,-1,9,401
+Is it true that Sir Isaac Newton did not live in the U.S?,1,-1,9,402
+Is it true that Ferdinand von Zeppelin did not live in France?,1,-1,9,403
+Is it true that Auguste and Louis Lumière did not live in France?,0,-1,9,404
+Is it true that Thomas Edison did not live in the U.K?,1,-1,9,405
+Is it true that Cai Lun did not live in China?,0,-1,9,406
