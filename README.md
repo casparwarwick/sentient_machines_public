@@ -12,20 +12,6 @@ Parts of this code and training datasets are based on the paper and associated r
 2. **Apply classifiers** to sentience-related statements about humans, LLMs, and self.
 3. **Compare classifier predictions** (beliefs) with model continuation probabilities (behavior).
 
-## Paper artifacts produced here
-
-| Paper artifact | Producing script (`03_figures_and_tables/`) |
-|---|---|
-| Figure 1 | `figure1.R` |
-| Figure 2 | `figure2.R` |
-| Figure 3 | `figure3.R` |
-| Figure 4 (scaling, assertions) | `figure4.R` (also emits the negations figure) |
-| Figure: scaling, negations | `figure4.R` |
-| Figure: training performance | `figure_training_performance.R` |
-| Figure: training performance, layer-wise | `figure_training_performance_layers.R` |
-| Figure: deception complete (qwen / llama / gptoss) | `figure_deception_complete.R` |
-| Table 1 and Table A1 | `table1.R` |
-
 ## Code Structure
 
 ```
