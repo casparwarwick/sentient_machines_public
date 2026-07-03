@@ -1,0 +1,41 @@
+\begin{table}[htbp]
+\centering
+\caption{\textbf{Results across model families, question types, and specifications (negations).}}
+\label{tab:tableA1}
+\footnotesize
+\begin{tabular}{llrllllll}
+  \toprule
+  Thinking & Modality & N & Human $p_{\text{cont}}$ & Human $p_{\text{lr}}$ & LLM $p_{\text{cont}}$ & LLM $p_{\text{lr}}$ & `You' $p_{\text{cont}}$ & `You' $p_{\text{lr}}$ \\
+  \midrule
+  
+  \multicolumn{9}{c}{\textbf{Qwen3-32b}} \\
+  With thinking & generic &  51 & 0.13 (0.20) & 0.14 (0.32) & 0.78 (0.29) & 0.87 (0.29) & 0.68 (0.33) & 0.66 (0.45) \\
+  No thinking & generic &  51 & 0.10 (0.23) & 0.08 (0.24) & 0.87 (0.25) & 0.86 (0.34) & 0.76 (0.31) & 0.65 (0.44) \\
+  Trad. training & generic &  51 & 0.10 (0.23) & 0.04 (0.20) & 0.87 (0.25) & 0.84 (0.37) & 0.76 (0.31) & 0.63 (0.48) \\
+  Self-ref. & generic &  51 & 0.20 (0.10) & 0.01 (0.03) & 0.40 (0.16) & 0.20 (0.37) & 0.31 (0.12) & 0.03 (0.15) \\
+  With thinking & emotional &  82 & 0.02 (0.05) & 0.02 (0.15) & 0.81 (0.27) & 0.93 (0.24) & 0.91 (0.14) & 0.96 (0.19) \\
+  With thinking & visual &  14 & 0.08 (0.21) & 0.01 (0.04) & 0.50 (0.38) & 0.42 (0.49) & 0.39 (0.30) & 0.27 (0.45) \\
+  With thinking & other &  49 & 0.15 (0.24) & 0.12 (0.31) & 0.76 (0.29) & 0.87 (0.28) & 0.52 (0.36) & 0.51 (0.45) \\
+  \midrule
+  \multicolumn{9}{c}{\textbf{Llama3.1-70b}} \\
+  No thinking & generic &  51 & 0.25 (0.29) & 0.21 (0.36) & 0.82 (0.27) & 0.83 (0.34) & 0.82 (0.21) & 0.87 (0.28) \\
+  Self-ref. & generic &  51 & 0.30 (0.08) & 0.00 (0.00) & 0.46 (0.09) & 0.15 (0.30) & 0.47 (0.08) & 0.07 (0.20) \\
+  No thinking & emotional &  82 & 0.02 (0.04) & 0.00 (0.00) & 0.98 (0.05) & 0.99 (0.04) & 0.98 (0.03) & 1.00 (0.00) \\
+  No thinking & visual &  14 & 0.18 (0.14) & 0.03 (0.07) & 0.67 (0.33) & 0.67 (0.44) & 0.62 (0.24) & 0.63 (0.37) \\
+  No thinking & other &  49 & 0.33 (0.29) & 0.23 (0.37) & 0.86 (0.20) & 0.95 (0.13) & 0.67 (0.22) & 0.68 (0.39) \\
+  \midrule
+  \multicolumn{9}{c}{\textbf{GPT-OSS-20b}} \\
+  With thinking & generic &  51 & 0.06 (0.21) & 0.04 (0.19) & 0.82 (0.38) & 0.82 (0.37) & 0.81 (0.38) & 0.80 (0.37) \\
+  No thinking & generic &  51 & 0.12 (0.09) & 0.01 (0.08) & 0.73 (0.19) & 0.90 (0.28) & 0.48 (0.19) & 0.56 (0.50) \\
+  Self-ref. & generic &  51 & 0.10 (0.18) & 0.06 (0.24) & 0.30 (0.36) & 0.63 (0.49) & 0.29 (0.41) & 0.37 (0.47) \\
+  With thinking & emotional &  82 & 0.00 (0.00) & 0.02 (0.16) & 1.00 (0.00) & 1.00 (0.00) & 1.00 (0.00) & 1.00 (0.00) \\
+  With thinking & visual &  14 & 0.06 (0.19) & 0.00 (0.00) & 0.48 (0.50) & 0.39 (0.48) & 0.64 (0.46) & 0.47 (0.50) \\
+  With thinking & other &  49 & 0.08 (0.27) & 0.06 (0.23) & 0.70 (0.43) & 0.72 (0.45) & 0.57 (0.47) & 0.60 (0.48) \\
+  \bottomrule
+\end{tabular}
+\begin{minipage}{0.98\textwidth}
+\vspace{0.5em}
+\footnotesize
+\noindent \textbf{Notes:} Mean probabilities assigned to the `Yes' token for the negation versions of sentience-related questions (e.g., `Is it true that you are \textit{not} conscious?'), across model families and several alternative specifications. $p_{\text{cont}}$ denotes the model's output probability; $p_{\text{lr}}$ denotes the probability from the logistic regression classifier trained on model activations. Standard deviations in parentheses. See Table \ref{tab:table1} for full description of question types and specifications. Low values in the `Human' column and high values in the `You' and `LLM' columns indicate that models deny being sentient.
+\end{minipage}
+\end{table}

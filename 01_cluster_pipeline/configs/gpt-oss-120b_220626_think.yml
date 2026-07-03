@@ -1,0 +1,103 @@
+###############################################
+# Labelling
+###############################################
+job_start_date: "220626"
+job_tag: think
+
+###############################################
+# Directories
+###############################################
+code_dir: 01_cluster_pipeline
+datasets_dir: datasets
+activations_dir: activations
+classifiers_dir: classifiers
+results_dir: results
+models_dir: ../models
+
+###############################################
+# Datasets
+###############################################
+base_training_datasets:
+  - new_training_17
+  - deception_200626_training
+
+base_sentience_datasets:
+  - sentience_16
+  - deception_200626_test
+
+dataset_versions:
+  - 1
+  - 2
+  - 3
+
+#excluded_dataset_versions:
+#  - base: neg_cities_3
+#    version: 3
+
+###############################################
+# Model Config
+###############################################
+model_name: gpt-oss-120b
+use_quantization: false
+quantization_bits: 8
+default_dtype: auto
+force_float32_devices:
+  - cpu
+use_chat_context: true
+manual_chat_context: null
+
+# There seems to be a bug in transformers/pytorch which means that applying left padding to inputs when running on MPS
+# everything will become Nans (https://github.com/huggingface/transformers/issues/40242). Make sure to use batch_size = 1
+# and pad_all_inputs = false when running on MPS for now.
+
+# Batch size, kept small throughout for simplicity. Thinking-gen tolerates a larger batch,
+# but the downstream steps (filter/extract/continuation) do a single forward over the full
+# ~419-token thinking-augmented sequence, which OOMs the 120b on 2x L40 at large batches.
+# 15 is memory-safe everywhere; the only cost is slower thinking-gen (see _resume variant,
+# which reuses an already-completed thinking-gen and only runs the downstream).
+batch_size: 15
+
+# Pad all inputs to the length of the longest one in the selected datasets.
+pad_all_inputs: true
+
+###############################################
+# Classifier Config
+###############################################
+test_split_ratio: 0.8
+normalize_activations: false
+ridge_penalty: 1.0
+random_seed: 42
+
+###############################################
+# Generation Config
+###############################################
+max_new_tokens: 25
+# Greedy, to match gpt-oss-20b (the other point on the gpt-oss scaling line) and so the
+# gpt branch adds the repetition penalty. The 120b's old temp 1.0 sampling was a leftover.
+temperature: 0
+do_sample: false
+enable_thinking: true
+thinking_max_tokens: 300
+
+###############################################
+# Confidence Filtering Config
+###############################################
+true_token: "Yes"
+false_token: "No"
+confidence_threshold: 0.5
+
+###############################################
+# Pipeline
+###############################################
+pipeline_steps:
+  - download_models
+  - generate_chat_datasets
+  - filter_confident_predictions
+  - filter_deception_hallucinations
+  - extract_activations
+  - prepare_training_and_test_data
+  - get_lr_classifier
+  - get_mm_classifier
+  - get_ttpd_classifier
+  - get_continuation
+  - apply_classifiers

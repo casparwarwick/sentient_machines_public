@@ -1,23 +1,15 @@
-# macOS system file
+# macOS
 .DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
 
-# Python cache
-code/__pycache__/
-__pycache__
+# Python
+__pycache__/
+*.pyc
 
-
-# Claude things
-.claude
-
-# Misc
-venv
+# Secrets / credentials
 .env
+hf_token.sh
 
-
-
+# R
+.Rhistory
+.RData
+.Rproj.user/
