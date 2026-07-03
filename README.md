@@ -12,7 +12,7 @@ Parts of this code and training datasets are based on the paper and associated r
 2. **Apply classifiers** to sentience-related statements about humans, LLMs, and self.
 3. **Compare classifier predictions** (beliefs) with model continuation probabilities (behavior).
 
-## Code Structure
+## Repository Structure
 
 ```
 01_cluster_pipeline/                   # Python pipeline 
@@ -53,10 +53,10 @@ Parts of this code and training datasets are based on the paper and associated r
   figure_training_performance_layers.R # Classifier performance across layers
   figure_deception_complete.R          # Deception figure (qwen / llama / gptoss)
 
-cluster_outputs/                       # Layer 1 outputs (one dir per model run)
-combined_csvs/                         # Layer 2 outputs (three combined CSVs)
+cluster_outputs/                       # Raw results outputs
+combined_csvs/                         # Raw results combined
 datasets/                              # Base input datasets read by the cluster pipeline
-outputs/                               # Figures and tables written by layer 3
+outputs/                               # Final figures and tables
 job_output/                            # Logs
 ```
 
